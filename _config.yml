@@ -2,8 +2,8 @@
 # Site
 
 title: Challenge-Hub
-url: "https://apps.alecrem.com/ch/"
-baseurl: "https://apps.alecrem.com/ch/"
+url: "https://apps.alecrem.com/ch"
+baseurl: "/ch"
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
