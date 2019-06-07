@@ -1,44 +1,44 @@
 <nav>
-	<a class="nav-toggle" id="open-nav" href="#">&#9776;</a>
-	<a class="editor-link btn" href="cloudcannon:collections/_data/navigation.yml" class="btn"><strong>&#9998;</strong> Edit navigation</a>
+  <a class="nav-toggle" id="open-nav" href="#">&#9776;</a>
+  <a class="editor-link btn" href="cloudcannon:collections/_data/navigation.yml" class="btn"><strong>&#9998;</strong> Edit navigation</a>
 
-	{% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-	{% for apost in posts %}
-		{% assign class = apost.lang %}
-		{% if apost.lang == page.lang %}
-			{% assign class = class | append: " active" %}
-		{% endif %}
-		<a href="{{ site.baseurl }}{{ apost.url }}" class="{{ class }} highlight">
-			{{ site.data.languages[apost.lang] }}
-		</a>
-	{% endfor %}
+  {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+  {% for apost in posts %}
+    {% assign class = apost.lang %}
+    {% if apost.lang == page.lang %}
+      {% assign class = class | append: " active" %}
+    {% endif %}
+    <a href="{{ site.baseurl }}{{ apost.url }}" class="{{ class }} highlight">
+      {{ site.data.languages[apost.lang] }}
+    </a>
+  {% endfor %}
 
-	{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-	{% for apage in pages %}
-		{% assign class = apage.lang %}
-		{% if apage.lang == page.lang %}
-			{% assign class = class | append: " active" %}
-		{% endif %}
-		<a href="{{ site.baseurl }}{{ apage.url }}" class="{{ class }} highlight">
-			{{ site.data.languages[apage.lang] }}
-		</a>
-	{% endfor %}
+  {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+  {% for apage in pages %}
+    {% assign class = apage.lang %}
+    {% if apage.lang == page.lang %}
+      {% assign class = class | append: " active" %}
+    {% endif %}
+    <a href="{{ site.baseurl }}{{ apage.url }}" class="{{ class }} highlight">
+      {{ site.data.languages[apage.lang] }}
+    </a>
+  {% endfor %}
 
-	{% if post.lang == "ja" or page.lang == "ja" %}
-		{% assign lang = "ja" %}
-	{% else %}
-		{% assign lang = "en" %}
-	{% endif %}
-	{% assign links=site.data.navigation | where:"lang", lang %}
-	{% for link in links %}
-		{% assign class = "" %}
-		{% if link.highlight %}
-			{% assign class = class | append: " highlight" %}
-		{% endif %}
+  {% if post.lang == "ja" or page.lang == "ja" %}
+    {% assign lang = "ja" %}
+  {% else %}
+    {% assign lang = "en" %}
+  {% endif %}
+  {% assign links=site.data.navigation | where:"lang", lang %}
+  {% for link in links %}
+    {% assign class = "" %}
+    {% if link.highlight %}
+      {% assign class = class | append: " highlight" %}
+    {% endif %}
 
-		{% if link.link == page.url %}
-			{% assign class = class | append: " active" %}
-		{% endif %}
-		<a href="{% include relative-src.html src=link.link %}" class="{{ class }}" {% if link.new_window %}target="_blank"{% endif %}>{{ link.name }}</a>
-	{% endfor %}
+    {% if link.link == page.url %}
+      {% assign class = class | append: " active" %}
+    {% endif %}
+    <a href="{% include relative-src.html src=link.link %}" class="{{ class }}" {% if link.new_window %}target="_blank"{% endif %}>{{ link.name }}</a>
+  {% endfor %}
 </nav>
