@@ -1,6 +1,12 @@
 <!doctype html>
 
+{% if page.lang %}
+<html lang="{{ page.lang }}">
+{% else if post.lang %}
+<html lang="{{ post.lang }}">
+{% else %}
 <html lang="en">
+{% endif %}
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -10,6 +16,16 @@
 
 		<link rel="stylesheet" href="{{ site.baseurl }}/css/screen.css">
 		<link rel="icon" type="image/png" href="{{ site.baseurl }}/favicon.png">
+
+		{% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+		{% for apost in posts %}
+		  <link rel="alternate" hreflang="{{ apost.lang }}" href="{{ site.baseurl }}{{ apost.url }}" />
+		{% endfor %}
+		{% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+		{% for apage in pages %}
+		  <link rel="alternate" hreflang="{{ apage.lang }}" href="{{ site.baseurl }}{{ apage.url }}" />
+		{% endfor %}
+
 
 		{% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
 			<script>
@@ -23,7 +39,13 @@
 	<body>
 		<header>
 			<div class="container">
-				<div class="company-name"><a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/challenge-hub-header.png" alt="Challenge-Hub Logo" width="95" height="33" /></a></div>
+				{% if post.lang == "ja" or page.lang == "ja" %}
+					{% assign indexurl = "/ja/" %}
+				{% else %}
+					{% assign indexurl = "/" %}
+				{% endif %}
+				<div class="company-name"><a href="{{ site.baseurl }}{{ indexurl }}"><img src="{{ site.baseurl }}/images/challenge-hub-header.png" alt="Challenge-Hub Logo" width="95" height="33" /></a></div>
+
 				{% include navigation.html %}
 			</div>
 		</header>
