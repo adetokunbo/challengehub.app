@@ -65,6 +65,11 @@ defaults:
       layout: "default"
   -
     scope:
+      path: "active-learning.html"
+    values:
+      layout: "default"
+  -
+    scope:
       path: "contact.html"
     values:
       full_width: true
