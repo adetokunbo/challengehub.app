@@ -65,7 +65,17 @@ defaults:
       layout: "default"
   -
     scope:
+      path: "ja.html"
+    values:
+      layout: "default"
+  -
+    scope:
       path: "active-learning.html"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "active-learning-ja.html"
     values:
       layout: "default"
   -

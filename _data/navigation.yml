@@ -1,20 +1,24 @@
-- name: Blog
-  link: /blog/
+- name: Active Learning
+  link: /active-learning/
   new_window: false
   highlight: false
-- name: About
-  link: /about/
+  lang: en
+- name: アクティブラーニング
+  link: /active-learning-ja/
+  new_window: false
+  highlight: false
+  lang: ja
+- name: Blog
+  link: /blog/
   new_window: false
   highlight: false
 - name: Contact
   link: /contact/
   new_window: false
   highlight: false
-- name: Login
-  link: /
-  new_window: true
+  lang: en
+- name: お問い合わせ
+  link: /contact-ja/
+  new_window: false
   highlight: false
-- name: Sign Up
-  link: /
-  new_window: true
-  highlight: true
+  lang: ja
