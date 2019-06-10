@@ -13,17 +13,6 @@
     </a>
   {% endfor %}
 
-  {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-  {% for apage in pages %}
-    {% assign class = apage.lang %}
-    {% if apage.lang == page.lang %}
-      {% assign class = class | append: " active" %}
-    {% endif %}
-    <a href="{{ site.baseurl }}{{ apage.url }}" class="{{ class }} highlight">
-      {{ site.data.languages[apage.lang] }}
-    </a>
-  {% endfor %}
-
   {% if post.lang == "ja" or page.lang == "ja" %}
     {% assign lang = "ja" %}
   {% else %}
@@ -41,4 +30,15 @@
     {% endif %}
     <a href="{% include relative-src.html src=link.link %}" class="{{ class }}" {% if link.new_window %}target="_blank"{% endif %}>{{ link.name }}</a>
   {% endfor %}
+
+  {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+  {% for apage in pages %}
+    {% assign class = apage.lang %}
+    {% if apage.lang != page.lang %}
+    <a href="{{ site.baseurl }}{{ apage.url }}" class="{{ class }}">
+      {{ site.data.languages[apage.lang] }}
+    </a>
+    {% endif %}
+  {% endfor %}
+
 </nav>
