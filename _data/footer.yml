@@ -13,7 +13,9 @@
   # - name: About
   #   link: /about/
   - name: Active Learning
-    link: /active-learning//
+    link: /active-learning/
+  - name: Our Story
+    link: /our-story/
   - name: Login
     link: http://challenge-hub.com/chablis/www/index.html
 - links:
