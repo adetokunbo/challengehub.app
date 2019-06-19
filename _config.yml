@@ -10,7 +10,7 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Active-Learning For Everyone
+description: Active-Learning for Everyone
 author:
   name:
   email:
@@ -66,6 +66,16 @@ defaults:
   -
     scope:
       path: "ja.html"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "our-story.html"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "our-story-ja.html"
     values:
       layout: "default"
   -

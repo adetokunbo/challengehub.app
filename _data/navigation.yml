@@ -3,20 +3,26 @@
   new_window: false
   highlight: false
   lang: en
-- name: アクティブラーニング
-  link: /active-learning-ja/
+- name: Our Story
+  link: /our-story/
   new_window: false
   highlight: false
-  lang: ja
-- name: Blog
-  link: /blog/
-  new_window: false
-  highlight: false
+  lang: en
 - name: Contact
   link: /contact/
   new_window: false
   highlight: false
   lang: en
+- name: アクティブラーニング
+  link: /active-learning-ja/
+  new_window: false
+  highlight: false
+  lang: ja
+- name: 今までの流れ
+  link: /our-story-ja/
+  new_window: false
+  highlight: false
+  lang: ja
 - name: お問い合わせ
   link: /contact-ja/
   new_window: false
