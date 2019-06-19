@@ -70,6 +70,16 @@ defaults:
       layout: "default"
   -
     scope:
+      path: "our-story.html"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "our-story-ja.html"
+    values:
+      layout: "default"
+  -
+    scope:
       path: "active-learning.html"
     values:
       layout: "default"
