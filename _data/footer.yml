@@ -1,44 +1,76 @@
-- links:
-  - name: English
-    link: /
-  - name: 日本語
-    link: /ja/
-- links:
-  # - name: Blog
-  #   link: /blog/
-  # - name: RSS
-  #   link: /feed.xml
-  #   social_icon: RSS
-  #   new_window: false
-  # - name: About
-  #   link: /about/
-  - name: Active Learning
-    link: /active-learning/
-  - name: Our Story
-    link: /our-story/
-  - name: Login
-    link: http://challenge-hub.com/chablis/www/index.html
-- links:
-  - name: Contact
-    link: /contact/
-    social_icon: Mail
-  - name: LINE
-    link: https://line.me
-    new_window: true
-    social_icon: LINE
-  - name: Twitter
-    link: https://twitter.com
-    social_icon: Twitter
-    new_window: true
-  - name: Facebook
-    link: https://facebook.com
-    new_window: true
-    social_icon: Facebook
-  - name: LinkedIn
-    link: https://www.linkedin.com
-    new_window: true
-    social_icon: LinkedIn
-  # - name: YouTube
-  #   link: https://youtube.com
-  #   social_icon: YouTube
-  #   new_window: true
+en:
+  - links:
+    - name: English
+      link: /
+    - name: 日本語
+      link: /ja/
+  - links:
+    - name: RSS
+      link: /feed.xml
+      new_window: false
+      # social_icon: RSS
+    - name: Contact Us
+      link: /contact/
+    - name: Twitter
+      link: https://twitter.com
+      new_window: true
+      # social_icon: Twitter
+    - name: Facebook
+      link: https://facebook.com
+      new_window: true
+      # social_icon: Facebook
+    - name: Telegram
+      link: https://telegram.me
+      new_window: true
+    - name: LinkedIn
+      link: https://www.linkedin.com
+      new_window: true
+      # social_icon: LinkedIn
+    - name: ResearchGate
+      link: https://www.researchgate.net
+      new_window: true
+  - links:
+    - name: Get Started
+      link: /get-started/
+    - name: Active Learning
+      link: /active-learning/
+    - name: Our Story
+      link: /our-story/
+ja:
+  - links:
+    - name: English
+      link: /
+    - name: 日本語
+      link: /ja/
+  - links:
+    - name: RSS
+      link: /feed.xml
+      new_window: false
+      # social_icon: RSS
+    - name: Contact Us
+      link: /contact/
+    - name: Twitter
+      link: https://twitter.com
+      new_window: true
+      # social_icon: Twitter
+    - name: Facebook
+      link: https://facebook.com
+      new_window: true
+      # social_icon: Facebook
+    - name: Telegram
+      link: https://telegram.me
+      new_window: true
+    - name: LinkedIn
+      link: https://www.linkedin.com
+      new_window: true
+      # social_icon: LinkedIn
+    - name: ResearchGate
+      link: https://www.researchgate.net
+      new_window: true
+  - links:
+    - name: はじめましょう
+      link: /get-started-ja/
+    - name: アクティブラーニング
+      link: /active-learning-ja/
+    - name: 今までの流れ
+      link: /our-story-ja/
