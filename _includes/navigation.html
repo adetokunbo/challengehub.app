@@ -13,12 +13,7 @@
     </a>
   {% endfor %}
 
-  {% if post.lang == "ja" or page.lang == "ja" %}
-    {% assign lang = "ja" %}
-  {% else %}
-    {% assign lang = "en" %}
-  {% endif %}
-  {% assign links=site.data.navigation | where:"lang", lang %}
+  {% assign links=site.data.navigation[page.lang] %}
   {% for link in links %}
     {% assign class = "" %}
     {% if link.highlight %}
