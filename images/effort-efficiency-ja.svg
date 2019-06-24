@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="334px" height="263px" viewBox="0 0 334 263" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>effort-efficiency</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="1.2236926%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#76C9AC" offset="0%"></stop>
+            <stop stop-color="#D2EADC" offset="100%"></stop>
+        </linearGradient>
+        <path d="M52.73132,130.3384 C52.73132,112.630667 73.09103,98.275717 98.20605,98.275717 C123.32107,98.275717 143.68078,112.630667 143.68078,130.3384 C143.68078,148.046133 123.32107,162.401083 98.20605,162.401083 C73.09103,162.401083 52.73132,148.046133 52.73132,130.3384 Z" id="path-2"></path>
+        <filter x="-7.7%" y="-7.8%" width="115.4%" height="121.8%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.184313725   0 0 0 0 0.376470588   0 0 0 0 0.439215686  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M204.0027,48.26157 C204.0027,30.553837 220.969192,16.198887 241.89833,16.198887 C262.82753,16.198887 279.79396,30.553837 279.79396,48.26157 C279.79396,65.969303 262.82753,80.324253 241.89833,80.324253 C220.969192,80.324253 204.0027,65.969303 204.0027,48.26157 Z" id="path-4"></path>
+        <filter x="-9.2%" y="-7.8%" width="118.5%" height="121.8%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.184313725   0 0 0 0 0.376470588   0 0 0 0 0.439215686  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <path d="M204.0027,167.8966 C204.0027,141.67782 226.62886,120.423303 254.539626,120.423303 C267.942885,120.423303 280.797133,125.424951 290.274672,134.327905 C299.75215,143.23089 305.076552,155.305902 305.076552,167.8966 C305.076552,194.11538 282.450392,215.369897 254.539626,215.369897 C226.628859,215.369897 204.0027,194.11538 204.0027,167.8966 Z" id="path-6"></path>
+        <filter x="-6.9%" y="-5.3%" width="113.9%" height="114.7%" filterUnits="objectBoundingBox" id="filter-7">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.184313725   0 0 0 0 0.376470588   0 0 0 0 0.439215686  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Shapes" transform="translate(-3.000000, -3.000000)">
+            <polygon id="Background" fill="url(#linearGradient-1)" points="4.32079797e-14 0 339 0 339 270 0 270"></polygon>
+            <path d="M29.23666,16.5 L29.23666,240.45009" id="y-Axis" stroke="#2F6070" stroke-linejoin="round"></path>
+            <path d="M29,240 L323.5,240" id="x-Axis" stroke="#2F6070" stroke-linejoin="round"></path>
+            <g id="Trad-Ellipse">
+                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                <use fill="#F3C68D" fill-rule="evenodd" xlink:href="#path-2"></use>
+            </g>
+            <g id="Typical-Ellipse">
+                <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                <use fill="#E69877" fill-rule="evenodd" xlink:href="#path-4"></use>
+            </g>
+            <g id="CH-Ellipse">
+                <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                <use fill="#CB4343" fill-rule="evenodd" xlink:href="#path-6"></use>
+            </g>
+        </g>
+        <g id="Japanese-Text" transform="translate(8.000000, 18.000000)" font-family="HiraMaruProN-W4, Hiragino Maru Gothic ProN" font-size="12" font-weight="normal">
+            <text id="生徒の学習効率" fill="#2F6070">
+                <tspan x="123" y="234">生徒の学習効率</tspan>
+            </text>
+            <text id="講師の仕事量" transform="translate(6.000000, 108.500000) rotate(270.000000) translate(-6.000000, -108.500000) " fill="#2F6070">
+                <tspan x="-30" y="113.5">講師の仕事量</tspan>
+            </text>
+            <text id="従来の-講義" line-spacing="15" fill="#2F6070">
+                <tspan x="69.5" y="104">従来の</tspan>
+                <tspan x="75.5" y="119">講義</tspan>
+            </text>
+            <text id="一般的な-アクティブ-ラーニング" line-spacing="15" fill="#2F6070">
+                <tspan x="207" y="11">一般的な</tspan>
+                <tspan x="201" y="26">アクティブ</tspan>
+                <tspan x="201" y="41">ラーニング</tspan>
+            </text>
+            <text id="Challenge-Hub" fill="#FFFFFF">
+                <tspan x="200.264" y="153">Challenge-Hub</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
