@@ -2,8 +2,8 @@
 # Site
 
 title: Challenge-Hub
-url: "https://apps.alecrem.com/ch"
-baseurl: "/ch"
+url: "https://challengehub.app/"
+baseurl: ""
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
@@ -18,7 +18,7 @@ author:
 social:
   name: Challenge-Hub
   links:
-    - https://challenge-hub.com
+    - https://challengehub.app
 
 # -----
 # Build
