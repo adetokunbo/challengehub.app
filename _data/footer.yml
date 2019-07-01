@@ -9,7 +9,7 @@ en:
       link: /feed.xml
       new_window: false
       # social_icon: RSS
-    - name: Contact Us
+    - name: Contact us
       link: /contact/
     - name: Twitter
       link: https://twitter.com
@@ -30,11 +30,11 @@ en:
       link: https://www.researchgate.net
       new_window: true
   - links:
-    - name: Get Started
+    - name: Get started
       link: /get-started/
-    - name: Active Learning
+    - name: Active learning
       link: /active-learning/
-    - name: Our Story
+    - name: Our story
       link: /our-story/
 ja:
   - links:
