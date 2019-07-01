@@ -2,7 +2,7 @@
 
 ## Currently deployed URL
 
-[https://apps.alecrem.com/ch/](https://apps.alecrem.com/ch/)
+[https://challengehub.app/](https://challengehub.app/)
 
 ## Local setup
 
@@ -24,7 +24,7 @@ Install dependencies:
 $ bundle install
 ~~~
 
-Build and locally serve ([http://127.0.0.1:4000/ch/](http://127.0.0.1:4000/ch/)) the site and listen for changes, except for changes to `_config.yml`:
+Build and locally serve ([http://127.0.0.1:4000/](http://127.0.0.1:4000/)) the site and listen for changes, except for changes to `_config.yml`:
 
 ~~~bash
 $ bundle exec jekyll serve
