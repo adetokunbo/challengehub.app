@@ -7,10 +7,10 @@ en:
     link: /our-story/
     new_window: false
     highlight: false
-  - name: Contact
-    link: /contact/
+  - name: Get started
+    link: /get-started/
     new_window: false
-    highlight: false
+    highlight: true
 ja:
   - name: アクティブラーニング
     link: /active-learning-ja/
@@ -20,7 +20,7 @@ ja:
     link: /our-story-ja/
     new_window: false
     highlight: false
-  - name: お問い合わせ
-    link: /contact-ja/
+  - name: はじめましょう
+    link: /get-started-ja/
     new_window: false
-    highlight: false
+    highlight: true
