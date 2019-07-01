@@ -1,6 +1,13 @@
 $brand-color: #2F6070;
 $secondary-brand-color: #76C9AC;
 $middle-gradient-color: mix($brand-color, $secondary-brand-color, 95%);
+$dark-cold-color: #2F6070;
+$middle-cold-color: #76C9AC;
+$light-cold-color: #D2EADC;
+$dark-warm-color: #CB4343;
+$middle-warm-color: #F1B182;
+$light-warm-color: #F3C68D;
+$warm-gradient-color: mix($dark-warm-color, $light-warm-color, 50%);
 
 // Breakpoints
 $tablet: "(min-width: 450px)";
