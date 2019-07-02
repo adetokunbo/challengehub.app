@@ -5,37 +5,37 @@ en:
     - name: 日本語
       link: /ja/
   - links:
-    - name: RSS
-      link: /feed.xml
-      new_window: false
-      # social_icon: RSS
-    - name: Contact us
-      link: /contact/
-    - name: Twitter
-      link: https://twitter.com
-      new_window: true
-      # social_icon: Twitter
-    - name: Facebook
-      link: https://facebook.com
-      new_window: true
-      # social_icon: Facebook
-    - name: Telegram
-      link: https://telegram.me
-      new_window: true
-    - name: LinkedIn
-      link: https://www.linkedin.com
-      new_window: true
-      # social_icon: LinkedIn
-    - name: ResearchGate
-      link: https://www.researchgate.net
-      new_window: true
-  - links:
-    - name: Get started
-      link: /get-started/
     - name: Active learning
       link: /active-learning/
     - name: Our story
       link: /our-story/
+    # - name: RSS
+    #   link: /feed.xml
+    #   new_window: false
+    #   # social_icon: RSS
+    # - name: Twitter
+    #   link: https://twitter.com
+    #   new_window: true
+    #   # social_icon: Twitter
+    # - name: Facebook
+    #   link: https://facebook.com
+    #   new_window: true
+    #   # social_icon: Facebook
+    # - name: Telegram
+    #   link: https://telegram.me
+    #   new_window: true
+    # - name: LinkedIn
+    #   link: https://www.linkedin.com
+    #   new_window: true
+    #   # social_icon: LinkedIn
+    # - name: ResearchGate
+    #   link: https://www.researchgate.net
+    #   new_window: true
+  - links:
+    - name: Get started
+      link: /get-started/
+    - name: Contact us
+      link: /contact/
 ja:
   - links:
     - name: English
@@ -43,34 +43,34 @@ ja:
     - name: 日本語
       link: /ja/
   - links:
-    - name: RSS
-      link: /feed.xml
-      new_window: false
-      # social_icon: RSS
-    - name: Contact Us
-      link: /contact/
-    - name: Twitter
-      link: https://twitter.com
-      new_window: true
-      # social_icon: Twitter
-    - name: Facebook
-      link: https://facebook.com
-      new_window: true
-      # social_icon: Facebook
-    - name: Telegram
-      link: https://telegram.me
-      new_window: true
-    - name: LinkedIn
-      link: https://www.linkedin.com
-      new_window: true
-      # social_icon: LinkedIn
-    - name: ResearchGate
-      link: https://www.researchgate.net
-      new_window: true
-  - links:
-    - name: はじめましょう
-      link: /get-started-ja/
     - name: アクティブラーニング
       link: /active-learning-ja/
     - name: これまでの経緯
       link: /our-story-ja/
+    # - name: RSS
+    #   link: /feed.xml
+    #   new_window: false
+    #   # social_icon: RSS
+    # - name: Twitter
+    #   link: https://twitter.com
+    #   new_window: true
+    #   # social_icon: Twitter
+    # - name: Facebook
+    #   link: https://facebook.com
+    #   new_window: true
+    #   # social_icon: Facebook
+    # - name: Telegram
+    #   link: https://telegram.me
+    #   new_window: true
+    # - name: LinkedIn
+    #   link: https://www.linkedin.com
+    #   new_window: true
+    #   # social_icon: LinkedIn
+    # - name: ResearchGate
+    #   link: https://www.researchgate.net
+    #   new_window: true
+  - links:
+    - name: はじめましょう
+      link: /get-started-ja/
+    - name: お問い合わせ
+      link: /contact-ja/
