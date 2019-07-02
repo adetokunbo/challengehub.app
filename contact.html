@@ -1,29 +1,21 @@
 ---
 title: Contact
-heading: Get in touch today
-description: We'd love to help you improve your sales.
+heading: Contact us
+description: Ask anything about Challenge-Hub
 lang: en
 ref: contact
 ---
-<div class="contact-box">
-  <form action="{{ site.baseurl }}/contact-success/" method="post" class="contact-form">
-    <input type="hidden" name="_to" value="support@example.com" />
-    <input type="text" name="_gotcha" style="display: none;">
-
-    <label for="name">Full Name</label>
-    <input type="text" name="name" id="name" placeholder="Enter your name..." />
-
-    <label for="email">Email Address</label>
-    <input type="email" name="email" id="email" placeholder="Enter your email..." required />
-
-    <label for="message">Message</label>
-    <textarea name="message" id="message" placeholder="Enter your message..."></textarea>
-
-    <input type="submit" value="Send Message" />
-  </form>
-
-  <div class="contact-details">
-    <h3 class="editable">Email</h3>
-    <p><a href="mailto:support@example.com">support@example.com</a></p>
-  </div>
+<div class="content">
+  <section>
+    <div class="container flex">
+      <div class="image">
+        <img src="{{ site.baseurl }}/images/contact.jpg" alt="Email us" class="editable framed-image responsive-image" />
+      </div>
+      <div class="text editable">
+        <p>If you'd like to learn how Challenge-Hub could be applied to your course, we'll be happy to <a href="{{ site.baseurl }}/get-started">help you get started.</a></p>
+        <p>For anything else, please use our email address below.</p>
+        <p><a href="mailto:info@challenge-hub.com">info@challenge-hub.com</a></p>
+      </div>
+    </div>
+  </section>
 </div>
