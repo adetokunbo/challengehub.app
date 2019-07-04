@@ -1,4 +1,4 @@
-# Challenge-Hub public website
+# ChallengeHub public website
 
 ## Currently deployed URL
 
