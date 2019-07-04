@@ -10,12 +10,20 @@ Install the requirements:
 
 - [Jekyll](http://jekyllrb.com/)
 - [Bundler](http://bundler.io/)
+- [rbEnv](https://github.com/rbenv/rbenv)
 
 Clone the repository:
 
 ~~~bash
 $ git clone https://github.com/alecrem/challenge-hub-website.git
 $ cd challenge-hub-website
+~~~
+
+Ensure your using the configured version of ruby:
+
+~~~bash
+$ # make sure you follow the rbenv installation instructions
+$ rbenv install 2.6.3  # check Gemfile to confirm this version
 ~~~
 
 Install dependencies:
@@ -29,6 +37,14 @@ Build and locally serve ([http://127.0.0.1:4000/](http://127.0.0.1:4000/)) the s
 ~~~bash
 $ bundle exec jekyll serve
 ~~~
+
+Enable pushing to heroku:
+~~~bash
+$ heroku git:remote -a challengehub-app-web # tell heroku where to push
+$ heroku buildpacks:add heroku/ruby
+$ heroku https://github.com/heroku/heroku-buildpack-static
+~~~
+
 
 ## Hydra (information from the original repository below)
 
