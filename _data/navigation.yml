@@ -13,14 +13,14 @@ en:
     highlight: true
 ja:
   - name: アクティブラーニング
-    link: /active-learning-ja/
+    link: /active-learning/
     new_window: false
     highlight: false
   - name: これまでの経緯
-    link: /our-story-ja/
+    link: /our-story/
     new_window: false
     highlight: false
   - name: はじめましょう
-    link: /get-started-ja/
+    link: /get-started/
     new_window: false
     highlight: true
