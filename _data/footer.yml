@@ -1,14 +1,14 @@
 en:
   - links:
     - name: English
-      link: /
+      link: /en/
     - name: 日本語
       link: /ja/
   - links:
     - name: Active learning
-      link: /active-learning/
+      link: /en/active-learning/
     - name: Our story
-      link: /our-story/
+      link: /en/our-story/
     # - name: RSS
     #   link: /feed.xml
     #   new_window: false
@@ -33,20 +33,20 @@ en:
     #   new_window: true
   - links:
     - name: Get started
-      link: /get-started/
+      link: /en/get-started/
     - name: Contact us
-      link: /contact/
+      link: /en/contact/
 ja:
   - links:
     - name: English
-      link: /
+      link: /en/
     - name: 日本語
       link: /ja/
   - links:
     - name: アクティブラーニング
-      link: /active-learning-ja/
+      link: /ja/active-learning/
     - name: これまでの経緯
-      link: /our-story-ja/
+      link: /ja/our-story/
     # - name: RSS
     #   link: /feed.xml
     #   new_window: false
@@ -71,6 +71,6 @@ ja:
     #   new_window: true
   - links:
     - name: はじめましょう
-      link: /get-started-ja/
+      link: /ja/get-started/
     - name: お問い合わせ
-      link: /contact-ja/
+      link: /ja/contact/

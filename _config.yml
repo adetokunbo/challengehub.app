@@ -63,34 +63,34 @@ defaults:
       layout: "default"
   -
     scope:
-      path: "ja.html"
+      path: "en/index.html"
     values:
       layout: "default"
   -
     scope:
-      path: "our-story.html"
+      path: "ja/index.html"
     values:
       layout: "default"
   -
     scope:
-      path: "our-story-ja.html"
+      path: "en/our-story.html"
     values:
       layout: "default"
   -
     scope:
-      path: "active-learning.html"
+      path: "ja/our-story.html"
     values:
       layout: "default"
   -
     scope:
-      path: "active-learning-ja.html"
+      path: "en/active-learning.html"
     values:
       layout: "default"
   -
     scope:
-      path: "contact.html"
+      path: "ja/active-learning.html"
     values:
-      full_width: true
+      layout: "default"
 
 jekyll-archives:
   enabled:

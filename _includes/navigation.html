@@ -23,7 +23,8 @@
     {% if link.link == page.url %}
       {% assign class = class | append: " active" %}
     {% endif %}
-    <a href="{% include relative-src.html src=link.link %}" class="{{ class }}" {% if link.new_window %}target="_blank"{% endif %}>{{ link.name }}</a>
+    {% assign lang_link = '/' | append: page.lang | append: link.link %}
+    <a href="{% include relative-src.html src=lang_link %}" class="{{ class }}" {% if link.new_window %}target="_blank"{% endif %}>{{ link.name }}</a>
   {% endfor %}
 
   {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
