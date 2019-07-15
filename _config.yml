@@ -91,6 +91,11 @@ defaults:
       path: "ja/active-learning.html"
     values:
       layout: "default"
+  -
+    scope:
+      path: "en/signup-with-github.html"
+    values:
+      layout: "default"
 
 jekyll-archives:
   enabled:
