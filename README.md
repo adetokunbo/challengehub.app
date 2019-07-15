@@ -40,13 +40,14 @@ $ bundle exec jekyll serve
 
 Enable pushing to heroku:
 
-[Install the Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli#download-and-install)
-[Docs on using git to push to Heroku](https://devcenter.heroku.com/articles/git#deploying-code)
+- [Install the Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli#download-and-install)
+
+- [Docs on using git to push to Heroku](https://devcenter.heroku.com/articles/git#deploying-code)
 
 ~~~bash
 $ heroku git:remote -a challengehub-app-web # tell heroku where to push
 $
-$ # When you merged the change into the master branch, push as described in the docs
+$ # Once changes are merged into the master branch, push as described in the docs
 $ git push heroku master 
 ~~~
 
