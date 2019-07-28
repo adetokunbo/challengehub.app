@@ -101,6 +101,37 @@ defaults:
       path: "ja/signup-with-github.html"
     values:
       layout: "default"
+  -
+    scope:
+      path: "en/first-use.html"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "ja/first-use.html"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "en/first-use-challenge-library.html"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "ja/first-use-challenge-library.html"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "en/first-use-course.html"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "ja/first-use-course.html"
+    values:
+      layout: "default"
+
 
 
 jekyll-archives:
