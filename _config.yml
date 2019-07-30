@@ -10,7 +10,7 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Active-Learning for Everyone
+description: Active Learning for Everyone
 author:
   name:
   email:
