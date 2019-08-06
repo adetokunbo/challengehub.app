@@ -103,32 +103,32 @@ defaults:
       layout: "default"
   -
     scope:
-      path: "en/first-use.html"
+      path: "en/quickstart.html"
     values:
       layout: "default"
   -
     scope:
-      path: "ja/first-use.html"
+      path: "ja/quickstart.html"
     values:
       layout: "default"
   -
     scope:
-      path: "en/first-use-challenge-library.html"
+      path: "en/quickstart/first-challenge.html"
     values:
       layout: "default"
   -
     scope:
-      path: "ja/first-use-challenge-library.html"
+      path: "ja/quickstart/first-challenge.html"
     values:
       layout: "default"
   -
     scope:
-      path: "en/first-use-course.html"
+      path: "en/quickstart/first-course.html"
     values:
       layout: "default"
   -
     scope:
-      path: "ja/first-use-course.html"
+      path: "ja/quickstart/first-course.html"
     values:
       layout: "default"
 
