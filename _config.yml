@@ -93,12 +93,12 @@ defaults:
       layout: "default"
   -
     scope:
-      path: "en/quickstart/signup-with-github.html"
+      path: "en/help/signup-with-github.html"
     values:
       layout: "default"
   -
     scope:
-      path: "ja/quickstart/signup-with-github.html"
+      path: "ja/help/signup-with-github.html"
     values:
       layout: "default"
   -
