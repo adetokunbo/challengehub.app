@@ -7,6 +7,10 @@ en:
     link: /our-story/
     new_window: false
     highlight: false
+  - name: Blog
+    link: /blog/
+    new_window: false
+    highlight: false
   - name: Get started
     link: /get-started/
     new_window: false
