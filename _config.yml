@@ -101,6 +101,37 @@ defaults:
       path: "ja/signup-with-github.html"
     values:
       layout: "default"
+  -
+    scope:
+      path: "en/quickstart.html"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "ja/quickstart.html"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "en/quickstart/first-challenge.html"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "ja/quickstart/first-challenge.html"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "en/quickstart/first-course.html"
+    values:
+      layout: "default"
+  -
+    scope:
+      path: "ja/quickstart/first-course.html"
+    values:
+      layout: "default"
+
 
 
 jekyll-archives:
