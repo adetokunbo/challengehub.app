@@ -12,7 +12,7 @@ en:
     new_window: false
     highlight: false
   - name: Get started
-    link: /get-started/
+    link: /quickstart/
     new_window: false
     highlight: true
 ja:
@@ -25,6 +25,6 @@ ja:
     new_window: false
     highlight: false
   - name: はじめましょう
-    link: /get-started/
+    link: /quickstart/
     new_window: false
     highlight: true
