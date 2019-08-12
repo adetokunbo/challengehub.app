@@ -15,9 +15,12 @@
 		font-size: .8em;
 
 		.square-image {
-			width: 125px;
-			height: 125px;
+			width: 200px;
+			height: 200px;
 			margin-top: 0;
+		}
+		.square-image img {
+			width: 100%;
 		}
 		.blurb {
 			text-align: center;
@@ -31,6 +34,7 @@
 			text-decoration: none;
 			font-weight: normal;
 			font-size: 1.3em;
+			line-height: 1.2em;
 		}
 	}
 

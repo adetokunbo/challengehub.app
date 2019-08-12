@@ -9,6 +9,8 @@ en:
       link: /en/active-learning/
     - name: Our story
       link: /en/our-story/
+    - name: Blog
+      link: /en/blog/
     # - name: RSS
     #   link: /feed.xml
     #   new_window: false
