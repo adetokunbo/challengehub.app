@@ -13,7 +13,17 @@
     </a>
   {% endfor %}
 
-  {% assign links=site.data.navigation[page.lang] %}
+  {% if page.lang %}
+    {% assign lang = page.lang %}
+  {% else %}
+    {% if post.lang %}
+      {% assign lang = post.lang %}
+    {% else %}
+      {% assign path = page.url | split: '/' %}
+      {% assign lang = path[1] %}
+    {% endif %}
+  {% endif %}
+  {% assign links=site.data.navigation[lang] %}
   {% for link in links %}
     {% assign class = "" %}
     {% if link.highlight %}
@@ -23,7 +33,7 @@
     {% if link.link == page.url %}
       {% assign class = class | append: " active" %}
     {% endif %}
-    {% assign lang_link = '/' | append: page.lang | append: link.link %}
+    {% assign lang_link = '/' | append: lang | append: link.link %}
     <a href="{% include relative-src.html src=lang_link %}" class="{{ class }}" {% if link.new_window %}target="_blank"{% endif %}>{{ link.name }}</a>
   {% endfor %}
 

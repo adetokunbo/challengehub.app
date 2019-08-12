@@ -4,6 +4,7 @@ title: The Two Keys for a CBAL Course&#58; Student Motivation and Study Efficien
 categories:
  - motivation
 author_staff_member: james
+lang: en
 ---
 In a rapidly changing society, the world needs graduates who have the motivation and the ability to continuously learn new things and innovate to create new ideas. Unfortunately, traditional lecturing does not achieve this. This is primarily because motivation is external, driven by teacher commands rather than the internal motivation of a student’s desire for growth and development.
 
