@@ -6,7 +6,7 @@ categories:
 author_staff_member: james
 ---
 In this blog post, we are going to review the first two classes of a model challenge based active learning course that uses ChallengeHub to facilitate delivery and build the positive learning environment.
-This model builds upon the [two key elements to for effective challenge based active learning](/motivation/2019/08/10/the-two-keys-for-a-cbal-course/) to promote student internal motivation and efficient study.
+This model builds upon the [two key elements for effective challenge based active learning](/motivation/2019/08/10/the-two-keys-for-a-cbal-course/) to promote student internal motivation and efficient study.
 
 ### Course preparation
 
