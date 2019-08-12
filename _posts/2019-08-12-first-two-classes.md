@@ -6,7 +6,7 @@ categories:
 author_staff_member: james
 ---
 In this blog post, we are going to review the first two classes of a model challenge based active learning course that uses ChallengeHub to facilitate delivery and build the positive learning environment.
-This model builds upon the [two key elements to for effective challenge based active learning]() to promote student internal motivation and efficient study.
+This model builds upon the [two key elements to for effective challenge based active learning](/motivation/2019/08/10/the-two-keys-for-a-cbal-course/) to promote student internal motivation and efficient study.
 
 ### Course preparation
 
@@ -25,7 +25,7 @@ In this model, the teacher outlines the following to the students:
 
 - Why challenge based active learning is more effective and fun for the students than the traditional lecture style they are used to. After all, if students understand why they’re doing something, they’re more likely to engage with it.
 - Information about how to register for the course.
-- Highlight the [challenge log](the-challenge-log) as an integral part of student participation.
+- Highlight the [challenge log](/motivation/2019/08/11/the-challenge-log/) as an integral part of student participation.
 - Stress that challenges are different from homework. It’s *ok* to get things wrong and not complete all the challenges every week.
 - But, there will be a final exam and that this cannot be moved. The best way to prepare for the exam is to complete all the challenges and so in order to achieve a high grade the students are going to need to keep pace with the course.
 - Emphasise that the most efficient way to study is to try doing as many challenges as possible during the week, and then coming to class with questions.
@@ -73,7 +73,7 @@ The most able students may finish most challenges by the end of the class.
 Finally, remember that there will inevitably be bumps along the way, as the teacher finds what works best for him or her personally.
 This is the nature of innovation.
 Keep learning from your experience and iterate over time to achieve a better experience for students and teacher alike.
-Always keep in mind the [key elements to for effective challenge based active learning](): Are students more internally motivated?
+Always keep in mind the [key elements to for effective challenge based active learning](/motivation/2019/08/10/the-two-keys-for-a-cbal-course/): Are students more internally motivated?
 Is students’ study more efficient?
 If the answer to these questions is yes, then you’re on the right path.
 
