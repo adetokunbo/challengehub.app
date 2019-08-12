@@ -35,8 +35,6 @@ en:
     #   new_window: true
   - links:
     - name: Get started
-      link: /en/get-started/
-    - name: Help
       link: /en/quickstart/
     - name: Contact us
       link: /en/contact/
@@ -75,6 +73,6 @@ ja:
     #   new_window: true
   - links:
     - name: はじめましょう
-      link: /ja/get-started/
+      link: /ja/quickstart/
     - name: お問い合わせ
       link: /ja/contact/
