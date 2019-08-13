@@ -1,14 +1,13 @@
 ---
 date: 2019-08-10
 title: The Two Key Elements for an Effective<br> Challenge Based Active Learning Course
+subtitle: Student Motivation and Study Efficiency
+reading_minutes: 4
 categories:
  - motivation
 author_staff_member: james
 lang: en
 ---
-
-### Student Motivation and Study Efficiency
-
 In a rapidly changing society, learners need to have the motivation and the ability to continuously learn new things and innovate, even after graduation.
 Unfortunately, traditional lecturing does not promote this.
 This is primarily because motivation is external, driven by teacher instructions rather than the internal motivation of a student’s desire for growth and development.
