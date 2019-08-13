@@ -30,7 +30,7 @@ The teacher does not usually have time to go through all the challenge logs in d
 
 After review, all the challenge logs are returned to the students.
 Since the students may be without the logs for some time, it is important that students to not mix the challenge log with notes required for other courses (which might be required for other exams).
-Subsequently, it is good practise to highlight at the beginning of the course that the challenge log should be kept separate from notes for other courses.
+Subsequently, it is good practice to highlight at the beginning of the course that the challenge log should be kept separate from notes for other courses.
 
 ### Benefits
 In addition to assessment and motivation purposes, review of challenge logs at the end of the semester also forms a basis for understanding how students have approached challenges, and can help provide information about how to improve challenges or the course as a whole for the following year.
