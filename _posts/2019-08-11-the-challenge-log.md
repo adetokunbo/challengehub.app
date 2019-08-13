@@ -4,8 +4,8 @@ title: The Challenge Log
 subtitle: The Active Learning Answer to Homework
 reading_minutes: 2
 categories:
- - motivation
- - assessment
+ - Motivation
+ - Assessment
 author_staff_member: james
 ---
 

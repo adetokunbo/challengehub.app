@@ -3,7 +3,7 @@ date: 2019-08-12
 title: The first two classes of your<br> challenge based active learning course
 reading_minutes: 4
 categories:
- - challengehub
+ - ChallengeHub
 author_staff_member: james
 ---
 In this post, we review the first two classes of a model course that uses ChallengeHub to facilitate challenge based active learning.
