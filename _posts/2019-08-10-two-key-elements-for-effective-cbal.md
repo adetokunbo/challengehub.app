@@ -2,7 +2,7 @@
 date: 2019-08-10
 title: The Two Key Elements for an Effective<br> Challenge Based Active Learning Course
 subtitle: Student Motivation and Study Efficiency
-reading_minutes: 7
+reading_minutes: 4
 categories:
  - motivation
 author_staff_member: james
