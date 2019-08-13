@@ -3,6 +3,7 @@ date: 2019-08-11
 title: The Challenge Log
 categories:
  - motivation
+ - assessment
 author_staff_member: james
 ---
 
