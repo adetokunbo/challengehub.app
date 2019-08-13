@@ -1,6 +1,7 @@
 ---
 date: 2019-08-12
 title: The first two classes of your<br> challenge based active learning course
+reading_minutes: 4
 categories:
  - motivation
 author_staff_member: james
