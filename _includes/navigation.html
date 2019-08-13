@@ -3,15 +3,6 @@
   <a class="editor-link btn" href="cloudcannon:collections/_data/navigation.yml" class="btn"><strong>&#9998;</strong> Edit navigation</a>
 
   {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-  {% for apost in posts %}
-    {% assign class = apost.lang %}
-    {% if apost.lang == page.lang %}
-      {% assign class = class | append: " active" %}
-    {% endif %}
-    <a href="{{ site.baseurl }}{{ apost.url }}" class="{{ class }} highlight">
-      {{ site.data.languages[apost.lang] }}
-    </a>
-  {% endfor %}
 
   {% if page.lang %}
     {% assign lang = page.lang %}
@@ -23,6 +14,7 @@
       {% assign lang = path[1] %}
     {% endif %}
   {% endif %}
+
   {% assign links=site.data.navigation[lang] %}
   {% for link in links %}
     {% assign class = "" %}
@@ -43,6 +35,15 @@
     {% if apage.lang != page.lang %}
     <a href="{{ site.baseurl }}{{ apage.url }}" class="{{ class }}">
       {{ site.data.languages[apage.lang] }}
+    </a>
+    {% endif %}
+  {% endfor %}
+
+  {% for apost in posts %}
+    {% assign class = apost.lang %}
+    {% if apost.lang != lang %}
+    <a href="{{ site.baseurl }}{{ apost.url }}" class="{{ class }}">
+      {{ site.data.languages[apost.lang] }}
     </a>
     {% endif %}
   {% endfor %}

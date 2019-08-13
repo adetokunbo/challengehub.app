@@ -44,6 +44,22 @@ defaults:
           height: 2500
   -
     scope:
+      path: "_posts/en"
+      type: "posts"
+    values:
+      lang: "en"
+      categories:
+        - "en"
+  -
+    scope:
+      path: "_posts/ja"
+      type: "posts"
+    values:
+      lang: "ja"
+      categories:
+        - "ja"
+  -
+    scope:
       path: ""
       type: "staff_members"
     values:
