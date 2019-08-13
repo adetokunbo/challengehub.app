@@ -5,8 +5,7 @@ categories:
  - motivation
 author_staff_member: james
 ---
-In this blog post, we are going to review the first two classes of a model challenge based active learning course that uses ChallengeHub to facilitate delivery and build the positive learning environment.
-This model builds upon the [two key elements for effective challenge based active learning](/motivation/2019/08/10/the-two-keys-for-a-cbal-course/) to promote student internal motivation and efficient study.
+In this post, we review the first two classes of a model course that uses ChallengeHub to facilitate challenge based active learning.
 
 ### Course preparation
 
@@ -14,8 +13,8 @@ In ChallengeHub, each group of challenges is called a *stint* and typically one 
 There are usually 6 to 10 challenges per stint.
 The first stint will contain fewer challenges than later stints because there is less time for discussion in the first class.
 
-In this model, prior to the start of the course a teacher prepares stints for the first two classes, with each timed to be released (made visible to the students) at the beginning of each class.
-The first stint will simply contain challenges but second stint will typically also include automatic pairing of students to enable high-quality peer instruction (students teaching students).
+Prior to the start of the course a teacher prepares stints for the first two classes, with each timed to be released (made visible to the students) at the beginning of each class.
+The first stint will simply contain challenges but second stint will typically also include automatic pairing of students. This "pairing" facilitates *peer instruction*, whereby students are placed in small teams of two or three and learn by teaching each other.
 
 ### Class 1
 
@@ -31,18 +30,18 @@ In this model, the teacher outlines the following to the students:
 - Emphasise that the most efficient way to study is to try doing as many challenges as possible during the week, and then coming to class with questions.
 - Motivation for the course. Why is the course content interesting and useful? Giving students clear cause to study is a major motivator.
 
-Then if there is time and students have smartphones or computers with them in class already, students may start to work on challenges. At the very least, for those who can, practising interaction with ChallengeHub can be useful. Otherwise, a traditional lecture highlighting important issues for the challenges that are released this week may be performed.
+Then, if there is time and students have smartphones or computers with them in class already, students may start to work on challenges. At the very least, for those who can, practising interaction with ChallengeHub can be useful. Otherwise, a traditional lecture highlighting important issues for the challenges that are released this week may be performed.
 
 ### Preparation for class 2
 
-Like every class, prior to the start of class 2 the teacher will review student progress through the challenges.
+Before this and every subsequent class, the teacher will review student progress through the challenges.
 
 - What challenges did students find particularly difficult? Is a mini lecture about a particular challenge required?
 - What do I *not* need to talk about?
 - What questions are likely to come up?
 - How much progress has been made? Is the planned number of challenges for the following week appropriate?
 
-In addition, class 2 is special because it is the first week that students have been using ChallengeHub, so if any students have had any difficulties interacting with the system it will be apparent here. Reviewing student progress prior to class can help identify any such students who may require advice on usage from their discussion partner or the teacher.
+In addition, class 2 is important because it is the first week that students have been using ChallengeHub, so it will become apparent if any students had any difficulties with it.
 
 ### Class 2
 
