@@ -3,7 +3,7 @@ date: 2019-08-12
 title: The first two classes of your<br> challenge based active learning course
 reading_minutes: 4
 categories:
- - motivation
+ - challengehub
 author_staff_member: james
 ---
 In this post, we review the first two classes of a model course that uses ChallengeHub to facilitate challenge based active learning.
@@ -73,7 +73,7 @@ The most able students may finish most challenges by the end of the class.
 Finally, remember that there will inevitably be bumps along the way, as the teacher finds what works best for him or her personally.
 This is the nature of innovation.
 Keep learning from your experience and iterate over time to achieve a better experience for students and teacher alike.
-Always keep in mind the [key elements for effective challenge based active learning](/motivation/2019/08/10/the-two-keys-for-a-cbal-course/): Are students more internally motivated?
+Always keep in mind the [key elements for effective challenge based active learning](/motivation/2019/08/10/two-key-elements-for-effective-cbal/): Are students more internally motivated?
 Is students’ study more efficient?
 If the answer to these questions is yes, then you’re on the right path.
 
