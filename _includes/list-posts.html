@@ -1,4 +1,14 @@
 {% for post in site.posts %}
+  {% if include.category %}
+    {% if post.categories contains include.category %}
+      {% assign shown = true %}
+    {% else %}
+      {% assign shown = false %}
+    {% endif %}
+  {% else %}
+  {% assign shown = true %}
+  {% endif %}
+  {% if shown %}
   <li class="blog-post">
     <h3 class="post-title"><a href="{% include relative-src.html src=post.url %}">{{ post.title }}</a></h3>
     {% include post-title.html post=post %}
@@ -7,4 +17,5 @@
       <div class="button"><a href="{% include relative-src.html src=post.url %}">Read More</a></div>
     </div>
   </li>
+  {% endif %}
 {% endfor %}
