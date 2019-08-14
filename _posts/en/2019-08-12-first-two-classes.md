@@ -5,6 +5,7 @@ reading_minutes: 4
 categories:
  - ChallengeHub
 author_staff_member: james
+ref: 2019-08-12-first-two-classes
 ---
 In this post, we review the first two classes of a model course that uses ChallengeHub to facilitate challenge based active learning.
 

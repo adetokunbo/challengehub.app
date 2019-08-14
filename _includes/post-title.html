@@ -1,9 +1,12 @@
 <h4 class="post-subtitle">{{ include.post.subtitle }}</h4>
 <p class="post-details">
   {% for category in include.post.categories %}
+    {% if site.data.languages contains category %}
+    {% else %}
     <span class="blog-filter">
       <a href="{{ site.baseurl }}/category/{{ category | slugify }}/">{{ category }}</a>
     </span>
+    {% endif %}
   {% endfor %}
   <span class="post-date">
     {{ include.post.date | date: "%B %d, %Y" }}
