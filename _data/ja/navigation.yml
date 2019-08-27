@@ -1,0 +1,12 @@
+- name: アクティブラーニング
+  link: /active-learning/
+  new_window: false
+  highlight: false
+- name: これまでの経緯
+  link: /our-story/
+  new_window: false
+  highlight: false
+- name: はじめましょう
+  link: /quickstart/
+  new_window: false
+  highlight: true
