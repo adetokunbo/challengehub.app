@@ -79,75 +79,14 @@ defaults:
       layout: "default"
   -
     scope:
-      path: "en/index.html"
+      path: "en"
     values:
       layout: "default"
   -
     scope:
-      path: "ja/index.html"
+      path: "ja"
     values:
       layout: "default"
-  -
-    scope:
-      path: "en/our-story.html"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "ja/our-story.html"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "en/active-learning.html"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "ja/active-learning.html"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "en/documentation/signup-with-github.html"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "ja/documentation/signup-with-github.html"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "en/quickstart.html"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "ja/quickstart.html"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "en/quickstart/first-challenge.html"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "ja/quickstart/first-challenge.html"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "en/quickstart/first-course.html"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "ja/quickstart/first-course.html"
-    values:
-      layout: "default"
-
 
 
 jekyll-archives:
