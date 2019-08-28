@@ -8,6 +8,7 @@ categories:
  - Assessment
 author_staff_member: james
 ref: 2019-08-11-the-challenge-log
+lang: en
 ---
 
 In challenge based active learning, the concept of "homework" is quite different to a traditional lecture-style course.

@@ -7,6 +7,7 @@ categories:
  - Motivation
 author_staff_member: james
 ref: 2019-08-10-two-key-elements-for-effective-cbal
+lang: en
 ---
 In a rapidly changing society, learners need to have the motivation and the ability to continuously learn new things and innovate, even after graduation.
 Unfortunately, traditional lecturing does not promote this.
