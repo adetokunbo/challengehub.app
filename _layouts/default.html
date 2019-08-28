@@ -1,12 +1,6 @@
 <!doctype html>
 
-{% if page.lang %}
-<html lang="{{ page.lang }}">
-{% else if post.lang %}
-<html lang="{{ post.lang }}">
-{% else %}
-<html lang="en">
-{% endif %}
+<html lang="{{ site.active_lang }}">
   <head>
     {% if jekyll.environment == 'development' and page.redirect %}
     <meta http-equiv="refresh" content="0;url=/en/">
@@ -30,7 +24,6 @@
       <link rel="alternate" hreflang="{{ apage.lang }}" href="{{ site.baseurl }}{{ apage.url }}" />
     {% endfor %}
 
-
     {% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
       <script>
         window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
@@ -43,12 +36,7 @@
   <body>
     <header>
       <div class="container">
-        {% if post.lang == "ja" or page.lang == "ja" %}
-          {% assign indexurl = "/ja/" %}
-        {% else %}
-          {% assign indexurl = "/" %}
-        {% endif %}
-        <div class="company-name"><a href="{{ site.baseurl }}{{ indexurl }}"><img src="{{ site.baseurl }}/images/front/challenge-hub-header.png" alt="ChallengeHub Logo" width="95" height="33" /></a></div>
+        <div class="company-name"><a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/front/challenge-hub-header.png" alt="ChallengeHub Logo" width="95" height="33" /></a></div>
 
         {% include navigation.html %}
       </div>
@@ -58,10 +46,10 @@
       <div class="container">
         <p class="editor-link"><a href="cloudcannon:collections/_data/footer.yml" class="btn"><strong>&#9998;</strong> Edit footer</a></p>
         <div class="footer-columns">
-          {% for column in site.data.footer[lang] %}
+          {% for column in site.data.footer %}
           <ul class="footer-links">
             {% for link in column.links %}
-              <li><a {% if link.new_window %}target="_blank"{% endif %} href="{% include relative-src.html src=link.link %}" {% if link.social_icon %}class="{{ link.social_icon }}-icon"{% endif %}>
+              <li><a {% if link.new_window %}target="_blank"{% endif %} href="{{ link.link }}" {% if link.social_icon %}class="{{ link.social_icon }}-icon"{% endif %}>
                 {% if link.social_icon %}
                   {% include social-icon.html icon=link.social_icon %}
                 {% endif %}

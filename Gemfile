@@ -15,6 +15,7 @@ group :jekyll_plugins do
   gem 'jekyll-include-cache'
   gem 'jekyll-last-modified-at'
   gem 'jekyll-paginate-v2'
+  gem "jekyll-polyglot"
   gem 'jekyll-redirect-from'
   gem 'jekyll-seo-tag'
   gem 'jekyll-sitemap'
