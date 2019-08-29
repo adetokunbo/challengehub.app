@@ -1,0 +1,11 @@
+{% if include.para %}
+<section class="testimonial">
+  <div class="container flex">
+    <div class="text editable">
+      <div class="testimonial-block">
+        {{ include.para.content | markdownify }}
+      </div>
+    </div>
+  </div>
+</section>
+{% endif %}
