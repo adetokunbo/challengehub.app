@@ -3,18 +3,12 @@ layout: page
 ---
 
 <div class="text-container">
-  {% assign blog = site.pages | where: "path", "en/blog/index.html" | first %}
+  <h2>{{ site.data.blog_info.title }}</h2>
 
-  {% if blog.title %}
-    <h2>{{ blog.title }}</h2>
-  {% endif %}
-
-  {% if blog.description %}
-    <p class="subtext">{{ blog.description }}</p>
-  {% endif %}
+  <p class="subtext">{{ site.data.blog_info.description }}</p>
 
   <div class="center-text">
-    <span class="blog-filter cross"><a href="{{ site.baseurl }}/en/blog/">{{ page.title | capitalize }}</a></span>
+    <span class="blog-filter cross"><a href="{{ site.baseurl }}/blog/">{{ page.title | capitalize }}</a></span>
   </div>
 
   <ul class="blog-posts">

@@ -1,0 +1,6 @@
+# At the moment the site's navigation menu is limited to displaying one of two
+# languages this is encoded here; later once proper support for multiple
+# languages is present, this file should become redundant
+
+en: ja
+ja: en

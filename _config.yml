@@ -1,6 +1,7 @@
 # ----
 # Site
 
+data_dir: _data
 title: ChallengeHub
 url: "https://challengehub.app/"
 baseurl: ""
@@ -44,22 +45,6 @@ defaults:
           height: 2500
   -
     scope:
-      path: "_posts/en"
-      type: "posts"
-    values:
-      lang: "en"
-      categories:
-        - "en"
-  -
-    scope:
-      path: "_posts/ja"
-      type: "posts"
-    values:
-      lang: "ja"
-      categories:
-        - "ja"
-  -
-    scope:
       path: ""
       type: "staff_members"
     values:
@@ -74,81 +59,14 @@ defaults:
       layout: "page"
   -
     scope:
-      path: "index.html"
+      path: "en"
     values:
       layout: "default"
   -
     scope:
-      path: "en/index.html"
+      path: "ja"
     values:
       layout: "default"
-  -
-    scope:
-      path: "ja/index.html"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "en/our-story.html"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "ja/our-story.html"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "en/active-learning.html"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "ja/active-learning.html"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "en/documentation/signup-with-github.html"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "ja/documentation/signup-with-github.html"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "en/quickstart.html"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "ja/quickstart.html"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "en/quickstart/first-challenge.html"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "ja/quickstart/first-challenge.html"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "en/quickstart/first-course.html"
-    values:
-      layout: "default"
-  -
-    scope:
-      path: "ja/quickstart/first-course.html"
-    values:
-      layout: "default"
-
-
 
 jekyll-archives:
   enabled:
@@ -166,6 +84,11 @@ exclude:
   - README.md
   - LICENCE
   - vendor
+  - tools
+  - .ruby-version
+  - config.ru
+  - static.json
+  - ProcFile
 
 # -----------
 # CloudCannon
@@ -192,3 +115,16 @@ _comments:
   highlight: Emphasis the text
   color: The background colour used in the plan name and call to action.
   new_window: Open link in new window
+
+
+# ----------------------
+# Polyglot configuration
+#
+languages: ["en", "ja"]
+
+# pick a default_lang that is not one of the actual languages;
+# this ensure all language specific pages are created.
+default_lang: "xx"
+
+exclude_from_localization: ["images", "css", "sketch", "tools"]
+parallel_localization: true

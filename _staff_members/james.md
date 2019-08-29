@@ -1,4 +1,5 @@
 ---
+author_id: james
 image_path: /images/avatars/james.jpg
 twitter: NanoScaleDesign
 en:

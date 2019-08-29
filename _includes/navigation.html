@@ -2,20 +2,7 @@
   <a class="nav-toggle" id="open-nav" href="#">&#9776;</a>
   <a class="editor-link btn" href="cloudcannon:collections/_data/navigation.yml" class="btn"><strong>&#9998;</strong> Edit navigation</a>
 
-  {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-
-  {% if page.lang %}
-    {% assign lang = page.lang %}
-  {% else %}
-    {% if post.lang %}
-      {% assign lang = post.lang %}
-    {% else %}
-      {% assign path = page.url | split: '/' %}
-      {% assign lang = path[1] %}
-    {% endif %}
-  {% endif %}
-
-  {% assign links=site.data.navigation[lang] %}
+  {% assign links=site.data.navigation %}
   {% for link in links %}
     {% assign class = "" %}
     {% if link.highlight %}
@@ -25,27 +12,15 @@
     {% if link.link == page.url %}
       {% assign class = class | append: " active" %}
     {% endif %}
-    {% assign lang_link = '/' | append: lang | append: link.link %}
-    <a href="{% include relative-src.html src=lang_link %}" class="{{ class }}" {% if link.new_window %}target="_blank"{% endif %}>{{ link.name }}</a>
+
+    <a href="{{ link.link }}" class="{{ class }}" {% if link.new_window %}target="_blank"{% endif %}>{{ link.name }}</a>
   {% endfor %}
 
-  {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-  {% for apage in pages %}
-    {% assign class = apage.lang %}
-    {% if apage.lang != page.lang %}
-    <a href="{{ site.baseurl }}{{ apage.url }}" class="{{ class }}">
-      {{ site.data.languages[apage.lang] }}
-    </a>
-    {% endif %}
-  {% endfor %}
-
-  {% for apost in posts %}
-    {% assign class = apost.lang %}
-    {% if apost.lang != lang %}
-    <a href="{{ site.baseurl }}{{ apost.url }}" class="{{ class }}">
-      {{ site.data.languages[apost.lang] }}
-    </a>
-    {% endif %}
-  {% endfor %}
+  {% assign switch_lang=site.data.other_lang[site.active_lang] %}
+  <!--  N.B. The space at the start href is intentional -->
+  <!--  It's how polyglot knows not to relativise the link -->
+  <a href=" {{ site.baseurl }}/{{ switch_lang }}{{ page.url }}" class="{{ apost.lang }}">
+    {{ site.data.languages[switch_lang] }}
+  </a>
 
 </nav>
