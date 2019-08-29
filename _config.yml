@@ -84,13 +84,13 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - LICENCE
+  - LICENSE
   - vendor
   - tools
   - .ruby-version
   - config.ru
-  - static.json
-  - ProcFile
+  - Procfile
+  - Rakefile
 
 # -----------
 # CloudCannon
