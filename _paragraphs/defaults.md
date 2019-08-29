@@ -1,0 +1,11 @@
+---
+cta_label:
+cta_link:
+heading:
+image_alt:
+image_path:
+image_paths:
+lang:
+page_name:
+position:
+---
