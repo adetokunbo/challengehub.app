@@ -5,35 +5,13 @@
     link: /ja/
 - links:
   - name: Active learning
-    link: /en/active-learning/
+    link: /active-learning/
   - name: Our story
-    link: /en/our-story/
+    link: /our-story/
   - name: Blog
-    link: /en/blog/
-  # - name: RSS
-  #   link: /feed.xml
-  #   new_window: false
-  #   # social_icon: RSS
-  # - name: Twitter
-  #   link: https://twitter.com
-  #   new_window: true
-  #   # social_icon: Twitter
-  # - name: Facebook
-  #   link: https://facebook.com
-  #   new_window: true
-  #   # social_icon: Facebook
-  # - name: Telegram
-  #   link: https://telegram.me
-  #   new_window: true
-  # - name: LinkedIn
-  #   link: https://www.linkedin.com
-  #   new_window: true
-  #   # social_icon: LinkedIn
-  # - name: ResearchGate
-  #   link: https://www.researchgate.net
-  #   new_window: true
+    link: /blog/
 - links:
   - name: Get started
-    link: /en/quickstart/
+    link: /quickstart/
   - name: Contact us
-    link: /en/contact/
+    link: /contact/

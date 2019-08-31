@@ -1,22 +1,10 @@
 ---
+layout: page
 title: Contact
 heading: Contact us
 description: Ask us anything about ChallengeHub
 lang: en
 ref: contact
-permalink: /contact
+permalink: /contact/
 ---
-<div class="content">
-  <section>
-    <div class="container flex">
-      <div class="image">
-        <img src="{{ site.baseurl }}/images/contact/contact.jpg" alt="Email us" class="editable framed-image responsive-image" />
-      </div>
-      <div class="text editable">
-        <p>If you'd like to learn how ChallengeHub could be applied to your course, we'll be happy to <a href="{{ site.baseurl }}/quickstart">help you get started.</a></p>
-        <p>For anything else, please mail us at the address below.</p>
-        <p><a href="mailto:info@challengehub.app">info@challengehub.app</a></p>
-      </div>
-    </div>
-  </section>
-</div>
+{% include show-page-paragraphs.html page_name="contact" %}

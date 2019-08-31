@@ -1,0 +1,42 @@
+{%- assign paragraphs=site.paragraphs | where:"page_name", include.page_name | sort:"position" -%}
+{% if include.hero_header %}
+  <section class="hero">
+    <div class="text-container">
+      <h1 class="editable">{{ include.hero_header }}</h1>
+      {%- if include.hero_sub_header -%}
+        <p class="subtext editable">{{ include.hero_sub_header }}</p>
+      {%- endif -%}
+      {%- if include.is_index -%}
+        <div>
+          <img src="{{ site.baseurl }}/images/front/challenge-hub-header-illustration.jpg" alt="Active learning using ChallengeHub" class="editable framed-image responsive-image"/>
+        </div>
+      {%- endif -%}
+    </div>
+  </section>
+{% endif %}
+
+{%- if include.disable_zig_zag -%}
+  {%- for para in paragraphs -%}
+    <div class="content">
+      {% include show-paragraph.html para=para %}
+    </div>
+  {%- endfor -%}
+  {%- if include.bottom_cta -%}
+    <section class="bottom-cta">
+      <h2 class="editable">{{ include.bottom_cta }}</h2>
+      <div class="button alt"><a href="{{ site.baseurl }}/{{ include.bottom_cta_link }}">{{ include.bottom_cta_label }}</a></div>
+    </section>
+  {%- endif -%}
+{%- else -%}
+  <div class="content">
+    {%- for para in paragraphs -%}
+      {% include show-paragraph.html para=para %}
+    {%- endfor -%}
+    {%- if include.bottom_cta -%}
+      <section class="bottom-cta">
+        <h2 class="editable">{{ include.bottom_cta }}</h2>
+        <div class="button alt"><a href="{{ site.baseurl }}/{{ include.bottom_cta_link }}">{{ include.bottom_cta_label }}</a></div>
+      </section>
+    {%- endif -%}
+  </div>
+{%- endif -%}

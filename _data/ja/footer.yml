@@ -5,33 +5,11 @@
     link: /ja/
 - links:
   - name: アクティブラーニング
-    link: /ja/active-learning/
+    link: /active-learning/
   - name: これまでの経緯
-    link: /ja/our-story/
-  # - name: RSS
-  #   link: /feed.xml
-  #   new_window: false
-  #   # social_icon: RSS
-  # - name: Twitter
-  #   link: https://twitter.com
-  #   new_window: true
-  #   # social_icon: Twitter
-  # - name: Facebook
-  #   link: https://facebook.com
-  #   new_window: true
-  #   # social_icon: Facebook
-  # - name: Telegram
-  #   link: https://telegram.me
-  #   new_window: true
-  # - name: LinkedIn
-  #   link: https://www.linkedin.com
-  #   new_window: true
-  #   # social_icon: LinkedIn
-  # - name: ResearchGate
-  #   link: https://www.researchgate.net
-  #   new_window: true
+    link: /our-story/
 - links:
   - name: はじめましょう
-    link: /ja/quickstart/
+    link: /quickstart/
   - name: お問い合わせ
-    link: /ja/contact/
+    link: /contact/
