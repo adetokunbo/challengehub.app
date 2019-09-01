@@ -13,4 +13,4 @@ The teacher walks into the classroom knowing the progress of the class and likel
 
 ChallengeHub automatically pairs students based on their performance, enabling personalised instruction as students ask each other questions, discuss difficult concepts and learn how to explain ideas.
 
-Although much of the class is devoted to valuable pair-discussion, the teacher can still choose to lecture to introduce a topic, motivate students or otherwise address a class-wide issue.
+Although much of the class is devoted to valuable pair-discussion, the teacher can still choose to deliver a targeted explanation to address a common issue or provide a motivating outline of a new topic.
