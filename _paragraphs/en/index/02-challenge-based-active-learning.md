@@ -11,8 +11,8 @@ heading: Challenge-based active learning
 
 Learning focuses around a series of challenges, taking students from beginner to expert.
 
-Small but frequent wins motivate students, and with real-time monitoring the teacher saves time by focussing class preparation on what really counts.
+Small but frequent wins motivate students while they obtain personalised explanations about difficult concepts from their peers in class.
 
-ChallengeHub intelligently manages the active learning environment, so the teacher can focus on the subject in hand.
+With real-time monitoring the teacher can focus class preparation on what really counts, delivering targeted explanations about things that really matter to the students.
 
-Challenge-based active learning can be adopted to suit a wide variety of course styles. As a teacher, you decide what works best for you and your students.
+ChallengeHub intelligently manages this active learning environment, so the teacher can focus on the subject in hand.

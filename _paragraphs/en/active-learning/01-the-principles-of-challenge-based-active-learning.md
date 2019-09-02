@@ -14,4 +14,4 @@ Each challenge builds upon understanding gained from previous challenges.
 
 Students spend more time on challenges they find difficult and less time on those they find easy.
 
-Class time consists of discussion between students, and optionally a short lecture or demonstration by the teacher.
+Class time consists of discussion between students, and optionally a short explanation or demonstration by the teacher.
