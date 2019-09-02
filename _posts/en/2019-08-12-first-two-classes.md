@@ -33,13 +33,13 @@ In this model, the teacher outlines the following to the students:
 - Emphasise that the most efficient way to study is to try doing as many challenges as possible during the week, and then coming to class with questions.
 - Motivation for the course. Why is the course content interesting and useful? Giving students clear cause to study is a major motivator.
 
-Then, if there is time and students have smartphones or computers with them in class already, students may start to work on challenges. At the very least, for those who can, practising interaction with ChallengeHub can be useful. Otherwise, a traditional lecture highlighting important issues for the challenges that are released this week may be performed.
+Then, if there is time and students have smartphones or computers with them in class already, students may start to work on challenges. At the very least, for those who can, practising interaction with ChallengeHub can be useful. Otherwise, an overview highlighting important issues for the challenges that are released this week may be performed.
 
 ### Preparation for class 2
 
 Before this and every subsequent class, the teacher will review student progress through the challenges.
 
-- What challenges did students find particularly difficult? Is a mini lecture about a particular challenge required?
+- What challenges did students find particularly difficult? Is a short explanation about a particular challenge required?
 - What do I *not* need to talk about?
 - What questions are likely to come up?
 - How much progress has been made? Is the planned number of challenges for the following week appropriate?
@@ -56,7 +56,7 @@ It is often useful to indicate on a projector or blackboard whether desk 1 start
 
 Although not required, one useful tip is to distribute blank paper and have students fold it into thirds then write their name on one side so that the teacher can quickly identify those with whom one-to-one discussion is desired, or can cross-reference a name with a real-time view of that student’s progress during the class.
 
-After students are seated, if the teacher desires, they can now perform a short lecture or explanation, covering any challenges that the students had difficulty with, or perhaps to motivate the next topic.
+After students are seated, if the teacher desires, they can now perform a short targeted explanation, covering any challenges that the students had difficulty with, or perhaps to motivate the next topic.
 This also serves to “start” the class and focus the students’ minds on the subject.
 The class then turns to discussion time.
 
