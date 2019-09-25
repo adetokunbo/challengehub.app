@@ -2,7 +2,7 @@
 image_path: documentation/signup-with-github/github-chablis-pilot-invitation.jpg
 lang: en
 page_name: documentation/signup-with-github
-position: 5
+position: 6
 ---
 
 When this is complete, you will receive an email from GitHub about an invitation to join __@chablis-pilot__.
