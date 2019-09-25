@@ -1,4 +1,4 @@
-{%- assign paragraphs=site.paragraphs | where:"page_name", include.page_name | sort:"position" -%}
+{%- assign paragraphs=site.paragraphs | where:"page_name", include.page_name | where:"lang", site.active_lang | sort:"position" -%}
 {% if include.hero_header %}
   <section class="hero">
     <div class="text-container">
