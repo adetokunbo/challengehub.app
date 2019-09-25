@@ -9,8 +9,16 @@ position: 1
 heading:
 ---
 
-If you'd like to learn how ChallengeHub could be applied to your course, we'll be happy to [help you get started.]({{ site.baseurl }}/quickstart)
+If you're interested to learn how ChallengeHub could be applied to your course, please send us an email with the following information.
 
-For anything else, please mail us at the address below.
+- Your full name
+- The name of your course
+- Your work email address (ie. name@institute.edu) if you're sending mail from a different address
+- The course website or your personal website (if available)
+
+Or else just say hi!
+We will be happy to follow up.
 
 [info@challengehub.app](mailto:info@challengehub.app)
+
+For any other enquiries, feel free to mail us at the same address.
