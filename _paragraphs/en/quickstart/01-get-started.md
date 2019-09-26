@@ -8,6 +8,4 @@ position: 1
 heading:
 ---
 
-If you're interested to learn how ChallengeHub could be applied to your course, you will need an account. The following information is meant to be helpful after you get one.
-
-[Get your account]({{ site.baseurl }}/contact)
+If you are here, then you have [obtained an account]({{ site.baseurl }}/contact) and are ready to create challenges. If not, please do so before proceeding.
