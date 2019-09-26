@@ -2,7 +2,7 @@
 image_path: documentation/signup-with-github/ch-add-affiliation.jpg
 lang: en
 page_name: documentation/signup-with-github
-position: 10
+position: 11
 ---
 
 Upon first login to ChallengeHub, you will be required to enter your affiliation.

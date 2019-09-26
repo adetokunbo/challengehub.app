@@ -5,7 +5,7 @@ image_precedes_text: false
 image_path: documentation/signup-with-github/github-email-verification.jpg
 lang: en
 page_name: documentation/signup-with-github
-position: 4
+position: 5
 heading:
 ---
 
