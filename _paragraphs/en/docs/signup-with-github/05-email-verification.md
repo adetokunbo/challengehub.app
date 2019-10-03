@@ -13,7 +13,7 @@ GitHub will send you an email. Click on *Verify email address* in the email.
 
 Once you have verified you email address with GitHub, please send your Name and GitHub ID (_@myusername_) to:
 
-[info@challengehub.app](mailto:info@challengehub.app){:subject="ChallengeHub registration: GitHub ID"}
+[info@challengehub.app](mailto:info@challengehub.app?subject=ChallengeHub%20registration:%20GitHub%20ID)
 
 
 We will then connect your GitHub account to ChallengeHub. This usually happens quite quickly but can take up to 24 hours.

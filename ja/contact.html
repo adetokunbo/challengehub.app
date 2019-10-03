@@ -1,4 +1,5 @@
 ---
+layout: page
 title: お問い合わせ
 heading: お問い合わせ
 description: ChallengeHubについて、何でもお聞きください
@@ -6,17 +7,4 @@ lang: ja
 ref: contact
 permalink: /contact/
 ---
-<div class="content">
-  <section>
-    <div class="container flex">
-      <div class="image">
-        <img src="{{ site.baseurl }}/images/contact/contact.jpg" alt="Email us" class="editable framed-image responsive-image" />
-      </div>
-      <div class="text editable">
-        <p>ChallengeHubの<a href="{{ site.baseurl }}/quickstart">導入についてのお問い合わせはこちらから</a>お願いします。</p>
-        <p>それ以外のご質問は、下記のアドレスまでお気軽にお問い合わせください。</p>
-        <p><a href="mailto:info@challengehub.app">info@challengehub.app</a></p>
-      </div>
-    </div>
-  </section>
-</div>
+{% include show-page-paragraphs.html page_name="contact" %}
