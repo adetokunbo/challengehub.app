@@ -4,7 +4,7 @@ image_alt: ChallengeHub menu
 image_path: quickstart/menu.jpg
 lang: en
 page_name: quickstart
-position: 3
+position: 2
 ---
 
 The most important menu items are *Challenge Library* and *Courses*.
