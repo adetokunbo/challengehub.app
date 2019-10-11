@@ -3,17 +3,15 @@
     link: /en/
   - name: 日本語
     link: /ja/
-  - name: Español
-    link: /es/
 - links:
-  - name: Active learning
+  - name: Aprendizaje activo
     link: /active-learning/
-  - name: Our story
+  - name: Nuestra historia
     link: /our-story/
   - name: Blog
     link: /blog/
 - links:
-  - name: Get started
+  - name: Empieza ya
     link: /quickstart/
-  - name: Contact us
+  - name: Contacto
     link: /contact/
