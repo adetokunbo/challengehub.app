@@ -1,6 +1,6 @@
 ---
 date: 2019-08-10
-title: 効率的なチャレンジ解決型アクティブラーニング二つの鍵
+title: 効率的なチャレンジ解決型アクティブラーニングの二つの鍵
 subtitle: 学生のやる気と学習効率
 reading_minutes: 4
 categories:
