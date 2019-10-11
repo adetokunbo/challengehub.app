@@ -12,78 +12,57 @@ lang: ja
 急速に変化する社会で、学生は卒業後も新しいことを継続して学んだり取り入れたりする意欲と能力を持つ必要があります。従来の講義はそれらの意欲や能力を高めることはありません。これは、主に講義でのモチベーションが、学生自らの成長や発展を願う内発的動機付けではなく、教員の指示による外発的動機付けだからです。
 通常、外発的動機付けは学生が指示通りにできない場合、罰則を課されることでモチベーションを維持します。例えば、宿題は一定の期間内に提出することになっていることが多いです。
 
-Typically, external motivation is achieved through imposing penalties upon students if they fail to carry out instructions perfectly.
-For example, homework must often be submitted by a certain time, and without any errors.
-This has the effect of focussing students’ minds on avoiding these penalties, and learning and personal development becomes a side effect.
-With students focussed more on passing tests than learning, this can in turn reduce the motivation of the teacher.
-After all, why make an effort to teach students well when their main focus is to tick all the boxes?
-This impacts teaching quality, leading to a cycle of lower motivation by both students and teachers.
+外発的動機付けは一般的に、指示に完璧に従うことができなかった学生に罰則を与えることによってできることです。例えば、宿題はある期限までに提出し、それも間違いなしという状態で。結果的には、学生がそういった罰則を避けるに専念し、学習、成長や発展がただの副作用になったりします。学生が学習より試験の合格に集中されると、これはまた教員のモティベーションが低下します。結局のところ、学生がしたいのは合格だけならば、上手く教える努力する必要があるのでしょうか？これは教育の質に影響して、学生と教員のモティベーションの低下が繰り返されることになります。
 
-Challenge based active learning is designed to break out of this cycle, and ChallengeHub provides the platform to make this happen. To implement this successfully however, when designing a challenge based active learning course, the following key points should always be kept in mind:
+チャレンジ解決型アクティブラーニングはこの繰り返しから抜け出すために考えられたものです。そして、ChallengeHubはそれを実現するためのプラットホームです。しかしこれが上手くいくためには、チャレンジ解決型アクティブラーニングを導入した科目の企画をする際は、下記のポイントを忘れないでほしいと思います。
 
-1. Does the course promote internal (student-driven) motivation rather than external (teacher-driven) motivation?
-2. Is student learning efficient? Can students optimise their time?
+1. 科目は、外発的動機付けより学生自らの内発的動機付けを推進していますか？
+2. 学生の学習は効率的ですか？学生は自分の時間を効率よく使えていますか？
 
-### 1. Promoting internal motivation
+### 1. 内発的動機付けを推進する
 
-#### Traditional lecturing
-A typical example of external motivation is how students must submit homework by a given date.
-If it is not completed perfectly and on time, students are penalised.
+#### 従来の講義
 
-As a result, the primary objective becomes to do whatever is necessary to submit the homework in a perfect state, even if the student does not understand.
-The primary driver is external motivation provided by the teacher.
-After graduation, when the teacher is no-longer there, students find it harder to be innovative.
-It's difficult to study without external deadlines, to be motivated to study new things and to manage time appropriately.
+外発的動機付けの古典的な例は、学生が一定の期間内宿題に宿題を提出しなければならないということです。期間内に、かつ完璧にできていないと罰則を課されます。
 
-#### Challenge based active learning
-The thought process in a challenge based active learning course is very different.
-Typically, new challenges are released each week, and it is made clear to the students that getting something wrong is fine.
-In fact, they should come to the class with questions.
-Also, not completing all the challenges for a given week is fine.
-Students have control over their own learning.
+結果として、学生が科目の内容を理解していなくても、宿題をどうしても完璧な状態に提出することが最優先になります。教員からの外発的動機付けが第1の誘因になります。卒業後、教員がもう周りにいないとき、学生にとって革新的に行動するのを難しく感じます。外発的な締め切りなしに勉強することも、新しいことを勉強するモティベーションを見つけるのも、自分の時間を管理するのも難しいことです。
 
-The teacher stimulates student internal motivation to complete the challenges in a number of ways.
+#### チャレンジ解決型アクティブラーニング
 
-Firstly, it is made clear that students need specific knowledge to pass the final exam, and that this knowledge can be best gained by completing the given challenges.
+チャレンジ解決型アクティブラーニングを採用した科目の思考プロセスはかなり異なります。チャレンジは一般的に毎週公開され、間違えてもいいと学生にはっきり理解させます。逆に、教室に質問をしにきてほしいと思います。また、1週間分のチャレンジをすべて解決しなくても良いでしょう。学生は、自分の学習を管理できます。
 
-Secondly, the teacher stresses that challenges build upon each other, so the most efficient way of gaining the required knowledge is to complete all the challenges in sequence.
+教員は、いくつかの方法で学生を刺激し、チャレンジを解決する内発的モティベーションを持たせます。
 
-Thirdly, some variation in progress is fine over the short-term, however the date of the final exam cannot be moved so students need to keep pace over the course to complete everything in time.
+1. 学生は期末試験を合格するために必要な知識があり、チャレンジを解決することでその知識を得ることができる。
 
-Finally, students are reminded often of the usefulness of what they’re studying, both for their future study and career.
+2. チャレンジは常に前のチャレンジの理解を前提として企画されている。必要な知識を得るために一番効率的な方法はすべてのチャレンジを順番に解決すること。
 
-The motivation of students is now clearly associated with medium-to-long term goals (passing the final exam and future personal growth rather than short-term avoidance of penalties).
-Students learn to take responsibility for their learning, manage time better and develop internal motivation.
-Weaker students are encouraged by the positive learning environment, as students around them are seen to be progressing with the challenges and help them during discussion time.
-On the teacher’s side, less energy is wasted finding ways to motivate students externally.
+3. 途中で進捗に個人差が出ても問題ありませんが、期末試験の日付は動かないため、学生は試験までにすべてを解決できるように歩調を合わせなければなりません。
 
-### 2. Increasing motivation through efficient learning
+4. 勉強している内容の、以後の勉強と仕事にあたっての意義を、学生が頻繁に思い出されます。
 
-No-one knows how to optimise a student’s time better than the student herself.
-The quickest way to reduce students’ internal motivation is to block progress by forcing them to study inefficiently.
+学生のモティベーションは今、中・長期的な目標に明らかに結ばれています（短期的な罰則を避けることより期末試験を合格してさらに成長・発展すること）。学生は自分の学習の責任を持ち、学習時間をよりよく管理し、自発的モティベーションが育つことになります。学力の比較的低い学生も、周りの学生がチャレンジを進めてディスカッションの時間に助けてくれるので、前向きな学習環境に勇気付けられます。教員は、学生に外的な動機付けに労力を無駄にせずに済みます。
 
-#### Traditional teaching
-A typical example is to make a student listen to a long, sleep-inducing lecture about something they could understand more deeply and quickly by studying in their own time, or make the student study material about a subject that they already have mastery of.
+### 2. 効率的な学習でモティベーションを向上させる
 
-The result is that students do not feel they have control over their study, the subject is perceived as being less interesting than it really is and student internal motivation drops.
+学生の時間の効率的な使い方は、学生自身が一番わかっているはずです。学生の内発的モティベーションを下げるのに、非効率的に勉強させて進捗を防ぐことが一番早い方法です。
 
-#### Challenge based active learning
-Students spend more time on challenges they find hard and less on those they find easy.
-Thus their time is always optimised towards what they feel they need to study in more detail.
-For the challenges that a student finds easiest, they may not even need to refer to the suggested resources at all.
+#### 従来の教え方
 
-Furthermore, the timing of study is also put in the student’s control.
-With automatic instant feedback about correctness, students always have control of when they study.
-Late at night or early morning.
-Spending more time this week or next.
-If they’re behind, they don’t need to give up; they can catch up because they have not “missed” anything.
+古典的の例として、学生が自分で勉強した方が早く深い理解を得られる題目について長い、眠くなるような講義を聞かせること、すでに完全に理解している題目についての教材を勉強させることを挙げることができます。
 
-Finally, in the classroom students are deliberately paired with a suitable partner, enabling personalised instruction through peer instruction about topics they need most help with.
-It's always worth coming to class, however much progress they've made.
+学生は自分の学習を管理していない場合、科目は結果としてつまらなく感じられ、学生の内発的モティベーションが低下します。
 
-Thus, unless the student has finished all the challenges for that week, the student is never blocked from engaging with the course, and the student learns efficiently with high motivation.
+#### チャレンジ解決型アクティブラーニング
 
-## Summary
-Every teacher and cohort of students is different, and challenge based active learning is designed to provide a flexible framework to cater to different course styles.
-However the foundation for successful implementation will always promote the two key elements of student internal motivation and efficient study.
-Through this, challenge based active learning can improve the learning environment for both students and teachers alike.
+学生は難しいと感じたチャレンジにたっぷり時間を費やし、簡単と感じたチャレンジを短時間に解決します。こうして、学生は自ら詳しく勉強すべきと思った題目を優先として学習時間の管理を最適にしています。一番簡単と感じたチャレンジの取り組んだとき、参考資料を参照する必要もないかもしれません。
+
+さらに、勉強のタイミングも学生の手のひらに。チャレンジの正誤を瞬間的に確認できるため、学生は常に自分の勉強を管理できます。深夜でも早朝でも、今週時間をかけても来週時間をかけてもいいでしょう。何も見逃していないので追いつけます。遅れても諦めなくてもいい環境です。
+
+最後に、教室では学生が適切なパートナーと意図的に振り分けられる。ピア・インストラクションを通じて一番助けが必要な題目について個別指導を得られます。どんな進捗状況でも、授業に出席するが必ずあります。
+
+こうして、学生が今週分のチャレンジを全部解決した場合以外、生徒が科目に取り組むのに妨害がなく、学生は効率的に、いいモティベーションで勉強できるでしょう。
+
+## まとめ
+
+教員も学生のクラスも皆それぞれ異なり、チャレンジ解決型アクティブラーニングは様々な科目の教え方に対応できるように考えられた柔軟な枠組みです。しかし導入に成功する科目は必ず、学生の内発的モティベーションと効率的な勉強の二つの鍵を果たしています。これを通じて、チャレンジ解決型アクティブラーニングは生徒のためにも教員のためにも学習環境を改善できます。
