@@ -1,4 +1,5 @@
-{% for post in site.posts %}
+{% assign active_lang_posts=site.posts | where:"lang", site.active_lang %}
+{% for post in active_lang_posts %}
   {% if include.category %}
     {% if post.categories contains include.category %}
       {% assign shown = true %}
