@@ -9,10 +9,10 @@ position: 2
 heading: Aprendizaje activo basado en retos
 ---
 
-El aprendizaje se centra en una serie de retos, convirtiendo a alumnos principiantes poco a poco en expertos.
+El aprendizaje en ChallengeHub se centra en una serie de retos, convirtiendo a alumnos principiantes en expertos, paso a paso.
 
-Las logros pequeños pero frecuentes motivan a los alumnos, mientras escuchan explicaciones personalizadas de los conceptos más difíciles por parte de sus compañeros de clase.
+Logros pequeños pero frecuentes motivan a los alumnos, mientras escuchan explicaciones personalizadas de los conceptos más difíciles por parte de sus compañeros de clase.
 
-Con monitorización en tiempo real, el docente puede preparar la clase concentrándose en lo que cuenta realmente: dar explicaciones específicas sobre los temas que realmente interesan a los alumnos.
+Con monitorización en tiempo real, el docente puede preparar la clase concentrándose en lo que es relevante: dar explicaciones específicas sobre los temas que realmente interesan a los alumnos.
 
 ChallengeHub gestiona este entorno de aprendizaje activo de forma inteligente, para que el docente se pueda centrar en la propia asignatura.

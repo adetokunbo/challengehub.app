@@ -13,4 +13,4 @@ Después de investigar un poco, James tuvo claro que el aprendizaje activo era m
 
 La idea del aula invertida le parecía perfecta: los estudiantes estudian en preparación para la clase, y durante la misma colaboran conversando entre ellos sobre los conceptos. Pero pronto descubrió que la mayoría de los alumnos no preparaban las clases. El experimento fracasó.
 
-Entonces James se dio cuenta de que no quería que los alumnos leyeran. Quería que aprendieran. Y aprender significaba estudiar los conceptos en suficiente profundidad para responder preguntas. Así nació el aprendizaje activo orientado a retos.
+Entonces James se dio cuenta de que su objetivo no era que los alumnos leyeran. James quería que los alumnos aprendieran. Y aprender significaba estudiar los conceptos con suficiente profundidad para poder responder preguntas. Así nació el aprendizaje activo orientado a retos.

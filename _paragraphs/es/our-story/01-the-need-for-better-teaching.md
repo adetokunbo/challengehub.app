@@ -11,4 +11,4 @@ Alumnos durmiendo durante las clases o jugando con sus teléfonos móviles. ¿Te
 
 Al principio enseñaba de la misma manera que le habían enseñado a él: hablando mientras escribía en la pizarra, o pasando diapositivas con un proyector. Pero ver tantos alumnos aburridos le hizo darse cuenta de que tenía que haber una forma mejor.
 
-También había otros problemas. Cuando los alumnos se quedaban atascados en los deberes, nadie estaba con ellos para ayudarlos. Como docente, James se daba cuenta de que casi todo lo que decía lo podrían leer los alumnos por sí mismos. Dar la lección parecía un uso muy poco eficiente del tiempo de los estudiantes, así como del profesor.
+También había otros problemas. Cuando los alumnos se quedaban atascados en los deberes, nadie estaba con ellos para ayudarlos. Como docente, James se daba cuenta de que casi todo lo que le decía a los alumnos, ellos podrían leerlo por sí mismos. Dar la lección suponía un uso ineficiente del tiempo de los estudiantes, así como del profesor.
