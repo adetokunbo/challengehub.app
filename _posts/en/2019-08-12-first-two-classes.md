@@ -48,11 +48,7 @@ In addition, class 2 is important because it is the first week that students hav
 
 ### Class 2
 
-From the 2nd class, the teacher typically chooses to make use of automatic seating so that students are in a position to help each other during discussion through a process known as *peer instruction*.
-
-To facilitate this, ChallengeHub automatically informs students of their assigned desk.
-Since this is typically the first time students have been assigned a desk though ChallengeHub, the teacher may need to spend some time helping students find their desks.
-It is often useful to indicate on a projector or blackboard whether desk 1 starts at the left or the right, and whether row 1 is really the first row or if the students should leave some desks at the front empty.
+From the 2nd class, the teacher typically chooses to make use of automatic pairing so that students are in a position to help each other during discussion through a process known as *peer instruction*.
 
 Although not required, one useful tip is to distribute blank paper and have students fold it into thirds then write their name on one side so that the teacher can quickly identify those with whom one-to-one discussion is desired, or can cross-reference a name with a real-time view of that student’s progress during the class.
 

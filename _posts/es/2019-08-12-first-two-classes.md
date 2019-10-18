@@ -57,11 +57,6 @@ así que quedará claro si algún alumno ha tenido dificultades con el sistema.
 
 A partir de la segunda clase, el docente normalmente usa emparejamiento automático para que los alumnos puedan ayudarse unos a otros en el proceso llamado instrucción entre pares.
 
-Para facilitar esto, ChallengeHub informa automáticamente a los alumnos de cuál es su mesa.
-Como esta puede ser la primera vez que se les asigne una mesa a través de ChallengeHub,
-puede que el docente tenga que ayudar un poco a los alumnos a encontrar sus mesas.
-Suele ayudar indicar por medio del proyector o la pizarra si la mesa 1 es la primera por la derecha o por la izquierda, y si la primera fila es realmente la fila 1 o si, por el contrario, se deben dejar algunas de las primeras filas vacías.
-
 Aunque no es necesario, un truco es repartir folios en blanco y pedir a los alumnos que los doblen en tres y escriban su nombre en uno de los lados,
 para que el docente pueda encontrar rápidamente a los alumnos con los que quiere hablar, o para poder contrastar el nombre con la vista en tiempo real del progreso de dicho alumno durante la clase.
 
