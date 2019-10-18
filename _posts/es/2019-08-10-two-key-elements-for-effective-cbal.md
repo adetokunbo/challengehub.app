@@ -9,82 +9,92 @@ author_staff_member: james
 ref: 2019-08-10-two-key-elements-for-effective-cbal
 lang: es
 ---
-In a rapidly changing society, learners need to have the motivation and the ability to continuously learn new things and innovate, even after graduation.
-Unfortunately, traditional lecturing does not promote this.
-This is primarily because motivation is external, driven by teacher instructions rather than the internal motivation of a student’s desire for growth and development.
+En una sociedad que está cambiando tan rápidamente, los estudiantes necesitan motivación y la habilidad de aprender cosas nuevas e innovar continuamente, incluso después de graduarse.
+Desafortunadamente, las clases tradicionales no ayudan a satisfacer estas necesidades.
+Esto es mayormente porque la motivación es externa, dirigida por las instrucciones del docente en vez de por las motivaciones internas del alumno, y su deseo de crecer y desarrollarse.
 
-Typically, external motivation is achieved through imposing penalties upon students if they fail to carry out instructions perfectly.
-For example, homework must often be submitted by a certain time, and without any errors.
-This has the effect of focussing students’ minds on avoiding these penalties, and learning and personal development becomes a side effect.
-With students focussed more on passing tests than learning, this can in turn reduce the motivation of the teacher.
-After all, why make an effort to teach students well when their main focus is to tick all the boxes?
-This impacts teaching quality, leading to a cycle of lower motivation by both students and teachers.
+Normalmente, la motivación externa se consigue a través de imponer penalizaciones a los alumnos si no consiguen seguir las instrucciones a la perfección.
+Por ejemplo, los deberes se suelen tener que entregar en un momento determinado, y sin errores.
+Esto tiene el efecto de que las mentes de los alumnos se concentran en evitar dichas penalizaciones, y el aprendizaje y desarrollo personal se convierten en un efecto secundario.
+Y a su vez, con los alumnos más concentrados en aprobar exámenes que en aprender, la motivación del docente también puede quedar reducida.
+Después de todo ¿por qué hacer el esfuerzo de enseñar bien a los alumnos, cuando lo que les importa es únicamente completar lo que se les ha pedido?
+Esto tiene un impacto en la calidad de la enseñanza, llevando a un círculo vicioso que baja la motivación tanto de los alumnos como del docente.
 
-Challenge based active learning is designed to break out of this cycle, and ChallengeHub provides the platform to make this happen. To implement this successfully however, when designing a challenge based active learning course, the following key points should always be kept in mind:
+El aprendizaje activo basado en retos está diseñado para salir de este círculo vicioso. y ChallengeHub proporciona la plataforma para llevarlo a cabo.
+Sin embargo, para implementarlo con éxito, cuando planifiquemos una asignatura con aprendizaje activo basado en retos deberemos tener siempre en mente los siguientes puntos:
 
-1. Does the course promote internal (student-driven) motivation rather than external (teacher-driven) motivation?
-2. Is student learning efficient? Can students optimise their time?
+1. ¿Fomenta el curso la motivación interna (desde el alumno) en vez de la externa (desde el docente)?
+2. ¿Es el aprendizaje de los alumnos eficiente? ¿Pueden optimizar su tiempo?
 
-### 1. Promoting internal motivation
+### 1. Fomentar la motivación interna
 
-#### Traditional lecturing
-A typical example of external motivation is how students must submit homework by a given date.
-If it is not completed perfectly and on time, students are penalised.
+#### Las clases tradicionales
 
-As a result, the primary objective becomes to do whatever is necessary to submit the homework in a perfect state, even if the student does not understand.
-The primary driver is external motivation provided by the teacher.
-After graduation, when the teacher is no-longer there, students find it harder to be innovative.
-It's difficult to study without external deadlines, to be motivated to study new things and to manage time appropriately.
+Un ejemplo típico de motivación externa es cómo los alumnos tienen que entregar deberes antes de una fecha determinada.
+Si no se lleva a cabo la tarea a tiempo y sin errores, se penaliza a los alumnos.
 
-#### Challenge based active learning
-The thought process in a challenge based active learning course is very different.
-Typically, new challenges are released each week, and it is made clear to the students that getting something wrong is fine.
-In fact, they should come to the class with questions.
-Also, not completing all the challenges for a given week is fine.
-Students have control over their own learning.
+Como resultado, hacer lo que sea necesario para entregar la tarea a tiempo se convierte en el objetivo principal, aunque el alumno no haya entendido nada.
+El propulsor principal es la motivación externa proporcionada por el docente.
+Después de graduarse, cuando el docente ya no está ahí, os alumnos tienen dificultades para ser innovadores.
+Es difícil estudiar sin fechas límite externas, así como estar motivado para estudiar cosas nuevas y administrar el tiempo de manera apropiada.
 
-The teacher stimulates student internal motivation to complete the challenges in a number of ways.
+#### El aprendizaje activo basado en retos
 
-Firstly, it is made clear that students need specific knowledge to pass the final exam, and that this knowledge can be best gained by completing the given challenges.
+La forma de pensar del aprendizaje activo basado en retos es muy diferente.
+Normalmente, cada semana se lanzan nuevos retos, y se deja claro a los alumnos que no pasa nada por equivocarse en algunos.
+De hecho, deberían venir a clase con preguntas.
+Además, no pasa nada si no terminan todos los retos de la semana.
+Los alumnos tienen control sobre su propia enseñanza.
 
-Secondly, the teacher stresses that challenges build upon each other, so the most efficient way of gaining the required knowledge is to complete all the challenges in sequence.
+El docente estimula la motivación interna para completar los retos de varias maneras.
 
-Thirdly, some variation in progress is fine over the short-term, however the date of the final exam cannot be moved so students need to keep pace over the course to complete everything in time.
+Primero, se deja claro que los alumnos necesitarán ciertos conocimientos para pasar el examen final, y que la mejor forma de adquirir esos conocimientos es completar los retos.
 
-Finally, students are reminded often of the usefulness of what they’re studying, both for their future study and career.
+Segundo, el docente enfatiza que los retos se basan cada uno en el anterior, así que la forma más eficiente de adquirir los conocimientos necesarios es completarlos todos en orden.
 
-The motivation of students is now clearly associated with medium-to-long term goals (passing the final exam and future personal growth rather than short-term avoidance of penalties).
-Students learn to take responsibility for their learning, manage time better and develop internal motivation.
-Weaker students are encouraged by the positive learning environment, as students around them are seen to be progressing with the challenges and help them during discussion time.
-On the teacher’s side, less energy is wasted finding ways to motivate students externally.
+Tercero, a corto plazo no pasa nada porque haya algo de variación entre el progreso de los alumnos. Pero la fecha del examen no va a cambiar, y los alumnos tienen que mantener el paso a lo largo del curso para completarlo todo a tiempo.
 
-### 2. Increasing motivation through efficient learning
+Finalmente, se recuerda a menudo a los alumnos la utilidad de lo que están estudiando, tanto para sus estudios futuros como para su carrera profesional.
 
-No-one knows how to optimise a student’s time better than the student herself.
-The quickest way to reduce students’ internal motivation is to block progress by forcing them to study inefficiently.
+La motivación de los alumnos queda claramente asociada a metas a medio y largo plazo: aprobar el examen y futuro crecimiento personal, en vez de evitar penalizaciones a corto plazo.
+Los alumnos aprenden a hacerse responsables de su aprendizaje, a administrar mejor su tiempo, y a desarrollar una motivación interna.
+El entorno de aprendizaje positivo animará a los alumnos más flojos. Verán que los alumnos a su alrededor progresan con los retos, y los ayudan en las horas de discusión.
+Por el lado del docente, se desperdicia menos energía en encontrar maneras de motivar a los alumnos.
 
-#### Traditional teaching
-A typical example is to make a student listen to a long, sleep-inducing lecture about something they could understand more deeply and quickly by studying in their own time, or make the student study material about a subject that they already have mastery of.
+### 2. Aumentando la motivación con enseñanza eficiente
 
-The result is that students do not feel they have control over their study, the subject is perceived as being less interesting than it really is and student internal motivation drops.
+Nadie sabe cómo administrar el tiempo de los alumnos mejor que ellos mismos.
+La forma más rápida de reducir la motivación interna de los alumnos es bloquear su progreso forzándolos a estudiar de una forma ineficiente.
 
-#### Challenge based active learning
-Students spend more time on challenges they find hard and less on those they find easy.
-Thus their time is always optimised towards what they feel they need to study in more detail.
-For the challenges that a student finds easiest, they may not even need to refer to the suggested resources at all.
+#### La enseñanza tradicional
 
-Furthermore, the timing of study is also put in the student’s control.
-With automatic instant feedback about correctness, students always have control of when they study.
-Late at night or early morning.
-Spending more time this week or next.
-If they’re behind, they don’t need to give up; they can catch up because they have not “missed” anything.
+Un ejemplo típico es obligar a los alumnos a escuchar una larga y soporífera conferencia sobre algo que podrían entender de forma más rápida y profunda estudiándolo ellos a su ritmo.
+O hacerlos estudiar material sobre un tema que ya tienen dominado.
 
-Finally, in the classroom students are deliberately paired with a suitable partner, enabling personalised instruction through peer instruction about topics they need most help with.
-It's always worth coming to class, however much progress they've made.
+El resultado es que los alumnos no se sientan en control de su propio estudio.
+La asignatura se percibe como menos interesante que lo que en realidad es, y la motivación interna del alumno decae.
 
-Thus, unless the student has finished all the challenges for that week, the student is never blocked from engaging with the course, and the student learns efficiently with high motivation.
+#### El aprendizaje activo basado en retos
 
-## Summary
-Every teacher and cohort of students is different, and challenge based active learning is designed to provide a flexible framework to cater to different course styles.
-However the foundation for successful implementation will always promote the two key elements of student internal motivation and efficient study.
-Through this, challenge based active learning can improve the learning environment for both students and teachers alike.
+Los alumnos pasan más tiempo con los retos que encuentran más difíciles, y menos en los que les resultan más sencillos.
+Por lo tanto, su tiempo siempre está optimizado hacia aquello que les parece que tienen que estudiar con más detalle.
+Para los retos que cada alumno encuentre más fáciles, puede que ni siquiera tengan que consultar el material recomendado por el docente.
+
+Además, el momento en que se estudia también queda en manos del alumno.
+Como se puede saber si un reto está completado correctamente de forma inmediata, los alumnos siempre tienen control sobre cuándo estudian.
+Por la noche o por la mañana antes de clase,
+dedicarle más tiempo esta semana o la siguiente...
+Si se quedan atrás, no tienen por qué darse por vencidos:
+pueden ponerse al día porque no se han “perdido” nada.
+
+Por último, en el aula los alumnos se emparejan con un compañero adecuado, haciendo posible la enseñanza personalizada a través de instrucción entre pares acerca de los temas con los que necesitan más ayuda.
+Siempre vale la pena ir a clase, independientemente de lo que se haya progresado.
+
+Por lo tanto, a no ser que el alumno haya completado todos los retos de la presente semana, el alumno nunca queda bloqueado de trabajar la asignatura, y aprende de forma eficiente, altamente motivado.
+
+## Resumen
+
+Cada docente y grupo de estudiantes es distinto, y el aprendizaje activo basado en retos está diseñado para proporcionar una base flexible para facilitar cursos de cualquier estilo.
+Sin embargo, la base de cada implementación siempre fomentará los dos elementos clave:
+la motivación interna del alumno, y el estudio eficiente.
+A través de esto, el aprendizaje activo basado en retos puede mejorar el entorno académico tanto para los alumnos como para los docentes.

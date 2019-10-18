@@ -8,73 +8,88 @@ author_staff_member: james
 ref: 2019-08-12-first-two-classes
 lang: es
 ---
-In this post, we review the first two classes of a model course that uses ChallengeHub to facilitate challenge based active learning.
+En este artículo vamos a hablar de las dos primeras clases de una asignatura usando ChallengeHub, para facilitar el aprendizaje activo basado en retos.
 
-### Course preparation
+### Preparación de la asignatura
 
-In ChallengeHub, each group of challenges is called a *stint* and typically one stint is released (made visible to students) each class.
-There are usually 6 to 10 challenges per stint.
-The first stint will contain fewer challenges than later stints because there is less time for discussion in the first class.
+En ChallengeHub llamamos *stint* a cada grupo de retos, y normalmente se lanza un stint para cada clase, quedando esos retos disponibles para los alumnos.
+Normalmente hay entre 6 y 10 retos por stint, aunque el primer stint normalmente tendrá menos retos que los posteriores porque suele haber menos tiempo para la discusión entre alumnos en la primera clase.
 
-Prior to the start of the course a teacher prepares stints for the first two classes, with each timed to be released (made visible to the students) at the beginning of each class.
-The first stint will simply contain challenges but second stint will typically also include automatic pairing of students. This "pairing" facilitates *peer instruction*, whereby students are placed in small teams of two or three and learn by teaching each other.
+Antes de comenzar el curso el docente prepara stints para las dos primeras clases,
+cada uno temporizado para ser lanzado al principio de una de las clases.
+El primer stint simplemente contendrá retos, pero el segundo normalmente también incluirá emparejamiento automático de alumnos. Este emparejamiento facilita la instrucción entre pares, repartiéndose a los alumnos en equipos de dos o tres personas, y aprendiendo todos al ayudarse unos a otros.
 
-### Class 1
+### Primera clase
 
-The first class of the semester is special for any course, and the aim of this class is to explain the use of ChallengeHub and the nature of Challenge Based Active Learning to the students.
+La primera clase del semestre es especial para cada asignatura, y su objetivo es explicar a los alumnos el uso de ChallengeHub y cómo funciona el aprendizaje activo basado en retos.
 
-In this model, the teacher outlines the following to the students:
+En este modelo, el docente da una idea general de los siguientes puntos:
 
-- Why challenge based active learning is more effective and fun for the students than the traditional lecture style they are used to. After all, if students understand why they’re doing something, they’re more likely to engage with it.
-- Information about how to register for the course.
-- Highlight the [challenge log](/en/motivation/assessment/2019/08/11/the-challenge-log/) as an integral part of student participation.
-- Stress that challenges are different from homework. It’s *ok* to get things wrong and not complete all the challenges every week.
-- But, there will be a final exam and that this cannot be moved. The best way to prepare for the exam is to complete all the challenges and so in order to achieve a high grade the students are going to need to keep pace with the course.
-- Emphasise that the most efficient way to study is to try doing as many challenges as possible during the week, and then coming to class with questions.
-- Motivation for the course. Why is the course content interesting and useful? Giving students clear cause to study is a major motivator.
+- Por qué el aprendizaje activo basado en retos es más efectivo y entretenido para los alumnos que las clases tradicionales tipo conferencia a las que están acostumbrados.
+Después de todo, si el alumno entiende por qué está haciendo algo es más probable que se implique.
+- Información de cómo registrarse para el curso.
+- Subrayar el [cuaderno de retos](/es/motivación/evaluación/2019/08/11/the-challenge-log/) como un componente integral de la participación del alumno.
+- Subrayar que los retos son distintos de los deberes.
+No pasa nada por equivocarse, ni por no completar todos los retos de cada semana.
+- Pero habrá un examen final que no se va a retrasar. Así que la mejor forma de prepararse para el examen es completar todos los retos.
+Para conseguir una buena nota, los alumnos tendrán que estar al día con el curso.
+- Enfatizar que la forma más eficiente de estudiar es intentar hacer tantos retos como sea posible durante la semana, e ir a clase con preguntas preparadas.
+- Motivación para la asignatura. ¿Por qué es el contenido interesante y útil?
+Dar a los alumnos una razón clara para estudiar suele darles mucha motivación.
 
-Then, if there is time and students have smartphones or computers with them in class already, students may start to work on challenges. At the very least, for those who can, practising interaction with ChallengeHub can be useful. Otherwise, an overview highlighting important issues for the challenges that are released this week may be performed.
+Entonces, si queda tiempo y los alumnos han traído *smartphones* u ordenadores a clase, pueden empezar a trabajar sobre los retos.
+Como mínimo, para quien sea posible, practicar la interacción con ChallengeHub puede ser útil.
+Si no, se puede dar una idea general de los puntos más importantes de los retos de la semana.
 
-### Preparation for class 2
+### Preparación para la segunda clase
 
-Before this and every subsequent class, the teacher will review student progress through the challenges.
+Antes de esta clase y todas las que vengan después, el docente revisará el progreso de los alumnos en los retos.
 
-- What challenges did students find particularly difficult? Is a short explanation about a particular challenge required?
-- What do I *not* need to talk about?
-- What questions are likely to come up?
-- How much progress has been made? Is the planned number of challenges for the following week appropriate?
+- ¿Qué retos encontraron especialmente difíciles? ¿Se necesita una breve explicación de alguno de ellos?
+- ¿De qué *no es necesario* hablar?
+- ¿Qué preguntas es probable que salgan?
+- ¿Cuánto han progresado? ¿Es apropiado el número de retos programados para la semana siguiente?
 
-In addition, class 2 is important because it is the first week that students have been using ChallengeHub, so it will become apparent if any students had any difficulties with it.
+Además, la segunda clase es importante porque es la primera semana que los alumnos han estado usando ChallengeHub,
+así que quedará claro si algún alumno ha tenido dificultades con el sistema.
 
-### Class 2
+### Segunda clase
 
-From the 2nd class, the teacher typically chooses to make use of automatic seating so that students are in a position to help each other during discussion through a process known as *peer instruction*.
+A partir de la segunda clase, el docente normalmente usa emparejamiento automático para que los alumnos puedan ayudarse unos a otros en el proceso llamado instrucción entre pares.
 
-To facilitate this, ChallengeHub automatically informs students of their assigned desk.
-Since this is typically the first time students have been assigned a desk though ChallengeHub, the teacher may need to spend some time helping students find their desks.
-It is often useful to indicate on a projector or blackboard whether desk 1 starts at the left or the right, and whether row 1 is really the first row or if the students should leave some desks at the front empty.
+Para facilitar esto, ChallengeHub informa automáticamente a los alumnos de cuál es su mesa.
+Como esta puede ser la primera vez que se les asigne una mesa a través de ChallengeHub,
+puede que el docente tenga que ayudar un poco a los alumnos a encontrar sus mesas.
+Suele ayudar indicar por medio del proyector o la pizarra si la mesa 1 es la primera por la derecha o por la izquierda, y si la primera fila es realmente la fila 1 o si, por el contrario, se deben dejar algunas de las primeras filas vacías.
 
-Although not required, one useful tip is to distribute blank paper and have students fold it into thirds then write their name on one side so that the teacher can quickly identify those with whom one-to-one discussion is desired, or can cross-reference a name with a real-time view of that student’s progress during the class.
+Aunque no es necesario, un truco es repartir folios en blanco y pedir a los alumnos que los doblen en tres y escriban su nombre en uno de los lados,
+para que el docente pueda encontrar rápidamente a los alumnos con los que quiere hablar, o para poder contrastar el nombre con la vista en tiempo real del progreso de dicho alumno durante la clase.
 
-After students are seated, if the teacher desires, they can now perform a short targeted explanation, covering any challenges that the students had difficulty with, or perhaps to motivate the next topic.
-This also serves to “start” the class and focus the students’ minds on the subject.
-The class then turns to discussion time.
+Después de que se hayan sentado los alumnos, el docente puede decidir dar una pequeña explicación sobre un tema específico,
+cubriendo retos en los que los alumnos hayan tenido dificultades,
+o posiblemente para motivarlos para el próximo tema.
+Esto también sirve para “empezar” la clase y hacer que los alumnos se centren en la asignatura.
+El resto de la clase se dedica a la discusión.
 
-During discussion time, students discuss difficulties and help each other.
-Since students may not be used to this, they may be reticent to start.
-A typical “ice-breaker” is to give students 2 minutes to write down the one thing that their partner found most difficult about the past week’s challenges.
+Durante el tiempo de discusión, los alumnos conversan sobre las dificultades que van encontrando, y se ayudan unos a otros.
+Puede que no estén acostumbrados a esto y les cueste empezar, así que una buena táctica para romper el hielo es darles dos minutos para que escriban qué es lo que su compañero encontró más difícil de entre los retos de la semana anterior.
 
-Students then discuss difficulties with each other, while the teacher circulates around class. This is an opportunity for the teacher to listen in on the conversations that are taking place, talk with individual students and answer any questions.
+Entonces, los alumnos discuten sus dificultades entre ellos,
+mientras el docente se pasea por la clase.
+Es una buena oportunidad para escuchar sus conversaciones,
+hablar con algunos de ellos, y responder sus preguntas.
 
-The teacher typically releases new challenges at the beginning of the class, so that any students that have completed all the challenges and have nothing further to discuss may start working on new challenges.
-Any challenges that are not completed by the end of the class remain as homework.
-The most able students may finish most challenges by the end of the class.
+El docente suele lanzar los nuevos retos al principio de la clase,
+así que los alumnos que hayan completado todos los retos anteriores y no tengan nada más de qué hablar pueden empezar con los nuevos retos.
+Los retos que no se completen durante la clase quedan como tarea.
+Los alumnos más capaces pueden completar casi todos los retos antes del final de la clase.
 
-### Class N
+### Enésima clase
 
-Finally, remember that there will inevitably be bumps along the way, as the teacher finds what works best for him or her personally.
-This is the nature of innovation.
-Keep learning from your experience and iterate over time to achieve a better experience for students and teacher alike.
-Always keep in mind the [key elements for effective challenge based active learning](/en/motivation/2019/08/10/two-key-elements-for-effective-cbal/): Are students more internally motivated?
-Is students’ study more efficient?
-If the answer to these questions is yes, then you’re on the right path.
+Finalmente, recuerda que seguramente habrá imprevistos mientras el docente busca lo que funciona mejor para él personalmente.
+Así es como funciona la innovación.
+Sigue aprendiendo de tu uso del sistema e iterando para alcanzar una experiencia más rica tanto para los alumnos como para el docente.
+Y mantén en mente las [dos claves para el aprendizaje activo basado en retos](/es/motivación/2019/08/10/two-key-elements-for-effective-cbal/):
+¿están los alumnos más motivador de forma interna?
+¿es su estudio más eficiente?
+Si la respuesta a estas preguntas es sí, vas por buen camino.
