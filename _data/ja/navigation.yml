@@ -6,6 +6,10 @@
   link: /our-story/
   new_window: false
   highlight: false
+- name: ブログ
+  link: /blog/
+  new_window: false
+  highlight: false
 - name: はじめましょう
   link: /quickstart/
   new_window: false
