@@ -1,0 +1,32 @@
+---
+header:
+  - title: Active learning
+    url: /active-learning/
+    identifier: active-learning
+    weight: 1
+  - title: Our story
+    url: /our-story/
+    identifier: our-story
+    weight: 2
+  - title: Blog
+    url: /blog/
+    identifier: blog
+    weight: 3
+  - title: Get started
+    url: /quickstart/
+    identifier: quickstart
+    weight: 4
+  - title: Language
+    url: /language/
+    identifier: language
+    weight: 5
+    children:
+      - title: Japanese
+        url: /ja/
+        identifier: ja
+        parent: language
+      - title: Spanish
+        url: /es/
+        identifier: es
+        parent: language
+---
