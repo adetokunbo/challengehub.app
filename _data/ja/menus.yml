@@ -1,20 +1,27 @@
 ---
 header:
-  - title: Active learning
+  - title: アクティブラーニング
     url: /active-learning/
     identifier: active-learning
+    new_window: false
+    highlight: false
     weight: 1
-  - title: Our story
+  - title: これまでの経緯
     url: /our-story/
     identifier: our-story
+    new_window: false
+    highlight: false
     weight: 2
-  - title: Blog
+  - title: ブログ
     url: /blog/
     identifier: blog
+    new_window: false
+    highlight: false
     weight: 3
-  - title: Get started
+  - title: はじめましょう
     url: /quickstart/
     identifier: quickstart
+    new_window: false
     highlight: true
     weight: 4
 ---

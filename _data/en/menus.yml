@@ -1,0 +1,27 @@
+---
+header:
+  - title: Active learning
+    url: /active-learning/
+    identifier: active-learning
+    new_window: false
+    highlight: false
+    weight: 1
+  - title: Our story
+    url: /our-story/
+    identifier: our-story
+    new_window: false
+    highlight: false
+    weight: 2
+  - title: Blog
+    url: /blog/
+    identifier: blog
+    new_window: false
+    highlight: false
+    weight: 3
+  - title: Get started
+    url: /quickstart/
+    identifier: quickstart
+    new_window: false
+    highlight: true
+    weight: 4
+---
