@@ -3,7 +3,7 @@
   <a class="editor-link btn" href="cloudcannon:collections/_data/navigation.yml" class="btn"><strong>&#9998;</strong> Edit navigation</a>
 
   {%- assign links=site.data.navigation -%}
-  {%- for link in links -%}
+  {%- for link in site.menus.header -%}
     {%- assign class = "" -%}
     {%- if link.highlight -%}
       {%- assign class = class | append: " highlight" -%}
@@ -13,7 +13,7 @@
       {%- assign class = class | append: " active" -%}
     {%- endif -%}
 
-      <a href="{{ link.link }}" class="{{ class }}" {% if link.new_window %}target="_blank"{% endif %}>{{ link.name }}</a>
+      <a href="{{ link.url }}" class="{{ class }}" {% if link.new_window %}target="_blank"{% endif %}>{{ link.title }}</a>
   {% endfor %}
 
   {% assign switch_lang=site.data.other_lang[site.active_lang] %}
@@ -26,28 +26,3 @@
   {%- endif -%}
 
 </nav>
-
-<ul>
-{% for item in site.menus.header %}
-  <li class="menu-item-{{ loop.index }}">
-    <a href="{{ item.url }}" title="Go to {{ item.title }}">{{ item.title }}</a>
-    {% if item.children %}
-      <ul class="sub-menu">
-      {% for item in item.children %}
-        <li class="menu-item-{{ loop.index }}">
-          <a href="{{ item.url }}" title="Go to {{ item.title }}">{{ item.title }}</a>
-        </li>
-      {% endfor %}
-      </ul>
-    {% endif %}
-  </li>
-{% endfor %}
-</ul>
-<hr>
-<h4>
-  Menu hierarchy seems right on the menu object (below),
-  but the children property is empty when looping through the items (above).
-  <br>
-  While researching, I found forestryio/jekyll-menus#14 and it seems to be what's happening here.
-</h4>
-{{ site.menus.header.menu }}

@@ -15,18 +15,6 @@ header:
   - title: Get started
     url: /quickstart/
     identifier: quickstart
+    highlight: true
     weight: 4
-  - title: Language
-    url: /language/
-    identifier: language
-    weight: 5
-    children:
-      - title: Japanese
-        url: /ja/
-        identifier: ja
-        parent: language
-      - title: Spanish
-        url: /es/
-        identifier: es
-        parent: language
 ---
