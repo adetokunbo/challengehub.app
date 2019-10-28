@@ -8,4 +8,4 @@ position: 7
 
 チャレンジを作成できました。お疲れ様です！
 
-もういくつかのチャレンジを準備でき次第、それらを使った[コースを作成]({{ site.baseurl }}/quickstart/first-course/)できるでしょう。
+もういくつかのチャレンジを準備できたら、それらを使った[コースを作成]({{ site.baseurl }}/quickstart/first-course/)しましょう。
