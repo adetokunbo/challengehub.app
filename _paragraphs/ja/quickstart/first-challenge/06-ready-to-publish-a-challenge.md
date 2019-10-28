@@ -6,6 +6,6 @@ page_name: quickstart/first-challenge
 position: 6
 ---
 
-この段階で、画面右下の*Publish challenge*をクリックしてチャレンジを公開することができます。
+この段階で、画面右下の*Publish challenge*をクリックするとチャレンジを公開することができます。
 
 確認の画面が出てきますので、チャレンジを公開するには「publish」と入力してください。

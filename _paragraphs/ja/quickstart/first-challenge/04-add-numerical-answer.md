@@ -5,4 +5,4 @@ page_name: quickstart/first-challenge
 position: 4
 ---
 
-この例では、学生がこのチャレンジを解決するために、-1との回答をしてもらいます。
+この例では、学生が-1と回答するとチャレンジが解決します。
