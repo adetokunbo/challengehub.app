@@ -32,7 +32,7 @@ collections:
   paragraphs:
     _hide_content: true
 
-permalink: /:year/:month/:day/:title:output_ext
+permalink: /:year/:month/:day/:title
 
 defaults:
   -
