@@ -45,7 +45,7 @@ Enable pushing to heroku:
 - [Docs on using git to push to Heroku](https://devcenter.heroku.com/articles/git#deploying-code)
 
 ~~~bash
-$ heroku git:remote -a challengehub-app-web # tell heroku where to push
+$ heroku git:remote -a challengehub-webapp # tell heroku where to push
 $
 $ # Once changes are merged into the master branch, push as described in the docs
 $ git push heroku master 
