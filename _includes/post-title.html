@@ -9,10 +9,10 @@
     {% endif %}
   {% endfor %}
   <span class="post-date">
-    {{ include.post.date | date: "%B %d, %Y" }}
+    {{ include.post.date | date: site.data.blog_info.date_format }}
     {% if include.post.reading_minutes %}
       <br>
-      {{ include.post.reading_minutes }} minute read
+      {{ site.data.blog_info.minute_read | replace_first: '$$MINUTES$$', include.post.reading_minutes }}
     {% endif %}
   </span>
 </p>

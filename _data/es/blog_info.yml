@@ -1,2 +1,4 @@
 title: Blog
 description: Aprendizaje activo y consejos para el uso de ChallengeHub
+minute_read: Se lee en $$MINUTES$$ minutos
+date_format: "%-d/%-m/%Y"
