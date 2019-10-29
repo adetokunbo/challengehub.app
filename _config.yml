@@ -33,6 +33,7 @@ collections:
     _hide_content: true
 
 permalink: /:year/:month/:day/:title
+post_dirs: false
 
 defaults:
   -
