@@ -34,3 +34,8 @@
   {%- endfor -%}<br>
 
 </nav>
+
+{%- for item in the_collection -%}
+{{item.ref}} {{item.lang}}
+<br>
+{%- endfor -%}
