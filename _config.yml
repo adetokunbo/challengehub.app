@@ -32,7 +32,7 @@ collections:
   paragraphs:
     _hide_content: true
 
-permalink: /:year/:month/:day/:title
+permalink: /:year/:month/:day/:title/
 post_dirs: false
 
 defaults:
