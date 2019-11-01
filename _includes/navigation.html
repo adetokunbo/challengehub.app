@@ -15,6 +15,7 @@
     <a href="{{ link.url }}" class="{{ class }}" {% if link.new_window %}target="_blank"{% endif %}>{{ link.title }}</a>
   {%- endfor -%}
 
+  {%- if site.languages contains site.active_lang -%}
   <span class="choose-language">
     <span class="dropdown-button">
       &#9660; {{ site.data.languages[site.active_lang].name }} &#x1f310;
@@ -40,4 +41,5 @@
       {%- endfor -%}
     </div>
   </span>
+  {%- endif -%}
 </nav>
