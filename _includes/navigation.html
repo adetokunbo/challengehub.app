@@ -17,16 +17,25 @@
 
   <span class="choose-language">
     <span class="dropdown-button">
-      &#9660; {{ site.data.languages[site.active_lang] }} &#x1f310;
+      &#9660; {{ site.data.languages[site.active_lang].name }} &#x1f310;
     </span>
     <div class="dropdown-content">
       {%- for lang in site.languages -%}
         {%- if lang != site.active_lang -%}
+          {%- assign showLink = true -%}
+          {%- if site.data.languages[lang].missing -%}
+            {%- assign missing = site.data.languages[lang].missing | where: "url", page.url -%}
+            {%- if missing[0].url == page.url -%}
+              {%- assign showLink = false -%}
+            {%- endif; -%}
+          {%- endif; -%}
           <!--  N.B. The space at the start href is intentional -->
           <!--  It's how polyglot knows not to relativise the link -->
+          {%- if showLink -%}
           <a href=" {{ site.baseurl }}/{{ lang }}{{ page.url }}" class="{{ item.lang }} chose-language">
-            {{ site.data.languages[lang] }}
+            {{ site.data.languages[lang].name }}
           </a>
+          {%- endif; -%}
         {%- endif; -%}
       {%- endfor -%}
     </div>

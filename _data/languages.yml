@@ -1,7 +1,17 @@
-en: English
-ja: 日本語
-es: Español
-fr: Français
-de: Deutsch
-it: Italiano
-zh: 中文
+en:
+  name: English
+ja:
+  name: 日本語
+es:
+  name: Español
+  missing:
+    - url: /documentation/signup-with-github/
+    - url: /2019/08/12/first-two-classes/
+fr:
+  name: Français
+de:
+  name: Deutsch
+it:
+  name: Italiano
+zh:
+  name: 中文
