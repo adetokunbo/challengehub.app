@@ -6,7 +6,6 @@ es:
   name: Español
   missing:
     - url: /documentation/signup-with-github/
-    - url: /2019/08/12/first-two-classes/
 fr:
   name: Français
 de:
