@@ -100,7 +100,8 @@ nav {
 		text-align: center;
 		cursor: pointer;
 		margin: 0;
-		padding: 10px;
+		padding: 0 10px 10px 10px;
+		color: rgba(255, 255, 255, 0.8);
 	}
 	.dropdown-content {
 		display: none;
@@ -111,7 +112,7 @@ nav {
 		z-index: 1;
 	}
 	.dropdown-content a {
-		color: #000000;
+		color: #666666;
 		margin: 0;
 		text-decoration: none;
 		display: block;
@@ -120,7 +121,6 @@ nav {
 		min-width: 100px;
 		&:hover {
 			background-color: $light-warm-color;
-			color: black;
 		}
 	}
 
