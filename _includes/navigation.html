@@ -24,7 +24,7 @@
         {%- if lang != site.active_lang -%}
           <!--  N.B. The space at the start href is intentional -->
           <!--  It's how polyglot knows not to relativise the link -->
-          <a href=" {{ site.baseurl }}/{{ lang }}/{{ page.url }}" class="{{ item.lang }} chose-language">
+          <a href=" {{ site.baseurl }}/{{ lang }}{{ page.url }}" class="{{ item.lang }} chose-language">
             {{ site.data.languages[lang] }}
           </a>
         {%- endif; -%}
