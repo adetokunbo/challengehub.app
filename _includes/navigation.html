@@ -3,7 +3,7 @@
   <a class="editor-link btn" href="cloudcannon:collections/_data/navigation.yml" class="btn"><strong>&#9998;</strong> Edit navigation</a>
 
   {%- assign links=site.data.navigation -%}
-  {%- for link in links -%}
+  {%- for link in site.menus.header -%}
     {%- assign class = "" -%}
     {%- if link.highlight -%}
       {%- assign class = class | append: " highlight" -%}
@@ -13,7 +13,7 @@
       {%- assign class = class | append: " active" -%}
     {%- endif -%}
 
-      <a href="{{ link.link }}" class="{{ class }}" {% if link.new_window %}target="_blank"{% endif %}>{{ link.name }}</a>
+      <a href="{{ link.url }}" class="{{ class }}" {% if link.new_window %}target="_blank"{% endif %}>{{ link.title }}</a>
   {% endfor %}
 
   {% assign switch_lang=site.data.other_lang[site.active_lang] %}
