@@ -18,7 +18,7 @@
   {%- if site.languages contains site.active_lang -%}
   <span class="choose-language">
     <span class="dropdown-button">
-      &#9660; {{ site.data.languages[site.active_lang].name }} &#x1f310;
+      {{ site.data.languages[site.active_lang].name }} <i class="fas fa-globe"></i> <i class="fas fa-angle-down"></i>
     </span>
     <div class="dropdown-content">
       {%- for lang in site.languages -%}
