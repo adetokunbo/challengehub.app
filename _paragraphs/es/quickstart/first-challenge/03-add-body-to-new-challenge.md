@@ -5,7 +5,7 @@ page_name: quickstart/first-challenge
 position: 3
 ---
 
-Después, escribe tu reto en detalle en la parte izquireda. La parte derecha es una vista previa con todo el formato aplicado.
+Después, escribe tu reto en detalle en la parte izquierda. La parte derecha es una vista previa con todo el formato aplicado.
 
 En este ejemplo se va a requerir una respuesta numérica, así que las unidades de la respuesta se especifican en el la sección "Formato de la solución" (*Solution Form* en la imagen).
 

@@ -1,5 +1,5 @@
 ---
-image_alt: Enter details of your course
+image_alt: Introduce la información necesaria sobre tu curso
 image_path: quickstart/enter-new-course-details.jpg
 lang: es
 page_name: quickstart/first-course

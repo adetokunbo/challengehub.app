@@ -8,4 +8,4 @@ position: 7
 
 ¡Enhorabuena! Has añadido un reto a tu biblioteca.
 
-Añade algunos retos más a tu biblioteca, y cuando estés listo puedes intentar [crear un curso]({{ site.baseurl }}/quickstart/first-course/) con ellos.
+Añade algunos retos más a tu biblioteca, y cuando estés listo puedes [crear un curso]({{ site.baseurl }}/quickstart/first-course/) con ellos.

@@ -5,4 +5,4 @@ page_name: quickstart/first-challenge
 position: 2
 ---
 
-Primero, en la parte superior de la página, escribe un título para el reto.
+Primero escribe un título para el reto en la parte superior de la página.
