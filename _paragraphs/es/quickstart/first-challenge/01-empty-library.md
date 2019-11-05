@@ -8,4 +8,4 @@ position: 1
 
 Selecciona *Challenge Library* en el menú (&#x2630;).
 
-Para añadir un nuevo reto a tu biblioteca, haz clic en *Add new challenge*.
+Para añadir un nuevo reto, haz clic en *Add new challenge*.

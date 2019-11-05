@@ -15,5 +15,4 @@ La dinámica es:
 2. Crear un curso nuevo usando esos retos
 {:.quickstart-workflow}
 
-Empecemos [creando tu primer reto]({{ site.baseurl }}/quickstart/first-challenge/).
-Si ya tienes unos cuantos retos, puedes [crear un curso]({{ site.baseurl }}/quickstart/first-course/) directamente.
+Empieza [creando tu primer reto]({{ site.baseurl }}/quickstart/first-challenge/). Cuando hayas creado suficientes retos, puedes [crear un curso]({{ site.baseurl }}/quickstart/first-course/) a partir de ellos.
