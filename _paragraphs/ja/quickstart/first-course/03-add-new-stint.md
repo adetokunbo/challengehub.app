@@ -5,4 +5,4 @@ page_name: quickstart/first-course
 position: 3
 ---
 
-*Challenges*（チャレンジ）タブを選択し、*Add a new stint*（新規スティントを追加）をクリックしてください。
+*Challenges*（チャレンジ）タブを選択し、*Add a new stint*（新規セットを追加）をクリックしてください。
