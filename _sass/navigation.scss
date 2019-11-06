@@ -93,10 +93,8 @@ nav {
 		}
 	}
 	.choose-language:hover .dropdown-content {
-		@media #{$mid-point} {
-			display: block;
-			transition: .2s ease-in-out;
-		}
+		display: block;
+		transition: .2s ease-in-out;
 	}
 	.choose-language .dropdown-content-display {
 		display: block;

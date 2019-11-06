@@ -47,8 +47,7 @@
   document.addEventListener("DOMContentLoaded", function() {
     var button = document.querySelector('.dropdown-button');
     var dropdownContent = document.querySelector('.dropdown-content');
-    const mq = window.matchMedia( "(min-width: 620px)" );
-    if (!mq.matches) {
+    if ('ontouchstart' in document.documentElement) {
       document.querySelector('.choose-language').addEventListener('click', function() {
         if (dropdownContent.classList.contains('dropdown-content-display')) {
           dropdownContent.classList.remove('dropdown-content-display');
