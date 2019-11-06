@@ -48,16 +48,15 @@
     var button = document.querySelector('.dropdown-button');
     var dropdownContent = document.querySelector('.dropdown-content');
     const mq = window.matchMedia( "(min-width: 620px)" );
-    if (mq.matches) {
-      console.log("window width >= 620px");
-    } else {
-      console.log("window width < 620px");
+    if (!mq.matches) {
       document.querySelector('.choose-language').addEventListener('click', function() {
         if (dropdownContent.classList.contains('dropdown-content-display')) {
           dropdownContent.classList.remove('dropdown-content-display');
+          dropdownContent.classList.add('dropdown-content-hide');
           button.classList.remove('choose-language-toggled');
         } else {
           dropdownContent.classList.add('dropdown-content-display');
+          dropdownContent.classList.remove('dropdown-content-hide');
           button.classList.add('choose-language-toggled');
         }
       });

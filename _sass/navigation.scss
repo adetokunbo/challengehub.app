@@ -92,9 +92,18 @@ nav {
 			display: inline-block;
 		}
 	}
-	.choose-language:hover .dropdown-content, 
+	.choose-language:hover .dropdown-content {
+		@media #{$mid-point} {
+			display: block;
+			transition: .2s ease-in-out;
+		}
+	}
 	.choose-language .dropdown-content-display {
 		display: block;
+		transition: .2s ease-in-out;
+	}
+	.choose-language .dropdown-content-hide {
+		display: none!important;
 		transition: .2s ease-in-out;
 	}
 	.dropdown-button {
