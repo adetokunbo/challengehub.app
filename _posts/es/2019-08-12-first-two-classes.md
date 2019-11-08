@@ -28,7 +28,7 @@ En este modelo, el docente da una idea general de los siguientes puntos:
 - Por qué el aprendizaje activo basado en retos es más efectivo y entretenido para los alumnos que las clases tradicionales tipo conferencia a las que están acostumbrados.
 Después de todo, si el alumno entiende por qué está haciendo algo es más probable que se implique.
 - Información de cómo registrarse para el curso.
-- Subrayar el [cuaderno de retos](/es/motivación/evaluación/2019/08/11/the-challenge-log/) como un componente integral de la participación del alumno.
+- Subrayar el [cuaderno de retos](/es/2019/08/11/the-challenge-log/) como un componente integral de la participación del alumno.
 - Subrayar que los retos son distintos de los deberes.
 No pasa nada por equivocarse, ni por no completar todos los retos de cada semana.
 - Pero habrá un examen final que no se va a retrasar. Así que la mejor forma de prepararse para el examen es completar todos los retos.
@@ -84,7 +84,7 @@ Los alumnos más capaces pueden completar casi todos los retos antes del final d
 Finalmente, recuerda que seguramente habrá imprevistos mientras el docente busca lo que funciona mejor para él personalmente.
 Así es como funciona la innovación.
 Sigue aprendiendo de tu uso del sistema e iterando para alcanzar una experiencia más rica tanto para los alumnos como para el docente.
-Y mantén en mente las [dos claves para el aprendizaje activo basado en retos](/es/motivación/2019/08/10/two-key-elements-for-effective-cbal/):
+Y mantén en mente las [dos claves para el aprendizaje activo basado en retos](/es/2019/08/10/two-key-elements-for-effective-cbal/):
 ¿están los alumnos más motivador de forma interna?
 ¿es su estudio más eficiente?
 Si la respuesta a estas preguntas es sí, vas por buen camino.
