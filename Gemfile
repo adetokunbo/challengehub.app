@@ -4,9 +4,10 @@ ruby '2.6.3'
 
 gem 'bundler'
 gem 'jekyll', '3.7.2'
-gem 'rack-jekyll'
+gem 'rack'
 gem 'rack-rewrite'
 gem 'rake'
+gem 'rack-contrib'
 gem 'jekyll-theme-minimal'
 
 group :jekyll_plugins do
