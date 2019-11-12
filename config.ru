@@ -15,8 +15,8 @@ use Rack::TryStatic,
   root: '_site',
   try: ['.html', 'index.html', '/index.html'],
   header_rules: [
-    [:all, {'Cache-Control' => 'public, max-age=86400 s-maxage=10800', 'Vary' => 'Accept-Encoding'}],
-    [['png', 'svg', 'jpg', 'jpeg'], {'Cache-Control' => 'public, max-age=31536000 s-maxage=10800'}]
+    [:all, {'Cache-Control' => 'public, max-age=86400, s-maxage=86400', 'Vary' => 'Accept-Encoding'}],
+    [['png', 'svg', 'jpg', 'jpeg'], {'Cache-Control' => 'public, max-age=31536000, s-maxage=31536000'}]
   ]
 
   run lambda { |env|
