@@ -1,5 +1,5 @@
 ---
-cta_label: Learn more
+cta_label: More about active learning
 cta_link: /active-learning/
 image_alt: Screenshot
 image_path: front/cbal-cycle.svg
