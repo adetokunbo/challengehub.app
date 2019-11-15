@@ -3,6 +3,7 @@ cta_label: More about student interaction
 cta_link: /student-interaction/
 image_alt: Screenshot
 image_path: student-interaction/student-interaction-line.jpg
+image_css_classes: paragraph-image-left
 lang: en
 page_name: index
 position: 3

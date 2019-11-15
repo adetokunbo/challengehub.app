@@ -1,7 +1,7 @@
 ---
 heading: How students enroll in a ChallengeHub course
 image_alt: List of challenges
-image_css_classes: paragraph-image-right
+image_css_classes: paragraph-image-left
 image_path: student-interaction/teacher-ui-enrollment.jpg
 lang: en
 page_name: student-interaction
