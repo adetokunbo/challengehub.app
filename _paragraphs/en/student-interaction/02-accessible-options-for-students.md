@@ -1,7 +1,7 @@
 ---
 heading: Accessible options for students
 image_alt: The students' mail user interface
-image_css_classes: paragraph-image-left
+image_css_classes: paragraph-image-right
 image_precedes_text: false
 image_path: student-interaction/student-ui-mail.jpg
 lang: en

@@ -57,6 +57,9 @@ img.framed-image {
 
 img.responsive-image {
   max-width: 100%;
+  @media #{$mid-point} {
+    max-width: auto;
+  }
 }
 
 br.hide-on-mobile {
@@ -102,11 +105,17 @@ div.paragraph-image-right {
 div.paragraph-image-right > img {
   max-height: 600px;
   width: auto;
+  @media #{$mid-point} {
+    max-height: 500px;
+  }
 }
 
 div.paragraph-image-left > img {
   max-height: 600px;
   width: auto;
+  @media #{$mid-point} {
+    max-height: 500px;
+  }
 }
 
 ol.quickstart-workflow li {
