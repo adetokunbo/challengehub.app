@@ -5,4 +5,4 @@ page_name: documentation/signup-with-github
 position: 9
 ---
 
-ここまでできたら、ChallengeHubをご利用いただけます。まずは「[https://challenge-hub.com](https://challenge-hub.com){:target="_blank"}」で「__Sign in__」（サインイン）をクリックしてください。
+ここまでできたら、ChallengeHubをご利用いただけます。まずは「[dash.challengehub.app](https://dash.challengehub.app){:target="_blank"}」で「__Sign in__」（サインイン）をクリックしてください。
