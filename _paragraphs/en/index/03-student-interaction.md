@@ -7,11 +7,13 @@ image_css_classes: paragraph-image-left
 lang: en
 page_name: index
 position: 3
-heading: A flexible and unobtrusive student interface
+heading: Introducing ChallengeBot
 ---
 
-Your students don't need to have a password or even log into our system. They don't need to go to our website or download a specific app either. Students can just chat to ChallengeBot through a well-known instant messaging platform of their choice, including email.
+ChallengeBot is your active learning TA, providing students with instant feedback, monitoring progress and managing the in-class active-learning environment.
 
-ChallengeBot is available 24/7 and will hand any challenges out to them, remember their progress, and tell them if they got the challenges right or not. This enables them to work on the subject at any time they have available, while having instant feedback.
+Students interact with ChallengeBot through email or an instant messaging platform they're probably already familiar with. No passwords to forget or unfamiliar apps to download.
 
-They are dealing with ChallengeBot, not the teacher himself or herself, so that's also one less friction point.
+ChallengeHub intelligently manages the active learning environment, freeing the teacher to focus on the subject in hand.
+
+You shouldn't need to be an expert in active learning to use active learning.
