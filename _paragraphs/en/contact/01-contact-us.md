@@ -14,7 +14,6 @@ To make an invitation request for a ChallengeHub account, please send an email f
 - Your full name and affiliation
 - The name of your course
 - The course website or your personal website (if available)
-- How you think ChallengeHub might be useful for your course
 
 Or else just say hi!
 We will be happy to follow up.
