@@ -1,5 +1,5 @@
 ---
-heading: Accessible options for students
+heading: Accessible and familiar
 image_alt: The students' mail user interface
 image_css_classes: paragraph-image-right
 image_precedes_text: false
@@ -9,6 +9,8 @@ page_name: student-interaction
 position: 2
 ---
 
-Email provides the most flexibility and accessibility, while the instant messaging interface (our chatbot) provides a more comfortable and smooth workflow for most students.
+Email provides most flexibility and accessibility, while the instant messaging interface provides a more comfortable and familiar workflow for most students.
 
-By typing simple commands on the mail subject or in a chat with ChallengeBot, students can easily ask for what they need.
+By typing intuitive commands in the mail subject or in a chat with ChallengeBot, students can easily manage their own progress through the course.
+
+And with ChallengeBot capable of multiple languages from Europe and Asia, support for modern classroom diversity is built in.
