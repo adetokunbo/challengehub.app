@@ -1,6 +1,6 @@
 ---
 heading: Easy student enrollment
-image_alt: List of challenges
+image_alt: Teacher enabling studing enrollment for a course
 image_css_classes: paragraph-image-left
 image_path: student-interaction/teacher-ui-enrollment.jpg
 lang: en
