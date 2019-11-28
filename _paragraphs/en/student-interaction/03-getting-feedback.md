@@ -11,4 +11,4 @@ position: 3
 
 With large classes, very few students get one-to-one support from the teacher. But all students get one-to-one support from ChallengeBot.
 
-In addition to basic course management, ChallengeBot provides personalised information about progress and correctness of answers, and relays useful information to the teacher.
+In addition to basic course management, ChallengeBot provides personalised information about progress and correctness of answers, all of which the teacher can view in real time.
