@@ -7,7 +7,7 @@ image_css_classes: paragraph-image-left
 lang: ja
 page_name: index
 position: 3
-heading: Letting teachers teach
+heading: 教師に教えるように集中させましょう
 ---
 
 ChallengeHubはアクティブラーニング環境をスマートに管理しているため、教師は授業の内容に集中できる。
