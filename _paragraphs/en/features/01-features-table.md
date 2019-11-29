@@ -8,11 +8,11 @@ position: 1
 |   | Free | Trial | Paid |
 |---|:-:|:-:|:-:|
 | **Basic features**  |   |   |   |
-| A convenient, unobtrusive environment for active learning | <i class="fas fa-check"></i> | <i class="fas fa-check"></i> | <i class="fas fa-check"></i> |
-| Easily reuse and improve teaching materials over years | <i class="fas fa-check"></i> | <i class="fas fa-check"></i> | <i class="fas fa-check"></i> |
-| Students becoming more engaged and effective by teaching each other | <i class="fas fa-check"></i> | <i class="fas fa-check"></i> | <i class="fas fa-check"></i> |
-| Keep track of student progress in real time, even when you're not having a class | <i class="fas fa-check"></i> | <i class="fas fa-check"></i> | <i class="fas fa-check"></i> |
-| Give students 24/7 automated feedback on homework | <i class="fas fa-check"></i> | <i class="fas fa-check"></i> | <i class="fas fa-check"></i> |
+| Active learning environment—easy, convenient, and unobtrusive | <i class="fas fa-check"></i> | <i class="fas fa-check"></i> | <i class="fas fa-check"></i> |
+| Teaching material management—reuse and improve your materials over years | <i class="fas fa-check"></i> | <i class="fas fa-check"></i> | <i class="fas fa-check"></i> |
+| Peer instruction—students become more engaged and effective by teaching each other | <i class="fas fa-check"></i> | <i class="fas fa-check"></i> | <i class="fas fa-check"></i> |
+| Progress monitoring—keep track of students in real time, even when they are on their own | <i class="fas fa-check"></i> | <i class="fas fa-check"></i> | <i class="fas fa-check"></i> |
+| Instant marking—students are notified instantly about the correctness of their answers | <i class="fas fa-check"></i> | <i class="fas fa-check"></i> | <i class="fas fa-check"></i> |
 | **Usage quotas** |   |   |   |
 | Challenges per account | <i class="fas fa-infinity"></i> | <i class="fas fa-infinity"></i> | <i class="fas fa-infinity"></i> |
 | Students per account | <i class="fas fa-infinity"></i> | <i class="fas fa-infinity"></i> | <i class="fas fa-infinity"></i> |
