@@ -13,8 +13,6 @@ position: 1
 | Students becoming more engaged and effective by teaching each other | <i class="fas fa-check"></i> | <i class="fas fa-check"></i> | <i class="fas fa-check"></i> |
 | Keep track of student progress in real time, even when you're not having a class | <i class="fas fa-check"></i> | <i class="fas fa-check"></i> | <i class="fas fa-check"></i> |
 | Give students 24/7 automated feedback on homework | <i class="fas fa-check"></i> | <i class="fas fa-check"></i> | <i class="fas fa-check"></i> |
-| High security and privacy without students needing to even have an account | <i class="fas fa-check"></i> | <i class="fas fa-check"></i> | <i class="fas fa-check"></i> |
-| High security and privacy without teachers needing to set or share any password with us | <i class="fas fa-check"></i> | <i class="fas fa-check"></i> | <i class="fas fa-check"></i> |
 | **Usage quotas** |   |   |   |
 | Challenges per account | <i class="fas fa-infinity"></i> | <i class="fas fa-infinity"></i> | <i class="fas fa-infinity"></i> |
 | Students per account | <i class="fas fa-infinity"></i> | <i class="fas fa-infinity"></i> | <i class="fas fa-infinity"></i> |
