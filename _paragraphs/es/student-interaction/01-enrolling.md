@@ -8,6 +8,6 @@ page_name: student-interaction
 position: 1
 ---
 
-Los alumnos pueden usar el correo electrónico o un servicio de mensajería instantánea como LINE para registrarse. El docente les comunica la dirección de correo del curso y el código de registro, y deja que ChallengeBot haga el resto.
+Los alumnos pueden usar el correo electrónico o un servicio de mensajería instantánea como LINE para registrarse. El docente les comunica la dirección de correo del curso y el código de registro, nuestro bot conversacional ChallengeBot hace el resto.
 
-Si los alumnos no han usado ChallengeHub en el pasado, ChallengeBot los ayudará a empezar. El docente también puede compartir un código QR que facilita a los alumnos agregar a ChallengeBot.
+ChallengeBot ayuda a empezar a los alumnos no han usado anteriormente. El docente también puede compartir un código QR que facilita a los alumnos añadir a ChallengeBot a su lista de amigos.
