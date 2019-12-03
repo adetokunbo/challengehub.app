@@ -8,6 +8,6 @@ page_name: student-interaction
 position: 1
 ---
 
-学生が登録する際に電子メール、もしくはLINEのようなSNSを使います。教師はメールアドレスと登録コードを共有し、あとのことをChallengeBotに任せる。
+学生が登録する際には電子メール、もしくはLINEのようなSNSを使います。教師はメールアドレスと登録コードを共有し、その後はChallengeBotに任せます。
 
-ChallengeHubが初めての学生は、ChallengeBotが手助けをする。学生が簡単にChallengeBotを追加できるためのQRコードも、教師に共有できます。
+ChallengeHubが初めての学生は、ChallengeBotが手助けをします。学生が簡単にChallengeBotを追加できるQRコードも、教師に共有できます。
