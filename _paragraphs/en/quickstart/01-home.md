@@ -7,6 +7,6 @@ page_name: quickstart
 position: 1
 ---
 
-After [getting your account]({{ site.baseurl }}/contact) you are ready to create challenges. First log in to [dash.challengehub.app](https://dash.challengehub.app){:target="_blank"} and you will be presented with the home screen.
+First, you will need an account. If you do not already have one, you can request an invitation [here]({{ site.baseurl }}/contact).
 
-You can find the menu (&#x2630;) in the top left corner.
+Then, you're ready to log in to [dash.challengehub.app](https://dash.challengehub.app){:target="_blank"}. Here you will find the menu (&#x2630;) in the top left corner.
