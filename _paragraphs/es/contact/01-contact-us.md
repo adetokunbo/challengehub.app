@@ -9,11 +9,11 @@ position: 1
 heading:
 ---
 
-Si te interesa saber cómo podrías usar ChallengeHub en un curso o asignatura, por favor envíamos un correo electrónico con la siguiente información.
+Si quieres pedir una invitación para tener una cuenta de ChallengeHub, por favor envíamos un correo electrónico desde tu dirección del trabajo (ejemplo: _nombre@universidad.es_) con la siguiente información:
 
 - Nombre y apellidos
+- Departamento, facultad o escuela
 - Nombre del curso o asignatura
-- Dirección de correo electrónico del trabajo (ejemplo: nombre@universidad.es), en caso de que nos estés escribiendo desde otra dirección
 - Página web del curso o asignatura, o la tuya propia (si existe)
 
 [info@challengehub.app](mailto:info@challengehub.app)
