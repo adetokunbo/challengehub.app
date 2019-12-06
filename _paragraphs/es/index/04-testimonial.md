@@ -1,7 +1,7 @@
 ---
 lang: es
 page_name: index
-position: 3
+position: 4
 heading:
 is_testimonial: 1
 ---

@@ -1,5 +1,5 @@
 ---
-cta_label: Learn more
+cta_label: More about active learning
 cta_link: /active-learning/
 image_alt: Screenshot
 image_path: front/cbal-cycle.svg
@@ -14,5 +14,3 @@ Learning focuses around a series of challenges, taking students from beginner to
 Small but frequent wins motivate students while they obtain personalised explanations about difficult concepts from their peers in class.
 
 With real-time monitoring the teacher can focus class preparation on what really counts, delivering targeted explanations about things that really matter to the students.
-
-ChallengeHub intelligently manages this active learning environment, so the teacher can focus on the subject in hand.

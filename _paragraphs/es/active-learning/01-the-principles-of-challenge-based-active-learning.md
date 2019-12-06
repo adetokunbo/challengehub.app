@@ -14,4 +14,4 @@ Los retos se basan en lo aprendido en retos anteriores.
 
 Los alumnos dedican más tiempo a los retos que encuentran más difíciles, y menos a los que les resultan fáciles.
 
-El tiempo que dura la clase se dedica a que los alumnos conversen acerca de los retos, y en ocasiones también a una explicación o una demostración corta por parte del profesor.
+El tiempo que dura la clase se dedica a que los alumnos conversen acerca de los retos, y en ocasiones también a una explicación o una demostración corta por parte del docente.
