@@ -7,6 +7,6 @@ page_name: quickstart
 position: 1
 ---
 
-Una vez hayas [conseguido tu cuenta]({{ site.baseurl }}/contact), estás listo para crear retos.
+Lo primero que necesitas una cuenta. Puedes [pedir una invitación aquí]({{ site.baseurl }}/contact).
 
-En la página principal de [dash.challengehub.app](https://dash.challengehub.app){:target="_blank"} puedes encontrar el menú (&#x2630;) en la esquina superior izquierda.
+Cuando estés listo, puedes entrar en [dash.challengehub.app](https://dash.challengehub.app){:target="_blank"}. Encontrarás el menú (&#x2630;) en la esquina superior izquierda.
