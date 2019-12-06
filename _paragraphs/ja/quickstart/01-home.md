@@ -7,6 +7,6 @@ page_name: quickstart
 position: 1
 ---
 
-[アカウントを入手]({{ site.baseurl }}/contact)したら、チャレンジを作成する準備ができています。まず[dash.challengehub.app](https://dash.challengehub.app){:target="_blank"}にログインしてください。ホームページが表示されます。
+まずは、アカウントが必要です。[こちらから招待を要求していただけます]({{ site.baseurl }}/contact)。
 
-メニュー（&#x2630;）は左上にあります。
+それで、[dash.challengehub.app](https://dash.challengehub.app){:target="_blank"}にログインできます。メニュー（&#x2630;）は左上にあります。
