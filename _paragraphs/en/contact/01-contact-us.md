@@ -9,7 +9,7 @@ position: 1
 heading:
 ---
 
-To make an invitation request for a ChallengeHub account, please send an email from your work address with the following information:
+To make an invitation request for a ChallengeHub account, please send an email from your work address (ie. _name@institute.edu_) with the following information:
 
 - Your full name and affiliation
 - The name of your course
