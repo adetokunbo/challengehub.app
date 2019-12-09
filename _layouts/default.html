@@ -13,7 +13,9 @@
     {% feed_meta %}
 
     <link rel="stylesheet" href="{{ site.baseurl }}/css/screen.css">
-    <link rel="icon" type="image/png" href="{{ site.baseurl }}/favicon.png">
+    <link rel="icon" type="image/png" href="{{ site.baseurl }}/favicon-20191205.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/apple-touch-icon-20191205.png"/>
+    <link rel="apple-touch-icon" href="{{ site.baseurl }}/touch-icon-20191205.png"/>
 
     {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
     {% for apost in posts %}
@@ -38,7 +40,7 @@
   <body>
     <header>
       <div class="container">
-        <div class="company-name"><a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/front/challenge-hub-header.png" alt="ChallengeHub Logo" width="95" height="33" /></a></div>
+        <div class="company-name"><a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/front/challenge-hub-header-20191205.png" alt="ChallengeHub Logo" width="95" height="33" /></a></div>
 
         {% include navigation.html %}
       </div>

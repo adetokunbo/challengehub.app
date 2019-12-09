@@ -1,7 +1,7 @@
 ---
 heading:
 image_alt: ChallengeHub home
-image_path: quickstart/home.jpg
+image_path: quickstart/home-20191205.jpg
 lang: es
 page_name: quickstart
 position: 1
