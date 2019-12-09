@@ -15,9 +15,6 @@ To make an invitation request for a ChallengeHub account, please send an email f
 - The name of your course
 - The course website or your personal website (if available)
 
-Or else just say hi!
-We will be happy to follow up.
-
 [info@challengehub.app](mailto:info@challengehub.app)
 
 For any other enquiries, feel free to mail us at the same address.
