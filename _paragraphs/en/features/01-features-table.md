@@ -8,17 +8,22 @@ lang: en
 page_name: features
 position: 1
 ---
-- __Active learning environment__: manage your active learning course in an easy and unobtrusive way
-- __Teaching material management__: reuse and improve your challenges over years
-- __You own your content__: your challenges belong to you, and you can take them wherever you want to
-- __Challenges available forever__: challenges will be published in an open education friendly way
-- __Work on your browser__: the teacher's dashboard can be used from a browser on any computer, tablet or smartphone
-- __Students just mail or text__: they don't need to go to any website or download any app
-- __Peer instruction__: students become more engaged and effective by teaching each other
-- __Instant marking__: students are notified instantly of the correctness of their answers
-- __Progress monitoring__: keep track of students in real time, even when they are on their own
-- __Free for all students__: using ChallengeHub is the teacher's choice, so students are never charged
 
-In our roadmap:
+#### Effective education management
+- __Easy active learning implementation__: We believe that the teacher should be free to teach and not need to worry about the technical details of enhanced education.
+- __Reusable challenges__: We believe teaching should be efficient, with teaching material reusable and improvable over time.
+- __Effective classroom peer instruction__: We believe that student development goes beyond problem solving, and that discussion and teaching ability are important qualities for life after graduation.
+- __Progress monitoring__: We believe that teacher intervention should be useful and targeted.
 
-- __Challenge sharing__: enables teachers to share and collaborate to reduce workload and increase quality
+#### Open education
+- __Ownership of your challenges__: We believe that teachers should own what they create.
+- __Challenges available forever__: We believe in open education, where teachers always have free access to what they create.
+
+#### Accessible to all students
+- __Interaction using familiar apps__: We believe that technology should enhance and not hinder access to education.
+- __Free for students__: We believe that education should be free at the point of use.
+- __Instant marking__: We believe that learning confirmation should be real-time, and therefore motivating and efficient.
+
+# Coming soon
+
+- __Challenge sharing__: We believe in open education and teacher efficiency; that teachers should be able to share what they create and collaborate on improvements.

@@ -2,13 +2,14 @@
 image_alt: A classroom using ChallengeHub
 image_precedes_text: false
 image_path: active-learning/challenge-hub-usage-illustration.jpg
-heading: Our business model
+heading: Be the change you want to see
 has_content: true
 lang: en
 page_name: features
 position: 2
 ---
-ChallengeHub is gathering pioneers who want to revolution teaching
-and enable students to study in a more efficient way.
+Teaching is still mostly closed, inefficient and demotivating for students.
 
-We will soon announce our pricing tiers, but for now we would like you to try all features and student interfaces for free.
+We stand for those who believe we can do better.
+
+Join us.
