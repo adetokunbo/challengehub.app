@@ -24,6 +24,14 @@ position: 1
 - __Free for students__: We believe that education should be free at the point of use.
 - __Instant marking__: We believe that learning confirmation should be real-time, and therefore motivating and efficient.
 
-# Coming soon
+## Coming soon
 
 - __Challenge sharing__: We believe in open education and teacher efficiency; that teachers should be able to share what they create and collaborate on improvements.
+
+## Be the change you want to see
+
+Teaching is still mostly closed, inefficient and demotivating for students.
+
+We stand for those who believe we can do better.
+
+Join us.
