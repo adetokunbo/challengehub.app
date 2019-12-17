@@ -6,7 +6,7 @@ heading:
 is_testimonial: 1
 ---
 
-> #### Being able to know in real time what parts my students are struggling with, and how far everyone has got, helps me greatly when preparing my next lesson.
+> #### Being able to know in real time what my students are struggling with, and how far each one has progressed, greatly helps me when preparing for the next class.
 > Kosaku Kurata (Associate Professor)<br>
 > Department of Mechanical Engineering, Kyushu University
 {:.testimonial-quote}
