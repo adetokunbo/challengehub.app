@@ -1,37 +1,23 @@
 ---
-image_alt: Active learning environment with ChallengeHub
-image_precedes_text: false
-image_path: our-story/challenge-hub-building-the-idea.jpg
-heading: Our features
+heading: Our Features
 has_content: true
 lang: en
 page_name: features
 position: 1
 ---
+- __Easy student interface__: students participate on courses using email or a common messaging app such as LINE.
+- __One-step enrollment__: just give students the course code or email address, and they’re ready to go.
+- __Easy scheduling of challenges__: group challenges into stints that are released at a specific time, keeping the class moving together.
+- __Preview upcoming challenges__: know what the students will see before they see it.
+- __Simple but powerful progress visualisation__: our innovative teacher dashboard enables easy visualisation of student progress, allowing quick identification of difficult challenges and drill-down capability to a specific student—all in real time.
+- __Instant marking__: students are instantly notified of the correctness of their answers.
+- __Student feedback__: see student feedback and comments about challenges, facilitating pinpoint preparation for the next class.
+- __Automatic pairing of students__: with a single command as they walk into class, students can find their ideal discussion partner leading to effective one-to-one peer instruction.
+- __Multiple language support__: set a default interface language for the course, and students can change it to what they’re individually most comfortable with (currently supported: English, French and Japanese).
+- __Efficient course creation and improvement__: challenges can be reused and improved on over time.
+- __Open education__: challenges are open and will always be available to their creators, while students learn from ChallengeHub for free.
 
-#### Effective education management
-- __Easy active learning implementation__: We believe that the teacher should be free to teach and not need to worry about the technical details of enhanced education.
-- __Reusable challenges__: We believe teaching should be efficient, with teaching material reusable and improvable over time.
-- __Effective classroom peer instruction__: We believe that student development goes beyond problem solving, and that discussion and teaching ability are important qualities for life after graduation.
-- __Progress monitoring__: We believe that teacher intervention should be useful and targeted.
+### Coming soon
 
-#### Open education
-- __Ownership of your challenges__: We believe that teachers should own what they create.
-- __Challenges available forever__: We believe in open education, where teachers always have free access to what they create.
-
-#### Accessible to all students
-- __Interaction using familiar apps__: We believe that technology should enhance and not hinder access to education.
-- __Free for students__: We believe that education should be free at the point of use.
-- __Instant marking__: We believe that learning confirmation should be real-time, and therefore motivating and efficient.
-
-## Coming soon
-
-- __Challenge sharing__: We believe in open education and teacher efficiency; that teachers should be able to share what they create and collaborate on improvements.
-
-## Be the change you want to see
-
-Teaching is still mostly closed, inefficient and demotivating for students.
-
-We stand for those who believe we can do better.
-
-Join us.
+- __Easy sharing of challenges with other teachers around the world__: making course creation and improvement more efficient.
+- __Support for the Telegram messaging app__
