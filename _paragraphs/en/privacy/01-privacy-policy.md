@@ -179,16 +179,6 @@ You may disable the function of Cookies
 by choosing the browser’s configuration.
 Please note that this may result in
 you not being able to use all or part of the services on our Site.
-We may allow selected third parties
-to place cookies through the Site to provide us
-with better insights into the use of the Site
-or user demographics or to provide relevant advertising to you.
-These third parties may collect information
-about a consumer’s online activities
-over time and across different websites
-when he or she uses our website.
-We do not use technology that recognizes
-a “do-not-track” signal from your web browser.
 Please see our Cookie Policy for further details.
 
 ### SSL (Secure Socket Layer)
