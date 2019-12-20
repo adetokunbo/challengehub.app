@@ -90,7 +90,7 @@ accountants and lawyers, etc.;
 - Companies that provide services to help us
 with our business activities,
 such as data storage, maintenance services,
-database management, web analytics and payment processing;
+database management, and payment processing;
 - Third parties to whom we may choose to sell,
 transfer, or merge parts of our business or our assets.
 Alternatively,
@@ -172,8 +172,6 @@ We mainly use Cookies for the following purposes.
 you do not need to enter a password every time.
 - On our Site and services,
 we use Cookies to deliver personalized experiences to our users.
-- Cookies are used for analytic practices
-to help us understand our users’ activities with our services.
 
 You may disable the function of Cookies
 by choosing the browser’s configuration.
