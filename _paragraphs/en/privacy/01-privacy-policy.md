@@ -60,7 +60,8 @@ and to market relevant offers and promotions to you;
 - To ensure that content from our Site
 is presented most effectively for you and your computer;
 - To enable you to search for information on our Site;
-- To improve our Site.
+- To improve our Site;
+- To enable us to deliver our services to you.
 
 ### Emails
 
@@ -228,7 +229,7 @@ We will ask for your consent in line with the applicable law
 when you first provide your personal information.
 You can opt out by following the unsubscribe instructions
 included in these emails,
-or you can contact us using the Contact Us page on our Site.
+or you can contact us using the [Contact]({{ site.baseurl }}/contact) page on our Site.
 
 In certain circumstances,
 you have rights under the GDPR in relation to your personal information.
@@ -274,5 +275,5 @@ we will respond appropriately and promptly within the reasonable scope.
 
 The personal information protection management system of Djinn Mentor
 will continuously improve as it adapts to the results of regular audits,
-the abolition of laws and regulations,
+the change of laws and regulations,
 and changes in the social environment.
