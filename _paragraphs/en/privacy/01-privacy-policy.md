@@ -69,10 +69,10 @@ From time to time,
 we may send out emails for promotion purposes
 to announce our services, functions, researches,
 news, promotions, contests, and events.
-Our customers may opt-out of receiving these emails.
+Our users may opt-out of receiving these emails.
 We may use a third-party service provider
 to send out emails
-or to communicate smoothly with our customers.
+or to communicate smoothly with our users.
 For a smoother communication,
 we may share information,
 such as your email address,
@@ -160,7 +160,7 @@ or divulgence of personal information.
 ### Regarding Cookies
 
 Like many websites, we use ‘Cookies’
-to make our Site more convenient to our customers.
+to make our Site more convenient to our users.
 
 Cookies are small pieces of data
 that are transferred between a Web server and your Web browser,
@@ -171,9 +171,9 @@ We mainly use Cookies for the following purposes.
 - When you use the service,
 you do not need to enter a password every time.
 - On our Site and services,
-we use Cookies to deliver personalized experiences to our customers.
+we use Cookies to deliver personalized experiences to our users.
 - Cookies are used for analytic practices
-to help us understand our customers’ activities with our services.
+to help us understand our users’ activities with our services.
 
 You may disable the function of Cookies
 by choosing the browser’s configuration.
