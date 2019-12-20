@@ -53,9 +53,11 @@ our information, systems and network;
 - For internal business intelligence purposes,
 to conduct research,
 product development and enhancement;
-- To inform you of
+- With your explicit consent,
+to inform you of
 changes made to our Site and other services;
-- To conduct marketing and commercial activities
+- With your explicit consent,
+to conduct marketing and commercial activities
 and to market relevant offers and promotions to you;
 - To ensure that content from our Site
 is presented most effectively for you and your computer;
