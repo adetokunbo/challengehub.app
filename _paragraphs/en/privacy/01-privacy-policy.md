@@ -179,7 +179,6 @@ You may disable the function of Cookies
 by choosing the browser’s configuration.
 Please note that this may result in
 you not being able to use all or part of the services on our Site.
-Please see our Cookie Policy for further details.
 
 ### SSL (Secure Socket Layer)
 
