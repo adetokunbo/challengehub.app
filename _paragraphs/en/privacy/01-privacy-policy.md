@@ -59,8 +59,8 @@ changes made to our Site and other services;
 and to market relevant offers and promotions to you;
 - To ensure that content from our Site
 is presented most effectively for you and your computer;
-- Enable you to search information on our Site;
-- Improve our Site.
+- To enable you to search for information on our Site;
+- To improve our Site.
 
 ### Emails
 
@@ -147,7 +147,7 @@ Djinn Mentor will only use information regarding disabilities
 (personal information requiring consideration)
 and health care, based on the consent of the person concerned,
 and ensuring proper operation.
-There is no acquisition, use or offer to third party for any other purpose.
+There is no acquisition, use or offer to a third party for any other purpose.
 
 ### Safety measures
 
@@ -168,11 +168,11 @@ and stored on your computer or mobile device as a file.
 We mainly use Cookies for the following purposes.
 
 - When you use the service,
-you do not enter a password every time.
+you do not need to enter a password every time.
 - On our Site and services,
 we use Cookies to deliver personalized experiences to our customers.
 - Cookies are used for analytic practices
-to help us understand our customers’ activities in our services.
+to help us understand our customers’ activities with our services.
 
 You may disable the function of Cookies
 by choosing the browser’s configuration.
@@ -194,7 +194,7 @@ Please see our Cookie Policy for further details.
 
 ChallengeHub uses SSL (Secure Socket Layer)
 to encrypt the personal information that you provide
-in order to prevent external third parties from intercepting.
+in order to prevent external third parties from intercepting it.
 
 ### Your European privacy rights
 
