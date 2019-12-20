@@ -82,7 +82,6 @@ jekyll-archives:
 
 plugins:
   - jekyll-archives
-  - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-feed
 
@@ -134,5 +133,8 @@ languages: ["en", "ja", "es"]
 # this ensure all language specific pages are created.
 default_lang: "xx"
 
-exclude_from_localization: ["images", "css", "sketch", "tools"]
+exclude_from_localization: ["images", "css", "sketch", "tools", "sitemap.xml"]
 parallel_localization: true
+
+# categories to exclude from the sitemap
+exclude_from_sitemap: ["paragraphs", "staff_members"]
