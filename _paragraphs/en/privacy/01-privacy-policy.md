@@ -34,10 +34,10 @@ and to the extent necessary to achieve the purpose,
 it will be done after obtaining the consent of the person
 in an appropriate manner.
 - When using personal information,
-and will take measures to ensure that it is not used,
-beyond the extent that is necessary in order to achieve specified purposes.
+we will take measures to ensure that it is not used
+beyond the extent that is necessary in order to achieve the specified purposes.
 - If it is necessary to provide personal information,
-we will do so after obtaining consent of the person.
+we will do so after obtaining the person's consent.
 
 ### Purpose of using appropriate personal information
 
@@ -45,7 +45,7 @@ We will use your personal information for the following purposes:
 
 - To confirm your identity;
 - To respond to your questions
-and provide related customer services;
+and provide related customer service;
 - To detect and prevent fraud
 or other financial crime;
 - To monitor and protect the security of
@@ -71,7 +71,7 @@ From time to time,
 we may send out emails for promotion purposes
 to announce our services, functions, researches,
 news, promotions, contests, and events.
-Our users may opt-out of receiving these emails.
+Our users may opt out of receiving these emails.
 We may use a third-party service provider
 to send out emails
 or to communicate smoothly with our users.
@@ -111,8 +111,8 @@ Standard Contractual Clauses
 and EU-U.S. and Swiss-U.S. Privacy Shield Frameworks,
 to transfer the data.
 
-We are an international company, headquartered in Japan.
-We also work with third party service providers
+We are an international company headquartered in Japan.
+We also work or may work with third party service providers
 in different countries
 (for example, cloud providers, web hosting,
 helpdesk software providers, payment processors).
@@ -139,7 +139,7 @@ that apply to the protection of personal information.
 
 If it is necessary to collect,
 use and provide personal information,
-observe Djinn Mentor's personal information protection management system
+we observe Djinn Mentor's personal information protection management system
 in accordance with the Japanese Industrial Standard
 "Personal Information Protection Management System Requirements (JIS Q 15001)"
 as part of our efforts to manage such information under strict control.
@@ -165,7 +165,7 @@ Like many websites, we use ‘Cookies’
 to make our Site more convenient to our users.
 
 Cookies are small pieces of data
-that are transferred between a Web server and your Web browser,
+that are transferred between a web server and your web browser,
 and stored on your computer or mobile device as a file.
 
 We mainly use Cookies for the following purposes.
