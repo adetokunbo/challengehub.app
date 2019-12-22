@@ -264,3 +264,7 @@ The personal information protection management system of Djinn Mentor
 will continuously improve as it adapts to the results of regular audits,
 the change of laws and regulations,
 and changes in the social environment.
+
+### Policy History
+
+- Enacted: 23 December, 2019
