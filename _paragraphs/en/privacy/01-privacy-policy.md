@@ -32,38 +32,38 @@ and responsible for our website
 the purpose of use is specified in advance,
 and to the extent necessary to achieve the purpose,
 it will be done after obtaining the consent of the person
-in an appropriate manner.
+in an appropriate manner
 - When using personal information,
 we will take measures to ensure that it is not used
-beyond the extent that is necessary in order to achieve the specified purposes.
+beyond the extent that is necessary in order to achieve the specified purposes
 - If it is necessary to provide personal information,
-we will do so after obtaining the person's consent.
+we will do so after obtaining the person's consent
 
 ### Purpose of using appropriate personal information
 
 We will use your personal information for the following purposes:
 
-- To confirm your identity;
+- To confirm your identity
 - To respond to your questions
-and provide related customer service;
+and provide related customer service
 - To detect and prevent fraud
-or other financial crime;
+or other financial crime
 - To monitor and protect the security of
-our information, systems and network;
+our information, systems and network
 - For internal business intelligence purposes,
 to conduct research,
-product development and enhancement;
+product development and enhancement
 - With your explicit consent,
 to inform you of
-changes made to our Site and other services;
+changes made to our Site and other services
 - With your explicit consent,
 to conduct marketing and commercial activities
-and to market relevant offers and promotions to you;
+and to market relevant offers and promotions to you
 - To ensure that content from our Site
-is presented most effectively for you and your computer;
-- To enable you to search for information on our Site;
-- To improve our Site;
-- To enable us to deliver our services to you.
+is presented most effectively for you and your computer
+- To enable you to search for information on our Site
+- To improve our Site
+- To enable us to deliver our services to you
 
 ### Emails
 
@@ -88,18 +88,16 @@ except in the following cases.
 
 - Based on the law
 - Our professional advisors such as auditors,
-accountants and lawyers, etc.;
+accountants and lawyers, etc.
 - Companies that provide services to help us
 with our business activities,
 such as data storage, maintenance services,
-database management, and payment processing;
+database management, and payment processing
 - Third parties to whom we may choose to sell,
-transfer, or merge parts of our business or our assets.
-Alternatively,
-we may seek to acquire other businesses or merge with them.
-If a change happens to our business,
-then the new owners may use your Personal information
-in the same way as set out in this Policy.
+transfer, or merge parts of our business or our assets
+- We may seek to acquire other businesses or merge with them—if a change happens to our business
+then the new owners may use your personal information
+in the same way as set out in this Polic
 
 Where personal information relating to
 European based individuals is shared
@@ -171,9 +169,9 @@ and stored on your computer or mobile device as a file.
 We mainly use Cookies for the following purposes.
 
 - When you use the service,
-you do not need to enter a password every time.
+you do not need to enter a password every time
 - On our Site and services,
-we use Cookies to deliver personalized experiences to our users.
+we use Cookies to deliver personalized experiences to our users
 
 You may disable the function of Cookies
 by choosing the browser’s configuration.
@@ -199,18 +197,18 @@ This means we collect and use your personal information only where:
 - We need it to provide the services,
 including to operate the Site,
 provide customer support and personalized features
-and to protect the safety and security of the Site;
+and to protect the safety and security of the Site
 - It satisfies a legitimate interest
 (which is not overridden by your rights and interests),
 such as for research and development,
 to market and promote the Site
-and to protect our legal rights and interests;
-- You give us consent to do so for a specific purpose; or
+and to protect our legal rights and interests
+- You give us consent to do so for a specific purpose
 - We need to process your personal information
-to comply with a legal obligation.
+to comply with a legal obligation
 - If you have consented to our use of personal information about you
 for a specific purpose,
-you have the right to change your and at any time.
+you have the right to change your and at any time
 
 We may use your email address
 to send you newsletter or marketing emails.
@@ -223,8 +221,8 @@ or you can contact us using the [Contact]({{ site.baseurl }}/contact) page on ou
 In certain circumstances,
 you have rights under the GDPR in relation to your personal information.
 
-- Request access to your personal information.
-You may have the right to request access
+- Request access to your personal information:
+you may have the right to request access
 to any personal information we hold about you
 as well as related information,
 including the purposes for processing the personal information,
@@ -232,17 +230,17 @@ the recipients or categories of recipients
 with whom the personal information has been shared,
 where possible, the period for which the personal information will be stored,
 the source of the personal information,
-and the existence of any automated decision making.
-- Request correction of your personal information.
-You may have the right to obtain without undue delay
-the rectification of any inaccurate personal information we hold about you.
-- Request erasure of your personal information.
-You may have the right to request that personal information held about you is deleted.
-- Request restriction of processing your personal information.
-You may have the right to prevent or restrict processing of your personal information.
-- Request transfer of your personal information.
+and the existence of any automated decision making
+- Request correction of your personal information:
+you may have the right to obtain without undue delay
+the rectification of any inaccurate personal information we hold about you
+- Request erasure of your personal information:
+you may have the right to request that personal information held about you is deleted
+- Request restriction of processing your personal information:
+You may have the right to prevent or restrict processing of your personal information
+- Request transfer of your personal information:
 You may have the right to request transfer of personal information directly
-to a third party where this is technically feasible.
+to a third party where this is technically feasible
 
 Where you believe that we have not complied with
 our obligation under this privacy policy or European data protection law,
