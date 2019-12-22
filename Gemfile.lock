@@ -48,8 +48,6 @@ GEM
       sass (~> 3.4)
     jekyll-seo-tag (2.6.1)
       jekyll (>= 3.3, < 5.0)
-    jekyll-sitemap (1.3.1)
-      jekyll (>= 3.7, < 5.0)
     jekyll-theme-minimal (0.1.1)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
@@ -98,7 +96,6 @@ DEPENDENCIES
   jekyll-polyglot
   jekyll-redirect-from
   jekyll-seo-tag
-  jekyll-sitemap
   jekyll-theme-minimal
   rack
   rack-contrib
