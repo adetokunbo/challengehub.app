@@ -132,15 +132,8 @@ to transfer the information.
 ### Compliance with laws and regulations
 
 In handling personal information,
-ChallengeHub observes the laws and regulations
+ChallengeHub observes Japanese laws and regulations
 that apply to the protection of personal information.
-
-If it is necessary to collect,
-use and provide personal information,
-we observe Djinn Mentor's personal information protection management system
-in accordance with the Japanese Industrial Standard
-"Personal Information Protection Management System Requirements (JIS Q 15001)"
-as part of our efforts to manage such information under strict control.
 
 ### About the handling of sensitive personal information and sensitive information.
 
