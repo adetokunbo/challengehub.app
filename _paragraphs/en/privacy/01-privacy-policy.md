@@ -157,23 +157,23 @@ Djinn Mentor will take the best and most appropriate measures
 to prevent improper access, loss, destruction, falsification,
 or divulgence of personal information.
 
-### Regarding Cookies
+### Regarding HTTP Cookies
 
-Like many websites, we use ‘Cookies’
+Like many websites, we use HTTP cookies
 to make our Site more convenient to our users.
 
-Cookies are small pieces of data
+HTTP cookies are small pieces of data
 that are transferred between a web server and your web browser,
 and stored on your computer or mobile device as a file.
 
-We mainly use Cookies for the following purposes.
+We mainly use HTTP cookies for the following purposes.
 
 - When you use the service,
 you do not need to enter a password every time
 - On our Site and services,
-we use Cookies to deliver personalized experiences to our users
+we use HTTP cookies to deliver personalized experiences to our users
 
-You may disable the function of Cookies
+You may disable the function of HTTP cookies
 by choosing the browser’s configuration.
 Please note that this may result in
 you not being able to use all or part of the services on our Site.
