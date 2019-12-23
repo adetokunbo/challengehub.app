@@ -83,7 +83,7 @@ to the service provider for this limited purpose only.
 ### Provision to third parties
 
 Djinn Mentor does not provide personal data held
-to third parties without obtaining their consent
+to third parties without obtaining consent
 except in the following cases.
 
 - Based on the law
@@ -97,7 +97,7 @@ database management, and payment processing
 transfer, or merge parts of our business or our assets
 - We may seek to acquire other businesses or merge with them—if a change happens to our business
 then the new owners may use your personal information
-in the same way as set out in this Polic
+in the same way as set out in this Policy
 
 Where personal information relating to
 European based individuals is shared
@@ -113,7 +113,7 @@ We are an international company headquartered in Japan.
 We also work or may work with third party service providers
 in different countries
 (for example, cloud providers, web hosting,
-helpdesk software providers, payment processors).
+help-desk software providers, payment processors).
 Therefore, your information may be transferred
 outside of the European Economic Area (EEA)
 and stored, or processed in other countries
@@ -201,7 +201,7 @@ and to protect our legal rights and interests
 to comply with a legal obligation
 - If you have consented to our use of personal information about you
 for a specific purpose,
-you have the right to change your and at any time
+you have the right to change your mind at any time
 
 We may use your email address
 to send you newsletter or marketing emails.
@@ -245,9 +245,8 @@ such as the UK Information Commissioner’s Office.
 
 Djinn Mentor respects the right of the person
 in relation to personal information,
-and is asked by the person to disclose, correct, add or delete information,
-stop using it, delete it, and stop providing it to a third party,
-as well as personal information.
+when asked by the person to disclose, correct, add or delete information,
+stop using it, delete it, and stop providing it to a third party.
 If there is a complaint or consultation,
 we will respond appropriately and promptly within the reasonable scope.
 
