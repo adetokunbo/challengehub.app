@@ -2,10 +2,13 @@ en:
   name: English
 ja:
   name: 日本語
+  missing:
+    - url: /features/
 es:
   name: Español
   missing:
     - url: /documentation/signup-with-github/
+    - url: /features/
 fr:
   name: Français
 de:
