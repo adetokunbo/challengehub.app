@@ -8,7 +8,6 @@ es:
   name: Español
   missing:
     - url: /documentation/signup-with-github/
-    - url: /features/
 fr:
   name: Français
 de:
