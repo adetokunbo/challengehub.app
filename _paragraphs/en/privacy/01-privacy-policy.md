@@ -23,7 +23,7 @@ For the purposes of the EU General Data Protection Regulation 2016
 (the “GDPR”)
 Djinn Mentor K.K. is the controller of personal information
 and responsible for our website
-[https://challengehub.app/](https://challengehub.app/)
+[https://challengehub.app](https://challengehub.app)
 (the “Site”).
 
 ### Acquisition and Provision of Personal Information
@@ -239,7 +239,7 @@ Where you believe that we have not complied with
 our obligation under this privacy policy or European data protection law,
 you have the right to make a complaint to
 an EU Data Protection Authority,
-such as the UK Information Commissioner’s Office.
+such as the Irish Data Protection Commission.
 
 ### Dealing with complaints and consultations
 
