@@ -8,8 +8,14 @@
 - links:
   - name: アクティブラーニング
     link: /active-learning/
+  - name: 学生としての使い方
+    link: /student-interaction/
   - name: これまでの経緯
     link: /our-story/
+  - name: 特色・機能
+    link: /features/
+  - name: ブログ
+    link: /blog/
 - links:
   - name: はじめましょう
     link: /quickstart/
