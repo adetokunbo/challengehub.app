@@ -2,7 +2,7 @@
 cta_label: Learn how we got here
 cta_link: /our-story/
 image_alt: Screenshot
-image_path: front/effort-efficiency.svg
+image_path: front/effort-efficiency-20191231.svg
 lang: en
 page_name: index
 position: 1
