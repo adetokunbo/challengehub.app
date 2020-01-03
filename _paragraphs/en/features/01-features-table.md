@@ -7,7 +7,7 @@ position: 1
 ---
 - __Easy student interface__: students participate on courses using email or a common messaging app such as LINE.
 - __One-step enrollment__: just give students the course code or email address, and they’re ready to go.
-- __Easy scheduling of challenges__: group challenges into stints that are released at a specific time, keeping the class moving together.
+- __Easy scheduling of challenges__: group challenges into stints that are released at a specific time.
 - __Preview upcoming challenges__: know what the students will see before they see it.
 - __Simple but powerful progress visualisation__: our innovative teacher dashboard enables easy visualisation of student progress, allowing quick identification of difficult challenges and drill-down capability to a specific student—all in real time.
 - __Instant marking__: students are instantly notified of the correctness of their answers.
