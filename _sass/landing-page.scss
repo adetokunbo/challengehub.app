@@ -162,5 +162,6 @@ ol.quickstart-workflow li {
 @media #{$mid-point} {
   div.columns p, div.columns ul, div.columns ol, {
     column-count: 2;
+    column-gap: 3em;
   }
 }
