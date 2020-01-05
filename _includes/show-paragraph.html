@@ -12,7 +12,12 @@
         {%- if para.image_precedes_text -%}
           {%- include show-paragraph-images.html para=para -%}
         {%- endif  -%}
-        <div class="text editable">
+        {%- if para.columns -%}
+          {%- assign classes = "text editable columns" -%}
+        {%- else -%}
+          {%- assign classes = "text editable" -%}
+        {%- endif  -%}
+        <div class="{{- classes -}}">
           {%- if para.heading -%}<h2>{{- para.heading -}}</h2>{%- endif -%}
           {{- para.content | markdownify -}}
           {%- if para.cta_label -%}
