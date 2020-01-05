@@ -159,6 +159,8 @@ ol.quickstart-workflow li {
   font-size: 1.38em;
 }
 
-div.columns p, div.columns ul, div.columns ol, {
-  column-count: 2;
+@media #{$mid-point} {
+  div.columns p, div.columns ul, div.columns ol, {
+    column-count: 2;
+  }
 }
