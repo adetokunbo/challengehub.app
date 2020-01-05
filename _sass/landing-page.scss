@@ -160,8 +160,12 @@ ol.quickstart-workflow li {
 }
 
 @media #{$mid-point} {
-  div.columns p, div.columns ul, div.columns ol, {
+  div.columns-on-first-ul ul:first-of-type, {
+    max-width: 100%;
     column-count: 2;
     column-gap: 3em;
+  }
+  div.columns-on-first-ul ul, {
+    max-width: 45%;
   }
 }

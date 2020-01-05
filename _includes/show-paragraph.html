@@ -12,8 +12,8 @@
         {%- if para.image_precedes_text -%}
           {%- include show-paragraph-images.html para=para -%}
         {%- endif  -%}
-        {%- if para.columns -%}
-          {%- assign classes = "text editable columns" -%}
+        {%- if para.columns-on-first-ul -%}
+          {%- assign classes = "text editable columns-on-first-ul" -%}
         {%- else -%}
           {%- assign classes = "text editable" -%}
         {%- endif  -%}
