@@ -1,6 +1,7 @@
 ---
 heading: Las características que ofrecemos
 has_content: true
+columns-on-first-ul: true
 lang: es
 page_name: features
 position: 1
