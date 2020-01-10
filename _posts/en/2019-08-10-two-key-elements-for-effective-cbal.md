@@ -1,6 +1,6 @@
 ---
 date: 2019-08-10
-title: The Two Key Elements for an Effective<br> Challenge Based Active Learning Course
+title: The Two Key Elements for an Effective<br> Challenge-Based Active Learning Course
 subtitle: Student Motivation and Study Efficiency
 reading_minutes: 4
 categories:
@@ -20,7 +20,7 @@ With students focussed more on passing tests than learning, this can in turn red
 After all, why make an effort to teach students well when their main focus is to tick all the boxes?
 This impacts teaching quality, leading to a cycle of lower motivation by both students and teachers.
 
-Challenge based active learning is designed to break out of this cycle, and ChallengeHub provides the platform to make this happen. To implement this successfully however, when designing a challenge based active learning course, the following key points should always be kept in mind:
+Challenge-based active learning is designed to break out of this cycle, and ChallengeHub provides the platform to make this happen. To implement this successfully however, when designing a challenge-based active learning course, the following key points should always be kept in mind:
 
 1. Does the course promote internal (student-driven) motivation rather than external (teacher-driven) motivation?
 2. Is student learning efficient? Can students optimise their time?
@@ -36,8 +36,8 @@ The primary driver is external motivation provided by the teacher.
 After graduation, when the teacher is no-longer there, students find it harder to be innovative.
 It's difficult to study without external deadlines, to be motivated to study new things and to manage time appropriately.
 
-#### Challenge based active learning
-The thought process in a challenge based active learning course is very different.
+#### Challenge-based active learning
+The thought process in a challenge-based active learning course is very different.
 Typically, new challenges are released each week, and it is made clear to the students that getting something wrong is fine.
 In fact, they should come to the class with questions.
 Also, not completing all the challenges for a given week is fine.
@@ -68,7 +68,7 @@ A typical example is to make a student listen to a long, sleep-inducing lecture 
 
 The result is that students do not feel they have control over their study, the subject is perceived as being less interesting than it really is and student internal motivation drops.
 
-#### Challenge based active learning
+#### Challenge-based active learning
 Students spend more time on challenges they find hard and less on those they find easy.
 Thus their time is always optimised towards what they feel they need to study in more detail.
 For the challenges that a student finds easiest, they may not even need to refer to the suggested resources at all.
@@ -85,6 +85,6 @@ It's always worth coming to class, however much progress they've made.
 Thus, unless the student has finished all the challenges for that week, the student is never blocked from engaging with the course, and the student learns efficiently with high motivation.
 
 ## Summary
-Every teacher and cohort of students is different, and challenge based active learning is designed to provide a flexible framework to cater to different course styles.
+Every teacher and cohort of students is different, and challenge-based active learning is designed to provide a flexible framework to cater to different course styles.
 However the foundation for successful implementation will always promote the two key elements of student internal motivation and efficient study.
-Through this, challenge based active learning can improve the learning environment for both students and teachers alike.
+Through this, challenge-based active learning can improve the learning environment for both students and teachers alike.
