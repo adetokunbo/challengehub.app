@@ -1,6 +1,7 @@
 ---
 heading: Our Features
 has_content: true
+columns-on-first-ul: true
 lang: en
 page_name: features
 position: 1
