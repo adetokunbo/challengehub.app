@@ -11,11 +11,11 @@ ref: 2019-08-11-the-challenge-log
 lang: en
 ---
 
-In challenge based active learning, the concept of "homework" is quite different to a traditional lecture-style course.
+In challenge-based active learning, the concept of "homework" is quite different to a traditional lecture-style course.
 Instead, students maintain a *challenge log* which contains all the work that the students do to complete each challenge.
 
 ### Assessment
-As with traditional courses, exams form the basis for assessment for a challenge based active learning course.
+As with traditional courses, exams form the basis for assessment for a challenge-based active learning course.
 In addition, students are typically required to submit their challenge log as they enter the room for the final exam.
 
 Since the exams are typically closely related to the contents of the challenges, students will be at a disadvantage if they do not complete the challenges.
