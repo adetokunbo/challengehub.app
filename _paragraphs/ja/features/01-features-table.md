@@ -1,6 +1,7 @@
 ---
 heading: ChallengeHubの特色と機能
 has_content: true
+columns-on-first-ul: true
 lang: ja
 page_name: features
 position: 1
