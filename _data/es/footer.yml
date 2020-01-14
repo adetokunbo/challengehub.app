@@ -21,3 +21,15 @@
     link: /quickstart/
   - name: Contacto
     link: /contact/
+  - name: Facebook
+    link: https://www.facebook.com/challengehubapp/
+    new_window: true
+    social_icon: Facebook
+  - name: Twitter
+    link: https://twitter.com/challenge_hub/
+    social_icon: Twitter
+    new_window: true
+  - name: LinkedIn
+    link: https://www.linkedin.com/company/challengehub/
+    social_icon: LinkedIn
+    new_window: true
