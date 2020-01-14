@@ -9,7 +9,7 @@ position: 1
 heading:
 ---
 
-ChallengeHubのアカウントが使えるようになる招待を要求したい方は、貴学におけるメールアドレス（例：onamae@daigaku.ac.jp）より下記をお知らせください。
+ChallengeHubのアカウントが使えるようになる招待をリクエストしたい方は、貴学におけるメールアドレス（例：onamae@daigaku.ac.jp）を用い、下記事項をお知らせください。
 
 - 氏名と所属
 - 氏名のアルファベット表記
