@@ -1,6 +1,6 @@
 ---
-image_alt: Github front page
-image_path: documentation/signup-with-github/github-front-page.jpg
+image_alt: ChallengeHub Sign In
+image_path: quickstart/home-20191205.jpg
 lang: en
 page_name: documentation/getting-your-account-ready
 position: 1
