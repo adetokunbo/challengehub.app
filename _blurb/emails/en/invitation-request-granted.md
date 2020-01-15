@@ -11,7 +11,7 @@ If you already have an account with LinkedIn, please confirm that you use this e
 
 If you already have a GitHub account, please send us your Github username.
 
-Additional details are available on our website at https://challenghub.app/en/documentation/getting-your-account-ready/
+Additional details are available on our website at https://challengehub.app/en/documentation/getting-your-account-ready/
 
 If you have any questions at any time, feel free to contact us by email or our social channels below.
 
