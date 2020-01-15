@@ -13,5 +13,5 @@ Note that students do *not* need to register with LinkedIn or GitHub. Only teach
 
 If you do not have an account, and want to choose one, perhaps our reasons for choosing these login partners might guide you:
 
-- [LinkedIn](https://www.linkedin.com){:target="_blank"} is the de-facto professional social network; we use it because it helps us reach many of our prospective users. It supports many languages, making it easy to join and use
-- [GitHub](https://github.com){:target="_blank"} is the number-one code-sharing platform; we use it because it simplifies our plans to distribute the Challenges as Open Data
+- [LinkedIn](https://www.linkedin.com){:target="_blank"}  is the de-facto professional social network; it supports many languages, making it easy to join and use
+- [GitHub](https://github.com){:target="_blank"} is the number-one code-sharing platform; it will only prompt you for a few things while signing up
