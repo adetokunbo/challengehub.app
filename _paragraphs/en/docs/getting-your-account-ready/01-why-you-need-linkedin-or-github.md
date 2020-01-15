@@ -14,7 +14,7 @@ Both LinkedIn and GitHub are owned by Microsoft. LinkedIn has over 660 million u
 
 Note that students do *not* need to register with LinkedIn or GitHub. Only teachers need to do so to allow secure management of their courses and secure access to student progress.
 
-If you do not yet have an account with either site, we would recommend LinkedIn because of its support for many languages and general utility for most teachers.
+If you do not yet have an account with either site, we would recommend LinkedIn for most teachers, because of its support for many languages and more general utility.
 
 - [Sign up for LinkedIn](https://www.linkedin.com)
 - [Sign up for GitHub](https://github.com)
