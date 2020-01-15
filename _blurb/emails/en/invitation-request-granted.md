@@ -1,5 +1,6 @@
 ---
 Thank you for your interest in ChallengeHub!
+This is STAFF_NAME.
 Your request for an invitation to use ChallengeHub has been accepted.
 
 You are joining a select group of pioneering teachers who understand that we can teach better than lectures and make learning more effective and teaching more efficient.
@@ -11,3 +12,8 @@ ChallengeHub does not store passwords, and instead uses LinkedIn or GitHub for t
 If you have any questions at any time, feel free to contact us by email or our social channels below.
 
 I would like to schedule a call to learn more about your situation and how ChallengeHub might best help you achieve your goals. Would you be available at 09:00 on Wednesday for a brief chat? If so, please let me know what number I can best contact you on
+
+--
+STAFF_FULL_NAME
+ChallengeHub
+http://challengehub.app
