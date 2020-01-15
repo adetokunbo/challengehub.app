@@ -1,7 +1,7 @@
 ---
 heading: If you are using GitHub
-image_alt: Github front page
-image_path: documentation/signup-with-github/github-front-page.jpg
+image_alt: Screenshot highlighting the address bar where you can copy the URL
+image_path: documentation/getting-your-account-ready/finding-your-github-id.jpg
 lang: en
 page_name: documentation/getting-your-account-ready
 position: 4

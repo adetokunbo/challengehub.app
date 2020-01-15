@@ -1,6 +1,6 @@
 ---
-image_alt: Github front page
-image_path: documentation/signup-with-github/github-front-page.jpg
+image_alt: Screenshot highlighting the primary address
+image_path: documentation/getting-your-account-ready/finding-your-primary-mail-address.jpg
 lang: en
 page_name: documentation/getting-your-account-ready
 position: 3

@@ -1,6 +1,6 @@
 ---
 heading: If you are using LinkedIn
-image_alt: Github front page
+image_alt: Screenshot highlighting the address bar where you can copy the URL
 image_path: documentation/getting-your-account-ready/finding-your-linkedin-id.jpg
 lang: en
 page_name: documentation/getting-your-account-ready
