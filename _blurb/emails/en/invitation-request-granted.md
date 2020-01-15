@@ -3,7 +3,7 @@ Thank you for your interest in ChallengeHub!
 This is STAFF_NAME.
 Your request for an invitation to use ChallengeHub has been accepted.
 
-You are joining a select group of pioneering teachers who understand that we can teach better than lectures and make learning more effective and teaching more efficient.
+You are joining a select group of pioneering teachers who understand that we can do better than lectures, making learning more effective and teaching more efficient.
 
 ChallengeHub uses other internet service's logins. This is simpler and provides better security. Currently, we support login via either LinkedIn or GitHub. To enable your login, we need some account details from you before you proceed. If you've not got an account with either service, you will need to sign up to one of them.
 
