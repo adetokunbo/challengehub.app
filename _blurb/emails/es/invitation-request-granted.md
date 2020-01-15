@@ -11,7 +11,7 @@ Si ya tiene una cuenta de LinkedIn, por favor confirme que esta dirección de co
 
 Si ya tiene una cuenta de GitHub, por favor háganos saber su nombre de usuario.
 
-Puede encontrar más información sobre esto en https://challenghub.app/es/documentation/getting-your-account-ready/
+Puede encontrar más información sobre esto en https://challengehub.app/es/documentation/getting-your-account-ready/
 
 Si tiene una pregunta en cualquier momento, por favor contáctenos a través del correo electrónico o de nuestros canales sociales.
 
