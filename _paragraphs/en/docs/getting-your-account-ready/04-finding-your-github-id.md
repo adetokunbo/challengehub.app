@@ -7,7 +7,7 @@ page_name: documentation/getting-your-account-ready
 position: 4
 ---
 
-We will need your GitHub username to make it so that you can log in to ChallengeHub.
+We will need your GitHub username to enable you to log in to ChallengeHub.
 
 #### How to find your GitHub username
 

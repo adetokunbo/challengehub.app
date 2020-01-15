@@ -7,7 +7,7 @@ page_name: documentation/getting-your-account-ready
 position: 2
 ---
 
-We will need both your LinkedIn ID and your primary LinkedIn email address to make it so that you can log in to ChallengeHub.
+We will need both your LinkedIn ID and your primary LinkedIn email address to enable you to log in to ChallengeHub.
 
 #### How to find your LinkedIn ID
 
