@@ -1,15 +1,15 @@
 ---
 heading: If you are using GitHub
 image_alt: Screenshot highlighting the address bar where you can copy the URL
-image_path: documentation/getting-your-account-ready/finding-your-github-id.jpg
+image_path: documentation/getting-your-account-ready/finding-your-github-username.jpg
 lang: en
 page_name: documentation/getting-your-account-ready
 position: 4
 ---
 
-We will need your GitHub ID to make it so that you can log in to ChallengeHub.
+We will need your GitHub username to make it so that you can log in to ChallengeHub.
 
-#### How to find your GitHub ID
+#### How to find your GitHub username
 
 1. Click on your avatar on the header navigation menu
 2. Click on "Your profile"
