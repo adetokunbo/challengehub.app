@@ -13,6 +13,9 @@ Las clases tradicionales no son eficientes, y bajan la motivación de los alumno
 
 Con las técnicas de aprendizaje activo se trata de solucionar esto, pero se mantienen las clases tipo conferencia y no solucionan el problema de la desmotivación.
 
-ChallengeHub es diferente. En este nuevo sistema las conversaciones productivas entre alumnos son fundamentales, y las explicaciones del docente son específicas y útiles.
+ChallengeHub es diferente.
+La base es resolver retos,
+las explicaciones del docente son específicas y útiles,
+y las conversaciones productivas entre alumnos son fundamentales.
 
 Nuestro objetivo es revolucionar la educación, crear un mundo donde todos los estudiantes quieran venir a clase, donde la educación sea eficiente, efectiva y agradable tanto para los alumnos como para los docentes.
