@@ -15,7 +15,16 @@
     <a href="{{ link.url }}" class="{{ class }}" {% if link.new_window %}target="_blank"{% endif %}>{{ link.title }}</a>
   {%- endfor -%}
 
-  {%- if site.languages contains site.active_lang -%}
+  {%- assign show_lang_picker = false -%}
+  {%- for lang in site.languages -%}
+    {%- if lang!=site.active_lang -%}
+      {%- assign missing = site.data.languages[lang].missing | where: "url", page.url -%}
+      {%- unless missing[0].url == page.url -%}
+        {%- assign show_lang_picker = true -%}
+      {%- endunless -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {%- if show_lang_picker && site.languages contains site.active_lang -%}
   <span class="choose-language">
     <span class="dropdown-button">
       {{ site.data.languages[site.active_lang].name }} <i class="fas fa-globe"></i> <i class="fas fa-angle-down"></i>
