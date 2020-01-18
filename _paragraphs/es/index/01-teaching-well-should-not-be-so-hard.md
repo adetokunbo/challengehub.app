@@ -2,7 +2,7 @@
 cta_label: ¿Cómo hemos llegado hasta aquí?
 cta_link: /our-story/
 image_alt: Gráfica—eficiencia del docente / efectividad del estudio
-image_path: front/effort-efficiency-es-20191231.svg
+image_path: front/teaching-efficiency-es-20191231.svg
 lang: es
 page_name: index
 position: 1
