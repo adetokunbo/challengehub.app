@@ -1,5 +1,6 @@
 ---
 cta_label: Lee más sobre aprendizaje activo
+cta_label_mobile: Lee más
 cta_link: /active-learning/
 image_alt: Pantallazo
 image_path: front/cbal-cycle-es-20200103.svg

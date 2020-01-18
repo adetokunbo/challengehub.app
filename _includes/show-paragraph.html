@@ -21,7 +21,18 @@
           {%- if para.heading -%}<h2>{{- para.heading -}}</h2>{%- endif -%}
           {{- para.content | markdownify -}}
           {%- if para.cta_label -%}
-            <div class="cta button"><a href="{{- site.baseurl -}}{{- para.cta_link -}}">{{- para.cta_label -}}</a></div>
+            <div class="cta button"><a href="{{- site.baseurl -}}{{- para.cta_link -}}">
+              {%- if para.cta_label_mobile -%}
+              <span class="desktop-only">
+                {{- para.cta_label -}}
+              </span>
+              <span class="mobile-only">
+                {{- para.cta_label_mobile -}}
+              </span>
+              {%- else -%}
+              {{- para.cta_label -}}
+              {%- endif  -%}
+            </a></div>
           {%- endif -%}
         </div>
         {%- if image_after_text -%}

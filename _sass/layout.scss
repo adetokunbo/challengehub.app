@@ -86,6 +86,19 @@ section + section {
 	margin: 60px 0;
 }
 
+.desktop-only {
+  display: none;
+  @media #{$mid-point} {
+    display: inline;
+  }
+}
+.mobile-only {
+  display: inline;
+  @media #{$mid-point} {
+    display: none!important;
+  }
+}
+
 .page h2 {
 	text-align: center;
 }
