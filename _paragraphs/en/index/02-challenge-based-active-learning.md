@@ -1,7 +1,7 @@
 ---
 cta_label: More about active learning
 cta_link: /active-learning/
-image_alt: Screenshot
+image_alt: Challenge-based active learning cycle
 image_path: front/cbal-cycle-en-20200118.svg
 lang: en
 page_name: index

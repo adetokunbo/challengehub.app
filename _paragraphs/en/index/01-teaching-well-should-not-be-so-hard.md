@@ -1,7 +1,7 @@
 ---
 cta_label: Learn how we got here
 cta_link: /our-story/
-image_alt: Screenshot
+image_alt: Chart: teaching efficiency / learning effectiveness
 image_path: front/effort-efficiency-en-20200118.svg
 lang: en
 page_name: index
