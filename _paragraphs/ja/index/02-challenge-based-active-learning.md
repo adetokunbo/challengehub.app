@@ -1,6 +1,5 @@
 ---
-cta_label: アクティブラーニングについてもっと詳しく
-cta_label_mobile: もっと詳しく
+cta_label: もっと詳しく
 cta_link: /active-learning/
 image_alt: Screenshot
 image_path: front/cbal-cycle-ja-20200103.svg
