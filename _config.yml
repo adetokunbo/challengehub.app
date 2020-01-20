@@ -13,13 +13,21 @@ disqus_shortname:
 logo: /siteicon-20191205.png
 description: Active Learning for Everyone
 author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+  name: ChallengeHub
+  email: info@challengehub.app
+  twitter: challenge_hub
 social:
   name: ChallengeHub
   links:
     - https://challengehub.app
+    - https://www.facebook.com/challengehubapp/
+    - https://twitter.com/challenge_hub/
+    - https://www.linkedin.com/company/challengehub/
+twitter:
+  card: summary
+  username: challenge_hub
+facebook:
+  facebook:publisher: https://www.facebook.com/challengehubapp/
 
 # -----
 # Build
