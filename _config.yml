@@ -68,6 +68,7 @@ defaults:
     scope:
       path: ""
     values:
+      image: /images/front/challenge-hub-header-illustration.jpg
       layout: "page"
   -
     scope:
