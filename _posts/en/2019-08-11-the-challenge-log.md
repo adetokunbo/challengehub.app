@@ -2,6 +2,7 @@
 date: 2019-08-11
 title: The Challenge Log
 subtitle: The Active Learning Answer to Homework
+description: In challenge-based active learning, the concept of "homework" is quite different to a traditional lecture-style course.
 reading_minutes: 2
 categories:
  - Motivation

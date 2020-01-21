@@ -11,15 +11,24 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon-20191205.png
-description: Active Learning for Everyone
+description: No more lectures. More effective learning. More efficient teaching. Active learning for everyone.
+tagline: Active Learning for Everyone
 author:
-  name:
-  email:
-  twitter: # twitter username without the @ symbol
+  name: ChallengeHub
+  email: info@challengehub.app
+  twitter: challenge_hub
 social:
   name: ChallengeHub
   links:
     - https://challengehub.app
+    - https://www.facebook.com/challengehubapp/
+    - https://twitter.com/challenge_hub/
+    - https://www.linkedin.com/company/challengehub/
+twitter:
+  card: summary
+  username: challenge_hub
+facebook:
+  facebook:publisher: https://www.facebook.com/challengehubapp/
 
 # -----
 # Build
@@ -59,6 +68,7 @@ defaults:
     scope:
       path: ""
     values:
+      image: /images/front/challenge-hub-header-illustration.jpg
       layout: "page"
   -
     scope:

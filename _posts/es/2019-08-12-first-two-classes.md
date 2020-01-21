@@ -1,6 +1,7 @@
 ---
 date: 2019-08-12
 title: Las dos primeras clases de tu asignatura<br>con aprendizaje activo basado en retos
+description: En este artículo vamos a hablar de las dos primeras clases de una asignatura usando ChallengeHub, para facilitar el aprendizaje activo basado en retos.
 reading_minutes: 4
 categories:
  - ChallengeHub

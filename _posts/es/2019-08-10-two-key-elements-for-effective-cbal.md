@@ -2,6 +2,7 @@
 date: 2019-08-10
 title: Las dos claves para el<br>aprendizaje activo basado en retos
 subtitle: La motivación del alumno y la eficiencia del estudio
+description: En una sociedad que cambia tan rápidamente, los estudiantes necesitan motivación y la habilidad de aprender cosas nuevas e innovar continuamente.
 reading_minutes: 4
 categories:
  - Motivación
