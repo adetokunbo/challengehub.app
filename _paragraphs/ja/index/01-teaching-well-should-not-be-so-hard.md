@@ -1,8 +1,8 @@
 ---
 cta_label: これまでの経緯
 cta_link: /our-story/
-image_alt: Screenshot
-image_path: front/effort-efficiency-ja-20191231.svg
+image_alt: 図：講師効率／学習有効性
+image_path: front/teaching-efficiency-ja-20191231.svg
 lang: ja
 page_name: index
 position: 1
