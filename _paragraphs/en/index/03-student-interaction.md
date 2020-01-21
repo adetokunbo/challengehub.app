@@ -1,5 +1,5 @@
 ---
-cta_label: More about student interaction
+cta_label: Learn more
 cta_link: /student-interaction/
 image_alt: Screenshot
 image_path: student-interaction/student-interaction-line.jpg

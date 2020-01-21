@@ -1,5 +1,5 @@
 ---
-cta_label: 学生インターフェースについてもっと詳しく
+cta_label: もっと詳しく
 cta_link: /student-interaction/
 image_alt: Screenshot
 image_path: student-interaction/student-interaction-line.jpg

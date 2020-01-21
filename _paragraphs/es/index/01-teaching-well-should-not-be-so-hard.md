@@ -1,5 +1,5 @@
 ---
-cta_label: ¿Cómo hemos llegado hasta aquí?
+cta_label: Nuestra trayectoria
 cta_link: /our-story/
 image_alt: Gráfica—eficiencia del docente / efectividad del estudio
 image_path: front/teaching-efficiency-es-20191231.svg

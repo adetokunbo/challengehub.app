@@ -1,5 +1,5 @@
 ---
-cta_label: Lee más sobre aprendizaje activo
+cta_label: Más información
 cta_link: /active-learning/
 image_alt: Ciclo del aprendizaje activo basado en retos
 image_path: front/cbal-cycle-es-20200118.svg

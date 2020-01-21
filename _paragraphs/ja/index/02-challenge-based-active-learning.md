@@ -1,5 +1,5 @@
 ---
-cta_label: アクティブラーニングについてもっと詳しく
+cta_label: もっと詳しく
 cta_link: /active-learning/
 image_alt: チャレンジ解決型アクティブラーニングのサイクル
 image_path: front/cbal-cycle-ja-20200118.svg
