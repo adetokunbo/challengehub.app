@@ -2,7 +2,7 @@
 cta_label: Nuestra trayectoria
 cta_link: /our-story/
 image_alt: Gráfica—eficiencia del docente / efectividad del estudio
-image_path: front/teaching-efficiency-es-20191231.svg
+image_path: front/teaching-efficiency-es-20200118.svg
 lang: es
 page_name: index
 position: 1
