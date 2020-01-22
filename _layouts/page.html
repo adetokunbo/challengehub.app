@@ -9,7 +9,13 @@ layout: default
       {% elsif page.title and page.layout != 'archive' %}
         <h2>{{ page.title }}</h2>
       {% endif %}
-      {% if page.description %}
+
+      {% comment %}
+      The description front matter property for blog posts is for social sharing.
+      Since it is not intended for showing on the website (it would be redundant),
+      we don't show the description if page.layout == 'post'
+      {% endcomment %}
+      {% if page.description and page.layout != 'post' %}
         <p class="subtext">{{ page.description }}</p>
       {% endif %}
       {{ content }}
