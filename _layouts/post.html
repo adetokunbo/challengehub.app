@@ -4,6 +4,17 @@ layout: page
 <div class="blog-post text-container">
   {% include post-title.html post=page %}
 
+  {% comment %}
+  If the image front matter is not the default,
+  set on _config.yml for Open Graph / Twitter card purposes,
+  we do show it here
+  {% endcomment %}
+  {%- if page.image != '/images/front/challenge-hub-header-illustration.jpg' -%}
+  <p>
+    <img src="{{page.image}}" alt="{{page.image_alt}}">
+  </p>
+  {%- endif -%}
+
   <p class="editor-link"><a href="cloudcannon:collections/{{ page.path }}" class="btn"><strong>&#9998;</strong> Edit Post</a></p>
   <div class="post-content">
     {{ content }}
