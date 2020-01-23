@@ -3,6 +3,8 @@ date: 2019-08-11
 title: チャレンジ・ログ
 subtitle: アクティブラーニングならではの宿題
 description: チャレンジ解決型アクティブラーニングでの「宿題」の概念は、従来の講義のものとは全く異なります。宿題の代わりに、学生は各チャレンジの解決までの全ステップをまとめたチャレンジ・ログというノートを作成していきます。
+image: /images/blog/2019-08-11-the-challenge-log.jpg
+image_alt: チャレンジ・ログ
 reading_minutes: 2
 categories:
  - モチベーション
