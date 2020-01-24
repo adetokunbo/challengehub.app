@@ -3,6 +3,8 @@ date: 2019-08-11
 title: El cuaderno de retos
 subtitle: La respuesta del aprendizaje activo a los deberes
 description: En el aprendizaje activo basado en retos, el concepto de “deberes” es bastante diferente a lo que hay en un curso de clases tradicionales tipo conferencia.
+image: /images/blog/2019-08-11-the-challenge-log.jpg
+image_alt: El cuaderno de retos
 reading_minutes: 2
 categories:
  - Motivación
