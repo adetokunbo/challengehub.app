@@ -6,10 +6,10 @@ My name is STAFF_NAME and I am happy to inform you that your request for an invi
 
 My team and I work with pioneering teachers like you, who understand that we can do better than lectures, making learning more effective and teaching more efficient. We are happy to have you on board!
 
-{Comments, questions, or a combination thereof, ideally linked to our data gathering objectives, but primarily shows we've this is not an automated reply. For example:
+[BEFORE SENDING: Make the email more personal. Ideally, relate to something you have in common with the prospect. Some generic examples are shown below. Edit/change as appropriate.]
 I see that you have been teaching for many years at INSTITUTE_NAME.
 Have you used active learning before?
-Is active learning widely used at INSTITUTE_NAME?}
+Is active learning widely used at INSTITUTE_NAME?
 
 ChallengeHub uses LinkedIn or GitHub for authentication, much like you might use Google or Facebook to sign into another website.
 
