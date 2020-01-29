@@ -11,6 +11,6 @@ heading: The nature of the class
 
 The teacher walks into the classroom knowing the progress of the class and likely questions, resulting in efficient class-preparation and student learning.
 
-ChallengeHub automatically pairs students based on their performance, enabling personalised instruction as students ask each other questions, discuss difficult concepts and learn how to explain ideas.
+Students are paired based on their performance, enabling personalised instruction as students ask each other questions, discuss difficult concepts and learn how to explain ideas.
 
 Although much of the class is devoted to valuable pair-discussion, the teacher can still choose to deliver a targeted explanation to address a common issue or provide a motivating outline of a new topic.

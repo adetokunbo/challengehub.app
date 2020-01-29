@@ -18,7 +18,7 @@ Normalmente hay entre 6 y 10 retos por stint, aunque el primer stint normalmente
 
 Antes de comenzar el curso el docente prepara stints para las dos primeras clases,
 cada uno temporizado para ser lanzado al principio de una de las clases.
-El primer stint simplemente contendrá retos, pero el segundo normalmente también incluirá emparejamiento automático de alumnos. Este emparejamiento facilita la instrucción entre pares, repartiéndose a los alumnos en equipos de dos o tres personas, y aprendiendo todos al ayudarse unos a otros.
+El primer stint simplemente contendrá retos, pero el segundo normalmente también incluirá un emparejamiento deliberado de alumnos. Este emparejamiento facilita la instrucción entre pares, repartiéndose a los alumnos en equipos de dos o tres personas, y aprendiendo todos al ayudarse unos a otros.
 
 ### Primera clase
 
@@ -56,7 +56,7 @@ así que quedará claro si algún alumno ha tenido dificultades con el sistema.
 
 ### Segunda clase
 
-A partir de la segunda clase, el docente normalmente usa emparejamiento automático para que los alumnos puedan ayudarse unos a otros en el proceso llamado instrucción entre pares.
+A partir de la segunda clase, el docente normalmente empareja a los alumnos para que puedan ayudarse unos a otros en el proceso llamado instrucción entre pares.
 
 Aunque no es necesario, un truco es repartir folios en blanco y pedir a los alumnos que los doblen en tres y escriban su nombre en uno de los lados,
 para que el docente pueda encontrar rápidamente a los alumnos con los que quiere hablar, o para poder contrastar el nombre con la vista en tiempo real del progreso de dicho alumno durante la clase.
