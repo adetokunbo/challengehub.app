@@ -18,7 +18,7 @@ There are usually 6 to 10 challenges per stint.
 The first stint will contain fewer challenges than later stints because there is less time for discussion in the first class.
 
 Prior to the start of the course a teacher prepares stints for the first two classes, with each timed to be released (made visible to the students) at the beginning of each class.
-The first stint will simply contain challenges but second stint will typically also include automatic pairing of students. This "pairing" facilitates *peer instruction*, whereby students are placed in small teams of two or three and learn by teaching each other.
+The first stint will simply contain challenges but second stint will typically also include deliberate pairing of students. This "pairing" facilitates *peer instruction*, whereby students are placed in small teams of two or three and learn by teaching each other.
 
 ### Class 1
 
@@ -49,7 +49,7 @@ In addition, class 2 is important because it is the first week that students hav
 
 ### Class 2
 
-From the 2nd class, the teacher typically chooses to make use of automatic pairing so that students are in a position to help each other during discussion through a process known as *peer instruction*.
+From the 2nd class, the teacher typically chooses to make use of pairing so that students are in a position to help each other during discussion through a process known as *peer instruction*.
 
 Although not required, one useful tip is to distribute blank paper and have students fold it into thirds then write their name on one side so that the teacher can quickly identify those with whom one-to-one discussion is desired, or can cross-reference a name with a real-time view of that student’s progress during the class.
 
