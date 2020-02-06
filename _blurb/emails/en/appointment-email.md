@@ -13,8 +13,6 @@ Thank you for your time, and I look forward to speaking to you on MEETING_DAY.
 
 Best regards,
 
-James
-
 STAFF_NAME
 
 --
