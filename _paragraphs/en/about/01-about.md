@@ -1,5 +1,5 @@
 ---
-heading: At ChallengeHub we stand for
+heading: At ChallengeHub we stand for&colon;
 has_content: true
 lang: en
 page_name: about
