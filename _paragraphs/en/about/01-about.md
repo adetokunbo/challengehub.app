@@ -1,11 +1,11 @@
 ---
-heading: ChallengeHub stands for
+heading: At ChallengeHub we stand for
 has_content: true
 lang: en
 page_name: about
 position: 1
 ---
-### Effective education management, achieved through
+### Effective education management
 
 - __Easy active learning implementation__  
 We believe that the teacher should be free to teach and not need to worry about the technical details of enhanced education.
@@ -16,14 +16,14 @@ We believe that student development goes beyond problem solving, and that discus
 - __Progress monitoring__  
 We believe that teacher intervention should be useful and targeted.
 
-### Open education, achieved through
+### Open education
 
 - __Open challenges__  
 We believe that teachers should own what they create and with ChallengeHub you always have free access to what you create, forever.
 - __Challenge sharing__  
 We believe in open education and teacher efficiency; that teachers should be able to share what they create and collaborate on improvements.
 
-### Access to education for everyone, achieved through
+### Access to education for everyone
 
 - __Interaction using familiar apps__  
 We believe that technology should enhance and not hinder access to education.
