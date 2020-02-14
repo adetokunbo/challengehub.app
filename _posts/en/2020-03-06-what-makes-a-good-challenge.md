@@ -17,7 +17,7 @@ Students do this by entering a number or some text, and ChallengeBot responds by
 ## Numerical solutions - good!
 A unique ability of ChallengeHub is for numerical answers to be specified with a given tolerance. For example:
 
-- Calculate the derivative of ```f(x) = x<sup>2</sup> + 3.5x + 4```
+- Calculate the derivative of ```f(x) = x² + 3.5x + 4```
 - To check your solution, substitute ```x=2``` into your final answer.
     
 In this case, the solution is ```f'(x) = 2x + 3.5```, and so the student would substitute ```x=2``` to obtain 7.5. Although unlikely in this simple example, to account for rounding errors ChallengeHub allows the teacher to specify a tolerance. For example, if the tolerance is 1%, then any answer between 7.425 and 7.525 would be accepted here as being correct. Note that students can also use e-notation for very large or small numbers; for example, entering ```1.3e4``` instead of ```13000```.
@@ -66,7 +66,7 @@ An alternative to multiple choice is a **True/False binary addition** problem. C
 - **512 points** An initial angular velocity of 3 units results in whirring circular motion in the opposite direction as an initial angular velocity of -3 units.
 - Enter your final answer as an integer.
 
-Each statement is a true/false statement, and adding different statements results in a unique sum. The chance of simply randomly guessing the solution has gone from 1/3 to 1/(2<sup>10</sup>).
+Each statement is a true/false statement, and adding different statements results in a unique sum. The chance of simply randomly guessing the solution has gone from 1/3 to 1/(2¹⁰).
 
 ### Word selection - avoid!
 Consider the following challenge:
