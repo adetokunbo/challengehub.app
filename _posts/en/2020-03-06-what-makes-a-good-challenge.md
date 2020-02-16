@@ -13,8 +13,6 @@ ChallengeHub enables a variety of challenge styles. A key innovation at Challeng
 
 Students do this by entering a number or some text, and ChallengeBot responds by informing the student whether the proposed answer is correct or not. By not knowing the answer ahead of time, deep learning is encouraged as the temptation to work backwards from a given answer is removed. This post outlines examples of what does - and does not - make a good challenge.
 
-\<shortcuts to challenge style headings\>
-
 ## Numerical solutions - good!
 A unique ability of ChallengeHub is for numerical answers to be specified with a given tolerance. For example:
 
