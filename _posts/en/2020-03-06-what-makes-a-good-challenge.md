@@ -10,6 +10,7 @@ ref: 2020-03-06-what-makes-a-good-challenge
 lang: en
 ---
 ChallengeHub enables a variety of challenge styles. A key innovation at ChallengeHub is the ability for students to check the answers to with ChallengeBot in real time. This gives them a motivational win when they get it right and keeps them in the flow to come at the challenge from a different angle when they get it wrong.
+
 Students do this by entering a number or some text, and ChallengeBot responds by informing the student whether the proposed answer is correct or not. By not knowing the answer ahead of time, deep learning is encouraged as the temptation to work backwards from a given answer is removed. This post outlines examples of what does - and does not - make a good challenge.
 
 \<shortcuts to challenge style headings\>
