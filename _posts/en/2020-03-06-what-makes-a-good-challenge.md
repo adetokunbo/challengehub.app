@@ -18,7 +18,7 @@ A unique ability of ChallengeHub is for numerical answers to be specified with a
 
 > Calculate the derivative of ```f(x) = x² + 3.5x + 4```
 > To check your solution, substitute ```x=2``` into your final answer.
-    
+
 In this case, the solution is ```f'(x) = 2x + 3.5```, and so the student would substitute ```x=2``` to obtain 7.5. Although unlikely in this simple example, to account for rounding errors ChallengeHub allows the teacher to specify a tolerance. For example, if the tolerance is 1%, then any answer between 7.425 and 7.525 would be accepted here as being correct. Note that students can also use e-notation for very large or small numbers; for example, entering ```1.3e4``` instead of ```13000```.
 
 There are some cases where a unique check is difficult but a strong indication of the correctness can be achieved. For example, in cases where the final solution is a matrix, the instruction could simply be
@@ -35,13 +35,13 @@ or
 
 Although this does not generate a unique check, it provides a good immediate indication about correctness for both teacher and student, and can keep students in the flow if they have clearly got the answer wrong. Furthermore, the teacher can review a few challenge logs in the class to ensure correct calculation.
 
-\<tolerance picture\>
+![Tolerance UI](/images/blog/2020-03-06-tolerance.png){: .framed-image }
 
 ### Multiple choice - avoid!
 
 The ideal challenge promotes deep thinking and discussion in the classroom. It discourages random guessing. A common default is for teachers to ask students multiple-choice questions. For example:
 
-> \<The bottom of the two figures at https://upload.wikimedia.org/wikipedia/commons/b/b7/Pendulumphase.png\>
+> ![Pendulum phase](/images/blog/2020-03-06-pendulum-phase.png)
 > Considering the above figure, if the initial angle of the pendulum is π and the initial angular velocity is 0 rad/s, what happens to the pendulum?
   - a) The pendulum is stationary
   - b) The pendulum swings back and forth
@@ -73,7 +73,7 @@ Each statement is a true/false statement, and adding different statements result
 Consider the following challenge:
 
 > Convection is a form of thermal transport. Name the other two.
-    
+
 The answer the teacher is looking for in this case is "conduction and radiation". ChallengeBot matches the entire text, so "radiation and conduction" or even "conduction & radiation" would not be matched. Also, this encourages guessing, and so is discouraged.
 
 ## Order placement challenges - good!
