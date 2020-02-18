@@ -132,10 +132,7 @@ Hello, it’s __James Cannon__ from ChallengeHub.
 Thanks for you time.  
 etc.
 
-### Aims
-See Metrics
-
-Potential leading questions:
+### Potential leading questions:
 
 - What do you teach?
   - How many students are in that class?
@@ -149,9 +146,9 @@ Potential leading questions:
 - Shall I get you set up with a CH account?
 
 - Does anyone else at __Surrey__ use active learning?
-- What do they use? [Methods, technology]
+  - What do they use? [Methods, technology]
 - Is there anyone else who you think might be interested in a new method of active learning?
 
 - Have you used AL?
-- Yes: Can you explain more about how you’ve used it
-- No: What do you understand by AL?
+  - Yes: Can you explain more about how you’ve used it
+  - No: What do you understand by AL?

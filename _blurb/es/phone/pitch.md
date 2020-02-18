@@ -9,15 +9,15 @@
 
 ## Discurso inicial
 
-Hola, ¿es usted el señor González?  
+Hola, ¿es usted __el señor González__?  
 _Sí_
 
-Hola. Me llamo __Alejandro Cremades__ y trabajo con una pequeña _startup_ de active learning llamada ChallengeHub.  
+Hola. Me llamo __Alejandro Cremades__ y trabajo con una pequeña _startup_ de aprendizaje activo llamada ChallengeHub.  
 Lo llamo porque trabajamos con docentes pioneros que quieren enseñar de forma más eficiente y efectiva, y como miembro de __la Facultad de Arquitectura de la Universidad de Alicante, enseñando física__, me gustaría preguntarle si está usando aprendizaje activo en sus clases, y cómo podría ChallengeHub serle de ayuda.  
 ¿Tendría usted un momento para hablar ahora, o por ejemplo __el miércoles a las 10 de la mañana__?  
 (84 palabras, 30 segundos)
 
-Hola. Me llamo __Alejandro Cremades__ y trabajo con una pequeña _startup_ de active learning llamada ChallengeHub.  
+Hola. Me llamo __Alejandro Cremades__ y trabajo con una pequeña _startup_ de aprendizaje activo llamada ChallengeHub.  
 Lo llamo porque trabajamos con docentes que están hartos de dar clases que no son interactivas, y quieren ser pioneros en una enseñanza más eficiente para ellos, a la vez que más efectiva para los alumnos. Como miembro de __la Facultad de Arquitectura de la Universidad de Alicante, enseñando física__, me gustaría preguntarle si está usando aprendizaje activo en sus clases, y cómo podría ChallengeHub serle de ayuda.  
 ¿Tendría usted un momento para hablar ahora, o por ejemplo __el miércoles a las 10 de la mañana__?  
 (94 palabras, 35 segundos)
@@ -128,33 +128,31 @@ Una cosa que nos hemos propuesto con respecto a la educación abierta es hacer q
 
 ## Segunda llamada
 
-Hola. ¿Es el professor Smith?
-Yes
-Hola, soy Alejandro Cremades de ChallengeHub.
-Gracias por encontrar tiempo para hablar
+Hola. ¿Es el __señor González__?  
+_Sí_  
+Hola, soy __Alejandro Cremades__ de ChallengeHub.  
+Gracias por encontrar tiempo para hablar  
 etc.
-Objetivos
-¿Qué enseña usted?
-¿Cuántos alumnos tiene en esa clase?
-¿Usa usted aprendizaje activo en sus clases?
-Sí
-¿Y qué hace?
-¿Cree que le funciona bien?
-No
-¿Por qué no?
-¿Cuántos alumnos tiene en cada clase?
-¿Cuándo empieza usted a dar clase?
-¿Me permitiría abrirle una cuenta de ChallengeHub?
 
-¿Alguien más en la UA usa aprendizaje activo?
-¿Qué usan? [Métodos, tecnología]
-¿Hay alguien más que cree que pueda estar interesado en un nuevo método de aprendizaje activo?
+### Posibles preguntas iniciales
 
+- ¿Qué enseña usted?
+  - ¿Cuántos alumnos tiene en esa clase?
+- ¿Usa usted aprendizaje activo en sus clases?
+  - Sí
+    - ¿Y qué hace?
+    - ¿Cree que le funciona bien?
+  - No: ¿Por qué no?
+- ¿Cuántos alumnos tiene en cada clase?
+- ¿Cuándo empieza usted a dar clase?
+- ¿Me permitiría abrirle una cuenta de ChallengeHub?
 
-¿Ha usado usted aprendizaje activo?
-Sí
-¿Puede contarme un poco más de cómo lo ha usado?
-No
-¿Qué entiende usted por aprendizaje activo?
+- ¿Alguien más en la _Universidad de Alicante_ usa aprendizaje activo?
+  - ¿Qué usan? [Métodos, tecnología]
+- ¿Hay alguien más que cree que pueda estar interesado en un nuevo método de aprendizaje activo?
+
+- ¿Ha usado usted aprendizaje activo?
+  - Sí: ¿Puede contarme un poco más de cómo lo ha usado?
+  - No: ¿Qué entiende usted por aprendizaje activo?
 
 
