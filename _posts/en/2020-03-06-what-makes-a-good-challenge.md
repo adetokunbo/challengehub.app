@@ -81,7 +81,7 @@ Considering the same figure, the challenge could instead be:
 > Enter your final solution as an integer.
 
 Each statement is a true/false statement, and adding different statements results in a unique sum.
-The chance of simply randomly guessing the solution has gone from 1/3 to 1/(2¹⁰), and can be made even smaller if further options are added.
+The chance of simply randomly guessing the solution has gone from 1/3 to 1/(2⁵), and can be made even smaller if further options are added.
 
 ### Word selection — avoid!
 Consider the following challenge:
