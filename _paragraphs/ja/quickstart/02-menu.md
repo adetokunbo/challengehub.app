@@ -1,7 +1,7 @@
 ---
 heading:
 image_alt: ChallengeHub メニュー
-image_path: quickstart/menu-20191205.jpg
+image_path: quickstart/menu-20200218.png
 lang: ja
 page_name: quickstart
 position: 2
