@@ -17,7 +17,7 @@ Being unable to see the solution before getting it correct ensures the solution 
 
 This post outlines examples of what does - and does not - make a good challenge.
 
-## Numerical solutions - good!
+## Numerical solutions — good!
 A unique ability of ChallengeHub is for numerical solutions to be specified with a given tolerance.
 For example, consider the challenge:
 
@@ -49,7 +49,7 @@ or perhaps
 Although this does not generate a unique check, it provides a good immediate indication about correctness for both teacher and student, and can keep students in the flow if they have clearly got the solution wrong.
 If desired, the teacher can still review a few challenge logs in the class to ensure correct calculation.
 
-### Multiple choice - avoid!
+### Multiple choice — avoid!
 
 The ideal challenge promotes deep thinking and discussion in the classroom.
 It discourages random guessing.
@@ -66,7 +66,7 @@ For example:
 In this case, there is a strong temptation for students to simply randomly enter "a", "b" or "c" until they get the solution correct, and then perhaps work backwards to figure out why that solution is correct.
 Other students may even then simply move on to the next challenge, giving the teacher the false impression that the student understands the concept and is keeping up with the course.
 
-## True/False binary addition - good!
+## True/False binary addition — good!
 An alternative to multiple choice is a **True/False binary addition** problem.
 Considering the same figure, the challenge could instead be:
 
@@ -83,7 +83,7 @@ Considering the same figure, the challenge could instead be:
 Each statement is a true/false statement, and adding different statements results in a unique sum.
 The chance of simply randomly guessing the solution has gone from 1/3 to 1/(2¹⁰), and can be made even smaller if further options are added.
 
-### Word selection - avoid!
+### Word selection — avoid!
 Consider the following challenge:
 
 > Convection is a form of thermal transport. Name the other two.
@@ -92,7 +92,7 @@ The solution here is "conduction and radiation".
 ChallengeBot matches the entire text, so "radiation and conduction" or even "conduction & radiation" would not be matched.
 Furthermore, this also encourages guessing, with the same problems as described earlier.
 
-## Order placement challenges - good!
+## Order placement challenges — good!
 
 A way to make use of strings without requiring ambiguous word selection is to enable pattern matching.
 For example:
