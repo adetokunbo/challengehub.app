@@ -28,6 +28,8 @@ In this case, the solution is ```f'(x) = 2x + 3.5```, and so the student would s
 A tolerance on the solution can also be specified, such as ```7.5±1%``` or ```7.5±0.1```.
 This is particularly useful for complex challenges involving many steps where rounding errors may accumulate.
 
+![Tolerance UI](/images/blog/2020-03-06-tolerance.png){: .framed-image }
+
 There are some cases where a unique check is difficult but a strong indication of the correctness can be achieved.
 For example, in cases where the final solution is a matrix, the instruction could simply be
 
@@ -46,8 +48,6 @@ or perhaps
 
 Although this does not generate a unique check, it provides a good immediate indication about correctness for both teacher and student, and can keep students in the flow if they have clearly got the solution wrong.
 If desired, the teacher can still review a few challenge logs in the class to ensure correct calculation.
-
-![Tolerance UI](/images/blog/2020-03-06-tolerance.png){: .framed-image }
 
 ### Multiple choice - avoid!
 
@@ -77,16 +77,11 @@ Considering the same figure, the challenge could instead be:
 > - **4 points** An initial angle of π/2 combined with an angular velocity of 1 unit results in periodic swinging motion.
 > - **8 points** An initial angle of π/2 combined with an angular velocity of 1 unit results in circular whirring motion.
 > - **16 points** An initial angle of 0 combined with an angular velocity of 0 units results in periodic swinging motion.
-> - **32 points** An initial angle of 0 combined with an angular velocity of 0 units results in a stationary system.
-> - **64 points** An initial angle of π combined with an angular velocity of 0 units results in a stationary system.
-> - **128 points** An initial angle of π/2 combined with an angular velocity of 0 units results in a stationary system.
-> - **256 points** An initial angular velocity of 3 units results in whirring circular motion in the same direction as an initial angular velocity of -3 units.
-> - **512 points** An initial angular velocity of 3 units results in whirring circular motion in the opposite direction as an initial angular velocity of -3 units.
 > 
 > Enter your final solution as an integer.
 
 Each statement is a true/false statement, and adding different statements results in a unique sum.
-The chance of simply randomly guessing the solution has gone from 1/3 to 1/(2¹⁰).
+The chance of simply randomly guessing the solution has gone from 1/3 to 1/(2¹⁰), and can be made even smaller if further options are added.
 
 ### Word selection - avoid!
 Consider the following challenge:
@@ -115,4 +110,4 @@ In some cases, perhaps where an essay or written paragraph is required, the abov
 From a teacher's time-management perspective, it's also good to keep in mind a healthy ratio between the time it takes to create a challenge and the time it takes for a student to read relevant resources and complete a challenge, so that both learning *and* teaching efficiency is high.
 
 Overall, ChallengeHub enables some unique challenge styles that encourage deep learning among students.
-Furthermore, we always welcome feedback and innovations from the teachers we empower, so that ChallengeHub can support a growing range of pedagogical styles.
+Furthermore, we always welcome feedback and innovations from the teachers we empower, so that a growing range of pedagogical styles can be supported.
