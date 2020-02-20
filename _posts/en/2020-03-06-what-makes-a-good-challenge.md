@@ -13,7 +13,7 @@ A powerful feature of ChallengeHub is the ability of students to check their sol
 Number and text-based solutions are supported which enable a variety of challenge styles.
 
 Students check their solution by sending it to ChallengeBot, which responds by informing the student if it is correct.
-Being unable to see the solution before getting it correct ensures the solution cannot be derived backwards.
+Being unable to see the solution before getting it correct ensures the solution cannot be derived in reverse.
 
 This post outlines examples of what does — and does not — make a good challenge.
 
@@ -89,12 +89,12 @@ Consider the following challenge:
 > Convection is a form of thermal transport. Name the other two.
 
 The solution here is "conduction and radiation".
-ChallengeBot matches the entire text, so "radiation and conduction" or even "conduction & radiation" would not be matched.
+ChallengeBot matches the exact text, so writing in reverse order ("radiation and conduction") or using alternative forms such as "&" rather than "and", would not be recognised as correct.
 Furthermore, this also encourages guessing, with the same problems as described earlier.
 
 ## Order placement challenges — good!
 
-A way to make use of strings without requiring ambiguous word selection is to enable pattern matching.
+A way to make use of text without requiring ambiguous word selection is to enable pattern matching.
 For example:
 
 > The following 5 graphs (a,b,c,d,e) correspond to the following 5 equations.
