@@ -31,7 +31,7 @@ This is particularly useful for complex challenges involving many steps where ro
 ![Tolerance UI](/images/blog/2020-03-06-tolerance.png){: .framed-image }
 
 There are some cases where a unique check is difficult but a strong indication of the correctness can be achieved.
-For example, in cases where the final solution is a matrix, the instruction could simply be
+For example, in cases where the final solution is a matrix, the instruction could be:
 
 > Your final solution will be a 2x2 matrix.\\
 > To check your solution, add all the numbers in the matrix.
@@ -63,8 +63,8 @@ For example:
   - b) The pendulum swings back and forth
   - c) The pendulum spins round in one complete loop
 
-In this case, there is a strong temptation for students to simply randomly enter "a", "b" or "c" until they get the solution correct, and then perhaps work backwards to figure out why that solution is correct.
-Other students may even then simply move on to the next challenge, giving the teacher the false impression that the student understands the concept and is keeping up with the course.
+In this case, there is a strong temptation for students to randomly enter "a", "b" or "c" until they get the solution correct, and then perhaps work backwards to figure out why that solution is correct.
+Other students may even then move on to the next challenge, giving the teacher the false impression that the student understands the concept and is keeping up with the course.
 
 ## True/False binary addition — good!
 An alternative to multiple choice is a **True/False binary addition** problem.
@@ -81,7 +81,7 @@ Considering the same figure, the challenge could instead be:
 > Enter your final solution as an integer.
 
 Each statement is a true/false statement, and adding different statements results in a unique sum.
-The chance of simply randomly guessing the solution has gone from 1/3 to 1/(2⁵), and can be made even smaller if further options are added.
+The chance of randomly guessing the solution has gone from 1/3 to 1/(2⁵), and can be made even smaller if further options are added.
 
 ### Word selection — avoid!
 Consider the following challenge:
@@ -104,7 +104,7 @@ For example:
 Here, it is clear how the text should be entered, and with just a 1/120 chance of randomly guessing the solution, learning is encouraged.
 
 ## Rating only
-In some cases, perhaps where an essay or written paragraph is required, the above options are not appropriate. For such cases, the teacher has the option to simply ask for a difficulty rating upon attempt of the challenge to gauge progress by students.
+In some cases, perhaps where an essay or written paragraph is required, the above options are not appropriate. For such cases, the teacher has the option to ask for a difficulty rating upon attempt of the challenge to gauge progress by students.
 
 ## Last word
 From a teacher's time-management perspective, it's also good to keep in mind a healthy ratio between the time it takes to create a challenge and the time it takes for a student to read relevant resources and complete a challenge, so that both learning *and* teaching efficiency is high.
