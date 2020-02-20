@@ -15,7 +15,7 @@ Number and text-based solutions are supported which enable a variety of challeng
 Students check their solution by sending it to ChallengeBot, which responds by informing the student if it is correct.
 Being unable to see the solution before getting it correct ensures the solution cannot be derived backwards.
 
-This post outlines examples of what does - and does not - make a good challenge.
+This post outlines examples of what does — and does not — make a good challenge.
 
 ## Numerical solutions — good!
 A unique ability of ChallengeHub is for numerical solutions to be specified with a given tolerance.
@@ -41,7 +41,7 @@ Another example with complex numbers could be:
 > Your final solution will be a complex number of the form ```a+bi```.\\
 > To check your solution, calculate a+10b.
 
-or perhaps
+or perhaps:
 
 > Your final solution will be a complex number of the form ```a+bi```.\\
 > To check your solution, enter the magnitude of the complex number.
