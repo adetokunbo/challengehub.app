@@ -15,7 +15,7 @@
     {% include post-title.html post=post %}
     <div class="post-content">
       {{ post.excerpt }}
-      <div class="button"><a href="{{ post.url }}">Read More</a></div>
+      <div class="button"><a href="{{ post.url }}"> {{ site.data.blog_info.read_more }}</a></div>
     </div>
   </section>
   {% endif %}
