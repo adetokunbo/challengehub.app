@@ -1,6 +1,6 @@
 ---
 image_alt: ChallengeHub Sign In
-image_path: quickstart/home-20191205.jpg
+image_path: quickstart/home-20200218.png
 lang: en
 page_name: documentation/getting-your-account-ready
 position: 1
