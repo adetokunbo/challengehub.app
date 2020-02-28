@@ -12,7 +12,7 @@
 Hello, is that __PROSPECT_NAME__?  
 _Yes_
 
-Hello, my name is __STAFF_FULL_NAME__ and I'm with a small _active learning startup_ called ChallengeHub.  
+Hello, my name is __STAFF_FULL_NAME__ and I'm a co-founder at a small _active learning startup_ called ChallengeHub.  
 I’m calling you because we work with pioneering teachers who want to teach more efficiently and effectively than the lecture, and as a faculty member at __INSTITUTE_NAME__, teaching __FIELD_NAME__, I would be interested to learn if you already use active learning in your classes and how ChallengeHub might be useful to you.  
 Are you free to chat now or would you be available to chat at __MEETING_DAY__ __MEETING_TIME__?  
 (82 words, 28 seconds)
