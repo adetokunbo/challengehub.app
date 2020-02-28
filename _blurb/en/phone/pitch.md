@@ -9,17 +9,17 @@
 
 ## Opening pitch
 
-Hello, is that __Professor Smith__?  
+Hello, is that __PROSPECT_NAME__?  
 _Yes_
 
-Hello, my name is __James Cannon__ and I'm with a small _active learning startup_ called ChallengeHub.  
-I’m calling you because we work with pioneering teachers who want to teach more efficiently and effectively than the lecture, and as __a faculty member at the University of Surrey, teaching physics__, I would be interested to learn if you already use active learning in your classes and how ChallengeHub might be useful to you.  
-Are you free to chat now or would you be available to chat at __10am on Wednesday__?  
+Hello, my name is __STAFF_FULL_NAME__ and I'm with a small _active learning startup_ called ChallengeHub.  
+I’m calling you because we work with pioneering teachers who want to teach more efficiently and effectively than the lecture, and as a faculty member at __INSTITUTE_NAME__, teaching __FIELD_NAME__, I would be interested to learn if you already use active learning in your classes and how ChallengeHub might be useful to you.  
+Are you free to chat now or would you be available to chat at __MEETING_DAY__ __MEETING_TIME__?  
 (82 words, 28 seconds)
 
-Hello, my name is __James Cannon__ and I'm with a small _active learning startup_ called ChallengeHub.  
-I’m calling you because we work with teachers who are fed up with lectures and want to pioneer more efficient teaching that is also more effective and fun for students, and as __a faculty member at the University of Surrey, teaching physics__, I would be very interested to learn if you already use active learning in your classes and how ChallengeHub might be useful to you.  
-Are you free to chat now or would you be available to chat at __10am on Wednesday__?  
+Hello, my name is __STAFF_FULL_NAME__ and I'm with a small _active learning startup_ called ChallengeHub.  
+I’m calling you because we work with teachers who are fed up with lectures and want to pioneer more efficient teaching that is also more effective and fun for students, and as a faculty member at __INSTITUTE_NAME__, teaching __FIELD_NAME__, I would be very interested to learn if you already use active learning in your classes and how ChallengeHub might be useful to you.  
+Are you free to chat now or would you be available to chat at __MEETING_DAY__ __MEETING_TIME__?  
 (94 words, 35 seconds)
 
 ### Yes, I would be available.
@@ -27,7 +27,7 @@ Are you free to chat now or would you be available to chat at __10am on Wednesda
 Ok that’s great.  
 What I will do now is send you an email with a link to our website so you can understand more about our approach to teaching. Is s.smith@surrey.ac.uk the best email to contact you on?  
 _Yes_  
-Ok, then I look forward to speaking with you on __Wednesday__. Have a great day.
+Ok, then I look forward to speaking with you on __MEETING_DAY__. Have a great day.
 
 [What it looks like when you send a Zoom invitation to someone who hasn’t used Zoom before](https://docs.google.com/document/d/1_3KWGh4V6lGHpdQUiEnzOVJEbhf6Ix05xna4H1-RAow/edit)
 
@@ -35,7 +35,7 @@ Ok, then I look forward to speaking with you on __Wednesday__. Have a great day.
 
 Yes, that's actually why I called.  
 I would like to find a time that is most convenient for you.  
-Would __10am on Thursday__ be better for you?
+Would __MEETING_TIME__ be better for you?
 
 ### Sorry I’m not interested
 
@@ -48,7 +48,7 @@ Ok, that sounds great - do you have a telephone number?/Full name?/Email address
 ### I don’t teach
 
 Ok, then ChallengeHub is probably not useful to you.  
-Nevertheless, I would be interested to learn more about education at __the University of Surrey__. Would that short chat on __Wednesday__ be ok for you?
+Nevertheless, I would be interested to learn more about education at __INSTITUTE_NAME__. Would that short chat on __MEETING_DAY__ be ok for you?
 
 ### Are you going to charge money? How much does it cost?
 
@@ -126,29 +126,113 @@ One thing we’re aiming to do with open education is to make challenges shareab
 
 ## Follow-up call
 
-Hello, is that __Professor Smith__?  
+Thank you for your time.  
+My aim, working in a startup is to understand the active learning landscape and how teachers like yourself are using active learning, and I’m hoping that this will give you an opportunity to understand how we’re trying to change the nature of education and if you would like to join us or not.
+
+Note: This deliberately does not say “use our product” - we’re creating a movement.
+
+Does that sound ok?  
 _Yes_  
-Hello, it’s __James Cannon__ from ChallengeHub.  
-Thanks for you time.  
-etc.
+Ok, I would like to start with some short questions:
 
-### Potential leading questions:
+\* pain points we can address
 
-- What do you teach?
-  - How many students are in that class?
-- Do you use active learning in your classes?
-  - Yes
-    - What do you do?
-    - Do you feel that works well?
-  - No: Why not?
-- How many students are in each class?
-- When does your teaching start?
-- Shall I get you set up with a CH account?
+- 1. Are you using active learning in your classes?
+  - _Yes_
+    - What type?
+      - _Pre-class video/reading_
+        - Did the students actually do that?
+          - _Yes_: What motivated them to do that? Students not doing pre-class work is a pain point we address. It’s useful to know the cases where this is not a pp too.
+          - _No / Not many_ \*
+      - _Open-ended questions in class_ (This is different to our aims, so move on)
+        - Optional: Do you find that effective?
+    - Using software?
+      - _Yes_ [sw]
+        - What type?
+        - Is that free?
+          - _No_: How was it paid for? Own budget? Institution license?
+      - _No_ [using]
+        - Do you have a budget for teaching?
+  - _No_
+    - Why is that?
+      - _Didn’t know about it_
+      - _Too much work_ \*
+    - Are you interested in using AL in the future?
+      - _No_ [no]
+      - _Yes and can_
+        - In your __FIELD_NAME__ class you mean? [could]
+        - Or generally in the future?
+      - _Yes but can’t_ [unable]
+        - Why not?
+  - _What do you mean by AL? / Well I do X, is that what you mean?_
+    - Define in terms of our strengths
+      - In contrast to one-way information transfer, having real-time feedback of student understanding to optimise the learning
+      - Having students engage and exchange information with each other in class so their learning soft skills
+- 2. One principle for maximum social impact is that we want students, even those who cannot afford to attend a university, to access material freely. As a teacher, would you be willing to purchase software to support active learning?
+  - _Yes_ [willPay: True]
+    - What sort of yearly subscription price do you think would be reasonable?
+    - _Yes but can’t_
+      - See below
+  - _No, I wouldn’t pay_ [willPay: False]
+    - Why?
+      - _Only use free things_
+      - _Only use university-licensed software_
+        - Who decides that license?
+  - _No, I can’t pay_
+    - If you could pay, do you think this would be worth including in a budget?
+    - How do you pay for other software?
+      - _Don’t use other software_
+      - _University license_
+        - Who decides that license?
+      - _Someone else buys for me_
+        - Who? Get a name?
+- 3.a. Are you using any software related to teaching?
+  - _Yes_
+  - _No_
+- 3.b. Are you using any other software not related to AL?
+  - _Yes_ [otherSoftware: True]
+  - _No_ [otherSoftware: False]
 
-- Does anyone else at __Surrey__ use active learning?
-  - What do they use? [Methods, technology]
-- Is there anyone else who you think might be interested in a new method of active learning?
+Ok, thank you. That’s all for the questions. Shall I briefly explain what we’re building and how we’re aiming to change education?
 
-- Have you used AL?
-  - Yes: Can you explain more about how you’ve used it
-  - No: What do you understand by AL?
+So in a nutshell, the problem we are addressing is that traditional lectures are known to be ineffective in terms of information transfer and demotivating for students, and while active learning is much better, until now it’s been lot of work for the teacher, so our dream is to revolutionise education by making active learning the norm rather than the exception: by making both learning and teaching more efficient.
+
+Did you have a chance to look at the website?
+
+- _Yes_
+    - Ok, so you probably saw our AL page that outlines how we’re trying to realise these education goals using challenge based active learning.
+- _No_
+  - Ok, so it’s probably going to be easier if I give you a chance to look through that on your own time - if you click ‘active learning’ at the top, it gives an overview of our approach.
+  - Are you at a computer now?
+    - _Yes_
+      - If you go to challengehub.app and click ‘active learning’ at the top, you can see how we’re trying to realise these goals. Go through the page with them.
+    - _No_
+      - Briefly outline key points of how we’re trying to realise these goals.
+
+We’re working with selected pioneering teachers who share our vision, and we do still have some slots available, and so and as a __EXPERIENCE_LEVEL__ teacher teaching fundamental subjects like __FIELD_NAME__, we would be happy to have you on board, do you think this is something that you would like to try in your classes and are you interested in joining us?
+
+- Yes
+  - What class do you think this would be most useful for?
+  - What aspect of CH do you find most interesting?
+  - (We know their LinkedIn account)
+    - We use LinkedIn to authenticate teachers, much like you might use Google or Facebook to log into another site. Since I looked up your LinkedIn already, I can go ahead and set up an account for you. Would you like me to do that?
+      - _Yes_
+        - Ok - is your __INSTITUTE_NAME__ email address the same address you use on LinkedIn?
+          - _Yes_ (If _no_ - ask what it is and note it down)
+            - Ok - Are you at a computer now?
+              - _Yes_
+                - Ok, so I’ll just set your account up. Set up an account.
+                - Ok, so now if you go to dash.challengehub.app, you should be able to log in using your __INSTITUTE_NAME__ email address. Can you try that now?
+              - _No_
+                - Ok, I’ll send login instructions by email, then if you have any questions, feel free to contact me.
+      - _No_
+  - (We don’t know their LinkedIn account)
+    - Do you have a LinkedIn or GitHub account?
+      - _Yes_
+          - Ok, so we use LinkedIn to authenticate teachers, much like you might use Google or Facebook to log into another site. For your account I’ll need to know the public address of your LinkedIn page/GitHub username. After this call I will send you 
+      - _No_
+          - Ok, so we use LinkedIn to authenticate teachers, much like you might use Google or Facebook to log into another site. I will send you information about how to log in. Thank you for your time and I’m looking forward to working with you.
+- _No_
+  - Ok, thank you for your time.
+- _Maybe_
+  - Ok, well take your time. If we run out of slots we will just waitlist people so take as much time as you need and if you have any questions you have my email address. Thank you for your time.
