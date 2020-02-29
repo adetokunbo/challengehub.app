@@ -2,7 +2,7 @@
 Dear PROSPECT_NAME,
 
 Thank you for the brief chat on the telephone yesterday.
-I'm looking forward to speaking with you again next DAY (DATE) at TIME, and will call you on the same number as I did yesterday.
+I'm looking forward to speaking with you again on MEETING_DAY the MEETING_DATE at MEETING_TIME, and will call you on the same number as I did yesterday.
 
 As promised, I am forwarding our site for further information:
 
