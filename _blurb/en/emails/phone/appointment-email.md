@@ -1,4 +1,6 @@
 ---
+Subject: Active learning meeting (MEETING_DAY MEETING_DATE at MEETING_TIME)
+
 Dear PROSPECT_NAME,
 
 Thank you for the brief chat on the telephone yesterday.
