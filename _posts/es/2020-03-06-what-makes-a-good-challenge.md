@@ -89,10 +89,10 @@ El reto para la figura anterior podría ser como sigue:
 
 > Sume los puntos de las siguientes afirmaciones que sean verdaderas:
 > 
-> - **1 punto** Una velocidad angular de 1 unidad resulta en un movimiento circular uniforme independientemente del ángulo inicial.
-> - **2 puntos** Una velocidad angular de -2.5 unidades resulta en un movimiento circular uniforme independientemente del ángulo inicial.
+> - **1 punto** Una velocidad angular de 1 unidad resulta en un movimiento circular independientemente del ángulo inicial.
+> - **2 puntos** Una velocidad angular de -2.5 unidades resulta en un movimiento circular independientemente del ángulo inicial.
 > - **4 puntos** Un ángulo inicial de π/2 combinado con una velocidad angular de 1 unidad resulta en una oscilación periódica.
-> - **8 puntos** Un ángulo inicial de π/2 combinado con una velocidad angular de 1 unidad resulta en un movimiento circular uniforme.
+> - **8 puntos** Un ángulo inicial de π/2 combinado con una velocidad angular de 1 unidad resulta en un movimiento circular.
 > - **16 puntos** Un ángulo inicial de 0 combinado con una velocidad angular de 0 unidades resulta en una oscilación periódica.
 > 
 > Introduzca su solución final en forma de número entero.
