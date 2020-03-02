@@ -1,5 +1,6 @@
 ---
-Subject: Active learning meeting (MEETING_DAY MEETING_DATE at MEETING_TIME)
+subject: Active learning meeting (MEETING_DAY MEETING_DATE at MEETING_TIME)
+---
 
 Dear PROSPECT_NAME,
 
