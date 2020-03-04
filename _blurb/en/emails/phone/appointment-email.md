@@ -1,15 +1,30 @@
 ---
+subject: Active learning meeting (MEETING_DAY MEETING_DATE at MEETING_TIME)
+---
+
 Dear PROSPECT_NAME,
 
-Thank you for the brief chat on the telephone today. I'm looking forward to speaking with you again on MEETING_DAY the MEETING_DATE at MEETING_TIME. I will call you on the same number (PROSPECT_TELEPHONE_NUMBER) as I did today.
+Thank you for the brief chat on the telephone yesterday.
+I'm looking forward to speaking with you again on MEETING_DAY the MEETING_DATE at MEETING_TIME, and will call you on the same number as I did yesterday.
 
-As a professor at INSTITUTE_NAME in FIELD_NAME, I am very interested to learn more about your education experience and outlook, and how that relates to education in your department as a whole.
+As promised, I am forwarding our site for further information:
 
-As I mentioned, we support teachers like yourself who want to teach more efficiently and effectively, and our ultimate aim is to revolutionise higher education by making it easy to replace the lecture with active learning.
-You can learn more about our philosophy and approach at https://challengehub.app
-If you have any questions I would be happy to answer them during our chat.
+https://challengehub.app/en
 
-Thank you for your time, and I look forward to speaking to you on MEETING_DAY.
+I co-founded this start-up to realise the dream of making active learning mainstream - the rule rather than the exception.
+We work with pioneering teachers who want to do better than the traditional lecture, and I think our approach is somewhat unique:
+
+- No more "lectures"
+- Focus on the challenge, not the reading
+- Have students take ownership of their learning
+- Increase teacher efficiency (lower barrier to better teaching)
+- Pair students automatically in class for personalised peer instruction (coming soon)
+
+I look forward to learning about how you use active learning, if at all, in your own classes, and the extent to which ChallengeHub may contribute.
+
+I will also be available on Zoom (https://zoom.us/) at the link below, however unless I hear otherwise I will assume that you prefer the scheduled telephone call rather than video.
+
+Thank you again for your time, and I look forward to speaking to you soon.
 
 Best regards,
 
@@ -23,4 +38,3 @@ http://challengehub.app
 Note: The above email can be personalised depending on the exact nature of the interaction with the prospect during the initial phone call.
 Potential ways to personalise the email:
 - It was very interesting to hear about your experience with X.
-- It was very nice to talk with someone so passionate about teaching!
