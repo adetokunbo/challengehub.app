@@ -86,7 +86,7 @@ Did you have a chance to look at the website?
 
 We’re working with selected pioneering teachers who share our vision, and we do still have some slots available, and so and as a __EXPERIENCE_LEVEL__ teacher teaching fundamental subjects like __FIELD_NAME__, we would be happy to have you on board, do you think this is something that you would like to try in your classes and are you interested in joining us?
 
-- Yes
+- _Yes_
   - What class do you think this would be most useful for?
   - What aspect of CH do you find most interesting?
   - (We know their LinkedIn account)
