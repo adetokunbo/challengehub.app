@@ -120,34 +120,3 @@ _Si les preocupa mucho esto, seguramente no van a picar. Así que mejor no presi
 Sí, preparar los retos lleva su tiempo. Algunos docentes empiezan cambiando solo una parte de la clase de cada semana a retos, pero si le parece demasiado trabajo puede que no sea lo más óptimo para usted.
 
 Una cosa que nos hemos propuesto con respecto a la educación abierta es hacer que los retos se puedan compartir, para que no todos los docentes tengan que hacerlos, pero desarrollar esto todavía llevará un poco de tiempo.
-
-## Segunda llamada
-
-Hola. ¿Es __PROSPECT_NAME__?  
-_Sí_  
-Hola, soy __STAFF_FULL_NAME__ de ChallengeHub.  
-Gracias por encontrar tiempo para hablar  
-etc.
-
-### Posibles preguntas iniciales
-
-- ¿Qué enseña usted?
-  - ¿Cuántos alumnos tiene en esa clase?
-- ¿Usa usted aprendizaje activo en sus clases?
-  - Sí
-    - ¿Y qué hace?
-    - ¿Cree que le funciona bien?
-  - No: ¿Por qué no?
-- ¿Cuántos alumnos tiene en cada clase?
-- ¿Cuándo empieza usted a dar clase?
-- ¿Me permitiría abrirle una cuenta de ChallengeHub?
-
-- ¿Alguien más en __INSTITUTE_NAME__ usa aprendizaje activo?
-  - ¿Qué usan? [Métodos, tecnología]
-- ¿Hay alguien más que cree que pueda estar interesado en un nuevo método de aprendizaje activo?
-
-- ¿Ha usado usted aprendizaje activo?
-  - Sí: ¿Puede contarme un poco más de cómo lo ha usado?
-  - No: ¿Qué entiende usted por aprendizaje activo?
-
-
