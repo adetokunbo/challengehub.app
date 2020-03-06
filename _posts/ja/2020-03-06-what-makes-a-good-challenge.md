@@ -1,7 +1,7 @@
 ---
 date: 2020-03-06
 title: 良いチャレンジにするためには
-description: ChallengeHubの優れた機能の一つに、学生がリアルタイムに回答の正誤を確認できるという点があります。数字と文字での回答に対応しており、様々なチャレンジのスタイルを可能にしています。
+description: ChallengeHubは様々なチャレンジのスタイルを可能にします。選択問題よりいいものができます！
 reading_minutes: 3
 categories:
  - ChallengeHub
