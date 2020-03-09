@@ -9,18 +9,18 @@
 
 ## Discurso inicial
 
-Buenas tardes, ¿es __PROSPECT_NAME__?  
+Buenos días, ¿__PROSPECT_NAME__?  
 _Sí_
 
-Hola. Me llamo __STAFF_NAME__ y soy uno de los fundadores de una pequeña _startup_ de aprendizaje activo llamada ChallengeHub.  
-Lo llamo porque estamos trabajando con docentes de enseñanza superior para sustituir las clases tradicionales con aprendizaje activo, que haga más eficiente al docente, a la vez que más efectivo el aprendizaje de los alumnos.  
-Y como miembro de __DEPARTMENT_NAME__ de __INSTITUTE_NAME__, enseñando __FIELD_NAME__, me gustaría preguntarle si está usando aprendizaje activo en sus clases, y hablar de si ChallengeHub podría serle de ayuda.  
-¿Tendría usted un momento para hablar ahora, o por ejemplo __MEETING_DAY__ __MEETING_TIME__?  
+Hola. Me llamo __STAFF_NAME__ y soy uno de los fundadores de una pequeña startup de aprendizaje activo llamada ChallengeHub.  
+Lo llamo porque estamos trabajando con docentes de enseñanza universitaria para transformar las clases tradicionales, con un método que hace más eficiente al docente, a la vez que más efectivo el aprendizaje de los alumnos.  
+Y como miembro de __DEPARTMENT_NAME__ de __INSTITUTE_NAME__, enseñando __FIELD_NAME__, me gustaría hacerle algunas preguntas, como si usted ha usado alguna metodología de aprendizaje activo en sus clases.  
+¿Tendría usted un momento para hablar más sobre aprendizaje activo, o por ejemplo __MEETING_DAY__ __MEETING_TIME__?  
 
 ### Sí. Estaré disponible
 
 Estupendo.  
-Lo que voy a hacer es que le voy a enviar un correo con un enlace a nuestro sitio web para que pueda entender nuestro enfoque para con la enseñanza. ¿Es j.gonzalez@ua.es la mejor dirección para contactar con usted?  
+Lo que voy a hacer es que le voy a enviar un correo con un enlace a nuestro sitio web para que pueda entender nuestro enfoque para con la enseñanza. ¿Es __PROSPECT_EMAIL__ la mejor dirección para contactar con usted?  
 _Sí_  
 Bien. Pues hablaré con usted __MEETING_DAY__. Que pase un buen día.
 
@@ -39,7 +39,6 @@ Estoy intentando llamar solo a gente que seguramente estará interesada, pero es
 Y si me permite la pregunta, ¿me podría decir alguien de su departamento que cree que pueda tener interés en aprendizaje activo?  
 _Creo que el profesor Tanaka está haciendo algo con aprendizaje activo_  
 ¡Genial! ¿Tiene el número de teléfono de su despacho? ¿Su nombre completo? ¿Su dirección de correo?
-
 
 ### No doy clases
 
