@@ -11,7 +11,11 @@ layout: page
   {% endcomment %}
   {%- if page.image != '/images/front/challenge-hub-header-illustration.jpg' -%}
   <p>
-    <img src="{{page.image}}" alt="{{page.image_alt}}">
+    <img src="{{page.image}}" alt="{{page.image_alt}}"
+    {%- if page.image_maxheight -%}
+    style="max-height: {{page.image_maxheight}}px;"
+    {%- endif -%}
+    class="blog-leading-image">
   </p>
   {%- endif -%}
 
