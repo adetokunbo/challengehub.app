@@ -4,6 +4,7 @@ title: What makes a good challenge?
 description: ChallengeHub enables a variety of challenge styles. You can do better than multiple-choice!
 image: /images/blog/2020-03-06-what-makes-a-good-challenge.png
 image_alt: What makes a good challenge?
+image_maxheight: 499
 reading_minutes: 3
 categories:
  - ChallengeHub
@@ -30,7 +31,7 @@ In this case, the solution is ```f'(x) = 2x + 3.5```, and so the student would s
 A tolerance on the solution can also be specified, such as ```7.5±1%``` or ```7.5±0.1```.
 This is particularly useful for complex challenges involving many steps where rounding errors may accumulate.
 
-![Tolerance UI](/images/blog/2020-03-06-tolerance.png){: .framed-image }
+![Tolerance UI](/images/blog/2020-03-06-tolerance.png){: .framed-image .retina-70width-image }
 
 There are some cases where a unique check is difficult but a strong indication of the correctness can be achieved.
 For example, in cases where the final solution is a matrix, the instruction could be:
