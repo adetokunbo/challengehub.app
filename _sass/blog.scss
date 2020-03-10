@@ -44,6 +44,12 @@
     text-align: left;
   }
 
+  img.retina-70width-image {
+    @media #{$desktop} {
+      max-width: 70%;
+    }
+  }
+
   .blog-navigation {
     font-size: 14px;
     display: block;
