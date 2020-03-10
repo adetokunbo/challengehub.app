@@ -12,11 +12,11 @@ author_staff_member: james
 ref: 2020-03-06-what-makes-a-good-challenge
 lang: en
 ---
-A powerful feature of ChallengeHub is the ability of students to check their solutions in real time.
+A powerful feature of ChallengeHub is the ability of students to check their answers in real time.
 Number and text-based solutions are supported which enable a variety of challenge styles.
 
-Students check their solution by sending it to ChallengeBot, which responds by informing the student if it is correct.
-Being unable to see the solution before getting it correct ensures the solution cannot be derived in reverse.
+Students check their answer by sending it to ChallengeBot, which responds by informing the student if it is correct.
+Being unable to see the solution before getting it correct ensures it cannot be derived in reverse.
 
 This post outlines examples of what does — and does not — make a good challenge.
 
@@ -25,7 +25,7 @@ A unique ability of ChallengeHub is for numerical solutions to be specified with
 For example, consider the challenge:
 
 > Calculate the derivative of ```f(x) = x² + 3.5x + 4```.\\
-> To check your solution, substitute ```x=2``` into your final solution.
+> To check your answer, substitute ```x=2``` into your final answer.
 
 In this case, the solution is ```f'(x) = 2x + 3.5```, and so the student would substitute ```x=2``` to obtain ```7.5```.
 A tolerance on the solution can also be specified, such as ```7.5±1%``` or ```7.5±0.1```.
@@ -36,20 +36,20 @@ This is particularly useful for complex challenges involving many steps where ro
 There are some cases where a unique check is difficult but a strong indication of the correctness can be achieved.
 For example, in cases where the final solution is a matrix, the instruction could be:
 
-> Your final solution will be a 2x2 matrix.\\
-> To check your solution, add all the numbers in the matrix.
+> Your final answer will be a 2x2 matrix.\\
+> To check your answer, add all the numbers in the matrix.
 
 Another example with complex numbers could be:
 
-> Your final solution will be a complex number of the form ```a+bi```.\\
-> To check your solution, calculate a+10b.
+> Your final answer will be a complex number of the form ```a+bi```.\\
+> To check your answer, calculate a+10b.
 
 or perhaps:
 
-> Your final solution will be a complex number of the form ```a+bi```.\\
-> To check your solution, enter the magnitude of the complex number.
+> Your final answer will be a complex number of the form ```a+bi```.\\
+> To check your answer, enter the magnitude of the complex number.
 
-Although this does not generate a unique check, it provides a good immediate indication about correctness for both teacher and student, and can keep students in the flow if they have clearly got the solution wrong.
+Although this does not generate a unique check, it provides a good immediate indication about correctness for both teacher and student, and can keep students in the flow if their answer is clearly wrong.
 If desired, the teacher can still review a few challenge logs in the class to ensure correct calculation.
 
 ### Multiple choice — avoid!
@@ -66,7 +66,7 @@ For example:
   - b) The pendulum swings back and forth
   - c) The pendulum spins round in one complete loop
 
-In this case, there is a strong temptation for students to randomly enter "a", "b" or "c" until they get the solution correct, and then perhaps work backwards to figure out why that solution is correct.
+In this case, there is a strong temptation for students to randomly enter "a", "b" or "c" until they get the answer correct, and then perhaps work backwards to figure out why that answer is correct.
 Other students may even then move on to the next challenge, giving the teacher the false impression that the student understands the concept and is keeping up with the course.
 
 ## True/False binary addition — good!
@@ -81,7 +81,7 @@ Considering the same figure, the challenge could instead be:
 > - **8 points** An initial angle of π/2 combined with an angular velocity of 1 unit results in circular whirring motion.
 > - **16 points** An initial angle of 0 combined with an angular velocity of 0 units results in periodic swinging motion.
 > 
-> Enter your final solution as an integer.
+> Enter your final answer as an integer.
 
 Each statement is a true/false statement, and adding different statements results in a unique sum.
 The chance of randomly guessing the solution has gone from 1/3 to 1/(2⁵), and can be made even smaller if further options are added.
@@ -102,7 +102,7 @@ For example:
 
 > The following 5 graphs (a,b,c,d,e) correspond to the following 5 equations.
 > Place the graphs in the same order as the equations below.\\
-> Submit your solution in the form abcde.
+> Submit your answer in the form abcde.
 
 Here, it is clear how the text should be entered, and with just a 1/120 chance of randomly guessing the solution, learning is encouraged.
 
