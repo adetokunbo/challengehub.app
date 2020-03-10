@@ -13,7 +13,7 @@ Buenos días, ¿__PROSPECT_NAME__?
 _Sí_
 
 Hola. Me llamo __STAFF_NAME__ y soy uno de los fundadores de una pequeña startup de aprendizaje activo llamada ChallengeHub.  
-Lo llamo porque estamos trabajando con docentes de enseñanza universitaria para transformar las clases tradicionales, con un método que hace más eficiente al docente, a la vez que más efectivo el aprendizaje de los alumnos.  
+Lo llamo porque estamos trabajando con docentes de enseñanza universitaria para transformar las clases, con un método que hace más eficiente al docente, y más efectivo el aprendizaje de los alumnos.  
 Y como miembro de __DEPARTMENT_NAME__ de __INSTITUTE_NAME__, enseñando __FIELD_NAME__, me gustaría hacerle algunas preguntas, como si usted ha usado alguna metodología de aprendizaje activo en sus clases.  
 ¿Tendría usted un momento para hablar más sobre aprendizaje activo, o por ejemplo __MEETING_DAY__ __MEETING_TIME__?  
 
