@@ -50,7 +50,7 @@ or perhaps:
 > To check your answer, enter the magnitude of the complex number.
 
 Although this does not generate a unique check, it provides a good immediate indication about correctness for both teacher and student, and can keep students in the flow if their answer is clearly wrong.
-If desired, the teacher can still review a few challenge logs in the class to ensure correct calculation.
+If desired, the teacher can still review a few [challenge logs]( /2019/08/11/the-challenge-log/ ) in the class to ensure correct calculation.
 
 ## Multiple choice — avoid!
 
