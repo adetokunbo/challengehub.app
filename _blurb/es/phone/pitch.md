@@ -14,17 +14,16 @@ _Sí_
 
 Hola. Me llamo __STAFF_NAME__ y soy uno de los fundadores de una pequeña startup de aprendizaje activo llamada ChallengeHub.  
 Lo llamo porque estamos trabajando con docentes de enseñanza universitaria para transformar las clases, con un método que hace más eficiente al docente, y más efectivo el aprendizaje de los alumnos.  
-Y como miembro de __DEPARTMENT_NAME__ de __INSTITUTE_NAME__, enseñando __FIELD_NAME__, me gustaría hacerle algunas preguntas, como si usted ha usado alguna metodología de aprendizaje activo en sus clases.  
-¿Tendría usted un momento para hablar más sobre aprendizaje activo, o por ejemplo __MEETING_DAY__ __MEETING_TIME__?  
+Y como queremos saber más de usted y del __DEPARTMENT_NAME__, quería hacerle una pregunta súper sencilla, que es si usted ha usado alguna metodología de aprendizaje activo en sus clases.  
+¿Tendría usted un par de minutos para hablar un poco más?
+¿Sería mejor por ejemplo __MEETING_DAY__ __MEETING_TIME__?  
 
 ### Sí. Estaré disponible
 
 Estupendo.  
-Lo que voy a hacer es que le voy a enviar un correo con un enlace a nuestro sitio web para que pueda entender nuestro enfoque para con la enseñanza. ¿Es __PROSPECT_EMAIL__ la mejor dirección para contactar con usted?  
+Lo que voy a hacer es enviarle un correo con un enlace a nuestro sitio web para que pueda entender nuestro enfoque para con la enseñanza. ¿Es __PROSPECT_EMAIL__ la mejor dirección para contactar con usted?  
 _Sí_  
 Bien. Pues hablaré con usted __MEETING_DAY__. Que pase un buen día.
-
-[Lo que se ve cuando envías una invitación de Zoom a alguien que no tiene Zoom instalado](https://docs.google.com/document/d/1_3KWGh4V6lGHpdQUiEnzOVJEbhf6Ix05xna4H1-RAow/edit)
 
 ### No. Lo siento, estoy ocupado
 
@@ -35,7 +34,7 @@ Quería preguntarle qué hora sería más conveniente para usted.
 ### Lo siento pero no me interesa
 
 Entiendo.  
-Estoy intentando llamar solo a gente que seguramente estará interesada, pero esta vez estaba equivocado. Por favor, acepte mis disculpas.  
+Estoy intentando llamar solo a gente que seguramente estará interesada. Por favor, acepte mis disculpas.  
 Y si me permite la pregunta, ¿me podría decir alguien de su departamento que cree que pueda tener interés en aprendizaje activo?  
 _Creo que el profesor Tanaka está haciendo algo con aprendizaje activo_  
 ¡Genial! ¿Tiene el número de teléfono de su despacho? ¿Su nombre completo? ¿Su dirección de correo?
