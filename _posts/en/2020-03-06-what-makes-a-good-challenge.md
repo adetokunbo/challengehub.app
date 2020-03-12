@@ -52,7 +52,7 @@ or perhaps:
 Although this does not generate a unique check, it provides a good immediate indication about correctness for both teacher and student, and can keep students in the flow if their answer is clearly wrong.
 If desired, the teacher can still review a few challenge logs in the class to ensure correct calculation.
 
-### Multiple choice — avoid!
+## Multiple choice — avoid!
 
 The ideal challenge promotes deep thinking and discussion in the classroom.
 It discourages random guessing.
@@ -86,7 +86,7 @@ Considering the same figure, the challenge could instead be:
 Each statement is a true/false statement, and adding different statements results in a unique sum.
 The chance of randomly guessing the solution has gone from 1/3 to 1/(2⁵), and can be made even smaller if further options are added.
 
-### Word selection — avoid!
+## Word selection — avoid!
 Consider the following challenge:
 
 > Convection is a form of thermal transport. Name the other two.
