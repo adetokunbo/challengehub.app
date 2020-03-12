@@ -2,7 +2,7 @@
 date: 2020-03-12
 title: 良いチャレンジにするためには
 description: ChallengeHubは様々なチャレンジのスタイルを可能にします。選択問題よりいいものができます！
-image: /images/blog/2020-03-12-what-makes-a-good-challenge-ja.png
+image: /images/blog/2020-03-12-what-makes-a-good-challenge-ja-2020-03-12.png
 image_alt: 良いチャレンジにするためには
 image_maxheight: 499
 reading_minutes: 3
