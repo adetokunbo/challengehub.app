@@ -65,7 +65,7 @@ sin perder el ritmo de su sesión de estudio.
 El docente siempre puede comprobar algunos cuadernos de retos
 durante la clase para asegurarse de que los cálculos de los alumnos son correctos.
 
-### Elección múltiple: ¡mejor no!
+## Elección múltiple: ¡mejor no!
 
 El reto ideal incita al pensamiento profundo y a la discusión en clase.
 No incita a responder al azar.
@@ -101,7 +101,7 @@ Cada afirmación es una pregunta de verdadero/falso, y sumar las diferentes afir
 La probabilidad de acertar respondiendo al azar ha bajado de 1/3 a 1/(2⁵),
 y se puede reducir más todavía añadiendo más opciones.
 
-### Selección de palabras: ¡mejor no!
+## Selección de palabras: ¡mejor no!
 
 Considere el reto siguiente:
 
