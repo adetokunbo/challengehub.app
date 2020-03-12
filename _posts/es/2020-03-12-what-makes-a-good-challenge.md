@@ -65,7 +65,7 @@ proporciona un fuerte indicador de la corrección de la respuesta
 tanto para el docente como para el alumno.
 De esta manera, los alumnos pueden saber si su solución es claramente incorrecta
 sin perder el ritmo de su sesión de estudio.
-El docente siempre puede comprobar algunos cuadernos de retos
+El docente siempre puede comprobar algunos [cuadernos de retos]( /2019/08/11/the-challenge-log/ )
 durante la clase para asegurarse de que los cálculos de los alumnos son correctos.
 
 ## Elección múltiple: ¡mejor no!
