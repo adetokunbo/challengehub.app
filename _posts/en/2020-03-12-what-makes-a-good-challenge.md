@@ -2,14 +2,14 @@
 date: 2020-03-12
 title: What makes a good challenge?
 description: ChallengeHub enables a variety of challenge styles. You can do better than multiple-choice!
-image: /images/blog/2020-03-06-what-makes-a-good-challenge.png
+image: /images/blog/2020-03-12-what-makes-a-good-challenge.png
 image_alt: What makes a good challenge?
 image_maxheight: 499
 reading_minutes: 3
 categories:
  - ChallengeHub
 author_staff_member: james
-ref: 2020-03-06-what-makes-a-good-challenge
+ref: 2020-03-12-what-makes-a-good-challenge
 lang: en
 ---
 A powerful feature of ChallengeHub is the ability of students to check their answers in real time.
@@ -31,7 +31,7 @@ In this case, the solution is ```f'(x) = 2x + 3.5```, and so the student would s
 A tolerance on the solution can also be specified, such as ```7.5±1%``` or ```7.5±0.1```.
 This is particularly useful for complex challenges involving many steps where rounding errors may accumulate.
 
-![Tolerance UI](/images/blog/2020-03-06-tolerance.png){: .framed-image .retina-70width-image }
+![Tolerance UI](/images/blog/2020-03-12-tolerance.png){: .framed-image .retina-70width-image }
 
 There are some cases where a unique check is difficult but a strong indication of the correctness can be achieved.
 For example, in cases where the final solution is a matrix, the instruction could be:
@@ -60,7 +60,7 @@ It discourages random guessing.
 A common reflex however is for teachers to ask students multiple-choice questions.
 For example:
 
-> ![Pendulum phase](/images/blog/2020-03-06-pendulum-phase.png)
+> ![Pendulum phase](/images/blog/2020-03-12-pendulum-phase.png)
 > Considering the above figure, if the initial angle of the pendulum is π and the initial angular velocity is 0 rad/s, what happens to the pendulum?
   - a) The pendulum is stationary
   - b) The pendulum swings back and forth

@@ -1,12 +1,12 @@
 ---
-date: 2020-03-06
+date: 2020-03-12
 title: ¿Cómo crear buenos retos?
 description: Hay muchos estilos de reto posibles. ¡Olvídate de las preguntas de elección múltiple!
 reading_minutes: 3
 categories:
  - ChallengeHub
 author_staff_member: james
-ref: 2020-03-06-what-makes-a-good-challenge
+ref: 2020-03-12-what-makes-a-good-challenge
 lang: es
 ---
 Una característica muy potente de ChallengeHub es que los alumnos pueden
@@ -37,7 +37,7 @@ Como ```7.5±1%``` o ```7.5±0.1```.
 Esto es especialmente útil en retos complejos
 con varios pasos en los que se pueden acumular errores de redondeo.
 
-![UI de tolerancia](/images/blog/2020-03-06-tolerance.png){: .framed-image }
+![UI de tolerancia](/images/blog/2020-03-12-tolerance.png){: .framed-image }
 
 Hay casos en los que una comprobación completa es difícil,
 pero se puede obtener un fuerte indicador de la corrección de la respuesta.
@@ -73,7 +73,7 @@ No incita a responder al azar.
 Un reflejo común en los docentes es hacer preguntas de elección múltiple a los alumnos.
 Por ejemplo:
 
-> ![Fase del péndulo](/images/blog/2020-03-06-pendulum-phase.png)
+> ![Fase del péndulo](/images/blog/2020-03-12-pendulum-phase.png)
 > Teniendo en cuenta la figura, si el ángulo inicial del péndulo es π y la velocidad angular inicial es 0 rad/s, ¿cómo actuará el péndulo?
   - a) El péndulo continuará estacionario
   - b) El péndulo oscilará hacia delante y atrás

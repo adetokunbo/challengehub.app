@@ -1,12 +1,12 @@
 ---
-date: 2020-03-06
+date: 2020-03-12
 title: 良いチャレンジにするためには
 description: ChallengeHubは様々なチャレンジのスタイルを可能にします。選択問題よりいいものができます！
 reading_minutes: 3
 categories:
  - ChallengeHub
 author_staff_member: james
-ref: 2020-03-06-what-makes-a-good-challenge
+ref: 2020-03-12-what-makes-a-good-challenge
 lang: ja
 ---
 
@@ -26,7 +26,7 @@ ChallengeHub特有の機能の一つは、チャレンジの正解に公差を�
 この場合、正解は ```f'(x) = 2x + 3.5``` であり、学生は ```x=2``` すると ```7.5``` を取得できます。
 ```7.5±1%``` や ```7.5±0.1``` の様な公差を回答に指定でき、とくに誤差が蓄積する複雑な計算や複数の段階を含むチャレンジに便利です。
 
-![公差 UI](/images/blog/2020-03-06-tolerance.png){: .framed-image }
+![公差 UI](/images/blog/2020-03-12-tolerance.png){: .framed-image }
 
 回答の一致確認が難しいですが、正解と考えられる回答を網羅することができます。
 例えば正解が行列の場合、こういう指示もできます：
@@ -52,7 +52,7 @@ ChallengeHub特有の機能の一つは、チャレンジの正解に公差を�
 
 学生を選択問題で試すのはよくあることです。例えば：
 
-> ![振り子の位相](/images/blog/2020-03-06-pendulum-phase.png)
+> ![振り子の位相](/images/blog/2020-03-12-pendulum-phase.png)
 > 上記の図を参考にし、振り子の初期角度がπで初期角速度が0 rad/sの場合、振り子はどうなりますか？
   - a) 振り子は停止したまま
   - b) 振り子は前後に揺れる
