@@ -40,7 +40,7 @@ Como ```7.5±1%``` o ```7.5±0.1```.
 Esto es especialmente útil en retos complejos
 con varios pasos en los que se pueden acumular errores de redondeo.
 
-![UI de tolerancia](/images/blog/2020-03-12-tolerance.png){: .framed-image }
+![UI de tolerancia](/images/blog/2020-03-12-tolerance.png){: .framed-image .retina-70width-image }
 
 Hay casos en los que una comprobación completa es difícil,
 pero se puede obtener un fuerte indicador de la corrección de la respuesta.
