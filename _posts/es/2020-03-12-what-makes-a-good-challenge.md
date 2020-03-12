@@ -2,6 +2,9 @@
 date: 2020-03-12
 title: ¿Cómo crear buenos retos?
 description: Hay muchos estilos de reto posibles. ¡Olvídate de las preguntas de elección múltiple!
+image: /images/blog/2020-03-12-what-makes-a-good-challenge-es.png
+image_alt: ¿Cómo crear buenos retos?
+image_maxheight: 499
 reading_minutes: 3
 categories:
  - ChallengeHub
