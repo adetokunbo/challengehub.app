@@ -143,6 +143,29 @@
     }
 
   }
+
+  blockquote {
+    padding: 18px 25px;
+    margin: 0;
+    quotes: none;
+    font-style: normal;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+    p {
+      display: inline;
+    }
+
+    p, ul li, ol li {
+      color: #000;
+      font-size: 1.2em!important;
+    }
+  }
+  blockquote:before {
+    content: none;
+  }
+
+
 }
 
 .pagination {
