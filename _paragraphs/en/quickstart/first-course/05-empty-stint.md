@@ -1,5 +1,5 @@
 ---
-image_path: quickstart/empty-stint.jpg
+image_path: quickstart/empty-stint-20200319.jpg
 lang: en
 page_name: quickstart/first-course
 position: 5

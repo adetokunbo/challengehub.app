@@ -1,6 +1,6 @@
 ---
 image_precedes_text: false
-image_path: quickstart/add-first-stint.jpg
+image_path: quickstart/add-first-stint-20200319.jpg
 lang: en
 page_name: quickstart/first-course
 position: 4
