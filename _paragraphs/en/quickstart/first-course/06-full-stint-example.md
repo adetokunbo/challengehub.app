@@ -1,11 +1,11 @@
 ---
-image_path: quickstart/full-stint-example.jpg
+image_path: quickstart/full-stint-example-20200319.jpg
 lang: en
 page_name: quickstart/first-course
 position: 6
 ---
 
-Select the challenges that you wish to release with this stint, then click *Add*. You will then have a list of challenge in your stint.
+Select the challenges that you wish to release with this stint, then click *Add*. You will then have a list of challenges in your stint.
 
 You will see two new buttons next to the *+*. You can use them to re-arrange and delete challenges from the stint.
 
