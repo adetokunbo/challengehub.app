@@ -4,7 +4,6 @@ ja:
   name: 日本語
   missing:
     - url: /privacy/
-    - url: /about/
     - url: /documentation/getting-your-account-ready/
 es:
   name: Español
