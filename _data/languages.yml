@@ -6,12 +6,14 @@ ja:
     - url: /privacy/
     - url: /about/
     - url: /documentation/getting-your-account-ready/
+    - url: /2020/04/10/announcing-study-teams/
 es:
   name: Español
   missing:
     - url: /privacy/
     - url: /about/
     - url: /documentation/signup-with-github/
+    - url: /2020/04/10/announcing-study-teams/
 fr:
   name: Français
 de:
