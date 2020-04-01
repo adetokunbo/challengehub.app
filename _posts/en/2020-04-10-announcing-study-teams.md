@@ -20,9 +20,7 @@ ChallengeHub is able to do this by utilising data about student progress through
 From setting your stint up to having the students seated
 You can now choose for the stint for your class to use study teams.
 
-> ☑️ Arrange a class with study teams  
-> Students per study team: 2 (can be adjusted)  
-> Class has 3 teams per row (adjust to your classroom desk distribution)
+![Teacher UI for study teams](/images/blog/2020-04-10-stint-ui-en.png){: .framed-image .retina-70width-image }
 
 Students are assigned locations, and students with a shared location form a team. That location could be a desk and row, a section of a lecture theatre, or any other form of location designation provided by the teacher. Locations are designated by row and desk.
 
@@ -33,7 +31,7 @@ Students are assigned locations, and students with a shared location form a team
 1. Two hours before the stint, assigned desk designations are fixed and students can check their assigned locations.
 1. Upon entering the classroom, students locate their desk and are seated with the other team member(s).
 
-&lt;Screenshot of stint notification and response by student attending?&gt;
+![Study teams attendance UI](/images/blog/2020-04-10-attending-en.jpg){: .framed-image }
 
 If students have not used ChallengeHub with study teams before, the first class or two will probably require some time for students to get used to finding their seat, but this soon becomes natural to students.
 
