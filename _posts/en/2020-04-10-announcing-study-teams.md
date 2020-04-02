@@ -17,29 +17,31 @@ Meanwhile, the teacher has the benefit of being free to engage in targeted inter
 
 ChallengeHub is able to do this by utilising data about student progress through challenges to predict optimal study teams in a way that would be impossible for the teacher to do manually.
 
-From setting your stint up to having the students seated
-You can now choose for the stint for your class to use study teams.
+You can now choose for your class stint to use study teams:
 
 ![Teacher UI for study teams](/images/blog/2020-04-10-stint-ui-en.png){: .framed-image .retina-70width-image }
 
-Students are assigned locations, and students with a shared location form a team. That location could be a desk and row, a section of a lecture theatre, or any other form of location designation provided by the teacher. Locations are designated by row and desk.
+Students are assigned locations, and students with a shared location form a team. That location could be a desk in a row, a section of a lecture theatre, or any other form of location designation provided by the teacher. Students are assigned locations specified by row and desk coordinates.
 
-## From the student perspective, the flow is as follows:
+## The flow from the student perspective
 
 1. ChallengeBot automatically informs students of an upcoming stint with study teams and asks about intention to attend (no teacher interaction required).
-1. Students reply with the intention to attend or be absent (non-replies are assumed to be absent). Details of how to do this are included in the `help` available to students.
-1. Two hours before the stint, assigned desk designations are fixed and students can check their assigned locations.
-1. Upon entering the classroom, students locate their desk and are seated with the other team member(s).
+1. Students reply stating whether they will be attending or absent (non-replies are assumed to be absent).
+1. Before the stint begins, students are assigned fixed desk designations that they can check via the student interface.
+1. Upon entering the classroom, students locate their desk and are seated with the their team member(s).
 
 ![Study teams attendance UI](/images/blog/2020-04-10-attending-en.jpg){: .framed-image }
 
-If students have not used ChallengeHub with study teams before, the first class or two will probably require some time for students to get used to finding their seat, but this soon becomes natural to students.
+&lt;Picture showing the desk/row assignment of a student (sessions, session 1 command sequence?)?&gt;
 
-Some ideas for creating a coordinate system for you classroom include:
+## Creating a coordinate system
 
-- Have students count from the first row and desk (column) in the classroom. The room plan can be projected at the front of the class. For example, row 1 is at the front of the classroom and desk 1 is on the left, closest to the door. Some teachers choose to print the plan and have it attached to the entrance of the classroom. Note that this only needs to be prepared once per classroom used.
-- Print row and desk labels and have them attached to the appropriate positions prior to the class. For island desks without a grid, choose “1 row” and then label each desk by number.
+One idea to create a coordinate system for you classroom is to have students count from the first row and desk (column) in the classroom. The room plan can be projected at the front of the class. For example, row 1 is at the front of the classroom and desk 1 is on the left, closest to the door. Some teachers choose to print the plan and have it attached to the entrance of the classroom. Note that this only needs to be prepared once per classroom used.
+
+Another typical system is to print row and desk labels and have them attached to the appropriate positions prior to the class. For island desks without a grid, choose “1 row” when setting the stint and then label each desk by number.
 
 &lt;Picture of room plan showing 1st, 2nd row/desk with a door (downloadable pptx?)&gt;
 
-ChallengeHub is continuing to innovate together with teachers to upgrade both the in-classroom and out-of-classroom experience.
+## In summary
+
+ChallengeHub is continuing to innovate together with teachers to upgrade the in-class experience. Study teams helps to optimise the usefulness of classes for every student while easing the burden on the teacher too.
