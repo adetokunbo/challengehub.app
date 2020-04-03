@@ -25,10 +25,10 @@ Students are assigned locations, and students with a shared location form a team
 
 ## The flow from the student perspective
 
-1. ChallengeBot automatically informs students of an upcoming stint with study teams and asks about intention to attend (no teacher interaction required).
-1. Students reply stating whether they will be attending or absent (non-replies are assumed to be absent).
-1. Before the stint begins, students are assigned fixed desk designations that they can check via the student interface.
-1. Upon entering the classroom, students locate their desk and are seated with the their team member(s).
+1. ChallengeBot automatically informs students of an upcoming stint with study teams and asks about intention to attend (no teacher interaction required)
+1. Students reply stating whether they will be attending or absent (non-replies are assumed to be absent)
+1. Before the stint begins, students are assigned fixed desk designations that they can check via the student interface
+1. Upon entering the classroom, students locate their desk and are seated with the their team member(s)
 
 ![Study teams attendance UI](/images/blog/2020-04-10-attending-en.jpg){: .framed-image }
 
