@@ -23,7 +23,7 @@ los alumnos obtienen un entendimiento más profundo de los conceptos tratados.
 Mientras tanto,
 el docente tiene la ventaja de estar libre para interactuar
 con alumnos específicos durante la clase,
-alentado por el murmuro de los alumnos enseñeandose unos a otros.
+alentado por la interacción de los alumnos enseñeandose unos a otros.
 
 ChallengeHub lleva esto a cabo usando datos sobre el progreso
 de los alumnos en los retos para predecir
