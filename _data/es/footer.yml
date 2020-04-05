@@ -21,6 +21,8 @@
     link: /quickstart/
   - name: Contacto
     link: /contact/
+  - name: Acerca de ChallengeHub
+    link: /about/
   - name: Facebook
     link: https://www.facebook.com/challengehubapp/
     new_window: true

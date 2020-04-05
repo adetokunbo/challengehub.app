@@ -10,7 +10,6 @@ es:
   name: Español
   missing:
     - url: /privacy/
-    - url: /about/
     - url: /documentation/signup-with-github/
 fr:
   name: Français
