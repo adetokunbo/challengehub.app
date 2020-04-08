@@ -33,8 +33,6 @@ ChallengeHubは教師に手動でできない形で最適な勉強チームを�
 
 ![勉強チーム 出欠インターフェース](/images/blog/2020-04-10-attending-ja.jpg){: .framed-image }
 
-&lt;Picture showing the desk/row assignment of a student (sessions, session 1 command sequence?)?&gt;
-
 ## わかりやすい座標の振り分け方
 
 教室のテーブルの座標の伝え方を考えるときのおすすめは、1列目の1つ目の机（縦1つ目の列）から数えることです。教室のレイアウトは教室の前方でプロジェクターを使って写すのも便利です。例えば、1列目は教卓に近く、1つ目の机は入り口の近くの左にあってもいいです。レイアウトを印刷して入り口に貼る教師もいます。レイアウトは、使う教室1つにつき1度しか準備する必要がありません。
