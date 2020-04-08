@@ -32,8 +32,6 @@ Students are assigned locations, and students with a shared location form a team
 
 ![Study teams attendance UI](/images/blog/2020-04-10-attending-en.jpg){: .framed-image }
 
-&lt;Picture showing the desk/row assignment of a student (sessions, session 1 command sequence?)?&gt;
-
 ## Creating a coordinate system
 
 One idea to create a coordinate system for your classroom is to have students count from the first row and desk (column) in the classroom. The room plan can be projected at the front of the class. For example, row 1 is at the front of the classroom and desk 1 is on the left, closest to the door. Some teachers choose to print the plan and have it attached to the entrance of the classroom. Note that this only needs to be prepared once per classroom used.

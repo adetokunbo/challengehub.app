@@ -53,8 +53,6 @@ que podrán comprobar a través de la interfaz de alumnos
 
 ![Interfaz de asistencia a sesiones](/images/blog/2020-04-10-attending-es.jpg){: .framed-image }
 
-&lt;Picture showing the desk/row assignment of a student (sessions, session 1 command sequence?)?&gt;
-
 ## Creando un sistema de coordenadas
 
 Una idea para crear un sistema de coordenadas para su aula es
