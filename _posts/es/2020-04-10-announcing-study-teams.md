@@ -64,11 +64,11 @@ Por ejemplo, la fila 1 está delante y la mesa 1 está a la izquierda, cerca de 
 Algunos docentes imprimen el plano y lo cuelgan en la entrada de la clase.
 Tenga en cuenta que solo es necesario hacer esto una vez por cada clase que se use.
 
+![Ejemplo del sistema de coordenadas de un aula](/images/blog/2020-04-10-classroom-plan-es.png){: .framed-image }
+
 Otro sistema típico es imprimir etiquetas con los números de fila y mesa,
 y fijarlos en las posiciones adecuadas antes de la clase.
 Para mesas que estén formando islas sin formar una cuadrícula, elija usar una sola fila cuando configure su *stint*, y etiquete cada mesa por número.
-
-&lt;Picture of room plan showing 1st, 2nd row/desk with a door (downloadable pptx?)&gt;
 
 ## En resumen
 

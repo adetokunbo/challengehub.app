@@ -38,9 +38,9 @@ Students are assigned locations, and students with a shared location form a team
 
 One idea to create a coordinate system for your classroom is to have students count from the first row and desk (column) in the classroom. The room plan can be projected at the front of the class. For example, row 1 is at the front of the classroom and desk 1 is on the left, closest to the door. Some teachers choose to print the plan and have it attached to the entrance of the classroom. Note that this only needs to be prepared once per classroom used.
 
-Another typical system is to print row and desk labels and have them attached to the appropriate positions prior to the class. For island desks without a grid, choose “1 row” when setting the stint and then label each desk by number.
+![Example of a classroom coordinate system](/images/blog/2020-04-10-classroom-plan-en.png){: .framed-image }
 
-&lt;Picture of room plan showing 1st, 2nd row/desk with a door (downloadable pptx?)&gt;
+Another typical system is to print row and desk labels and have them attached to the appropriate positions prior to the class. For island desks without a grid, choose “1 row” when setting the stint and then label each desk by number.
 
 ## In summary
 
