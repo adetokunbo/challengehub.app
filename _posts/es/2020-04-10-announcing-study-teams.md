@@ -9,7 +9,7 @@ author_staff_member: james
 ref: 2020-04-10-announcing-study-teams
 lang: es
 ---
-A partir de hoy, ChallengeHub puede agrupar a los alumnos de forma automática y optimizada para la instrucción entre pares en clase. Haya 10 estudiantes o haya 100, estén las mesas todas orientadas hacia la pizarra o formando islas, ChallengeHub maximiza el valor de la clase asegurando que los alumnos aprenden lo máximo posible de sus conversaciones con sus compañeros.
+A partir de hoy, ChallengeHub puede agrupar a los alumnos de forma automática para optimizar la instrucción entre pares en clase. Haya 10 estudiantes o haya 100, estén las mesas todas orientadas hacia la pizarra o formando islas, ChallengeHub maximiza el valor de la clase asegurando que los alumnos aprenden lo máximo posible de sus conversaciones con sus compañeros.
 
 ¿Por qué importa esto?
 Porque hace posible la enseñanza uno a uno escalable.
