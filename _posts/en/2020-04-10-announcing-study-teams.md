@@ -9,7 +9,7 @@ author_staff_member: james
 ref: 2020-04-10-announcing-study-teams
 lang: en
 ---
-Starting today, ChallengeHub can automatically and optimally group students for peer instruction in class. Whether there are 10 students or 100, desks are forward-facing or islands: ChallengeHub maximises class value by ensuring students get the most out of discussion with their peers.
+Starting today, ChallengeHub can automatically group students for optimal peer instruction in class. Whether there are 10 students or 100, desks are forward-facing or islands: ChallengeHub maximises class value by ensuring students get the most out of discussion with their peers.
 
 Why is this important? It realises scalable 1-to-1 teaching. More students get personalised help with the questions they have; something impossible in a traditional setting. Students are more motivated to attend class since they know that they will get help with their specific problem. And by helping others, students gain a far deeper understanding of the concepts involved.
 
