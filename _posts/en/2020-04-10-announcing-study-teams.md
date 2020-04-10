@@ -2,7 +2,7 @@
 date: 2020-04-10
 title: Announcing Study Teams
 description: Starting today, ChallengeHub can automatically group students for optimal peer instruction in class
-reading_minutes: 3
+reading_minutes: 2
 categories:
  - ChallengeHub
 author_staff_member: james

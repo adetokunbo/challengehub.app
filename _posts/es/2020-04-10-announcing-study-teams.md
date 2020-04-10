@@ -2,7 +2,7 @@
 date: 2020-04-10
 title: Presentamos&colon; equipos de estudio
 description: A partir de hoy, ChallengeHub puede agrupar a los alumnos de forma automática para optimizar la instrucción entre pares en clase
-reading_minutes: 3
+reading_minutes: 2
 categories:
  - ChallengeHub
 author_staff_member: james
