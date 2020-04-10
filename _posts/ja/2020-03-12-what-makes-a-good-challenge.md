@@ -5,7 +5,7 @@ description: ChallengeHubは様々なチャレンジのスタイルを可能に�
 image: /images/blog/2020-03-12-what-makes-a-good-challenge-ja-2020-03-12.png
 image_alt: 良いチャレンジにするためには
 image_maxheight: 499
-reading_minutes: 3
+reading_minutes: 4
 categories:
  - ChallengeHub
 author_staff_member: james
