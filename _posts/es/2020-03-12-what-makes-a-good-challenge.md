@@ -5,7 +5,7 @@ description: Hay muchos estilos de reto posibles. ¡Olvídate de las preguntas d
 image: /images/blog/2020-03-12-what-makes-a-good-challenge-es.png
 image_alt: ¿Cómo crear buenos retos?
 image_maxheight: 499
-reading_minutes: 3
+reading_minutes: 4
 categories:
  - ChallengeHub
 author_staff_member: james

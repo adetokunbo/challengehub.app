@@ -2,7 +2,7 @@
 date: 2019-08-12
 title: チャレンジ解決型アクティブラーニングを<br>導入してから最初の2回の授業
 description: この記事では、チャレンジ解決型アクティブラーニング促進のため、ChallengeHubを導入したモデル科目の最初の2回の授業を振り返りたいと思います。
-reading_minutes: 4
+reading_minutes: 5
 categories:
  - ChallengeHub
 author_staff_member: james

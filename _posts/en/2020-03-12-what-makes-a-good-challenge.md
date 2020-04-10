@@ -5,7 +5,7 @@ description: ChallengeHub enables a variety of challenge styles. You can do bett
 image: /images/blog/2020-03-12-what-makes-a-good-challenge-en.png
 image_alt: What makes a good challenge?
 image_maxheight: 499
-reading_minutes: 3
+reading_minutes: 4
 categories:
  - ChallengeHub
 author_staff_member: james
