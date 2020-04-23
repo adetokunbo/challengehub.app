@@ -18,8 +18,8 @@ A typical first approach is to replace part of the lecture with challenges, with
 As usual, the resources in the challenge should cover what you would have lectured about, and the question in the challenge should reflect the expected learning, usually covering a specific concept.
 
 Points are not usually assigned for completing challenges by weekly deadlines, and this is for good reason.
-A key element of making classes useful is to have students be grouped into [teams] that can help each other, and for this to work well a positive learning environment where students come to the class with questions should be encouraged.
-This does not prevent a broad requirement about having most challenges completed by the end of the course, for example, but short term fluctuations in progress is a healthy part of learning, promoting [internal motivation].
+A key element of making classes useful is to have students be grouped into [teams]( /2020/04/10/announcing-study-teams/ ) that can help each other, and for this to work well a positive learning environment where students come to the class with questions should be encouraged.
+This does not prevent a broad requirement about having most challenges completed by the end of the course, for example, but short term fluctuations in progress is a healthy part of learning, promoting [internal motivation]( /2019/08/10/two-key-elements-for-effective-cbal/ ).
 
 In cases where homework has traditionally been part of the course, it is important to make clear to students the distinction between homework and challenges.
 Teachers typically gradually reduce the amount of required homework in favour of a greater number of formative challenges, but they can be run alongside each other as long as the distinction is maintained.
