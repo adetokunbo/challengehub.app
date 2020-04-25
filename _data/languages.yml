@@ -5,11 +5,13 @@ ja:
   missing:
     - url: /privacy/
     - url: /documentation/getting-your-account-ready/
+    - url: /2020/05/15/starting-small-with-challenge-based-active-learning/
 es:
   name: Español
   missing:
     - url: /privacy/
     - url: /documentation/signup-with-github/
+    - url: /2020/05/15/starting-small-with-challenge-based-active-learning/
 fr:
   name: Français
 de:
