@@ -11,9 +11,9 @@ lang: en
 ---
 
 Traditional lectures typically involve the teacher standing at the front of the class talking to the students.
-Starting small with challenge-based active learning generally means leveraging the power of ChallengeHub to gradually reduce the time spent standing at the front of the class and make that time as efficient as possible for everyone in the room.
+Starting small with challenge-based active learning generally means utilising ChallengeHub to gradually reduce the time spent standing at the front of the class, focusing on what is most important for the students and making the whole experience more efficient for everyone.
 
-### A solid first approach
+### Focus on making class time more efficient
 
 A key point to remember is that ChallengeHub exists to make classes more efficient, and is not simply an alternative form of homework.
 A typical first approach is to replace part of the lecture with challenges, with students looking up information themselves in the designated resources listed in each challenge.
@@ -26,18 +26,19 @@ This does not prevent a broad requirement about having most challenges completed
 ### Challenges and homework
 
 In cases where homework has traditionally been part of the course, it is important to make clear to students the distinction between homework and challenges.
-Teachers typically gradually reduce the amount of required homework in favour of a greater number of formative challenges, but they can be run alongside each other as long as the distinction is maintained.
+Teachers typically gradually phase-out homework in favour of formative challenges, but they can be run alongside each other as long as the distinction is maintained.
 Having students hand homework in at the beginning of class can ensure the discussion time is used as intended.
 
 ### Adapting according to student response
 
-With students discussing and working on challenges, the required lecture time is reduced, and with real-time monitoring of student progress, lecture preparation becomes more efficient and the class time becomes genuinely useful to the students.
-The time not spent giving class-wide explanations can be spent walking round the classroom as students discuss any difficulties with challenges together in their teams.
+With students discussing and working on challenges, the required lecture time is reduced.
+In addition, real-time monitoring of student progress makes lecture preparation more efficient and the class time genuinely useful to the students.
+The time not spent giving class-wide explanations can be spent walking round the classroom interacting with students as they discuss difficulties with challenges in their teams.
 
 After students have got used to the initial changes of the class format, it can be interesting to run a survey asking the students if they would prefer to go back to more lecture time or have more discussion / challenge time.
 
-### Conclusion
+### The final state
 
-Finally, it is worth keeping in mind that challenge-based active learning does not aim to completely change class time to discussion time, but rather aims to replace the lecture with targeted explanations that cover issues that the entire class is having, or with inspiring examples that motivate study.
+Finally, it is worth keeping in mind that challenge-based active learning does not aim to completely change class time to discussion time, but rather aims to replace the lecture with targeted explanations that cover common student issues, or else inspire students to study further.
 The optimum ratio of explanation time to discussion time depends on the teacher, the subject and the nature of any difficulties students have, but it is typical for teachers to end up with more discussion time than explanation time in a given class.
 
