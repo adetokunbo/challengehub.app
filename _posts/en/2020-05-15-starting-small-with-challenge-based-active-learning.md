@@ -13,7 +13,7 @@ lang: en
 Traditional lectures typically involve the teacher standing at the front of the class talking to the students.
 Starting small with challenge-based active learning generally means utilising ChallengeHub to gradually reduce the time spent standing at the front of the class, focusing on what is most important for the students and making the whole experience more efficient for everyone.
 
-### Focus on making class time more efficient
+### Making classes more efficient
 
 A key point to remember is that ChallengeHub exists to make classes more efficient, and is not simply an alternative form of homework.
 A typical first approach is to replace part of the lecture with challenges, with students looking up information themselves in the designated resources listed in each challenge.
