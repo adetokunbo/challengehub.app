@@ -1,7 +1,7 @@
 ---
 date: 2020-05-15
 title: Starting small with challenge-based active learning
-description: Starting today, ChallengeHub can automatically group students for optimal peer instruction in class
+description: Challenge-based active learning aims to replace the lecture with targeted explanations that cover common student issues
 reading_minutes: 2
 categories:
  - ChallengeHub
