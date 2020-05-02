@@ -37,7 +37,7 @@ With students discussing and working on challenges, the required lecture time is
 In addition, real-time monitoring of student progress makes lecture preparation more efficient and the class time genuinely useful to the students.
 The time not spent giving class-wide explanations can be spent walking round the classroom interacting with students as they discuss difficulties with challenges in their teams.
 
-After students have got used to the initial changes of the class format, it can be interesting to run a survey asking the students if they would prefer to go back to more lecture time or have more discussion / challenge time.
+After students have got used to the initial changes of the class format, it can be enlightening to run a survey asking the students if they would prefer to return to the lecture style or prefer the challenge-based active learning style.
 
 ### The final state
 
