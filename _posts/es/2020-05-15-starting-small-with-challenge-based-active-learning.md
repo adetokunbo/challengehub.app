@@ -2,6 +2,8 @@
 date: 2020-05-15
 title: Cómo empezar poco a poco con el aprendizaje activo basado en retos
 description: El objetivo del aprendizaje activo basado en retos es sustituir la clase magistral por explicaciones específicas que cubran problemas comunes entre los alumnos
+image: /images/our-story/challenge-hub-building-the-idea.jpg
+image_cardsonly: true
 reading_minutes: 2
 categories:
  - ChallengeHub

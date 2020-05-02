@@ -2,6 +2,8 @@
 date: 2020-05-15
 title: Starting small with challenge-based active learning
 description: Challenge-based active learning aims to replace the lecture with targeted explanations that cover common student issues
+image: /images/our-story/challenge-hub-building-the-idea.jpg
+image_cardsonly: true
 reading_minutes: 2
 categories:
  - ChallengeHub
