@@ -28,7 +28,7 @@ This does not prevent a broad requirement about having most challenges completed
 ### Challenges and homework
 
 In cases where homework has traditionally been part of the course, it is important to make clear to students the distinction between homework and challenges.
-Teachers typically gradually phase-out homework in favour of formative challenges, but they can be run alongside each other as long as the distinction is maintained.
+Teachers typically gradually phase out homework in favour of formative challenges, but they can be run alongside each other as long as the distinction is maintained.
 Having students hand homework in at the beginning of class can ensure the discussion time is used as intended.
 
 ### Adapting according to student response
