@@ -42,5 +42,4 @@ After students have got used to the initial changes of the class format, it can 
 ### The final state
 
 Finally, it is worth keeping in mind that challenge-based active learning does not aim to completely change class time to discussion time, but rather aims to replace the lecture with targeted explanations that cover common student issues, or else inspire students to study further.
-The optimum ratio of explanation time to discussion time depends on the teacher, the subject and the nature of any difficulties students have, but it is typical for teachers to end up with more discussion time than explanation time in a given class.
-
+The optimum ratio of explanation time to discussion time depends on the teacher, the subject and the nature of any difficulties students have, but it is typical for teachers to end up with more discussion time than explanation time.
