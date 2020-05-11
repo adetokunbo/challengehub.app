@@ -1,5 +1,5 @@
 ---
-date: 2020-05-15
+date: 2020-05-11
 title: チャレンジ解決型アクティブラーニングを徐々に導入
 description: チャレンジ解決型アクティブラーニングの目標は、講義を多くの学生が必要としている特定の説明に変えていくことです
 image: /images/our-story/challenge-hub-building-the-idea.jpg
@@ -8,7 +8,7 @@ reading_minutes: 2
 categories:
  - ChallengeHub
 author_staff_member: james
-ref: 2020-05-15-starting-small-with-challenge-based-active-learning
+ref: 2020-05-11-starting-small-with-challenge-based-active-learning
 lang: ja
 ---
 
