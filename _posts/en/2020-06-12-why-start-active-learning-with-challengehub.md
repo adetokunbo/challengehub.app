@@ -1,7 +1,7 @@
 ---
 date: 2020-06-12
 title: Why start active learning with ChallengeHub?
-description: PENDING
+description: Our vision at ChallengeHub is to bring the benefits of active learning out from small niche implementations to the mainstream, and to achieve that we know that making class easier for the teacher is key.
 reading_minutes: 2
 categories:
  - ChallengeHub
@@ -80,4 +80,3 @@ the usefulness of the class for students.
 We continue to welcome teachers to work with us to continue
 innovating a better education solution that addresses
 the needs of both students and teachers alike.
-
