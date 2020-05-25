@@ -72,11 +72,11 @@ Nuestro objetivo en ChallengeHub es trasladar las ventajas del aprendizaje activ
 de las pequeñas implementaciones minoritarias a la enseñanza convencional,
 y sabemos que para conseguir esto hacer la clase más fácil para el docente es clave.
 
-Con la posibilidad de adelantarse a las dificultades de los alumnos e instrucción entre pares optimizada en el aula,
+Con la posibilidad de adelantarse a las dificultades de los alumnos y una instrucción entre pares optimizada en el aula,
 ChallengeHub ofrece una plataforma para alcanzar ese objetivo,
 reduciendo la complejidad de la enseñanza a la vez que se incrementa
 la utilidad de las clases para los alumnos.
 
 Seguimos dando la bienvenida a nuevos docentes que trabajan con nosotros,
-innovando en forma de una nueva solución de educación que
+innovando con una nueva solución de educación que
 responde tanto a las necesidades de los alumnos como a las de los docentes.
