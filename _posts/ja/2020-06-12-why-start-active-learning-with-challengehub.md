@@ -2,7 +2,7 @@
 date: 2020-06-12
 title: アクティブラーニングをChallengeHubで始める理由
 description: ChallengeHubの目標はアクティブラーニングの少数派な手順のメリットを主流の教育にもたらすことです。これを実現させるためには、授業を教師にとって簡単にすることが重要です。
-reading_minutes: 2
+reading_minutes: 3
 categories:
  - ChallengeHub
  - アクティブラーニング
