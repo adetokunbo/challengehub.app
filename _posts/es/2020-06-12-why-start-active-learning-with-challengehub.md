@@ -25,9 +25,7 @@ La pérdida de control y la incertidumbre de qué pasará cuando empiece la clas
 
 - ¿Qué tengo que explicar en profundidad?
 - ¿Cuánto material tengo que preparar para la clase?
-- ¿Habrán leído los alumnos antes de la clase los materiales asignados?
-- ¿Encontraron los alumnos el material a leer antes de clase demasiado fácil o demasiado difícil?
-- ¿Serán apropiadas para su nivel de entendimiento las actividades planeadas para la clase?
+- ¿Habrán llevado a cabo los alumnos el estudio designado antes de la clase?
 - Si algunos alumnos terminan antes que otros, ¿qué debería pedirles que hagan?
 
 Este tipo de incertidumbre induce a planear para todos los casos posibles,
