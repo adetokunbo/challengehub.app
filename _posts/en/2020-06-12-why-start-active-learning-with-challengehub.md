@@ -1,7 +1,7 @@
 ---
 date: 2020-06-12
 title: Why start active learning with ChallengeHub?
-description: Our vision at ChallengeHub is to bring the benefits of active learning out from small niche implementations to the mainstream, and to achieve that we know that making class easier for the teacher is key.
+description: Our aim at ChallengeHub is to bring the benefits of active learning out from small niche implementations to the mainstream, and to achieve that we know that making class easier for the teacher is key.
 reading_minutes: 2
 categories:
  - ChallengeHub
@@ -14,7 +14,7 @@ lang: en
 Active learning typically involves a two-way interactive experience for students and the teacher,
 and while this is known to be more effective and motivating for the students,
 the added complexity makes it stressful for the teacher.
-Our vision at ChallengeHub is to make it easier to teach better,
+Our aim at ChallengeHub is to make it easier to teach better,
 achieving the benefit of active learning while simultaneously removing complexity:
 truly active learning for _everyone_.
 
@@ -42,8 +42,8 @@ ChallengeHub addresses such stress through three primary methods:
 1. Developing a free flowing yet structured classroom schedule
 
 Since ChallengeBot is facilitating students submitting answers to challenges
-and indicating difficulty,
-the teacher has an advance view through the dashboard about any difficulties
+and recording difficulty,
+the teacher has advance view through the dashboard about any difficulties
 and can anticipate what questions will come up.
 Students can also leave feedback about individual challenges,
 further aiding preparation.
@@ -68,15 +68,14 @@ making it easier to get a sense if the course is moving too fast or too slow.
 
 ### Conclusion
 
-Our vision at ChallengeHub is to bring the benefits of active learning
-out from small niche implementations to the mainstream,
+Our vision at ChallengeHub is for active learning to be the norm rather than the exception,
 and to achieve that we know that making class easier for the teacher is key.
 
-With advance-knowledge of student difficulties and optimised in-class peer instruction,
-ChallengeHub offers a platform for achieving such a vision,
+With advance knowledge of student difficulties and optimised in-class peer instruction,
+ChallengeHub offers a platform for realising such a vision,
 reducing the complexity of teaching while simultaneously increasing
 the usefulness of the class for students.
 
-We continue to welcome teachers to work with us to continue
-innovating a better education solution that addresses
+We welcome teachers to work with us to continue
+innovating for a better education solution that addresses
 the needs of both students and teachers alike.
