@@ -25,9 +25,7 @@ the loss of control and uncertainty of what is going to happen after the class s
 
 - What will I need to explain in depth about?
 - How much material do I need to prepare for the class?
-- Did students pre-read the assigned materials?
-- Did students find the pre-class material too easy or too hard?
-- Will the activities planned for the class be appropriate for their level of understanding?
+- Did students do the assigned pre-class study?
 - If some students finish earlier than others, what should I ask them to do?
 
 Such uncertainty induces a ‘plan for all scenarios’ response,
