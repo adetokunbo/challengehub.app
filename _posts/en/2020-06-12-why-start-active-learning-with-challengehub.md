@@ -13,25 +13,26 @@ lang: en
 
 Active learning typically involves a two-way interactive experience for students and the teacher,
 and while this is known to be more effective and motivating for the students,
-the added complexity makes it stressful for the teacher.
+it has traditionally added complexity and been stressful for the teacher.
+
 Our aim at ChallengeHub is to make it easier to teach better,
-achieving the benefit of active learning while simultaneously removing complexity:
+achieving the benefit of active learning while removing complexity:
 truly active learning for _everyone_.
 
 ### Traditional active learning introduces uncertainty
 
-Stress points in traditional active learning methodologies include
-the loss of control and uncertainty of what is going to happen after the class starts:
+Teachers using traditional active learning methods are often stressed by factors
+out of their control and the uncertainty about what is going to happen in class:
 
-- What will I need to explain in depth about?
 - How much material do I need to prepare for the class?
 - Did students do the assigned pre-class study?
+- What will I need to explain in depth about?
 - If some students finish earlier than others, what should I ask them to do?
 
 Such uncertainty induces a ‘plan for all scenarios’ response,
 raising teacher stress levels and making it harder to teach well.
 
-### How ChallengeHub solves the uncertainty issue
+### How ChallengeHub helps
 
 ChallengeHub addresses such stress through three primary methods:
 
@@ -39,8 +40,7 @@ ChallengeHub addresses such stress through three primary methods:
 1. Promoting high-quality interaction between students in class
 1. Developing a free flowing yet structured classroom schedule
 
-Since ChallengeBot is facilitating students submitting answers to challenges
-and recording difficulty,
+As students submit answers through ChallengeBot,
 the teacher has advance view through the dashboard about any difficulties
 and can anticipate what questions will come up.
 Students can also leave feedback about individual challenges,
