@@ -23,9 +23,9 @@ un aprendizaje activo que sea realmente _para todos_.
 
 La pérdida de control y la incertidumbre de qué pasará cuando empiece la clase son algunos puntos estresantes de las metodologías tradicionales de aprendizaje activo:
 
-- ¿Qué tengo que explicar en profundidad?
 - ¿Cuánto material tengo que preparar para la clase?
 - ¿Habrán llevado a cabo los alumnos el estudio designado antes de la clase?
+- ¿Qué tengo que explicar en profundidad?
 - Si algunos alumnos terminan antes que otros, ¿qué debería pedirles que hagan?
 
 Este tipo de incertidumbre induce a planear para todos los casos posibles,
