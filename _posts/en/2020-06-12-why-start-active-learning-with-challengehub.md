@@ -1,7 +1,7 @@
 ---
 date: 2020-06-12
 title: Why start active learning with ChallengeHub?
-description: Our aim at ChallengeHub is to bring the benefits of active learning out from small niche implementations to the mainstream, and to achieve that we know that making class easier for the teacher is key.
+description: Our vision at ChallengeHub is for active learning to be the norm rather than the exception, and to achieve that we know that making class easier for the teacher is key.
 reading_minutes: 2
 categories:
  - ChallengeHub
