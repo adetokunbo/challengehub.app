@@ -14,7 +14,6 @@ lang: en
 Active learning typically involves a two-way interactive experience for students and the teacher,
 and while this is known to be more effective and motivating for the students,
 it has traditionally added complexity and been stressful for the teacher.
-
 Our aim at ChallengeHub is to make it easier to teach better,
 achieving the benefit of active learning while removing complexity:
 truly active learning for _everyone_.
