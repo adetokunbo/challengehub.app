@@ -10,6 +10,8 @@ es:
   missing:
     - url: /privacy/
     - url: /documentation/signup-with-github/
+ca:
+  name: Català
 fr:
   name: Français
 de:

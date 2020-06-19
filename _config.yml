@@ -85,6 +85,11 @@ defaults:
       path: "es"
     values:
       layout: "default"
+  -
+    scope:
+      path: "ca"
+    values:
+      layout: "default"
 
 jekyll-archives:
   enabled:
@@ -137,7 +142,7 @@ _comments:
 # ----------------------
 # Polyglot configuration
 #
-languages: ["en", "ja", "es"]
+languages: ["en", "ja", "es", "ca"]
 
 # pick a default_lang that is not one of the actual languages;
 # this ensure all language specific pages are created.
