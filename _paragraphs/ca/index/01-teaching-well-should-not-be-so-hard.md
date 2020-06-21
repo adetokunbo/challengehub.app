@@ -2,7 +2,7 @@
 cta_label: La nostra trajectòria
 cta_link: /our-story/
 image_alt: Gràfica—eficiència del docent / efectivitat de l'estudi
-image_path: front/teaching-efficiency-es-20200118.svg
+image_path: front/teaching-efficiency-ca.svg
 lang: ca
 page_name: index
 position: 1

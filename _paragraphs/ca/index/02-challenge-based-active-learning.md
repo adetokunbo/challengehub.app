@@ -2,7 +2,7 @@
 cta_label: Més informació
 cta_link: /active-learning/
 image_alt: Cicle de l'aprenenatge actiu basat en reptes
-image_path: front/cbal-cycle-es-20200118.svg
+image_path: front/cbal-cycle-ca.svg
 lang: ca
 page_name: index
 position: 2
