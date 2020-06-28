@@ -44,4 +44,4 @@ making handover that much easier.
 The ChallengeHub experience is today more accessible and welcoming than ever.
 We encourage you to take a look at the available challenges,
 contribute your own challenges to Challenge Universe,
-and join us in our quest to make high-quality education more accessable than ever.
+and join us in our quest to make high-quality education more accessible than ever.
