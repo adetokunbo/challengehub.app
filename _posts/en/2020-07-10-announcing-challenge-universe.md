@@ -10,7 +10,7 @@ ref: 2020-07-10-announcing-challenge-universe
 lang: en
 ---
 
-Starting today, it is possible to view other teachers' published challenges in the Challenge Universe.
+Starting today, ChallengeHub users can search through challenges published by all teachers using the new _Challenge Universe_ in the teacher dashboard.
 Find a challenge you like?
 You can easily import it into your library and be ready to use it in a course,
 or amend the contents to customise it for your needs.
@@ -29,11 +29,9 @@ As a new teacher,
 you can gain confidence by looking at a number of readily available challenges
 and basing your course on those challenges.
 This gives you more time to focus on your teaching and less on content generation,
-promoting high quality education even in that ever-stressful first year of teaching a course.
+promoting high-quality education even in that ever-stressful first year of teaching a course.
 
-As an experienced teacher,
-even one teaching a highly-specialist subject,
-you might find an interesting challenge to improve your existing course with.
+As an experienced teacher you might find an interesting challenge to improve your existing course with.
 Moreover, by enabling other teachers to benefit from what you build,
 you can have an impact beyond the walls of your classroom.
 
@@ -41,7 +39,7 @@ Furthermore, when handing a course to a fellow teacher,
 you can easily share the challenges from your course,
 making handover that much easier.
 
-The ChallengeHub experience is today more accessible and welcoming than ever.
-We encourage you to take a look at the available challenges,
-contribute your own challenges to Challenge Universe,
-and join us in our quest to make high-quality education more accessible than ever.
+Creating challenges and building courses is now easier than ever on ChallengeHub.
+[Get an account now] to be able to look through the available challenges,
+contribute your own,
+and join a growing movement of teachers making high-quality education material available to everyone.
