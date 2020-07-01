@@ -10,7 +10,7 @@ ref: 2020-07-10-announcing-challenge-universe
 lang: en
 ---
 
-Starting today, ChallengeHub users can search through challenges published by all teachers using the new _Challenge Universe_ in the teacher dashboard.
+Starting today, ChallengeHub users can search through challenges published by all teachers using the new _Challenge Universe_ feature in the teacher dashboard.
 Find a challenge you like?
 You can easily import it into your library and be ready to use it in a course,
 or amend the contents to customise it for your needs.
@@ -31,7 +31,7 @@ and basing your course on those challenges.
 This gives you more time to focus on your teaching and less on content generation,
 promoting high-quality education even in that ever-stressful first year of teaching a course.
 
-As an experienced teacher you might find an interesting challenge to improve your existing course with.
+As an experienced teacher you might find an interesting challenge that can improve your existing course.
 Moreover, by enabling other teachers to benefit from what you build,
 you can have an impact beyond the walls of your classroom.
 
