@@ -6,7 +6,7 @@ image_path: front/teaching-efficiency-en-20200118.svg
 lang: en
 page_name: index
 position: 1
-heading: You can do better than lectures
+heading: We can do better
 ---
 
 Traditional lectures are inefficient, decreasing both student and teacher motivation.
