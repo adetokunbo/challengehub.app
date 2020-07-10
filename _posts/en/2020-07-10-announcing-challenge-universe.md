@@ -1,7 +1,7 @@
 ---
 date: 2020-07-10
 title: Announcing Challenge Universe
-description: Starting today, you can find other teachers' published challenges in Challenge Universe
+description: Starting today, ChallengeHub users can search through challenges published by all teachers using the new _Challenge Universe_ feature
 reading_minutes: 2
 categories:
  - ChallengeHub
