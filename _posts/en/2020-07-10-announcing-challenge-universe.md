@@ -3,6 +3,9 @@ date: 2020-07-10
 title: Announcing Challenge Universe
 description: Starting today, ChallengeHub users can search through challenges published by all teachers using the new Challenge Universe feature
 reading_minutes: 2
+image: /images/blog/2020-07-10-announcing-challenge-universe-en.jpg
+image_alt: Challenge Universe
+image_cardsonly: true
 categories:
  - ChallengeHub
 author_staff_member: james
@@ -15,8 +18,7 @@ Find a challenge you like?
 You can easily import it into your library and be ready to use it in a course,
 or amend the contents to customise it for your needs.
 
-
-\[Challenge Universe screenshot\]
+![Challenge Universe](/images/blog/2020-07-10-announcing-challenge-universe-en.jpg){: .framed-image .retina-70width-image }
 
 This is a big step in ChallengeHub's effort to fix the long-standing inefficiencies in teaching.
 How many other teachers around the world are teaching the same course as you?

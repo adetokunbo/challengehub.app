@@ -3,6 +3,9 @@ date: 2020-07-10
 title: Challenge Universeを発表します
 description: 今日からChallengeHubユーザーは、全ての教師が公開してきたチャレンジをChallenge Universeで閲覧可能になりました
 reading_minutes: 2
+image: /images/blog/2020-07-10-announcing-challenge-universe-en.jpg
+image_alt: Challenge Universe
+image_cardsonly: true
 categories:
  - ChallengeHub
 author_staff_member: james
@@ -12,7 +15,7 @@ lang: ja
 
 今日からChallengeHubユーザーは、全ての教師が公開してきたチャレンジをウェブアプリ内のChallenge Universeで閲覧可能になりました。いいチャレンジが見つかりましたか？簡単に自分のライブラリーに加えたり、コースに加えたりすることができます。また、自分のコースに合わせて修正することも可能です。
 
-\[Challenge Universe screenshot\]
+![Challenge Universe](/images/blog/2020-07-10-announcing-challenge-universe-ja.jpg){: .framed-image .retina-70width-image }
 
 様々な非効率的な部分をなくすための工夫をしているChallengeHubの中で、これは大きな一歩です。この世界に、あなたと同じ科目を教えている教師は何人いるのでしょうか？専門的な分野でも、数は少なくてもいるはずです。それでも、教師間での協力はあまりなされていません。
 
