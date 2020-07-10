@@ -40,6 +40,6 @@ you can easily share the challenges from your course,
 making handover that much easier.
 
 Creating challenges and building courses is now easier than ever on ChallengeHub.
-[Get an account now] to be able to look through the available challenges,
+[Get an account now]( /contact/ ) to be able to look through the available challenges,
 contribute your own,
 and join a growing movement of teachers making high-quality education material available to everyone.
