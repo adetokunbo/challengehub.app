@@ -1,7 +1,7 @@
 ---
 date: 2020-07-10
 title: Presentamos&colon; Challenge Universe
-description: Desde hoy, los ususarios de ChallengeHub pueden examinar retos publicados por todos los profesores usando la nueva funcionalidad Challenge Universe
+description: Desde hoy, los usuarios de ChallengeHub pueden examinar los retos publicados por todos los docentes usando la nueva funcionalidad Challenge Universe
 reading_minutes: 2
 categories:
  - ChallengeHub
@@ -10,35 +10,35 @@ ref: 2020-07-10-announcing-challenge-universe
 lang: es
 ---
 
-Desde hoy, los ususarios de ChallengeHub pueden examinar retos publicados por todos los profesores usando la nueva funcionalidad __Challenge Universe__ en su interfaz web.
+Desde hoy, los usuarios de ChallengeHub pueden examinar los retos publicados por todos los docentes usando la nueva funcionalidad Challenge Universe en su interfaz web.
 ¿Encontró un reto que le gusta?
-Puede importarlo fácilmente a su biblioteca y estará listo para usar en un curso, o puede modificar su contenido para adecuarlo a sus necesidades.
+Puede importarlo fácilmente a su biblioteca y estará listo para usar en un curso, y también puede modificar su contenido para adecuarlo a sus necesidades.
 
 
 \[Challenge Universe screenshot\]
 
-Este es un gran paso en los esfuerzos de ChallengeHub para subsanar las antiguas ineficiencias de la enseñanza.
-¿Cuántos otros docentes en el mundo están enseñando la misma asignatura que usted?
-Incluso para las materias más especializadas, seguramente su asignatura no es única.
-A pesar de esto, la colaboración entre docentes todavía es muy limitada.
+Este es un gran paso en los esfuerzos de ChallengeHub por subsanar las antiguas ineficiencias de la enseñanza.
+¿Cuántos docentes en el mundo están enseñando la misma asignatura que usted?
+Aunque sea una materia muy especializada, seguramente su asignatura no es única.
+Pero la colaboración entre docentes todavía es muy limitada.
 
-Challenge Universe empieza a cambiar esta siguación tanto para docentes nuevos como para aquesllos más veteranos.
+Challenge Universe empieza a cambiar esta situación tanto para los docentes nuevos como para aquellos más veteranos.
 
 Si es usted un docente nuevo,
 puede ganar confianza viendo un número de retos disponibles y basando su curso en dichos retos.
-Esto le da más tiempo para concentrarse en enseñar, y menos en generar el contenido,
-fomentando la enseñanza de alta calidad incluso en ese estresante primer año dando una asignatura.
+Esto le da más tiempo para concentrarse en enseñar, al tardar menos en preparar el contenido,
+fomentando la enseñanza de alta calidad incluso en ese estresante primer año en que uno da una asignatura.
 
-Si es usted un docente veterano,
+Si usted es un docente veterano,
 puede que encuentre un reto interesante para mejorar su curso.
-Es más, permitiendo que otros docentes se beneficien de lo que usted está creando,
-puede tener un impacto mas allá de su aula.
+Y además, permitiendo que otros docentes se beneficien de lo que usted está creando,
+puede tener un impacto más grande más allá de su aula.
 
-Además, cuando tenga que pasar el relevo de una asignatura a otro compañero
+También, cuando tenga que pasar el relevo de una asignatura a otro compañero
 puede compartir los retos de su curso fácilmente,
 haciendo la transición mucho más sencilla.
 
 Crear retos y diseñar cursos es más fácil que nunca en ChallengeHub.
 [Solicite su cuenta]( /contact/ ) para examinar los retos disponibles,
-contribuya los suyos propios,
-y únase a un creciente movimiento de docentes que están poniendo materiales educativos de alta calidad a la disposición de todo el mundo.
+contribuir los suyos propios,
+y unirse a un creciente movimiento de docentes que están poniendo material educativo de alta calidad a la disposición de todo el mundo.
