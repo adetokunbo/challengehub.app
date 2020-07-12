@@ -1,10 +1,10 @@
 ---
 date: 2020-07-13
-title: Presentamos Challenge Universe
-description: Desde hoy, los usuarios de ChallengeHub pueden examinar los retos publicados por todos los docentes usando la nueva funcionalidad Challenge Universe
+title: Presentamos Universo de retos
+description: Desde hoy, los usuarios de ChallengeHub pueden examinar los retos publicados por todos los docentes usando la nueva funcionalidad Universo de retos
 reading_minutes: 2
 image: /images/blog/2020-07-13-announcing-challenge-universe-en.jpg
-image_alt: Challenge Universe
+image_alt: Universo de retos
 image_cardsonly: true
 categories:
  - ChallengeHub
@@ -13,18 +13,18 @@ ref: 2020-07-13-announcing-challenge-universe
 lang: es
 ---
 
-Desde hoy, los usuarios de ChallengeHub pueden examinar los retos publicados por todos los docentes usando la nueva funcionalidad Challenge Universe en su interfaz web.
+Desde hoy, los usuarios de ChallengeHub pueden examinar los retos publicados por todos los docentes usando la nueva funcionalidad Universo de retos en su interfaz web.
 ¿Encontró un reto que le gusta?
 Puede importarlo fácilmente a su biblioteca y estará listo para usar en un curso, y también puede modificar su contenido para adecuarlo a sus necesidades.
 
-![Challenge Universe](/images/blog/2020-07-13-announcing-challenge-universe-es.jpg){: .framed-image .retina-70width-image }
+![Universo de retos](/images/blog/2020-07-13-announcing-challenge-universe-es.jpg){: .framed-image .retina-70width-image }
 
 Este es un gran paso en los esfuerzos de ChallengeHub por subsanar las antiguas ineficiencias de la enseñanza.
 ¿Cuántos docentes en el mundo están enseñando la misma asignatura que usted?
 Aunque sea una materia muy especializada, seguramente su asignatura no es única.
 Pero la colaboración entre docentes todavía es muy limitada.
 
-Challenge Universe empieza a cambiar esta situación tanto para los docentes nuevos como para aquellos más veteranos.
+Universo de retos empieza a cambiar esta situación tanto para los docentes nuevos como para aquellos más veteranos.
 
 Si es usted un docente nuevo,
 puede ganar confianza viendo un número de retos disponibles y basando su curso en dichos retos.
