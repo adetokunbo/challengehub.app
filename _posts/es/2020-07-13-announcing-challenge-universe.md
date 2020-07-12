@@ -1,15 +1,15 @@
 ---
-date: 2020-07-10
+date: 2020-07-13
 title: Presentamos Challenge Universe
 description: Desde hoy, los usuarios de ChallengeHub pueden examinar los retos publicados por todos los docentes usando la nueva funcionalidad Challenge Universe
 reading_minutes: 2
-image: /images/blog/2020-07-10-announcing-challenge-universe-en.jpg
+image: /images/blog/2020-07-13-announcing-challenge-universe-en.jpg
 image_alt: Challenge Universe
 image_cardsonly: true
 categories:
  - ChallengeHub
 author_staff_member: james
-ref: 2020-07-10-announcing-challenge-universe
+ref: 2020-07-13-announcing-challenge-universe
 lang: es
 ---
 
@@ -17,7 +17,7 @@ Desde hoy, los usuarios de ChallengeHub pueden examinar los retos publicados por
 ¿Encontró un reto que le gusta?
 Puede importarlo fácilmente a su biblioteca y estará listo para usar en un curso, y también puede modificar su contenido para adecuarlo a sus necesidades.
 
-![Challenge Universe](/images/blog/2020-07-10-announcing-challenge-universe-es.jpg){: .framed-image .retina-70width-image }
+![Challenge Universe](/images/blog/2020-07-13-announcing-challenge-universe-es.jpg){: .framed-image .retina-70width-image }
 
 Este es un gran paso en los esfuerzos de ChallengeHub por subsanar las antiguas ineficiencias de la enseñanza.
 ¿Cuántos docentes en el mundo están enseñando la misma asignatura que usted?
