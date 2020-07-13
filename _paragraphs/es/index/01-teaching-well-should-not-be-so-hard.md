@@ -6,7 +6,7 @@ image_path: front/teaching-efficiency-es-20200118.svg
 lang: es
 page_name: index
 position: 1
-heading: Puedes hacer algo mejor que dar la lección
+heading: Lo podemos hacer mejor
 ---
 
 Las clases tradicionales no son eficientes, y bajan la motivación de los alumnos y del docente.

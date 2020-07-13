@@ -6,7 +6,7 @@ image_path: front/teaching-efficiency-ja-20200118.svg
 lang: ja
 page_name: index
 position: 1
-heading: 講義よりもよい授業ができます。
+heading: より良い授業ができます
 ---
 
 従来の講義は非効率的で、学生と教師のモチベーションを低下させます。
