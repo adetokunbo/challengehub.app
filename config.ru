@@ -20,5 +20,5 @@ use Rack::TryStatic,
   ]
 
   run lambda { |env|
-    [404, { 'Content-Type' => 'text/html' }, File.open('_site/404.html', File::RDONLY)]
+    [404, { 'Content-Type' => 'text/html' }, File.open('_site/en/404.html', File::RDONLY)]
   }
