@@ -1,6 +1,6 @@
 ---
 date: 2020-03-12
-title: What makes a good challenge?
+title: What Makes a Good Challenge?
 description: ChallengeHub enables a variety of challenge styles. You can do better than multiple-choice!
 image: /images/blog/2020-03-12-what-makes-a-good-challenge-en.png
 image_alt: What makes a good challenge?

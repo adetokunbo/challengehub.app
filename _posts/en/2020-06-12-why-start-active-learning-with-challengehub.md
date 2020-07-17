@@ -1,6 +1,6 @@
 ---
 date: 2020-06-12
-title: Why start active learning with ChallengeHub?
+title: Why Start Active Learning with Challengehub?
 description: Our vision at ChallengeHub is for active learning to be the norm rather than the exception, and to achieve that we know that making class easier for the teacher is key.
 reading_minutes: 2
 categories:
