@@ -1,6 +1,6 @@
 ---
 date: 2020-08-07
-title: Announcing Telegram Support
+title: Announcing the New Telegram Interface
 description: TODO
 reading_minutes: 2
 categories:
@@ -10,10 +10,11 @@ ref: 2020-08-07-announcing-telegram-support
 lang: en
 ---
 
-Starting today, ChallengeHub students can use Telegram to interact with their courses. This is in addition to the previous e-mail and LINE ChallengeBot interfaces.
+From today, students can use Telegram to engage with course challenges on ChallengeHub.
+This is in addition to the e-mail and LINE ChallengeBot interfaces already available.
 
-Students can submit their answers to ChallengeBot in order to receive immediate feedback, contributing data for the teacher's monitoring as well as to their own motivation and the efficiency of their study.
+As usual, students can submit their answers to ChallengeBot in order to receive immediate feedback, increasing the efficiency of their study and raising motivation, as well as enabling teacher monitoring and [optimised peer-instruction grouping in class].
 
-On the other side from the accesible e-mail interface, the Telegram and LINE interfaces are well known instant mesaging platforms in different areas of the world. We are happy to have more options available so students will be able to interact with ChallengeBot on a platform they are comfortable at, and this works best when they do not need to install any new app.
-
-Interacting with ChallengeHub now presents less friction than ever, and we hope this will help students focus on the challenges at hand.
+In addition to the accessible e-mail interface, the Telegram and LINE interfaces are well known instant messaging platforms in different areas of the world.
+We are pleased to have more options available so students will be able to interact with ChallengeBot on a platform they are most comfortable with.
+We hope this will help more students make a smooth transition to challenge-based active learning with ChallengeHub.
