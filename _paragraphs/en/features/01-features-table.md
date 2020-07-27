@@ -16,8 +16,8 @@ position: 1
 - __Multiple language support__: set a default interface language for the course, and students can change it to what they’re individually most comfortable with (currently supported: English, French, Spanish, Catalan and Japanese)
 - __Efficient course creation and improvement__: challenges can be reused and improved on over time
 - __Open education__: challenges are open and will always be available to their creators, while students learn from ChallengeHub for free
+- __Easy sharing of challenges with other teachers around the world__: making course creation and improvement more efficient
 
 ### Coming soon
 
-- __Easy sharing of challenges with other teachers around the world__: making course creation and improvement more efficient
 - __Support for the Telegram messaging app__
