@@ -50,6 +50,18 @@
     }
   }
 
+  img.retina-50width-image {
+    @media #{$desktop} {
+      max-width: 50%;
+    }
+  }
+
+  img.centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   p.blog-leading-image {
     text-align: center;
     img {
