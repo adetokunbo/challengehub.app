@@ -1,6 +1,6 @@
 ---
 date: 2020-08-07
-title: ChallengeBot、Telegramで利用可能になりました。
+title: ChallengeBot、Telegramで利用可能になりました
 description: TODO
 reading_minutes: 1
 categories:
@@ -10,7 +10,7 @@ ref: 2020-08-07-challenge-bot-is-now-available-on-telegram
 lang: ja
 ---
 
-本日より学生は[Telegram](https://telegram.org)を通じてChallengeHub上のコースとのやり取りができるようになりました。これからは電子メールと[LINE](https://line.me/ja/)の他に、Telegramを通じても利用可能になりました。
+本日より学生は[Telegram](https://telegram.org)を通じてChallengeHub上のコースとのやり取りができるようになりました。これからは電子メールと[LINE](https://line.me/ja/)の他に、Telegramを通じても利用可能です。
 
 [![Telegram](/images/blog/2020-08-07-telegram.svg){: .retina-50width-image .centered }](https://telegram.org)
 
