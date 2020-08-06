@@ -18,5 +18,5 @@ Esto significa que ChallengeBot, además de estar disponible a través de correo
 Como de costumbre, los alumnos pueden enviar sus respuestas a ChallengeBot para recibir una respuesta inmediata,
 haciendo su estudio más eficiente y subiendo su motivación, así como habilitando la monitorización por parte del docente y [los grupos optimizados de instrucción entre pares]( /2020/04/10/announcing-study-teams/ ).
 
-Estamos muy contentos de tener más opciones disponibles para que los alumnos puedan actuar con ChallengeBot en la plataforma con la que tengan más familiaridad.
+Esperamos que los alumnos aprecien tener más opciones disponibles para interactuar con ChallengeBot en la plataforma con la que tengan más familiaridad.
 Esperamos que esto ayuda a más alumnos a llevar a cabo una buena transición al aprendizaje activo basado en retos con ChallengeHub.
