@@ -1,7 +1,7 @@
 ---
 date: 2020-08-07
 title: ChallengeBot、Telegramで利用可能になりました
-description: TODO
+description: 本日より学生はTelegramを通じてChallengeHub上のコースとのやり取りができるようになりました。これからは電子メールとLINEの他に、Telegramを通じても利用可能です。
 reading_minutes: 1
 categories:
  - ChallengeHub

@@ -1,7 +1,7 @@
 ---
 date: 2020-08-07
 title: ChallengeBot is now available on Telegram
-description: TODO
+description: From today, students can use Telegram to engage with course challenges on ChallengeHub. This means that as well as ChallengeBot being available via email and LINE, you can now access it via Telegram too.
 reading_minutes: 2
 categories:
  - ChallengeHub
