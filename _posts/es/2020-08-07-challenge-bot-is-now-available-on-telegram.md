@@ -11,7 +11,7 @@ lang: es
 ---
 
 Desde hoy, los alumnos pueden usar [Telegram](https://telegram.org) para interactuar con los retos de sus cursos en ChallengeHub.
-Esto significa que ChallengeBot, además de estar disponible a través de correo electrónico y [LINE](https://line.me/es-MX/), ahora también puedes acceder a él a través de Telegram.
+Esto significa que ChallengeBot, además de estar disponible a través de correo electrónico y [LINE](https://line.me/es-MX/), ahora también lo está a través de Telegram.
 
 [![Telegram](/images/blog/2020-08-07-telegram.svg){: .retina-50width-image .centered }](https://telegram.org)
 
