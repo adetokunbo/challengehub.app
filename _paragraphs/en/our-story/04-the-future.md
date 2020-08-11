@@ -11,4 +11,4 @@ heading: The future
 
 ChallengeHub is gaining traction with teachers who want to try something different—who understand that the world of education is changing rapidly, and that innovation is required to realise motivated, internationally competitive graduates.
 
-Will you join us and help bring education into the 21st century?
+Join us and help bring education into the 21st century.
