@@ -6,7 +6,7 @@ lang: en
 page_name: features
 position: 1
 ---
-- __Easy student interface__: students participate on courses using email or a common messaging app such as LINE
+- __Easy student interface__: students participate on courses using email or a common messaging app such as Telegram or LINE
 - __One-step enrollment__: just give students the course code or email address, and they’re ready to go
 - __Easy scheduling of challenges__: group challenges into stints that are released at a specific time
 - __Preview upcoming challenges__: know what the students will see before they see it
@@ -17,7 +17,3 @@ position: 1
 - __Efficient course creation and improvement__: challenges can be reused and improved on over time
 - __Open education__: challenges are open and will always be available to their creators, while students learn from ChallengeHub for free
 - __Easy sharing of challenges with other teachers around the world__: making course creation and improvement more efficient
-
-### Coming soon
-
-- __Support for the Telegram messaging app__

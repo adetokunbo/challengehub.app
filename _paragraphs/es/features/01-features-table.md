@@ -6,7 +6,7 @@ lang: es
 page_name: features
 position: 1
 ---
-- __Interfaz para alumnos sencilla__: los alumnos participan en los cursos usando el correo electrónico o una app de mensajería instantánea como LINE
+- __Interfaz para alumnos sencilla__: los alumnos participan en los cursos usando el correo electrónico o una app de mensajería instantánea como Telegram o LINE
 - __Registro en un solo paso__: solo tienes que dar a los alumnos el código del curso o su dirección de correo electrónico, y estarán listos
 - __Es fácil programar los retos__: puedes programar grupos de retos para que los alumnos los tengan disponibles a una hora determinada
 - __Vista previa de los próximos retos__: comprueba cómo los verán los alumnos
@@ -17,7 +17,3 @@ position: 1
 - __Crea y mejora tu curso de forma eficiente__: los retos se pueden reutilizar y mejorar a lo largo del tiempo
 - __Educación abierta__: todo el mundo puede y siempre podrá tener acceso a los retos, y los alumnos no tienen que pagar para usar ChallengeHub
 - __Comparte tus retos fácilmente con docentes de todo el mundo__: haciendo más eficiente la creación y mejora de los cursos
-
-### Próximamente
-
-- __Soporte para la aplicación de mensajería Telegram__
