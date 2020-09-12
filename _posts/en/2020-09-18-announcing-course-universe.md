@@ -12,11 +12,11 @@ lang: en
 
 At ChallengeHub, one of our key focusses is reducing the teaching burden.
 
-We have sought to address this right from the very core of the ChallengeHub service.   E.g, the careful design of our Challenge Dashboard simplifies the creation, editing and update of [Challenges]( //2020/03/12/what-makes-a-good-challenge/ ), and makes it easy to organize them into the courses to be taught to students.
+We have sought to address this right from the very core of the ChallengeHub service.   For example, the careful design of our Challenge Dashboard simplifies the creation, editing and update of [Challenges]( //2020/03/12/what-makes-a-good-challenge/ ), and makes it easy to organize them into the courses to be taught to students.
 
-However, by far the most important dimension of the teaching burden is duplication of effort.  E.g, at most universities, it is common for the course materials for a particular subject to be recreated continuously time after time by the different members of the same department.  The reason this happens is simple.  There is _no_ infrastructure in place to allow the sharing of work between teachers.
+However, by far the most important dimension of the teaching burden is duplication of effort.  At most universities, it is common for the course materials for a particular subject to be recreated continuously time after time by the different members of the same department.  The reason this happens is simple.  There is _no_ infrastructure in place to allow the sharing of work between teachers.
 
-Globally, this duplication soaks up a huge proportion of teaching time and is the one of the key reasons higher education teaching is inefficient.  If we can remove this unnecessary duplication, we can reduce the global teaching burden and improve teaching outcomes.
+Globally, this duplication soaks up a large proportion of teaching time and is one of the key reasons higher education teaching is inefficient.  If we can remove this unnecessary duplication, we can reduce the global teaching burden and improve teaching outcomes.
 
 This is where ChallengeHub is poised to make a huge difference.
 
