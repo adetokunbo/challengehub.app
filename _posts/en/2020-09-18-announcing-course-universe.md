@@ -22,9 +22,9 @@ We started with the launch of [Challenge Universe]( /2020/09/18/announcing-chall
 
 We are pleased to follow up on that with an exciting new feature we call ‘Course Universe’.  Course Universe supercharges teachers' ability to share by allowing the sharing of _entire courses_.
 
-The benefit is obvious - a teacher due to deliver a course can import a similar one shared by another ChallengeHub user, modify it as necessary by adding or removing challenges, and then use it to teach.  Preparation that would usually take a few weeks can be achieved in hours.
+The benefit is obvious — a teacher due to deliver a course can import a similar one shared by another ChallengeHub user, modify it as necessary by adding or removing challenges, and then use it to teach.  Preparation that would usually take a few weeks can be achieved in hours.
 
-Importing a course also imports all its challenges, so this is a big improvement in the efficiency gains introduced by Challenge Universe.   Teachers were able to share challenges one at a time, but Course Universe speeds this up - in effect challenges can be imported in their tens and potentially in their hundreds.
+Importing a course also imports all its challenges, so this is a big improvement in the efficiency gains introduced by Challenge Universe.   Teachers were able to share challenges one at a time, but Course Universe speeds this up — in effect challenges can be imported in their tens and potentially in their hundreds.
 
 But sharing a course shares more than just the course’s challenges.  The grouping and scheduling of challenges is also shared, i.e., the entire [active learning]( /active-learning/ ) strategy for teaching the course is shared.  We’re effectively enabling teachers to share their [course planning]( /2019/08/12/first-two-classes/ )!  We have high hopes that this feature will make a significant dent in the teaching burden, and spur the growth of active learning as the baseline for education.
 
