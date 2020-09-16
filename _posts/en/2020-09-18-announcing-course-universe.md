@@ -10,7 +10,9 @@ ref: 2020-09-18-announcing-course-universe
 lang: en
 ---
 
-At ChallengeHub, one of our key focusses is reducing the teaching burden, and we have sought to address this right from the start. For example, the careful design of our Challenge Dashboard simplifies creating, editing and updating [challenges]( //2020/03/12/what-makes-a-good-challenge/ ), and makes it easy to organize them into the courses to be taught to students.
+At ChallengeHub, one of our key focusses is reducing the teaching burden.
+
+We have sought to address this right from the start. For example, the careful design of our Challenge Dashboard simplifies creating, editing and updating [challenges]( //2020/03/12/what-makes-a-good-challenge/ ), and makes it easy to organize them into the courses to be taught to students.
 
 However, by far the most important dimension of the teaching burden is duplication of effort.  At most universities, it is common for the course materials for a particular subject to be recreated continuously time after time by different teachers.  The reason this happens is simple.  There is _no_ infrastructure in place to allow the sharing of work between teachers.
 
@@ -28,4 +30,4 @@ Importing a course also imports all its challenges, so this is a big improvement
 
 But sharing a course shares more than just the course’s challenges.  The grouping and scheduling of challenges is also shared, i.e., the entire [active learning]( /active-learning/ ) strategy for teaching the course is shared.  We’re effectively enabling teachers to share their [course planning]( /2019/08/12/first-two-classes/ )!  We have high hopes that this feature will make a significant dent in the teaching burden, and spur the growth of active learning as the baseline for education.
 
-As ChallengeHub grows, getting courses ready for teaching will become easier and easier.  If you are a teacher, you can [get an account now]( /contact/ ), make a course, share it, and join the growing movement of teachers making high-quality education material available to everyone.
+As ChallengeHub grows, getting courses ready for teaching will become easier and easier.  If you know any teachers, please tell them about us today!  They can [get an account now]( /contact/ ), make a course, share it, and join the growing movement of teachers making high-quality education material available to everyone.
