@@ -1,12 +1,12 @@
 ---
-date: 2020-09-18
+date: 2020-09-24
 title: Launch your courses into the Course Universe
 description: Course Universe supercharges teachers' ability to share their work by allowing them to share entire courses they have created in the Challenge Dashboard.
 reading_minutes: 2
 categories:
   - ChallengeHub
-author_staff_member: james
-ref: 2020-09-18-announcing-course-universe
+author_staff_member: tim
+ref: 2020-09-24-announcing-course-universe
 lang: en
 ---
 
