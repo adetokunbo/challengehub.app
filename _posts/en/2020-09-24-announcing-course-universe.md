@@ -20,7 +20,7 @@ Globally, this duplication soaks up a large proportion of teaching time and is o
 
 This is where ChallengeHub is poised to make a huge difference.
 
-We started with the launch of [Challenge Universe]( /2020/09/18/announcing-challenge-universe/ ).  Challenge Universe allows teachers to share challenges that they created, and to find and use challenges that have been created by other teachers.  This tackles duplication of effort by allowing teachers to compile courses by using existing challenges instead of having to create them from scratch.
+We started with the launch of [Challenge Universe]( /2020/07/13/announcing-challenge-universe/ ).  Challenge Universe allows teachers to share challenges that they created, and to find and use challenges that have been created by other teachers.  This tackles duplication of effort by allowing teachers to compile courses by using existing challenges instead of having to create them from scratch.
 
 We are pleased to follow up on that with an exciting new feature we call ‘Course Universe’.  Course Universe supercharges teachers' ability to share by allowing the sharing of _entire courses_.
 
