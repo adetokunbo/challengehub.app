@@ -1,7 +1,7 @@
 ---
 date: 2020-09-24
 title: Lance sus cursos al Universo de cursos
-description: __TODO__
+description: El Universo de cursos amplía las opciones de los docentes a la hora de compartir su trabajo, permitiéndoles compartir los cursos completos que han creado en el panel de control del docente.
 reading_minutes: 2
 categories:
   - ChallengeHub
