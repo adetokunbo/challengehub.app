@@ -1,7 +1,7 @@
 ---
 date: 2020-09-24
 title: 各科目のコースをCourse Universeで共有しましょう
-description: __TODO__
+description: Course Universeという便利な機能を紹介したいと思います。各科目のコースを、生徒のチーム分けの仕方やチャレンジのスケジュールも含めて、丸ごと共有することが可能になりました。
 reading_minutes: 3
 categories:
   - ChallengeHub
