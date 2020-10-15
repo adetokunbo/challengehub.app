@@ -1,6 +1,6 @@
 ---
 date: 2020-09-11
-title: How Challengebot Brings Value Back to the Classroom Experience
+title: How ChallengeHub Brings Value Back to the Classroom Experience
 description: TODO
 reading_minutes: 2
 categories:
@@ -11,25 +11,15 @@ ref: 2020-09-11-how-challengebot-brings-value-back-to-the-classroom-experience
 lang: en
 ---
 
-University experiments to regain relevance remain niche due to difficulty of implementation and legacy infrastructure.
-How are universities going to adapt? By leveraging their social-learning advantage. This is where ChallengeHub comes in: we are creating the product that defines how universities around the world will adapt to this change in the future, and we will do this by addressing a current need in a future-proof way.
+A significant part of the value Universities are providing to students and society as a whole is a social learning environment.
 
-## The competition the classroom is facing
+ChallengeHub might be a service you use on the internet, but it is not limited to online classes and it is not focussed on solo studying. ChallengeHub is designed to enhance and play into social learning, from the ground.
 
-The classroom-based higher education model has been under threat for a while by the following:
+## The social learning environment
 
-- Video lectures and other online-focussed offerings
-- Micro-credentials and other alternative qualifications offered by non-academic entities
+University students are old and educated enough to learn by themselves if provided the needed resources but, while some will do well at that and somem will struggle, all students benefit from interacting with their teachers and other students.
 
-However, we believe that much of the value in what the classroom has to offer is not supplied by these alternatives.
-
-## What the competition lacks
-
-What is the 1 thing you cannot get from MOOC sites like Coursera, from Khan academy or from your teacher putting lectures and quizzes online? Social learning.
-If you get stuck, or need to ask a question, you’re on your own.
-This should be the reason that classes exist.
-
-Now, there are plenty of active learning / flipped classroom products and services out there, but they all require a significant amount of extra work by the teacher, and this is why despite all the advances in methodology and technology, most teachers are still lecturing.
+_(Please add some more about social learning)_
 
 ## What ChallengeHub brings to the table
 
@@ -44,6 +34,4 @@ The benefits are clear for all parties. Social interaction is more enjoyable tha
 
 ## Conclusion
 
-As we move towards online classes and micro-credentials, CH is the way that we bring value  
-back to the classroom experience — and go way beyond what the lecture ever gave.
-
+ChallengeHub is the product that defines how universities around the world will adapt to the new times, and we do this by addressing a current need in a future-proof way.
