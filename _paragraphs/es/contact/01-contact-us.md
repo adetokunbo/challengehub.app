@@ -9,7 +9,7 @@ position: 1
 heading:
 ---
 
-Si quieres pedir una invitación para tener una cuenta de ChallengeHub, por favor envíamos un correo electrónico desde tu dirección del trabajo (ejemplo: _nombre@universidad.es_) con la siguiente información:
+Si quieres pedir una invitación para tener una cuenta de ChallengeHub, por favor envíanos un correo electrónico desde tu dirección del trabajo (ejemplo: _nombre@universidad.es_) con la siguiente información:
 
 - Nombre y apellidos
 - Departamento, facultad o escuela
