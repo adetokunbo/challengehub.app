@@ -14,6 +14,7 @@ ca:
   name: Català
   missing:
     - url: /privacy/
+    - url: /blog/
     - url: /quickstart/first-challenge/
     - url: /quickstart/first-course/
 fr:
