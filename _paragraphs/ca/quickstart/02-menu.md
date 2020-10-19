@@ -15,4 +15,4 @@ La dinàmica és:
 2. Crear un curs nou usant aquests reptes
 {:.quickstart-workflow}
 
-Comença per [crear el teu primer repte]({{ site.baseurl }}/quickstart/first-challenge/). Quan hagis creat suficients reptes, pots [crear un curs]({{ site.baseurl }}/quickstart/first-course/) a partir d'ells.
+Comença per crear el teu primer repte. Quan hagis creat suficients reptes, pots crear un curs a partir d'ells.

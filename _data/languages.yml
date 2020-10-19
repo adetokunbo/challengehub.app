@@ -12,6 +12,10 @@ es:
     - url: /documentation/signup-with-github/
 ca:
   name: Català
+  missing:
+    - url: /privacy/
+    - url: /quickstart/first-challenge/
+    - url: /quickstart/first-course/
 fr:
   name: Français
 de:
