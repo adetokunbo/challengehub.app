@@ -1,0 +1,21 @@
+---
+header:
+  - title: Aprenenatge actiu
+    url: /active-learning/
+    identifier: active-learning
+    new_window: false
+    highlight: false
+    weight: 1
+  - title: La nostra història
+    url: /our-story/
+    identifier: our-story
+    new_window: false
+    highlight: false
+    weight: 2
+  - title: Comença ja
+    url: /quickstart/
+    identifier: quickstart
+    new_window: false
+    highlight: true
+    weight: 4
+---

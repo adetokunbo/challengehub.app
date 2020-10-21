@@ -8,22 +8,20 @@
   - name: Català
     link: /ca/
 - links:
-  - name: アクティブラーニング
+  - name: Aprenenatge actiu
     link: /active-learning/
-  - name: 学生としての使い方
+  - name: Així ho fan servir els alumnes
     link: /student-interaction/
-  - name: これまでの経緯
+  - name: La nostra història
     link: /our-story/
-  - name: 特色・機能
+  - name: Característiques
     link: /features/
-  - name: ブログ
-    link: /blog/
 - links:
-  - name: はじめましょう
+  - name: Comença ja
     link: /quickstart/
-  - name: お問い合わせ
+  - name: Contacte
     link: /contact/
-  - name: ChallengeHubについて
+  - name: Sobre ChallengeHub
     link: /about/
   - name: Facebook
     link: https://www.facebook.com/challengehubapp/
