@@ -1,6 +1,6 @@
 ---
 date: 2020-09-11
-title: The Secret of University Value in Modern Education
+title: How ChallengeHub Raises the Value of Attending Class through Social Learning
 description: TODO
 reading_minutes: 2
 categories:
@@ -12,24 +12,29 @@ lang: en
 ---
 
 Social learning is a key part of university value.
-In this post, I will explain what social learning is, and how ChallengeHub enables teachers and their institutions to realise valuable social learning in their classrooms.
+But what is social learning?
+Why is it valuable, and how does ChallengeHub enable teachers and their institutions to achieve social learning in their classrooms?
 
 ## The best way to learn something is to teach it
 
-As every teacher has experienced, the best way to learn something is to teach it to others.
-This is the same whether you are a professional teacher or a student teaching another student.
-The act of organising the information and breaking it down for others forces the teacher to identify areas where they themselves lack understanding.
+As every teacher surely knows, the best way to learn something is to teach it to others.
+For example, in my differential equations class I found understanding increased more when students could help each other with problems.
+This is because having student A explain something to student B means that student A identifies hidden gaps in their own understanding.
+Student A often also has a better appreciation for the difficulties in learning the concept, compared to a teacher like myself who may have learned the concept many years ago.
 
-Furthermore, in a 1-to-1 teaching situation, the student on the receiving end of the explanation can ask questions and get an explanation exactly tailored to their current level of understanding; something impossible through other more automated methods.
+Meanwhile student B can ask questions and have the explanation tailored exactly to their level, achieving personalised tutoring that is impossible to achieve otherwise.
+Of course, I am always on hand to support students if extra help is required or a bigger-picture explanation is desired.
 
-This is a key example of social learning, and is something that universities are particularly suited for.
+This experience is a key example of social learning, and is something that universities are particularly suited for.
 In the case where both “teacher” and “student” are students, this is often referred to as “peer instruction”.
 What ChallengeHub does is optimise this peer instruction and make it easy to implement on large scales.
 This then benefits the students, teacher and university alike.
 
-## The value of universities as centres of social learning
+## Enhancing the value of universities as centres of social learning
 
-Imagine that, as a student, you know that by attending class (whether online or offline) you will get a personalised explanation for the problem that you specifically have, even if there are 100 other students present.
+ChallengeHub takes social learning to a new level by ensuring that the ability of students to help each other is not left to chance.
+
+Imagine that, as a student, you know that by attending class (whether online or offline) you are guaranteed to get an effective, personalised explanation for the problem that you personally have, even if there are 100 other students present.
 By making this possible, ChallengeHub makes class attendance more meaningful, makes the life of the teacher easier and raises value for the university as a centre of social learning.
 
 How is this done?
