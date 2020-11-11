@@ -3,6 +3,7 @@ require 'rack/rewrite'
 # Serve the en site by default
 use Rack::Rewrite do
   r302 '/', '/en'
+  r302 '/en/2020/11/11/how-challengebot-brings-value-back-to-the-classroom-experience/', '/en/2020/11/11/challenge-hub-and-social-learning/'
 end
 
 require 'rack'
