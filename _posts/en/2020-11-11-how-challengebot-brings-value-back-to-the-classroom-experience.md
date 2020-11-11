@@ -30,8 +30,6 @@ Of course, I am always on hand to support students if extra help is required or 
 This experience is a key example of social learning, and is something that universities are uniquely positioned to provide.
 In the case where both “teacher” and “student” are students, this is often referred to as “peer instruction”.
 What ChallengeHub does is optimise this peer instruction, and furthermore makes it easy to implement on any scale.
-<!-- One of the challenges is that this is difficult to realise on a large scale, especially in large classroom settings. -->
-<!-- What ChallengeHub does is optimise this peer instruction and make it easy to implement on any scale. -->
 
 ## ChallengeHub enhances social learning
 
@@ -44,7 +42,6 @@ When [grouping in class]( /2020/04/10/announcing-study-teams/ ) is enabled, a pr
 Students are automatically assigned to a group containing another student who can provide the help they need.
 Often ChallengeBot is able to construct the groups such that every student in the group can be a "teacher"; every student gets to experience deep learning by teaching others.
 This style of social learning scales naturally and effectively even for very large class sizes.
-<!-- This style of social learning scales naturally and effectively for very large class sizes. -->
 
 ## Creating an engaging learning environment
 
