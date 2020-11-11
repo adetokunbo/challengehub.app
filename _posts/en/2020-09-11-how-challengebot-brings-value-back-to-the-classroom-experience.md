@@ -39,8 +39,8 @@ ChallengeHub takes social learning to a new level by ensuring that the ability o
 
 Imagine that, as a student, you know that by attending class (whether online or offline) you are guaranteed to get an effective, personalised explanation for the problem that you personally have, even if there are 100 other students present.
 
-ChallengeHub achieves this by keeping track of student interaction with the ChallengeBot: correct or incorrect answers, the perceived difficulty of those challenges, and so on.
-When [grouping in class]( /2020/04/10/announcing-study-teams/ ) is enabled, a proprietry algorithm uses this information to group students for maximum pedagogical effect.
+ChallengeHub achieves this by keeping track of student interaction with ChallengeBot: correct or incorrect answers, the perceived difficulty of those challenges, and so on.
+When [grouping in class]( /2020/04/10/announcing-study-teams/ ) is enabled, a proprietary algorithm uses this information to group students for maximum pedagogical effect.
 Students are automatically assigned to a group containing another student who can provide the help they need.
 Often ChallengeBot is able to construct the groups such that every student in the group can be a "teacher"; every student gets to experience deep learning by teaching others.
 This style of social learning scales naturally and effectively even for very large class sizes.
@@ -57,4 +57,4 @@ Finally, in a world of growing alternatives to university education and increasi
 
 At ChallengeHub we strongly believe that effective social learning should be the norm rather than the exception.
 When this is done on a large scale, higher education institutions become more effective and in so doing add more value to society.
-ChallengeHub can make this possible, and we look forward to working with more and more institutions to make this vision a reailty.
+ChallengeHub can make this possible, and we look forward to working with more and more institutions to make this vision a reality.
