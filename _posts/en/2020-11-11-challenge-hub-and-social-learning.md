@@ -1,13 +1,13 @@
 ---
 date: 2020-11-11
-title: How ChallengeHub Raises the Value of Attending Class through Social Learning
+title: ChallengeHub and Social Learning
 description: Social learning is one of the most important dimensions of the learning experience that universities can offer. But what is social learning? Why is it valuable, and how does ChallengeHub enable teachers and their institutions to enhance social learning in their classrooms?
 reading_minutes: 3
 categories:
   - ChallengeHub
 
 author_staff_member: james
-ref: 2020-11-11-how-challengebot-brings-value-back-to-the-classroom-experience
+ref: 2020-11-11-challenge-hub-and-social-learning
 lang: en
 ---
 

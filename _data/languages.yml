@@ -5,13 +5,13 @@ ja:
   missing:
     - url: /privacy/
     - url: /documentation/getting-your-account-ready/
-    - url: /2020/11/11/how-challengebot-brings-value-back-to-the-classroom-experience/
+    - url: /2020/11/11/challenge-hub-and-social-learning/
 es:
   name: Español
   missing:
     - url: /privacy/
     - url: /documentation/signup-with-github/
-    - url: /2020/11/11/how-challengebot-brings-value-back-to-the-classroom-experience/
+    - url: /2020/11/11/challenge-hub-and-social-learning/
 ca:
   name: Català
   missing:
@@ -19,7 +19,7 @@ ca:
     - url: /blog/
     - url: /quickstart/first-challenge/
     - url: /quickstart/first-course/
-    - url: /2020/11/11/how-challengebot-brings-value-back-to-the-classroom-experience/
+    - url: /2020/11/11/challenge-hub-and-social-learning/
 fr:
   name: Français
 de:
