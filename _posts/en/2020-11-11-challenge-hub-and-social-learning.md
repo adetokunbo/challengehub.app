@@ -7,7 +7,7 @@ categories:
   - ChallengeHub
 
 author_staff_member: james
-ref: 2020-11-11-challenge-hub-and-social-learning
+ref: 2020-11-11-challengehub-and-social-learning
 lang: en
 ---
 
