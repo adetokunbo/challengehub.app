@@ -2,7 +2,7 @@
 date: 2020-11-11
 title: ChallengeHubとソーシャルラーニング
 description: __TODO__
-reading_minutes: __TODO__
+reading_minutes: 3
 categories:
   - ChallengeHub
 
