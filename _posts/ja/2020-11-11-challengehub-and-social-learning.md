@@ -1,7 +1,7 @@
 ---
 date: 2020-11-11
 title: ChallengeHubとソーシャルラーニング
-description: __TODO__
+description: ソーシャルラーニングは、大学が提供できる学習経験の中でも重要な側面です。しかし、ソーシャルラーニングとはなんでしょうか？どうして重要なのでしょうか？そして、ChallengeHubはソーシャルラーニングをどのように改良して教師の方々と大学のお役に立てるのでしょうか？
 reading_minutes: 3
 categories:
   - ChallengeHub
