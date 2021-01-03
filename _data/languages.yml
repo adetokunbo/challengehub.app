@@ -18,6 +18,16 @@ ca:
     - url: /blog/
     - url: /quickstart/first-challenge/
     - url: /quickstart/first-course/
+    - url: /2019/08/10/two-key-elements-for-effective-cbal/
+    - url: /2019/08/11/the-challenge-log/
+    - url: /2019/08/12/first-two-classes/
+    - url: /2020/03/12/what-makes-a-good-challenge/
+    - url: /2020/04/10/announcing-study-teams/
+    - url: /2020/05/11/starting-small-with-challenge-based-active-learning/
+    - url: /2020/06/12/why-start-active-learning-with-challengehub/
+    - url: /2020/07/13/announcing-challenge-universe/
+    - url: /2020/08/07/challenge-bot-is-now-available-on-telegram/
+    - url: /2020/09/24/announcing-course-universe/
     - url: /2020/11/11/challengehub-and-social-learning/
 fr:
   name: Français
