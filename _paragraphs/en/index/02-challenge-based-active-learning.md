@@ -9,4 +9,4 @@ position: 2
 heading: Monitor progress
 ---
 
-Focus class preparation
+Identify what to teach ahead of time

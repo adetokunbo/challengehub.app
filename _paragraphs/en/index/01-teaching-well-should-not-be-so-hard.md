@@ -6,7 +6,7 @@ image_path: active-learning/sample_challenge.jpg
 lang: en
 page_name: index
 position: 1
-heading: Focus on the question
+heading: Create and share challenges
 ---
 
-Create, share, and discover challenges
+Focus on the question
