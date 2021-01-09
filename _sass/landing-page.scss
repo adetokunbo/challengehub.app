@@ -14,17 +14,45 @@
   margin: 0 2em 0 2em;
   font-size: 0.63em;
 }
+
 .front-cta .application-items {
   // text-align: center;
   margin-left: 20%;
 }
+
 .front-cta ul {
   max-width: 480px;
 }
+
 .front-cta li {
   color: #fff;
   font-size: 1em;
   text-align: left;
+}
+
+.frontpage-contact-us {
+  font-size: 1em;
+
+  p {
+    color: white;
+  }
+
+  .instructions {
+    text-align: center;
+    padding: 0 0.25em;
+  }
+
+  .application-items {
+    text-align: center;
+    margin: 0 auto;
+    width: 80%;
+    max-width: 480px;
+
+    li {
+      color: white;
+      text-align: left;
+    }
+  }
 }
 
 .heading {
