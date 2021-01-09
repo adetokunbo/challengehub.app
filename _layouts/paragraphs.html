@@ -1,0 +1,13 @@
+---
+layout: default
+---
+{%- assign paragraphs=site.paragraphs | where:"page_name", page.page_name | where:"lang", site.active_lang | sort:"position" -%}
+{% include hero-header.html %}
+
+<div class="content">
+  {%- for para in paragraphs -%}
+    {% include show-paragraph.html para=para %}
+  {%- endfor -%}
+
+  {% include bottom-cta.html %}
+</div>
