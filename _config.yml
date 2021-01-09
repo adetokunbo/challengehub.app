@@ -40,6 +40,8 @@ collections:
     _hide_content: true
   paragraphs:
     _hide_content: true
+  partials:
+    _hide_content: true
 
 permalink: /:year/:month/:day/:title/
 post_dirs: false
@@ -152,4 +154,4 @@ exclude_from_localization: ["images", "css", "sketch", "tools", "sitemap.xml"]
 parallel_localization: true
 
 # categories to exclude from the sitemap
-exclude_from_sitemap: ["paragraphs", "staff_members"]
+exclude_from_sitemap: ["paragraphs", "staff_members", "partials"]
