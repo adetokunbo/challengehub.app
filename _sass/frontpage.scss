@@ -1,0 +1,53 @@
+.frontpage-contact-us {
+  font-size: 1em;
+
+  p {
+    color: white;
+  }
+
+  .instructions {
+    text-align: center;
+    padding: 0 0.25em;
+
+    a {
+      display: block;
+      margin: 0.5em 0;
+      font-size: 120%;
+      color: white;
+    }
+  }
+
+  .application-items {
+    text-align: center;
+    margin: 0 auto;
+    width: 80%;
+    max-width: 480px;
+
+    li {
+      color: white;
+      text-align: left;
+    }
+  }
+}
+
+.frontpage-title {
+  margin-bottom: 0.5em;
+}
+
+.frontpage-walkthrough {
+  position:relative;
+  padding-bottom:56.25%;
+  padding-top:30px;
+  height:0;
+  overflow:hidden;
+  margin-bottom: 20px;
+
+  iframe, object, embed {
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+  }
+
+}

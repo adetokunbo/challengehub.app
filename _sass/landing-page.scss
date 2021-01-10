@@ -30,31 +30,6 @@
   text-align: left;
 }
 
-.frontpage-contact-us {
-  font-size: 1em;
-
-  p {
-    color: white;
-  }
-
-  .instructions {
-    text-align: center;
-    padding: 0 0.25em;
-  }
-
-  .application-items {
-    text-align: center;
-    margin: 0 auto;
-    width: 80%;
-    max-width: 480px;
-
-    li {
-      color: white;
-      text-align: left;
-    }
-  }
-}
-
 .heading {
   background: linear-gradient(to bottom, $brand-color 0%, $middle-gradient-color 100%);
   color: #fff;
