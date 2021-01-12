@@ -7,9 +7,27 @@
         <p class="subtext editable">{{ include.hero_sub_header }}</p>
       {%- endif -%}
       {%- if include.is_index -%}
-        <div>
-          <img src="{{ site.baseurl }}/images/front/challenge-hub-header-illustration.jpg" alt="Active learning using ChallengeHub" class="editable framed-image responsive-image"/>
-        </div>
+        <div class="yt-container"><iframe src="https://www.youtube.com/embed/4vQWtMUzI8U" frameborder="0" allowfullscreen></iframe></div>
+        <style type="text/css">
+          .yt-container {
+            position:relative;
+            padding-bottom:56.25%;
+            padding-top:30px;
+            height:0;
+            overflow:hidden;
+            margin-bottom: 20px;
+          }
+          .yt-container iframe, .yt-container object, .yt-container embed {
+            position:absolute;
+            top:0;
+            left:0;
+            width:100%;
+            height:100%;
+          }
+        </style>
+        <!-- <div>
+           <img src="{{ site.baseurl }}/images/front/challenge-hub-header-illustration.jpg" alt="Active learning using ChallengeHub" class="editable framed-image responsive-image"/>
+        </div> -->
       {%- endif -%}
     </div>
   </section>
@@ -35,7 +53,11 @@
     {%- if include.bottom_cta -%}
       <section class="bottom-cta">
         <h2 class="editable">{{ include.bottom_cta }}</h2>
-        <div class="button alt"><a href="{{ site.baseurl }}/{{ include.bottom_cta_link }}">{{ include.bottom_cta_label }}</a></div>
+        {%- if include.bottom_cta_link_is_full_url -%}
+          <div class="button alt"><a href="{{include.bottom_cta_link}}">{{ include.bottom_cta_label }}</a></div>
+        {%- else -%}
+          <div class="button alt"><a href="{{ site.baseurl }}/{{ include.bottom_cta_link }}">{{ include.bottom_cta_label }}</a></div>
+        {%- endif -%}
       </section>
     {%- endif -%}
   </div>

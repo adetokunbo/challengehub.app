@@ -18,10 +18,4 @@ header:
     new_window: false
     highlight: false
     weight: 3
-  - title: Get started
-    url: /quickstart/
-    identifier: quickstart
-    new_window: false
-    highlight: true
-    weight: 4
 ---

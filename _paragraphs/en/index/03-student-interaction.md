@@ -1,19 +1,14 @@
 ---
-cta_label: Learn more
-cta_link: /student-interaction/
+cta_label:
+cta_link: /features/
 image_alt: Screenshot
-image_path: student-interaction/student-interaction-line.jpg
+image_path: front/student-interaction-phone.jpg
+image_not_framed: true
 image_css_classes: paragraph-image-left
 lang: en
 page_name: index
 position: 3
-heading: Letting teachers teach
+heading: Enable independent learning
 ---
 
-ChallengeHub intelligently manages the active learning environment, freeing the teacher to focus on the subject in hand.
-
-This is achieved with ChallengeBot, your active learning teaching assistant. ChallengeBot provides students with instant feedback, monitors progress and organises the classroom environment.
-
-Students interact with ChallengeBot through email or an instant messaging platform they are probably already familiar with. No passwords to forget or unfamiliar apps to download.
-
-You shouldn't need to be an expert in active learning to use active learning.
+ChallengeHub uses an innovative chatbot for instant feedback
