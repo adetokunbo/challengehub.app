@@ -4,7 +4,7 @@
 data_dir: _data
 title: ChallengeHub
 url: "https://challengehub.app/"
-walkthrough_url: "https://www.youtube-nocookie.com/embed/4vQWtMUzI8U?controls=0&modestbranding=1&rel=0&autoplay=1"
+walkthrough_url: "https://www.youtube-nocookie.com/embed/4vQWtMUzI8U?controls=0&modestbranding=1&rel=0"
 baseurl: ""
 google_analytics_key:
 google_maps_javascript_api_key:
