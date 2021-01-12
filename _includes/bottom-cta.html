@@ -1,0 +1,6 @@
+{%- if page.bottom_cta -%}
+  <section class="bottom-cta">
+    <h2 class="editable">{{ page.bottom_cta }}</h2>
+    <div class="button alt"><a href="{{ site.baseurl }}/{{ page.bottom_cta_link }}">{{ page.bottom_cta_label }}</a></div>
+  </section>
+{%- endif -%}

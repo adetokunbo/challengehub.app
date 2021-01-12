@@ -1,0 +1,18 @@
+---
+layout: page
+---
+{% comment %}
+2020/01/09: This is quite close to the paragraphs layout.
+
+The important difference is that the paragraphs derives from the default layout, and this derives from the page layout.
+{% endcomment %}
+
+
+{%- assign paragraphs=site.paragraphs | where:"page_name", page.page_name | where:"lang", site.active_lang | sort:"position" -%}
+{% include hero-header.html %}
+
+<div class="content">
+  {%- for para in paragraphs -%}
+    {% include show-paragraph.html para=para %}
+  {%- endfor -%}
+</div>
