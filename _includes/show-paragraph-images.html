@@ -1,15 +1,21 @@
 {% if include.para %}
-  {%- if para.image_path -%}
+  {%- if para.image_url -%}
     <div class="image {{ para.image_css_classes }}">
-      <img src="{{ site.baseurl }}/images/{{ para.image_path }}" alt="{{ para.image_alt }}" class="editable {% unless para.image_not_framed %}framed-image {% endunless %}responsive-image" />
+      <img src="{{ para.image_url }}" alt="{{ para.image_alt }}" class="editable framed-image responsive-image" />
     </div>
-  {%- endif -%}
+  {%- else -%}
+    {%- if para.image_path -%}
+      <div class="image {{ para.image_css_classes }}">
+        <img src="{{ site.baseurl }}/images/{{ para.image_path }}" alt="{{ para.image_alt }}" class="editable {% unless para.image_not_framed %}framed-image {% endunless %}responsive-image" />
+      </div>
+    {%- endif -%}
 
-  {%- if para.image_paths -%}
-    <div class="image {{ para.image_css_classes }}">
-      {%- for image_path in para.image_paths -%}
-        <img src="{{ site.baseurl }}/images/{{ image_path }}" alt="" class="editable framed-image responsive-image" />
-      {%- endfor -%}
-    </div>
+    {%- if para.image_paths -%}
+      <div class="image {{ para.image_css_classes }}">
+        {%- for image_path in para.image_paths -%}
+          <img src="{{ site.baseurl }}/images/{{ image_path }}" alt="" class="editable framed-image responsive-image" />
+        {%- endfor -%}
+      </div>
+    {%- endif -%}
   {%- endif -%}
 {%- endif -%}
