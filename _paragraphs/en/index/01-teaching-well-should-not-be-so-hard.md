@@ -1,8 +1,9 @@
 ---
 cta_label:
-cta_link: /our-story/
-image_alt: Chart—teaching efficiency / learning effectiveness
-image_path: active-learning/sample_challenge.jpg
+cta_link:
+image_alt: Sample challenge
+image_path: front/sample-challenge.png
+image_not_framed: true
 lang: en
 page_name: index
 position: 1
