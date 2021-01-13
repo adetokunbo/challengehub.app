@@ -4,6 +4,7 @@
 data_dir: _data
 title: ChallengeHub
 url: "https://challengehub.app/"
+walkthrough_url: "https://www.youtube-nocookie.com/embed/4vQWtMUzI8U?controls=0&modestbranding=1&rel=0"
 baseurl: ""
 google_analytics_key:
 google_maps_javascript_api_key:
@@ -39,6 +40,8 @@ collections:
   staff_members:
     _hide_content: true
   paragraphs:
+    _hide_content: true
+  partials:
     _hide_content: true
 
 permalink: /:year/:month/:day/:title/
@@ -152,4 +155,4 @@ exclude_from_localization: ["images", "css", "sketch", "tools", "sitemap.xml"]
 parallel_localization: true
 
 # categories to exclude from the sitemap
-exclude_from_sitemap: ["paragraphs", "staff_members"]
+exclude_from_sitemap: ["paragraphs", "staff_members", "partials"]

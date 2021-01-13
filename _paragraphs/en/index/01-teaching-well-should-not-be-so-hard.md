@@ -1,8 +1,6 @@
 ---
-cta_label:
-cta_link:
-image_alt: Sample challenge
-image_path: front/sample-challenge.png
+image_alt: Screenshot of Laplace transform of a short pulse function
+image_url: https://pub.challengehub.app/pictures/teacher/github.NanoScaleDesign/challenge-by-title/laplace-transform-of-a-short-pulse-function.png
 image_not_framed: true
 lang: en
 page_name: index

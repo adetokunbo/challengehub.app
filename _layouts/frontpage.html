@@ -1,0 +1,16 @@
+---
+layout: default
+---
+{% include frontpage/header.html %}
+
+{%- assign ps=site.paragraphs | where:"page_name", page.page_name | where:"lang", site.active_lang | sort:"position" -%}
+<div class="content">
+  {%- for p in ps -%}
+    {% include show-paragraph.html para=p %}
+  {%- endfor -%}
+</div>
+
+{%- assign xs=site.partials | where:"partial_name", "frontpage/contact_us" | where:"lang", site.active_lang -%}
+{%- for x in xs -%}
+  {% include frontpage/contact-us.html contact_us=x %}
+{%- endfor -%}
