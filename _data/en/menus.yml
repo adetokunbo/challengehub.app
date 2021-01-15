@@ -12,6 +12,12 @@ header:
     new_window: false
     highlight: false
     weight: 2
+  - title: Get started
+    url: /en/#contact-us
+    identifier: quickstart
+    new_window: false
+    highlight: true
+    weight: 4
   - title: Blog
     url: /blog/
     identifier: blog
