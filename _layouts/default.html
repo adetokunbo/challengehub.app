@@ -2,6 +2,7 @@
 
 <html lang="{{ site.active_lang }}">
   <head>
+    <!-- JEKYLL ENV IS {{ jekyll.environment }} -->
     {% if jekyll.environment == 'development' and page.redirect %}
     <meta http-equiv="refresh" content="0;url=/en/">
     {% endif %}
@@ -29,6 +30,7 @@
     {% if jekyll.environment == 'production' %}
       <script async defer data-domain="challengehub.app" src="https://plausible.io/js/plausible.js"></script>
     {% endif %}
+
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/v4-shims.css">
   </head>
