@@ -3,6 +3,7 @@ addons: []
 config_vars:
   LANG: en_US.UTF-8
   RACK_ENV: production
+  JEKYLL_ENV: production
 default_process_types:
   rake: bundle exec rake
   console: bundle exec irb
