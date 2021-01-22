@@ -48,8 +48,37 @@ Enable pushing to heroku:
 $ heroku git:remote -a challengehub-webapp # tell heroku where to push
 $
 $ # Once changes are merged into the master branch, push as described in the docs
-$ git push heroku master 
+$ git push heroku master
 ~~~
+
+
+## Pushing branches to other Heroku instances for testing
+
+```
+$ REMOTE_NAME='heroku-test'
+$ APP_NAME='challengehub-new-test'
+$
+$ # setup
+$ heroku create -a $APP_NAME
+$ git remote add $REMOTE_NAME https://git.heroku.com/${APP_NAME}.git
+$
+$ # when working on a new feature
+$ git checkout -b my-branch master  # begin work on a branch
+$ # .. after implementing feature, push
+$ git push $REMOTE_NAME my-branch:master
+```
+
+
+## Selecting features on Heroku instances using JEKYLL_ENV
+
+- `JEKYLL_ENV` can be used to toggle specific features on/off per heroku instance.
+- This achieved as follows:
+
+  - specify the environment-specific feature in the relevant template by surrounding feature by the condition `jekyll.environment == 'environment-name'`
+  - In the config vars of the heroku instance where the feature is to be visible, set JEKYLL_ENV to `environment-name`
+
+- E.g., in production, JEKYLL_ENV is now set to 'production'. This now ensures that only the production site includes the plausible.io tracking snippet.
+
 
 
 ## Hydra (information from the original repository below)
