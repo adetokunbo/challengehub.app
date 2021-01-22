@@ -2,7 +2,7 @@
 addons: []
 config_vars:
   LANG: en_US.UTF-8
-  RAKE_ENV: production
+  RACK_ENV: production
 default_process_types:
   rake: bundle exec rake
   console: bundle exec irb
