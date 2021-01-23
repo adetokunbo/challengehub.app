@@ -1,5 +1,5 @@
 ---
-image_alt: 短パルス関数のラプラス変換のスクリーンショット
+image_alt: 矩形関数のラプラス変換のスクリーンショット
 image_url: https://pub.challengehub.app/pictures/teacher/github.NanoScaleDesign/challenge-by-title/laplace-transform-of-a-short-pulse-function.png
 image_not_framed: true
 lang: ja
