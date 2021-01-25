@@ -19,10 +19,8 @@
   - name: ブログ
     link: /blog/
 - links:
-  - name: はじめましょう
-    link: /quickstart/
   - name: お問い合わせ
-    link: /contact/
+    link: /ja/#お申し込みお問い合わせ
   - name: ChallengeHubについて
     link: /about/
   - name: Facebook

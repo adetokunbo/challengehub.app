@@ -19,7 +19,7 @@ header:
     highlight: false
     weight: 3
   - title: はじめましょう
-    url: /quickstart/
+    url: /ja/#お申し込みお問い合わせ
     identifier: quickstart
     new_window: false
     highlight: true
