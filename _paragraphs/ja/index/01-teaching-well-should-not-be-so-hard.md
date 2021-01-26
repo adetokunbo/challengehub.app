@@ -1,20 +1,11 @@
 ---
-cta_label: これまでの経緯
-cta_link: /our-story/
-image_alt: 図：講師効率／学習有効性
-image_path: front/teaching-efficiency-ja-20200118.svg
+image_alt: 矩形関数のラプラス変換のスクリーンショット
+image_url: https://pub.challengehub.app/pictures/teacher/github.NanoScaleDesign/challenge-by-title/laplace-transform-of-a-short-pulse-function.png
+image_not_framed: true
 lang: ja
 page_name: index
 position: 1
-heading: より良い授業ができます
+heading: チャレンジを作成、共有
 ---
 
-従来の講義は非効率的で、学生と教師のモチベーションを低下させます。
-
-今までのアクティブラーニングは、この問題に取り組むことを目的としていますが、多くのアクティブラーニングでは、教師が一方的に話すことがいまだに中心となっています。
-
-ChallengeHubは違います。
-チャレンジを解決することが基礎になります。
-教師の説明は的を絞った短いものとなり、学生同士での効果的な議論が中心となります。
-
-我々の夢は、全ての学生が参加したくなるような授業が当たり前な世界を作ることです。また、学生が効率的に効果的に楽しく学習できるようにすることです。
+問題に集中しましょう
