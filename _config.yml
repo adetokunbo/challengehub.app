@@ -3,7 +3,7 @@
 
 data_dir: _data
 title: ChallengeHub
-url: "https://challengehub.app/"
+url: "https://challengehub.app"
 walkthrough_url: "https://www.youtube-nocookie.com/embed/4vQWtMUzI8U?controls=0&modestbranding=1&rel=0"
 baseurl: ""
 google_analytics_key:
@@ -26,7 +26,6 @@ social:
     - https://twitter.com/challenge_hub/
     - https://www.linkedin.com/company/challengehub/
 twitter:
-  card: summary
   username: challenge_hub
 facebook:
   facebook:publisher: https://www.facebook.com/challengehubapp/
