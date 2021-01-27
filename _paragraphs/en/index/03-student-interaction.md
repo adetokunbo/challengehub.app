@@ -1,7 +1,7 @@
 ---
 cta_label:
 cta_link: /features/
-image_alt: Screenshot
+image_alt: A screenshot of the interface students use
 image_path: front/student-interaction-phone.jpg
 image_not_framed: true
 image_css_classes: paragraph-image-left
