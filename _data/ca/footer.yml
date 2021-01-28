@@ -17,10 +17,8 @@
   - name: Característiques
     link: /features/
 - links:
-  - name: Comença ja
-    link: /quickstart/
   - name: Contacte
-    link: /contact/
+    link: /ca/#posat-en-contacte-amb-nosaltres
   - name: Sobre ChallengeHub
     link: /about/
   - name: Facebook
