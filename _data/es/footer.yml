@@ -19,10 +19,8 @@
   - name: Blog
     link: /blog/
 - links:
-  - name: Empieza ya
-    link: /quickstart/
   - name: Contacto
-    link: /contact/
+    link: /es/#ponte-en-contacto-con-nosotros
   - name: Acerca de ChallengeHub
     link: /about/
   - name: Facebook

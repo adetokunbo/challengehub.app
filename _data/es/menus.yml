@@ -19,7 +19,7 @@ header:
     highlight: false
     weight: 3
   - title: Empieza ya
-    url: /quickstart/
+    url: /es/#ponte-en-contacto-con-nosotros
     identifier: quickstart
     new_window: false
     highlight: true
