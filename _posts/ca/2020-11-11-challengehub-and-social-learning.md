@@ -1,7 +1,7 @@
 ---
 date: 2020-11-11
 title: ChallengeHub i l'aprenentatge social
-description: El aprendizaje social es una de las dimensiones más importantes de la experiencia educativa que pueden ofrecer las universidades. Pero ¿qué es el aprendizaje social? ¿Por qué es importante? Y ¿cómo ayuda ChallengeHub a los docentes y sus centros a mejorar el aprendizaje social en sus aulas?
+description: L'aprenentatge social és una de les dimensions més importants de l'experiència educativa que poden oferir les universitats. Però què és l'aprenentatge social? Per què és important? I com ajuda ChallengeHub als docents i als seus centres a millorar l'aprenentatge social en les aules?
 reading_minutes: 3
 categories:
   - ChallengeHub
