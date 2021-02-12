@@ -12,6 +12,12 @@ header:
     new_window: false
     highlight: false
     weight: 2
+  - title: Blog
+    url: /blog/
+    identifier: blog
+    new_window: false
+    highlight: false
+    weight: 3
   - title: Comença ja
     url: /ca/#posat-en-contacte-amb-nosaltres
     identifier: quickstart

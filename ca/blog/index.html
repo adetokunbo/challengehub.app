@@ -1,0 +1,31 @@
+---
+title: Blog
+description: Aprenentatge actiu i consells per l'ús de ChallengeHub
+lang: ca
+ref: blog
+permalink: /blog/
+layout: page
+---
+
+<div class="text-container">
+  <p class="editor-link"><a href="cloudcannon:collections/_posts" class="btn"><strong>&#9998;</strong> Add Post</a></p>
+  <ul class="blog-posts">
+    {% include list-posts.html posts=paginator.posts %}
+    <!-- Note: paginator isn't in place as of now. All posts will be shown. -->
+  </ul>
+
+  {% if paginator.total_pages > 1 %}
+  <!-- Pagination links -->
+  <div class="pagination">
+    {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous btn">&larr; Articles posteriors</a>
+    {% endif %}
+
+    <span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
+
+    {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next btn">Articles anteriors &rarr;</a>
+    {% endif %}
+  </div>
+  {% endif %}
+</div>

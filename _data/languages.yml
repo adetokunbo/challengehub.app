@@ -14,7 +14,6 @@ ca:
   name: Català
   missing:
     - url: /privacy/
-    - url: /blog/
     - url: /quickstart/first-challenge/
     - url: /quickstart/first-course/
     - url: /2019/08/10/two-key-elements-for-effective-cbal/
@@ -27,7 +26,6 @@ ca:
     - url: /2020/07/13/announcing-challenge-universe/
     - url: /2020/08/07/challenge-bot-is-now-available-on-telegram/
     - url: /2020/09/24/announcing-course-universe/
-    - url: /2020/11/11/challengehub-and-social-learning/
 fr:
   name: Français
 de:
