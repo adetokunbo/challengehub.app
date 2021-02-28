@@ -3,13 +3,9 @@ partial_name: frontpage/contact_us
 lang: en
 ---
 
-## Contact us
+## Sign up for an account today
+{: #contact-us}
 
-To apply for a ChallengeHub account, or make any other enquiries, please send an email to [info@challengehub.app](mailto:info@challengehub.app) with the following information (where applicable):
+To create a ChallengeHub account, please use the form below.
+For other enquiries, please send an email to: [info@challengehub.app](mailto:info@challengehub.app)
 {: .instructions #getstarted}
-
-- Your full name
-- The institute where you teach
-- Your subject
-- A link to your website
-{: .application-items}
