@@ -1,0 +1,16 @@
+<iframe id="signup-frame" src="https://dash.challengehub.app/d/#/start-signup">
+</iframe>
+<script>
+ window.onmessage = (e) => {
+   console.log('Received window message');
+   console.log(e);
+   const frameHeight = e.data.frameHeight || null;
+   if (frameHeight) {
+     document.getElementById("signup-frame").style.height = `${frameHeight + 30}px`;
+   }
+   const loggedOn = e.data.loggedOn || null;
+   if (loggedOn) {
+     window.location.href = loggedOn;
+   }
+ };
+</script>
