@@ -1,6 +1,6 @@
 ---
 author_id: tim
-image_path: /images/avatars/tim.png
+image_path: /images/avatars/tim.jpg
 twitter: TimEmiola
 name: Tim Emiola
 position: CEO/CTO
