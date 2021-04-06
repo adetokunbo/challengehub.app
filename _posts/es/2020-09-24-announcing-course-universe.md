@@ -69,5 +69,5 @@ y estimule el crecimiento del aprendizaje activo como base para la enseñanza.
 
 Mientras ChallengeHub siga creciendo, tener un curso listo para dar clase se hará más y más fácil.
 Si conoce algún docente, ¡por favor háblele de nosotros hoy mismo!
-Pueden [conseguir una cuenta ahora mismo]( /contact/ ), hacer un curso, compartirlo,
+Pueden [conseguir una cuenta ahora mismo]( /es/#ponte-en-contacto-con-nosotros ), hacer un curso, compartirlo,
 y unirse a este creciente movimiento de docentes poniendo material educativo de alta calidad a la disponibilidad de todo el mundo.

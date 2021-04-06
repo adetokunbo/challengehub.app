@@ -41,6 +41,6 @@ puede compartir los retos de su curso fácilmente,
 haciendo la transición mucho más sencilla.
 
 Crear retos y diseñar cursos es más fácil que nunca en ChallengeHub.
-[Solicite su cuenta]( /contact/ ) para examinar los retos disponibles,
+[Solicite su cuenta]( /es/#ponte-en-contacto-con-nosotros ) para examinar los retos disponibles,
 contribuir los suyos propios,
 y unirse a un creciente movimiento de docentes que están poniendo material educativo de alta calidad a la disposición de todo el mundo.
