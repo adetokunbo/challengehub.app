@@ -4,7 +4,7 @@ title: Presentem l'Univers de reptes
 description: Des d'avui, els usuaris de ChallengeHub poden examinar els reptes publicats per tots els docents amb la nova funcionalitat Univers de reptes
 reading_minutes: 2
 image: /images/blog/2020-07-13-announcing-challenge-universe-en.jpg
-image_alt: Universo de retos
+image_alt: El quadern de reptes
 image_cardsonly: true
 categories:
  - ChallengeHub
