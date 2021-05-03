@@ -2,7 +2,7 @@
 date: 2020-03-12
 title: Com crear bons reptes?
 description: Hi han molts estils de repte possibles. Oblida't de les preguntes d'elecció múltiple!
-image: /images/blog/2020-03-12-what-makes-a-good-challenge-es.png
+image: /images/blog/2020-03-12-what-makes-a-good-challenge-ca.jpg
 image_alt: Com crear bons reptes?
 image_maxheight: 499
 reading_minutes: 4
