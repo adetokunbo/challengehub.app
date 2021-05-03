@@ -63,7 +63,7 @@ Per exemple, la fila 1 està davant i la taula 1 està a l'esquerra, a prop de l
 Alguns docents imprimeixen el plànol i el pengen a l'entrada de la classe.
 Recordeu que només cal fer això una vegada per cada classe en que es faci servir.
 
-![Exemple de sistema de coordenades d'una aula](/images/blog/2020-04-10-classroom-plan-es.png){: .framed-image }
+![Exemple de sistema de coordenades d'una aula](/images/blog/2020-04-10-classroom-plan-ca.png){: .framed-image }
 
 Un altre sistema típic és imprimir etiquetes amb els números de fila i taula,
 i enganxar-els en les posicions adequades abans de la classe.
