@@ -42,6 +42,6 @@ pot compartir els reptes del seu curs fàcilment,
 fent la transició molt més senzilla.
 
 Crear reptes i dissenyar cursos és més fàcil que mai en ChallengeHub.
-[Demani el seu compte]( /contact/ ) per examinar els reptes disponibles,
+[Demani el seu compte](/ca/#posat-en-contacte-amb-nosaltres) per examinar els reptes disponibles,
 contribuir els seus propis,
 i unir-se a un creixent moviment de docents que estan posant material educatiu d'alta qualitat a la disposició de tot el món.
