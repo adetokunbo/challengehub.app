@@ -33,7 +33,7 @@ d'una forma impossible per a un docent de forma manual.
 
 Ara pot decidir que la seva classe tingui equips d'estudi:
 
-![Interfície del docent per equips d'estudi](/images/blog/2020-04-10-stint-ui-es.png) {: .framed-image .retina-70width-image }
+![Interfície del docent per equips d'estudi](/images/blog/2020-04-10-stint-ui-es.png){: .framed-image .retina-70width-image }
 
 S'assignen posicions als alumnes,
 i els alumnes amb la mateixa posició formen un equip.
