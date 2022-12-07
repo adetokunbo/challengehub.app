@@ -11,13 +11,10 @@ jobs:
     steps:
       - name: GitHub Checkout
         uses: actions/checkout@v1
-      - name: Bundler Cache
-        uses: actions/cache@v1
+     -  name: Setup Ruby 3.0
+        uses: ruby/setup-ruby@v1
         with:
-          path: vendor/bundle
-          key: ${{ runner.os }}-gems-${{ hashFiles('**/Gemfile.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-gems-
+          bundler-cache: true # runs 'bundle install' and caches installed gems automatically
       - name: Build & Deploy to GitHub Pages
         uses: joshlarsen/jekyll4-deploy-gh-pages@master
         env:
