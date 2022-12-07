@@ -3,7 +3,7 @@ source 'https://rubygems.org'
 ruby '3.1.0'
 
 gem 'bundler'
-gem 'jekyll', '4.3.1'
+gem 'jekyll', '3.9.2'
 gem 'rack'
 gem 'rack-rewrite'
 gem 'rake'
@@ -20,6 +20,7 @@ group :jekyll_plugins do
   gem 'jekyll-redirect-from'
   gem 'jekyll-seo-tag'
   gem "jekyll-menus"
+  gem "github-pages", '227'
 end
 
 gem "webrick", "~> 1.7"
