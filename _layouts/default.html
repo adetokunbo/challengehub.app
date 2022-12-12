@@ -3,7 +3,7 @@
 <html lang="{{ site.active_lang }}">
   <head>
     <!-- JEKYLL ENV IS {{ jekyll.environment }} -->
-    {% if jekyll.environment == 'development' and page.redirect %}
+    {% if page.redirect %}
     <meta http-equiv="refresh" content="0;url=/en/">
     {% endif %}
 
