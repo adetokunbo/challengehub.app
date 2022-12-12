@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://challengehub.app/ja/feed.xml" rel="self" type="application/atom+xml" /><link href="https://challengehub.app/ja/" rel="alternate" type="text/html" /><updated>2022-12-12T12:59:49+09:00</updated><id>https://challengehub.app/feed.xml</id><title type="html">ChallengeHub</title><subtitle>Teaching well shouldn’t be so hard. More effective learning. More efficient teaching. Active learning for everyone.</subtitle><author><name>ChallengeHub</name><email>info@challengehub.app</email></author><entry xml:lang="ja"><title type="html">ChallengeHubとソーシャルラーニング</title><link href="https://challengehub.app/ja/2020/11/11/challengehub-and-social-learning/" rel="alternate" type="text/html" title="ChallengeHubとソーシャルラーニング" /><published>2020-11-11T00:00:00+09:00</published><updated>2022-12-12T12:58:52+09:00</updated><id>https://challengehub.app/2020/11/11/challengehub-and-social-learning</id><content type="html" xml:base="https://challengehub.app/2020/11/11/challengehub-and-social-learning/">&lt;p&gt;ソーシャルラーニングは、大学が提供できる学習経験の中でも重要な側面です。しかし、ソーシャルラーニングとはなんでしょうか？どうして重要なのでしょうか？そして、ChallengeHubはソーシャルラーニングをどのように改良して教師の方々と大学のお役に立てるのでしょうか？&lt;/p&gt;
+
+&lt;h2 id=&quot;何かを習うなら一番いい方法はその何かを教えること&quot;&gt;何かを習うなら、一番いい方法はその何かを教えること&lt;/h2&gt;
+
+&lt;p&gt;教師の方ならご存知のはずです。何か覚えたいことがある時、それを他人に説明することが最も良い方法であること。例えば、私の微分方程式の授業では、学生が互いに助け合うことができるときの方が理解が早かったことを確認できました。2人の学生がいるとしましょう：アリスさんとボブさん。アリスさんは微分方程式の厳密解の求めかたを覚えたところですが、ボブさんはまだ難しく感じています。もしアリスさんがボブさんの問題を克服するのに手伝ってあげた場合、自分の理解の穴埋めもできるでしょう。そして実は、アリスさんは私みたいにこれを昔覚えた教師よりも、ボブさんの疑問をよく理解できるはずなのです。&lt;/p&gt;
+
+&lt;p&gt;ボブさんが直接質問できるので、家庭教師がいることに近いかもしれません。私ももちろん、さらなる疑問がある学生やより視野の広い説明が必要なときに学生の力になります。&lt;/p&gt;
+
+&lt;p&gt;このやりとりはソーシャルラーニングの重要な例であり、大学はこれを提供するのにちょうどいい立場です。教える方も教えてもらう方も学生の場合、このやりとりはピア・インストラクションと言います。ChallengeHubがそのピア・インストラクションを最適化し、規模を問わずその実装をやりやすくします。&lt;/p&gt;
+
+&lt;h2 id=&quot;challengehubはソーシャルラーニングを改良する&quot;&gt;ChallengeHubはソーシャルラーニングを改良する&lt;/h2&gt;
+
+&lt;p&gt;ChallengeHubでは、様々な仕組みにより学生間で最適なチーム分けがなされるので、より良いピア・インストラクションが保証されます。ソーシャルラーニングを更なるレベルに進めます。&lt;/p&gt;
+
+&lt;p&gt;学生になったつもりで想像してみてください。授業に参加すれば（オンラインでもオフラインでも）他に学生が100人いても、マンツーマンで自分の疑問を解決してもらえる環境を。&lt;/p&gt;
+
+&lt;p&gt;ChallengeHubは学生とChallengeBotのやりとりを記録・解析することでその環境を可能にしています。学生の正解、不正解、感じた難易度などが考慮され、この情報をもとに学生の&lt;a href=&quot;/2020/04/10/announcing-study-teams/&quot;&gt;最適なチーム分け&lt;/a&gt;をすることで、ピア・インストラクションの効果を最大にしています。学生はそれぞれ必要なアドバイスがもらえる、もう一人の学生と自動的に組まれます。チームの全員が先生役をするチーム分けができることも珍しくなく、その場合、それぞれ仲間のおかげで課題に深い理解を得ることができます。このソーシャルラーニングの形式は、学生の数の規模にかかわらず利用できるような拡張性を備えています。&lt;/p&gt;
+
+&lt;h2 id=&quot;交流を助長する学習環境&quot;&gt;交流を助長する学習環境&lt;/h2&gt;
+
+&lt;p&gt;教室に「先生」」がたくさんいる状況では、教師は本当に大事なことに集中でき、ストレスが減り、授業がより快適なものになります。学生も、一人で勉強するより、このソーシャルラーニングの方が楽しいようです。アンケートによると、学生の80%はChallengeHubを導入した授業の方が効果的で役に立つだけではなく、楽しいと言っています。&lt;/p&gt;
+
+&lt;p&gt;最後に、大学教育の代わりになるものが増え、新型コロナウイルスによるプレッシャーもある中、ChallengeHubは拡張性を備え、経済的にも優しく、効果と楽しさをもたらし、授業に参加する価値を高めます。&lt;/p&gt;
+
+&lt;h2 id=&quot;結論&quot;&gt;結論&lt;/h2&gt;
+
+&lt;p&gt;ChallengeHubでは、効果的なソーシャルラーニングが例外ではなくスタンダードになるべきだと思っています。大規模で導入されると、大学での授業やその準備がより効率的になり、社会における価値が上がります。ChallengeHubはそれを可能にします。数多くの大学の役に立つことにより、この目標を実現したいと思っています。&lt;/p&gt;</content><author><name>ChallengeHub</name><email>info@challengehub.app</email></author><category term="ChallengeHub" /><summary type="html">ソーシャルラーニングは、大学が提供できる学習経験の中でも重要な側面です。しかし、ソーシャルラーニングとはなんでしょうか？どうして重要なのでしょうか？そして、ChallengeHubはソーシャルラーニングをどのように改良して教師の方々と大学のお役に立てるのでしょうか？</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://challengehub.app/images/front/challenge-hub-header-illustration.jpg" /><media:content medium="image" url="https://challengehub.app/images/front/challenge-hub-header-illustration.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="ja"><title type="html">各科目のコースをCourse Universeで共有しましょう</title><link href="https://challengehub.app/ja/2020/09/24/announcing-course-universe/" rel="alternate" type="text/html" title="各科目のコースをCourse Universeで共有しましょう" /><published>2020-09-24T00:00:00+09:00</published><updated>2022-12-12T12:58:52+09:00</updated><id>https://challengehub.app/2020/09/24/announcing-course-universe</id><content type="html" xml:base="https://challengehub.app/2020/09/24/announcing-course-universe/">&lt;p&gt;ChallengeHubの目標の一つは、教員の負担を減らすことです。&lt;/p&gt;
+
+&lt;p&gt;このことは当初から目標にしていました。例えば、管理画面はデザインを工夫することで、&lt;a href=&quot;//2020/03/12/what-makes-a-good-challenge/&quot;&gt;チャレンジ&lt;/a&gt;の作成・編集・更新を簡易化し、各科目のコースの中でチャレンジを整理するのも簡単になりました。&lt;/p&gt;
+
+&lt;p&gt;しかし、教員の負担が大きい理由の中で一番重要なのは重複作業です。多くの大学では、毎年様々な教師によって各科目の資料が新しく準備されています。その理由は単純です。教師が作業の成果を共有する仕組みが存在しないからです。&lt;/p&gt;
+
+&lt;p&gt;世界規模だと、教員の時間は多くはこの重複する作業に費やされており、高等教育の効率が悪い重要な理由の一つだと言えます。この無駄な重複を排除できれば、教員の負担を世界規模で減らすことができ、教育の質を少しずつあげることも可能でしょう。&lt;/p&gt;
+
+&lt;p&gt;ここが、ChallengeHubの機能が重要になってくるところです。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/2020/07/13/announcing-challenge-universe/&quot;&gt;Challenge Universe&lt;/a&gt;の実装が始まりました。Challenge Universeは、教師が作ったチャレンジの共有と、他の教師のチャレンジの検索を可能にしました。これは教師がコースの流れを決める際、チャレンジを新しく作成するのではなく、既存のチャレンジを利用することを可能にし、重複作業を減らすことができます。&lt;/p&gt;
+
+&lt;p&gt;それに続き、「Course Universe」という便利な機能を紹介したいと思います。Course Universeはコースを丸ごと共有することを可能にします。&lt;/p&gt;
+
+&lt;p&gt;利点は明白で、ある科目を新しく教えることになった教師が、他の教師が共有したコースを利用することで効率的に教えることができることです。インポートしたコースはチャレンジを追加・排除など、自分のニーズに合わせることができます。本来数週間かかる準備は数時間になります。&lt;/p&gt;
+
+&lt;p&gt;コースをインポートすることで、そこに入っている全てのチャレンジも一緒にインポートされるので、Challenge Universeよりも大きな効率化を図れます。教師はチャレンジ単位で共有できていたのですが、Challenge Universeではそこもスピードアップさせ、チャレンジ10件、100件を一気にインポートできるようになりました。&lt;/p&gt;
+
+&lt;p&gt;しかし、コースを共有するというのはそこに含まれているチャレンジを共有するだけではありません。生徒のチーム分けの仕方やチャレンジのスケジュールも一緒に共有されるので、コースの&lt;a href=&quot;/active-learning/&quot;&gt;アクティブラーニング&lt;/a&gt;に関係する設定など全てが共有されると言えます。教師による&lt;a href=&quot;/2019/08/12/first-two-classes/&quot;&gt;コースの企画&lt;/a&gt;全てが共有可能になっているのです！この機能で教員の負担を減らすことができれば幸いです。また、この機能でアクティブラーニングがより活性化され、教育全体の土台となれば嬉しいです。&lt;/p&gt;
+
+&lt;p&gt;ChallengeHubが成長すると共に、教師のコース準備が簡単になっていきます。お知り合いの教師にぜひお話しください！今すぐ&lt;a href=&quot;/ja/#お申し込みお問い合わせ&quot;&gt;アカウントを取得&lt;/a&gt;できるので、あっという間にコース登録やコース共有ができます。続々増えている、高品質の教材を共有している教師陣と一緒に未来に踏み込みましょう！&lt;/p&gt;</content><author><name>ChallengeHub</name><email>info@challengehub.app</email></author><category term="ChallengeHub" /><summary type="html">ChallengeHubの目標の一つは、教員の負担を減らすことです。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://challengehub.app/images/front/challenge-hub-header-illustration.jpg" /><media:content medium="image" url="https://challengehub.app/images/front/challenge-hub-header-illustration.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="ja"><title type="html">ChallengeBot、Telegramで利用可能になりました</title><link href="https://challengehub.app/ja/2020/08/07/challenge-bot-is-now-available-on-telegram/" rel="alternate" type="text/html" title="ChallengeBot、Telegramで利用可能になりました" /><published>2020-08-07T00:00:00+09:00</published><updated>2022-12-12T12:58:52+09:00</updated><id>https://challengehub.app/2020/08/07/challenge-bot-is-now-available-on-telegram</id><content type="html" xml:base="https://challengehub.app/2020/08/07/challenge-bot-is-now-available-on-telegram/">&lt;p&gt;本日より学生は&lt;a href=&quot;https://telegram.org&quot;&gt;Telegram&lt;/a&gt;を通じてChallengeHub上のコースとのやり取りができるようになりました。これからは電子メールと&lt;a href=&quot;https://line.me/ja/&quot;&gt;LINE&lt;/a&gt;の他に、Telegramでも利用可能です。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://telegram.org&quot;&gt;&lt;img src=&quot;/images/blog/2020-08-07-telegram.svg&quot; alt=&quot;Telegram&quot; class=&quot;retina-50width-image centered&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;学生は今まで通り、ChallengeBotに回答を送信することで、正誤を迅速に受け取れ、勉強が効率化され、モチベーションが上がります。またそうすることで、教師のモニタリングと&lt;a href=&quot;/2020/04/10/announcing-study-teams/&quot;&gt;教室でのピア・インストラクションのために最適なグループ分け&lt;/a&gt;を可能にしています。&lt;/p&gt;
+
+&lt;p&gt;学生がChallengeBotとのやり取りの仕方を選べる選択肢を増やすことができて嬉しいです。また、ChallengeHubを使ったチャレンジ解決型アクティブラーニングへの移行が、学生にとってもよりスムーズになれば幸いです。&lt;/p&gt;</content><author><name>ChallengeHub</name><email>info@challengehub.app</email></author><category term="ChallengeHub" /><summary type="html">本日より学生はTelegramを通じてChallengeHub上のコースとのやり取りができるようになりました。これからは電子メールとLINEの他に、Telegramでも利用可能です。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://challengehub.app/images/blog/2020-08-07-telegram.svg" /><media:content medium="image" url="https://challengehub.app/images/blog/2020-08-07-telegram.svg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="ja"><title type="html">Challenge Universeを発表します</title><link href="https://challengehub.app/ja/2020/07/13/announcing-challenge-universe/" rel="alternate" type="text/html" title="Challenge Universeを発表します" /><published>2020-07-13T00:00:00+09:00</published><updated>2022-12-12T12:58:52+09:00</updated><id>https://challengehub.app/2020/07/13/announcing-challenge-universe</id><content type="html" xml:base="https://challengehub.app/2020/07/13/announcing-challenge-universe/">&lt;p&gt;今日からChallengeHubユーザーは、全ての教師が公開してきたチャレンジをウェブアプリ内のChallenge Universeで閲覧可能になりました。いいチャレンジが見つかりましたか？簡単に自分のライブラリーに加えたり、コースに加えたりすることができます。また、自分のコースに合わせて修正することも可能です。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/2020-07-13-announcing-challenge-universe-ja.jpg&quot; alt=&quot;Challenge Universe&quot; class=&quot;framed-image retina-70width-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;様々な非効率的な部分をなくすための工夫をしているChallengeHubの中で、これは大きな一歩です。この世界に、あなたと同じ科目を教えている教師は何人いるのでしょうか？専門的な分野でも、数は少なくてもいるはずです。それでも、教師間での協力はあまりなされていません。&lt;/p&gt;
+
+&lt;p&gt;Challenge Universeは、新しい教師のためにも経験を積んだ教師のためにもそのような現実を変え始めました。&lt;/p&gt;
+
+&lt;p&gt;新しい教師の場合、既存のチャレンジを参考にすることで、自信を持ってそれらのチャレンジに基づいたコースの教材を揃えることができます。これにより、教材を揃えることより教えることに時間を費やすことができます。またこうすることで、新しい科目を教えることになったストレスの多い1年目でも、質の良い教育を施しやすくなります。&lt;/p&gt;
+
+&lt;p&gt;経験を積んだ教師の場合、以前から教えてきたコースの改良につながるチャレンジが見つかるかもしれません。そして、あなたが作ってきたチャレンジを他の教師と共有することで広範囲に影響を及ぼすことができます。&lt;/p&gt;
+
+&lt;p&gt;さらに、他の教師に科目を引き継ぐことになった場合、コースのチャレンジを簡単に共有でき、引継ぎ作業は簡単です。&lt;/p&gt;
+
+&lt;p&gt;ChallengeHubでチャレンジを作成することと、コースを作ることがこれまで以上に簡単になりました。&lt;a href=&quot;/ja/#お申し込みお問い合わせ&quot;&gt;アカウントを取得&lt;/a&gt;すると、チャレンジを閲覧したり、自分のチャレンジを公開したりすることができます。ぜひあなたのチャレンジも共有してください。そして誰でも使える質の良い教材作りをする、伸びゆく教師陣の動きに参加してください。&lt;/p&gt;</content><author><name>ChallengeHub</name><email>info@challengehub.app</email></author><category term="ChallengeHub" /><summary type="html">今日からChallengeHubユーザーは、全ての教師が公開してきたチャレンジをウェブアプリ内のChallenge Universeで閲覧可能になりました。いいチャレンジが見つかりましたか？簡単に自分のライブラリーに加えたり、コースに加えたりすることができます。また、自分のコースに合わせて修正することも可能です。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://challengehub.app/images/blog/2020-07-13-announcing-challenge-universe-en.jpg" /><media:content medium="image" url="https://challengehub.app/images/blog/2020-07-13-announcing-challenge-universe-en.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="ja"><title type="html">アクティブラーニングをChallengeHubで始める理由</title><link href="https://challengehub.app/ja/2020/06/12/why-start-active-learning-with-challengehub/" rel="alternate" type="text/html" title="アクティブラーニングをChallengeHubで始める理由" /><published>2020-06-12T00:00:00+09:00</published><updated>2022-12-12T12:58:52+09:00</updated><id>https://challengehub.app/2020/06/12/why-start-active-learning-with-challengehub</id><content type="html" xml:base="https://challengehub.app/2020/06/12/why-start-active-learning-with-challengehub/">&lt;p&gt;一般的にアクティブラーニングは学生と教師の双方からのやりとりになります。学生にとっては、従来の授業より効果的でやる気が引き出されることは知られていますが、教師にとっては複雑な仕組みのためストレスが増すと言われています。我々の目標は、より良い教育をより実施しやすくすることです。アクティブラーニングの長所を持ちながら、複雑な部分を除外していくことです。みんなのためになるアクティブラーニングです。&lt;/p&gt;
+
+&lt;h3 id=&quot;不確実性をもたらす従来のアクティブラーニング&quot;&gt;不確実性をもたらす従来のアクティブラーニング&lt;/h3&gt;
+
+&lt;p&gt;アクティブラーニングの従来な手順を使ってストレスを感じる部分の中に、制御不能ということと授業が始まるとどうなるかわからないという不確実性があります：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;授業ですること、どのくらい用意したらいいか&lt;/li&gt;
+  &lt;li&gt;学生は、与えられた予習をしてくるか&lt;/li&gt;
+  &lt;li&gt;何を詳細に説明すればいいか&lt;/li&gt;
+  &lt;li&gt;早く終わった学生がいたら、何をさせればいいか&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;このような不確実性においては、全てのケースをカバーできる幅広い対応を考えたくなりますが、そうなると教師のストレスもたまりやすくなり、良い教育も実施しにくくなります。&lt;/p&gt;
+
+&lt;h3 id=&quot;不確実性の問題へのchallengehubの対策&quot;&gt;不確実性の問題へのChallengeHubの対策&lt;/h3&gt;
+
+&lt;p&gt;ChallengeHubは上記のようなストレスに、主に3つの方法で対応します。&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;授業前に教師に何を用意し、何を用意しなくてもいいか知らせる&lt;/li&gt;
+  &lt;li&gt;授業中に学生同士の有意義な会話を促進させる&lt;/li&gt;
+  &lt;li&gt;授業の内容を柔軟にしながらも構造化させる&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;ChallengeBotが学生からチャレンジの回答とその難易度の評価を受け付けるので、教師は学生が遭遇した課題を見つけて、授業に学生が抱いてくる疑問を先読みできます。さらに学生が特定のチャレンジについてコメントを送信することができるため、教師は現状の把握がより容易になります。これにより教師のストレスが減少するだけではなく、授業の準備も効率化されることになります。&lt;/p&gt;
+
+&lt;p&gt;授業中、ChallengeBotは学生を最適なチームに分けることができ、疑問のほとんどはピア・インストラクションによって解決されます。これにより学生の多い教室でも問題ない頻度で教師と学生のやりとりが行なわれます。&lt;/p&gt;
+
+&lt;p&gt;従来のスタイルでも授業のリズムというのは難しいところですが、ChallengeHubを使っているとそのような不確実な部分は過去のものと感じます。一般的なアプローチは教師が全生徒の前で短い説明をしてから、授業が終わるまでチームでディスカッションさせることであり、授業時間を細かく割り振る必要がなくなります。学生は自分のペースでチャレンジを解決していきますが、この個人差は残りのチャレンジを宿題にすることで相殺できます。&lt;/p&gt;
+
+&lt;p&gt;さらに、学生がチャレンジを達成していく速さを知ることは、授業1回分または1週間分の勉強に適切な学習量を計る手掛かりになります。科目の勉強が速いペース、もしくは遅いペースで進んでいるときに気が付きやすくなります。&lt;/p&gt;
+
+&lt;h3 id=&quot;最後に&quot;&gt;最後に&lt;/h3&gt;
+
+&lt;p&gt;ChallengeHubの目標はアクティブラーニングを異例の授業スタイルではなく標準とすることです。これを実現させるためには、教師にとって授業を容易にすることが重要です。&lt;/p&gt;
+
+&lt;p&gt;学生の疑問を先読みできる機能と教室での最適化されたピア・インストラクションを用いて、ChallengeHubはその目標を実現させるプラットフォームを提供しています。教えることの複雑さを和らげながら、学生にとっての授業の有意義さを高めます。&lt;/p&gt;
+
+&lt;p&gt;学生のニーズにも教師のニーズにも応える、より良い教育ソリューションを一緒に革新していきたいという教師の方を常に歓迎しています。&lt;/p&gt;</content><author><name>ChallengeHub</name><email>info@challengehub.app</email></author><category term="ChallengeHub" /><category term="アクティブラーニング" /><summary type="html">一般的にアクティブラーニングは学生と教師の双方からのやりとりになります。学生にとっては、従来の授業より効果的でやる気が引き出されることは知られていますが、教師にとっては複雑な仕組みのためストレスが増すと言われています。我々の目標は、より良い教育をより実施しやすくすることです。アクティブラーニングの長所を持ちながら、複雑な部分を除外していくことです。みんなのためになるアクティブラーニングです。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://challengehub.app/images/front/challenge-hub-header-illustration.jpg" /><media:content medium="image" url="https://challengehub.app/images/front/challenge-hub-header-illustration.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="ja"><title type="html">チャレンジ解決型アクティブラーニングを徐々に導入</title><link href="https://challengehub.app/ja/2020/05/11/starting-small-with-challenge-based-active-learning/" rel="alternate" type="text/html" title="チャレンジ解決型アクティブラーニングを徐々に導入" /><published>2020-05-11T00:00:00+09:00</published><updated>2022-12-12T12:58:52+09:00</updated><id>https://challengehub.app/2020/05/11/starting-small-with-challenge-based-active-learning</id><content type="html" xml:base="https://challengehub.app/2020/05/11/starting-small-with-challenge-based-active-learning/">&lt;p&gt;従来の講義では教師が学生の前で話をするのが一般的です。チャレンジ解決型アクティブラーニングを徐々に導入する時は、ChallengeHubを用いて学生の前に立つ時間を徐々に減らします。大事な部分に学生に集中してもらうことによって、学生にとっても教師にとっても授業を効率化できます。&lt;/p&gt;
+
+&lt;h3 id=&quot;授業の効率化&quot;&gt;授業の効率化&lt;/h3&gt;
+
+&lt;p&gt;ChallengeHubは単なる宿題の代替案ではなく、授業を効率化するために生まれたものです。よくある導入例は、講義の一部をチャレンジに変えて、学生に各チャレンジで共有される資料について自ら調べてもらうことです。チャレンジの資料は、講義部分で説明していない箇所を扱い、チャレンジの問題は習得してもらいたいことを1つに集中するべきです。&lt;/p&gt;
+
+&lt;p&gt;毎週チャレンジを達成することだけでは、成績に加点されないのが一般的です。これには理由があります。授業をより有益にする大事な要素は、学生を互いに助け合える&lt;a href=&quot;/2020/04/10/announcing-study-teams/&quot;&gt;チーム&lt;/a&gt;に振り分けることです。これをうまくいかせるためには、学生が授業に質問を持ってくるようなポジティブな学習環境を築くことが必要です。期末までにほとんどのチャレンジを達成させるよう学生へ要求しながらも、例えば個々により進捗が短期的に異なっても、&lt;a href=&quot;/2019/08/10/two-key-elements-for-effective-cbal/&quot;&gt;内発的モチベーション&lt;/a&gt;が育つ、健全な学習方法と考えられます。&lt;/p&gt;
+
+&lt;h3 id=&quot;チャレンジと宿題&quot;&gt;チャレンジと宿題&lt;/h3&gt;
+
+&lt;p&gt;伝統的に宿題が科目の一部になっている場合、宿題とチャレンジの違いを学生にとってわかりやすくする必要があります。教師は宿題を徐々にチャレンジに置き換えていくのが一般的ですが、違いが理解されていれば両方を同時に実施できます。授業が始まる前に宿題を提出させてしまえば、授業中、学生はチャレンジに関するディスカッションに集中して時間を使えます。&lt;/p&gt;
+
+&lt;h3 id=&quot;学生の反応に合わせる&quot;&gt;学生の反応に合わせる&lt;/h3&gt;
+
+&lt;p&gt;学生がディスカッションをしたり、チャレンジで作業していると、講義に必要な時間が短縮されます。さらに、学生の進捗をリアルタイムで確認できると授業の準備が効率化され、授業自体が学生にとって実り多いものになります。講義していない時間は教室を歩き回りながら、チームで悪戦苦闘している学生とやりとりすることができます。&lt;/p&gt;
+
+&lt;p&gt;学生が授業の新しい形式に慣れてきたころで、アンケートを通じて学生が長い講義に戻りたいかチャレンジ／ディスカッションの時間をさらに増やしたいか聞いてみるのも面白いでしょう。&lt;/p&gt;
+
+&lt;h3 id=&quot;最終状態&quot;&gt;最終状態&lt;/h3&gt;
+
+&lt;p&gt;最後に、チャレンジ解決型アクティブラーニングの目標は、授業の時間を完全にディスカッションに変えることではなく、講義を多くの学生が必要としている特定の説明にあてることや、さらに学習の動機付けに変えていくことです。説明時間とディスカッションの時間の最適な割合は教師、科目と学生がどんなところを難しいと感じるかによりますが、ChallengeHubを使っている教師の皆さんの中ではディスカッションの時間の方が長くなることが多いです。&lt;/p&gt;</content><author><name>ChallengeHub</name><email>info@challengehub.app</email></author><category term="ChallengeHub" /><summary type="html">従来の講義では教師が学生の前で話をするのが一般的です。チャレンジ解決型アクティブラーニングを徐々に導入する時は、ChallengeHubを用いて学生の前に立つ時間を徐々に減らします。大事な部分に学生に集中してもらうことによって、学生にとっても教師にとっても授業を効率化できます。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://challengehub.app/images/our-story/challenge-hub-building-the-idea.jpg" /><media:content medium="image" url="https://challengehub.app/images/our-story/challenge-hub-building-the-idea.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="ja"><title type="html">勉強チームを発表します</title><link href="https://challengehub.app/ja/2020/04/10/announcing-study-teams/" rel="alternate" type="text/html" title="勉強チームを発表します" /><published>2020-04-10T00:00:00+09:00</published><updated>2022-12-12T12:58:52+09:00</updated><id>https://challengehub.app/2020/04/10/announcing-study-teams</id><content type="html" xml:base="https://challengehub.app/2020/04/10/announcing-study-teams/">&lt;p&gt;本日から、ChallengeHubを用いて、ピア・インストラクションのために最適な学生のグループ分けを自動的に行なうことができます。学生が10人でも、100人でも、机が前を向いていても、島に分かれていても、ChallengeHubは学生が授業でより良く学べるよう、学生同士のディスカッションを効率的に促します。&lt;/p&gt;
+
+&lt;p&gt;このことがなぜ大切かというと、スケーラビリティのあるマンツーマン教育を可能にするからです。従来の教育方法では、個別に対応してもらえなかった学生も、誰かに質問を答えてもらい、対応してもらえるようになります。自分の悩みやわからないところについて教えてもらえるので、学生は授業に参加するモチベーションを高めることができます。そして、相手に説明をすることで学生は課題についてより深い理解を得ることができます。&lt;/p&gt;
+
+&lt;p&gt;一方教師は、学習意欲に満ちた雰囲気に元気をもらいながら、授業中に対応が必要な特定の学生に時間をあてることができます。&lt;/p&gt;
+
+&lt;p&gt;ChallengeHubは教師が手動では不可能な複雑な形で、最適な勉強チームを統計的に予測します。学生がこなしていくチャレンジの進捗データを使い、これを実現しています。&lt;/p&gt;
+
+&lt;p&gt;チャレンジセットで、今後勉強チーム作成を有効にすることができます：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/2020-04-10-stint-ui-ja.png&quot; alt=&quot;勉強チーム 教師のインターフェース&quot; class=&quot;framed-image retina-70width-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;学生はテーブルを振り分けられ、同じテーブルを振り分けられた学生同士がチームとなります。そのテーブルとは並んだ机でも、半円形型の教室の区間でも、教師が指定したどの形式でもいいのです。学生は列とテーブルという座標で場所を通知されます。&lt;/p&gt;
+
+&lt;h2 id=&quot;学生から見た流れ&quot;&gt;学生から見た流れ&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;ChallengeBotが自動的に、勉強チームを使った直近のセッションを学生へ通知し、出欠の確認をします（教師の操作は不要）&lt;/li&gt;
+  &lt;li&gt;学生は出席もしくは欠席と回答します（回答がなかった場合は欠席とみなします）&lt;/li&gt;
+  &lt;li&gt;セッションが始まる前、学生はChallengeBotによりテーブルを振り分けられます。&lt;/li&gt;
+  &lt;li&gt;教室に入ったら、学生は自分のテーブルを見つけて同じチームの仲間と一緒に座ります。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/2020-04-10-attending-ja.jpg&quot; alt=&quot;勉強チーム 出欠インターフェース&quot; class=&quot;framed-image&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;わかりやすい座標の振り分け方&quot;&gt;わかりやすい座標の振り分け方&lt;/h2&gt;
+
+&lt;p&gt;テーブルの座標を考える際には、1列目の1つ目の机（縦1つ目の列）から数えることをおすすめします。&lt;/p&gt;
+
+&lt;p&gt;教室レイアウトの伝え方としては、前方スクリーンにプロジェクターで映し出すのも便利です。例えば、1列目は教卓の近く、1つ目の机は入り口の近く、などと伝えるのもいいでしょう。レイアウトを印刷して入り口に貼る教師もいます。&lt;/p&gt;
+
+&lt;p&gt;レイアウトを考え、表示するは、毎回準備する必要はなく、教室につき1つのパターンを準備しておけば良いでしょう。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/2020-04-10-classroom-plan-ja.png&quot; alt=&quot;教室レイアウトと座標の例&quot; class=&quot;framed-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;よくあるもう一つのやり方は、テーブルごとにラベルを印刷して、授業の前に机に貼り付けることです。机が碁盤の目状になっていない場合は、チャレンジセットを設定するときに「1 row」（1列のみ）を選択して、それぞれの机に番号を振り分けてください。&lt;/p&gt;
+
+&lt;h2 id=&quot;最後に&quot;&gt;最後に&lt;/h2&gt;
+
+&lt;p&gt;ChallengeHubは教師と共に、授業の改善を続けています。勉強チームは教師の負担を減らしながら、全ての学生が授業でより効率的に学べることを可能にします。&lt;/p&gt;</content><author><name>ChallengeHub</name><email>info@challengehub.app</email></author><category term="ChallengeHub" /><summary type="html">本日から、ChallengeHubを用いて、ピア・インストラクションのために最適な学生のグループ分けを自動的に行なうことができます。学生が10人でも、100人でも、机が前を向いていても、島に分かれていても、ChallengeHubは学生が授業でより良く学べるよう、学生同士のディスカッションを効率的に促します。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://challengehub.app/images/front/challenge-hub-header-illustration.jpg" /><media:content medium="image" url="https://challengehub.app/images/front/challenge-hub-header-illustration.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="ja"><title type="html">良いチャレンジにするためには</title><link href="https://challengehub.app/ja/2020/03/12/what-makes-a-good-challenge/" rel="alternate" type="text/html" title="良いチャレンジにするためには" /><published>2020-03-12T00:00:00+09:00</published><updated>2022-12-12T12:58:52+09:00</updated><id>https://challengehub.app/2020/03/12/what-makes-a-good-challenge</id><content type="html" xml:base="https://challengehub.app/2020/03/12/what-makes-a-good-challenge/">&lt;p&gt;ChallengeHubの優れた機能の一つに、学生がリアルタイムに回答の正誤を確認できるという点があります。数字と文字での回答に対応しており、様々なチャレンジのスタイルを可能にしています。&lt;/p&gt;
+
+&lt;p&gt;学生はChallengeBotに回答を送り、ChallengeBotがその正誤を知らせてくれます。チャレンジを解くまで答えを見ることはできないので、逆算で答えを導くことはできません。&lt;/p&gt;
+
+&lt;p&gt;この投稿では、いいチャレンジの回答の形式について説明しています。&lt;/p&gt;
+
+&lt;h2 id=&quot;数字だけの回答good&quot;&gt;数字だけの回答：Good!&lt;/h2&gt;
+
+&lt;p&gt;ChallengeHub特有の機能の一つは、チャレンジの正解に公差を指定できるところです。例えば、下記チャレンジ：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;f(x) = x² + 3.5x + 4&lt;/code&gt; の微分を求めてください。&lt;br /&gt;
+回答を確認するには、 &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;x=2&lt;/code&gt; を回答に代入してください。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;この場合、正解は &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;f&apos;(x) = 2x + 3.5&lt;/code&gt; であり、学生は &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;x=2&lt;/code&gt; すると &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;7.5&lt;/code&gt; を取得できます。
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;7.5±1%&lt;/code&gt; や &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;7.5±0.1&lt;/code&gt; の様な公差を回答に指定でき、とくに誤差が蓄積する複雑な計算や複数の段階を含むチャレンジに便利です。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/2020-03-12-tolerance.png&quot; alt=&quot;公差 UI&quot; class=&quot;framed-image retina-70width-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;回答の一致確認が難しいですが、正解と考えられる回答を網羅することができます。
+例えば正解が行列の場合、こういう指示もできます：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;回答は2x2の行列になります。&lt;br /&gt;
+正誤確認をする際は、行列の全ての数字を足して合計を入力してください。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;下記は複素数を使った例えです：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;回答は &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;a+bi&lt;/code&gt; という形の複素数です。&lt;br /&gt;
+正誤確認をする際は、a+10bを計算してください。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;もしくは：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;回答は &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;a+bi&lt;/code&gt; という形の複素数です。&lt;br /&gt;
+正誤確認をする際は、複素数の絶対値を入力してください。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;回答そのものと完全に一致を確認していなくても、正解は正解、不正解は不正解とすぐに分かり、学生は効率的に勉強を続けることができます。正しい計算を確認したい場合、教師は授業中に&lt;a href=&quot;/2019/08/11/the-challenge-log/&quot;&gt;チャレンジログ&lt;/a&gt;をいくつか確認することも可能です。&lt;/p&gt;
+
+&lt;h2 id=&quot;選択問題bad&quot;&gt;選択問題：Bad!&lt;/h2&gt;
+
+&lt;p&gt;理想のチャレンジは熟慮と授業中の会話を促し、推測を促しません。&lt;/p&gt;
+
+&lt;p&gt;学生を選択問題で試すのはよくあることです。例えば：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/blog/2020-03-12-pendulum-phase.png&quot; alt=&quot;振り子の位相&quot; /&gt;
+上記の図を参考にし、振り子の初期角度がπで初期角速度が0 rad/sの場合、振り子はどうなりますか？&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;a) 振り子は停止したまま&lt;/li&gt;
+    &lt;li&gt;b) 振り子は前後に揺れる&lt;/li&gt;
+    &lt;li&gt;c) 振り子はは一周回る&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;この場合、学生は正解を確認できるまで”a”、”b”か”c”を無作為に入力してみようかという思いにかられるかもしれません。そのあと、逆算でどうしてそうなるか探る人もいるでしょう。しかし探りもしない学生もいるにも関わらず、教師は学生が問題を理解していると勘違いして、次の問題に移るかもしれません。&lt;/p&gt;
+
+&lt;h2 id=&quot;正誤問題の二進法足し算good&quot;&gt;正誤問題の二進法足し算：Good!&lt;/h2&gt;
+
+&lt;p&gt;選択問題の代わりに、&lt;strong&gt;正誤問題の二進法足し算&lt;/strong&gt;を提案しています。同じ図を参考にし、チャレンジは下記のようになります：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;下記の文の中の正しい文の点数を足して合計を計算してください。&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;&lt;strong&gt;1点&lt;/strong&gt; 初期角速度が1単位だと、振り子は初期角度に関わらず円形の動きをとる。&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;2点&lt;/strong&gt; 初期角速度が-2.5単位だと、振り子は初期角度に関わらず円形の動きをとる。&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;4点&lt;/strong&gt; 初期角度がπ/2で初期角速度が1単位だと、振り子は定期的に揺れる。&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;8点&lt;/strong&gt; 初期角度がπ/2で初期角速度が1単位だと、振り子は円形の動きをとる。&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;16点&lt;/strong&gt; 初期角度が0で初期角速度が0単位だと、振り子は定期的に揺れる。&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;回答は整数として入力してください。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;各文は正誤問題になっており、それぞれの文の点数を足すことで唯一の数字が生まれます。推測を使って正解を得る確率は1/3から1/(2⁵)まで小さくなり、正誤問題を増やすことでさらに小さくできます。&lt;/p&gt;
+
+&lt;h2 id=&quot;単語選択bad&quot;&gt;単語選択：Bad!&lt;/h2&gt;
+
+&lt;p&gt;下記のチャレンジはいかがでしょうか？&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;対流は伝熱の一つ。もう二つを入力してください。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;正解は「熱伝導と熱放射」です。ChallengeBotは文字列の一致をだけ確認するため、逆の順番（「熱放射と熱伝導」）など「と」のかわりに「や」または「、」を使われると不正解と判断します。また、こういった問題は上記で述べたのと同じく推測を促し、同じ問題を招きます。&lt;/p&gt;
+
+&lt;h2 id=&quot;順番入れ替え問題good&quot;&gt;順番入れ替え問題：Good!&lt;/h2&gt;
+
+&lt;p&gt;上記のような問題を招かずに文字列を使う一つの方法はパターン照合を利用することです。例えば：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;下記の5つの図（a、b、c、d、e）は下記の5つの数式と関係しています。
+図を数式と同じ順番に並べてください。&lt;br /&gt;
+回答は「abcde」という形で入力してください。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;この場合は、文字の入力の仕方が明確で、推測で当たる確率が1/120となりますので、確実な学びにつながるでしょう。&lt;/p&gt;
+
+&lt;h2 id=&quot;評価のみ&quot;&gt;評価のみ&lt;/h2&gt;
+
+&lt;p&gt;場合により、作文などが求められる場合、上記で提案したチャレンジのやり方もふさわしくない時があります。そういった場合は、教師は学生に難易度の評価だけを依頼し、学生の理解度を測ることもできます。&lt;/p&gt;
+
+&lt;h2 id=&quot;結論として&quot;&gt;結論として&lt;/h2&gt;
+
+&lt;p&gt;教師がチャレンジを作成する時間と、学生がチャレンジの資料を読んで達成するまでの時間の割合も頭に入れて作業できるといいでしょう。学習効率も教師の作業効率も上げていきたいと思います。&lt;/p&gt;
+
+&lt;p&gt;ChallengeHubは学習内容の深い理解を促す他にないチャレンジのスタイルを可能にします。また、ChallengeHubを利用いただいている先生方の感想と提案を常に歓迎・感謝しています。様々な教え方の力になることができれば幸いと思います。&lt;/p&gt;</content><author><name>ChallengeHub</name><email>info@challengehub.app</email></author><category term="ChallengeHub" /><summary type="html">ChallengeHubの優れた機能の一つに、学生がリアルタイムに回答の正誤を確認できるという点があります。数字と文字での回答に対応しており、様々なチャレンジのスタイルを可能にしています。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://challengehub.app/images/blog/2020-03-12-what-makes-a-good-challenge-ja-2020-03-12.png" /><media:content medium="image" url="https://challengehub.app/images/blog/2020-03-12-what-makes-a-good-challenge-ja-2020-03-12.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="ja"><title type="html">チャレンジ解決型アクティブラーニングを導入してから最初の2回の授業</title><link href="https://challengehub.app/ja/2019/08/12/first-two-classes/" rel="alternate" type="text/html" title="チャレンジ解決型アクティブラーニングを導入してから最初の2回の授業" /><published>2019-08-12T00:00:00+09:00</published><updated>2022-12-12T12:58:52+09:00</updated><id>https://challengehub.app/2019/08/12/first-two-classes</id><content type="html" xml:base="https://challengehub.app/2019/08/12/first-two-classes/">&lt;p&gt;この記事では、チャレンジ解決型アクティブラーニング促進のため、ChallengeHubを導入したモデル科目の最初の2回の授業を振り返りたいと思います。&lt;/p&gt;
+
+&lt;h3 id=&quot;授業の準備&quot;&gt;授業の準備&lt;/h3&gt;
+
+&lt;p&gt;ChallengeHubでは、チャレンジをグループ化したものをセット（stint）と呼んでいます。一般的に、セットは授業がある度に公開されます。セット1つには通常チャレンジが6〜10つ含まれます。最初のセットは、初回授業にはディスカッションの時間があまりありませんので、チャレンジ数は割と少ないです。&lt;/p&gt;
+
+&lt;p&gt;学期が始まる前に、教員は最初の2回の授業のためのセットを用意し、それぞれを各授業の開始時に合わせて公開されるように設定します。最初のセットにはチャレンジしか含まれませんが、2つ目のセットには通常学生のペアリングも行います。このペアリングは、学生が2〜3人で一組に振り分けられ、お互いに教え合うピア・インストラクションをやりやすくします。&lt;/p&gt;
+
+&lt;h3 id=&quot;初回の授業&quot;&gt;初回の授業&lt;/h3&gt;
+
+&lt;p&gt;学期の最初の授業はどの科目にも特別です。この度はチャレンジ解決型アクティブラーニングの特徴とChallengeHubの使い方を説明しましょう。&lt;/p&gt;
+
+&lt;p&gt;下記を含めて学生に概説するといいでしょう。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;チャレンジ解決型アクティブラーニングが、なぜ学生が慣れている従来の講義より有効的で楽しいか。学生がそれを理解すると、積極的に参加しやすくなります。&lt;/li&gt;
+  &lt;li&gt;科目に登録するまでの流れ。&lt;/li&gt;
+  &lt;li&gt;学生の参加の不可欠の一部分として&lt;a href=&quot;/ja/2019/08/11/the-challenge-log/&quot;&gt;チャレンジ・ログ&lt;/a&gt;を強調すること。&lt;/li&gt;
+  &lt;li&gt;チャレンジが宿題と違うということを強調。間違えたり、毎週すべてのチャレンジを解決できなくても問題ありません。&lt;/li&gt;
+  &lt;li&gt;ただし、期末試験はあるということ。試験に万全に備えるには、チャレンジをすべて解決することが一番有効な手段であり、いい成績をとりたい学生はチャレンジと足並みをそろえなけらばなりません。&lt;/li&gt;
+  &lt;li&gt;毎週できるだけのチャレンジに挑み、授業の際、質問を持ってくることが一番効率的な勉強の仕方であることを強調。&lt;/li&gt;
+  &lt;li&gt;科目へのモチベーション。なぜこの内容は面白くて役に立つのか？学生に明確な勉強への動機を与えると大いにモチベーションが上がります。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;その後、時間があり、学生がスマートフォンやパソコンを持参している場合、チャレンジを始められます。可能であれば、少なくともChallengeHubとのやりとりを練習すると役に立つでしょう。それが難しい場合は、公開されたチャレンジについての重要なポイントを整理するのもいいでしょう。&lt;/p&gt;
+
+&lt;h3 id=&quot;2回目の授業の準備&quot;&gt;2回目の授業の準備&lt;/h3&gt;
+
+&lt;p&gt;2回目以降の授業の前に、教員は学生のチャレンジ進捗状況を確認します。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;学生が特に難しく感じたチャレンジはどれでしょうか？特定のチャレンジについての手短な説明の必要があるでしょうか？&lt;/li&gt;
+  &lt;li&gt;触れる必要のないチャレンジはどれでしょうか？&lt;/li&gt;
+  &lt;li&gt;どういう質問が出てきそうでしょうか？&lt;/li&gt;
+  &lt;li&gt;進捗状況はどの程度でしょうか？次回のために設定したチャレンジの数は適切でしょうか？&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;今回の授業は、学生がChallengeHubを使い始めて1週間になり、もし問題がある場合はそれが明らかになる重要な2回目となると思います。&lt;/p&gt;
+
+&lt;h3 id=&quot;2回目の授業&quot;&gt;2回目の授業&lt;/h3&gt;
+
+&lt;p&gt;2回目以降教員は、通常ペアリングを設定して、学生にピア・インストラクションを行わせてお互いに教え合う立場に置く。&lt;/p&gt;
+
+&lt;p&gt;また、必須ではないですが、役に立つのは、白紙を学生に配布して、三枚に折らせ、横に名前を書いてもらい、卓上の名札を作らせることです。教員が声をかけたい学生を早く特定できたり、その学生の進捗状況をリアルタイムで把握しやすくなります。&lt;/p&gt;
+
+&lt;p&gt;学生が座ったあと、教員が希望すれば、短い説明をするのも良いと思います。学生が困ったチャレンジについてでも、次の題目へのモティベーションをあげるものでもいいでしょう。こうすることで授業が始まった雰囲気になり、学生も本題に集中するでしょう。それからディスカッション・タイムになります。&lt;/p&gt;
+
+&lt;p&gt;ディスカッション・タイム中は、学生はお互いに難しかった箇所を相談し、助け合います。学生はこういうことに慣れていないかもしれませんので、最初は少し抵抗があるかもしれません。そういう堅苦しさを和らげるため、学生に2分以内で、相手が先週分のチャレンジで一番難しかったと思われることを書かせることをお勧めします。&lt;/p&gt;
+
+&lt;p&gt;それから、学生が問題点を話し合っている間、教員は教室を歩き回ります。学生同士の会話を聞いたり、個別に学生と話したり、質問に答えたりする時間です。&lt;/p&gt;
+
+&lt;p&gt;教員は一般的に授業の開始時に合わせてチャレンジを公開しますので、前回のチャレンジをすべて解決させて議題がなくなった学生は新しいチャレンジに挑んでもらえます。そして、授業が終わっても解決できていないチャレンジは宿題という形になります。出来の良い学生は授業が終わる頃にチャレンジをすべて解決しているかもしれません。&lt;/p&gt;
+
+&lt;h3 id=&quot;n回目の授業&quot;&gt;n回目の授業&lt;/h3&gt;
+
+&lt;p&gt;最後に、必ず思わぬ事が起きることを忘れないでください。教員は自分にあったやり方を少しずつ見つけていくものかと思います。イノベーションにはそういうものだと思います。積極的に経験を活かすことで、学生にとっても教員にとっても毎回より良い体験になっていくでしょう。&lt;a href=&quot;/ja/2019/08/10/two-key-elements-for-effective-cbal/&quot;&gt;効率的なチャレンジ解決型アクティブラーニング二つの鍵&lt;/a&gt;を忘れないでください。学生は自らモチベーションを持っていますか？学生の勉強が効率的になりましたか？その二つの条件が成り立つならば、あなたの授業は正しい道を歩んでいるでしょう。&lt;/p&gt;</content><author><name>ChallengeHub</name><email>info@challengehub.app</email></author><category term="ChallengeHub" /><summary type="html">この記事では、チャレンジ解決型アクティブラーニング促進のため、ChallengeHubを導入したモデル科目の最初の2回の授業を振り返りたいと思います。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://challengehub.app/images/front/challenge-hub-header-illustration.jpg" /><media:content medium="image" url="https://challengehub.app/images/front/challenge-hub-header-illustration.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="ja"><title type="html">チャレンジ・ログ</title><link href="https://challengehub.app/ja/2019/08/11/the-challenge-log/" rel="alternate" type="text/html" title="チャレンジ・ログ" /><published>2019-08-11T00:00:00+09:00</published><updated>2022-12-12T12:58:52+09:00</updated><id>https://challengehub.app/2019/08/11/the-challenge-log</id><content type="html" xml:base="https://challengehub.app/2019/08/11/the-challenge-log/">&lt;p&gt;チャレンジ解決型アクティブラーニングでの「宿題」の概念は、従来の講義のものとは全く異なります。宿題の代わりに、学生は各チャレンジの解決までの全ステップをまとめたチャレンジ・ログというノートを作成していきます。&lt;/p&gt;
+
+&lt;h3 id=&quot;アセスメント学生の学習成果の評価&quot;&gt;アセスメント（学生の学習成果の評価）&lt;/h3&gt;
+&lt;p&gt;従来の教え方と同じように、チャレンジ解決型アクティブラーニングを導入した科目のアセスメントは試験に基づいています。その他に、一般的には生徒は期末試験を受ける際に、チャレンジ・ログを提出することになっています。&lt;/p&gt;
+
+&lt;p&gt;試験はチャレンジ内容と密接に関連しているため、チャレンジを解決できていない学生は不利になります。結果的に、チャレンジを解決させることの重要さを強調するために、教員は申し分ない状態のチャレンジ・ログに点数を少し振り分けてもいいでしょう。&lt;/p&gt;
+
+&lt;p&gt;「申し分ない状態」の定義はあくまでも教員によりますが、判断基準として下記を挙げることができます。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;学生はチャレンジをあまり放置せずに、全チャレンジのほとんどを達成すべく努力したか。&lt;/li&gt;
+  &lt;li&gt;学生はチャレンジのある程度の数を解決できているか。&lt;/li&gt;
+  &lt;li&gt;学生は各チャレンジを解決させた思考プロセスを表しているか。（特に何かを計算する必要があった場合）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;したがって、それぞれのチャレンジと回答だけが並んだチャレンジ・ログは申し分ない状態とはいえないでしょうが、思考プロセスを詳しく書き込まれたものなら申し分ない状態にあるといえるでしょう。しかしながら、チャレンジ・ログは正式なレポートではないため、学生が意識して綺麗にはしなくてもいいでしょう。課題の記録にすぎません。教員は学生全員のチャレンジ・ログを詳しく確認する時間がないことが多いですが、軽く目を通すだけで状態が判ることがほとんどです。&lt;/p&gt;
+
+&lt;p&gt;確認後、すべてのチャレンジ・ログが学生に返されます。しばらく学生の手元にないことになりますので、学生がチャレンジ・ログを他の科目のメモと一緒にしないことは大切です。他の試験に必要なメモもあるかもしれませんので、学期の始まりにチャレンジ・ログを他の科目のメモと別にするように学生に指導するのもいいでしょう。&lt;/p&gt;
+
+&lt;h3 id=&quot;利点&quot;&gt;利点&lt;/h3&gt;
+&lt;p&gt;アセスメントとモチベーションの他にも、期末にチャレンジ・ログを確認することは学生がどのようにチャレンジに取り組んでいるか理解することにつながります。翌年度のためにチャレンジもしくは科目全体の改善につながる情報を得られるかもしれません。よくできたチャレンジ・ログのコピーを参照のために保管することも有益でしょう。&lt;/p&gt;
+
+&lt;p&gt;最後になりますが、チャレンジ・ログを学生に書かせる工程が大切であり、正解を提出することだけではチャレンジを「達成」したことになりません。各チャレンジを解決させることに点数が振り分けられていないことに加えて、この方法は目的が習得することであり、チェックボックスにチェックを入れていくことではありません。学生自らのモチベーションを引き出すことにつながると考えられます。&lt;/p&gt;</content><author><name>ChallengeHub</name><email>info@challengehub.app</email></author><category term="モチベーション" /><category term="アセスメント" /><summary type="html">チャレンジ解決型アクティブラーニングでの「宿題」の概念は、従来の講義のものとは全く異なります。宿題の代わりに、学生は各チャレンジの解決までの全ステップをまとめたチャレンジ・ログというノートを作成していきます。</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://challengehub.app/images/blog/2019-08-11-the-challenge-log.jpg" /><media:content medium="image" url="https://challengehub.app/images/blog/2019-08-11-the-challenge-log.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

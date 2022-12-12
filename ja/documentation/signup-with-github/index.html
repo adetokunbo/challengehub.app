@@ -1,0 +1,284 @@
+<!doctype html>
+
+<html lang="ja">
+  <head>
+    <!-- JEKYLL ENV IS production -->
+    
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>GitHubを使ってChallengeHubに登録の仕方 | ChallengeHub</title>
+<meta name="generator" content="Jekyll v3.9.2" />
+<meta property="og:title" content="GitHubを使ってChallengeHubに登録の仕方" />
+<meta name="author" content="ChallengeHub" />
+<meta property="og:locale" content="ja" />
+<meta name="description" content="ChallengeHubは、先生方の認証のためにGitHubを使っています" />
+<meta property="og:description" content="ChallengeHubは、先生方の認証のためにGitHubを使っています" />
+<link rel="canonical" href="https://challengehub.app/ja/documentation/signup-with-github/" />
+<meta property="og:url" content="https://challengehub.app/documentation/signup-with-github/" />
+<meta property="og:site_name" content="ChallengeHub" />
+<meta property="og:image" content="https://challengehub.app/images/front/challenge-hub-header-illustration.jpg" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="https://challengehub.app/images/front/challenge-hub-header-illustration.jpg" />
+<meta property="twitter:title" content="GitHubを使ってChallengeHubに登録の仕方" />
+<meta name="twitter:site" content="@challenge_hub" />
+<meta name="twitter:creator" content="@challenge_hub" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","author":{"@type":"Person","name":"ChallengeHub"},"dateModified":"2022-12-12T12:58:52+09:00","description":"ChallengeHubは、先生方の認証のためにGitHubを使っています","headline":"GitHubを使ってChallengeHubに登録の仕方","image":"https://challengehub.app/images/front/challenge-hub-header-illustration.jpg","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://challengehub.app/siteicon-20191205.png"},"name":"ChallengeHub"},"url":"https://challengehub.app/documentation/signup-with-github/"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link type="application/atom+xml" rel="alternate" href="https://challengehub.app/ja/feed.xml" title="ChallengeHub" />
+
+    <link rel="stylesheet" href="/css/screen.css">
+    <link rel="icon" type="image/png" href="/ja/favicon-20191205.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/ja/apple-touch-icon-20191205.png"/>
+    <link rel="apple-touch-icon" href="/ja/touch-icon-20191205.png"/>
+
+    
+    
+    
+    
+      <link rel="alternate" hreflang="ja" href="/ja/documentation/signup-with-github/" />
+    
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/v4-shims.css">
+  </head>
+  <body>
+    <header>
+      <div class="container">
+        <div class="company-name"><a href="/ja/"><img src="/images/front/challenge-hub-header-20191205.png" alt="ChallengeHub Logo" width="95" height="33" /></a></div>
+
+        <nav>
+  <a class="nav-toggle" id="open-nav" href="#">&#9776;</a>
+  <a class="editor-link btn" href="cloudcannon:collections/_data/navigation.yml" class="btn"><strong>&#9998;</strong> Edit navigation</a><a href="/ja/active-learning/" class="" >アクティブラーニング</a><a href="/ja/our-story/" class="" >これまでの経緯</a><a href="/ja/blog/" class="" >ブログ</a><a href="/ja/#お申し込みお問い合わせ" class=" highlight" >はじめましょう</a><span class="choose-language">
+    <span class="dropdown-button">
+      日本語 <i class="fas fa-globe"></i> <i class="fas fa-angle-down"></i>
+    </span>
+    <div class="dropdown-content"><!--  N.B. The space at the start href is intentional -->
+          <!--  It's how polyglot knows not to relativise the link --><a href=" /en/documentation/signup-with-github/" class=" chose-language">
+            English
+          </a><!--  N.B. The space at the start href is intentional -->
+          <!--  It's how polyglot knows not to relativise the link --><!--  N.B. The space at the start href is intentional -->
+          <!--  It's how polyglot knows not to relativise the link --><a href=" /ca/documentation/signup-with-github/" class=" chose-language">
+            Català
+          </a></div>
+  </span></nav>
+<script type="text/javascript">
+  document.addEventListener("DOMContentLoaded", function() {
+    var button = document.querySelector('.dropdown-button');
+    var dropdownContent = document.querySelector('.dropdown-content');
+    if ('ontouchstart' in document.documentElement) {
+      document.querySelector('.choose-language').addEventListener('click', function() {
+        if (dropdownContent.classList.contains('dropdown-content-display')) {
+          dropdownContent.classList.remove('dropdown-content-display');
+          dropdownContent.classList.add('dropdown-content-hide');
+          button.classList.remove('choose-language-toggled');
+        } else {
+          dropdownContent.classList.add('dropdown-content-display');
+          dropdownContent.classList.remove('dropdown-content-hide');
+          button.classList.add('choose-language-toggled');
+        }
+      });
+    }
+  });
+</script>
+
+      </div>
+    </header>
+    
+  <section class="hero">
+    <div class="text-container">
+      <h1 class="editable">GitHubを使ってChallengeHubに登録の仕方</h1><p class="subtext editable">ChallengeHubは、先生方の認証のためにGitHubを使っています</p></div>
+  </section>
+
+
+
+<div class="content">
+    <section><div class="container flex"><div class="text editable"><p>ChallengeHubはユーザーのパスワードを保管せず、代わりにGitHubを先生方の認証に使っています。そのため、先生方にはGitHubアカウントを作成していただきます。このページは、GitHub登録の仕方についての説明です。</p>
+
+<p>ご不明な点、ご質問などございましたらいつでも<a href="mailto:info@challengehub.app">info@challengehub.app</a>までお問い合わせください。お力になることができれば幸いです。</p>
+
+<p>GitHubはMicrosoftに買収された会社で、ユーザーが3,700万に達しています。アカウントを持つのに安全なサイトで、迷惑メールがくるようなサイトではありません。</p>
+
+<p>ご注意いただきたいのは、生徒さんをGitHubに登録していただく必要がないことです。先生方だけが、科目の情報や生徒さんの進行状況を安全に管理するためにGitHubを通して登録していただきます。</p>
+
+<p>登録のため、まずは<a href="https://github.com">https://github.com</a>を開いてユーザーネーム、メールアドレス、パスワードを入力してから「<strong>Sign up for GitHub</strong>」（GitHubに登録）のボタンをクリックしてください。</p>
+</div><div class="image ">
+        <img src="/images/documentation/signup-with-github/github-front-page.jpg" alt="GitHub トップページ" class="editable framed-image responsive-image" />
+      </div></div>
+    </section>
+  
+    <section><div class="container flex"><div class="text editable"><p>パズルを解いて、新しくできたアカウントを確認してください。</p>
+</div><div class="image ">
+        <img src="/images/documentation/signup-with-github/github-verification.jpg" alt="GitHub 確認" class="editable framed-image responsive-image" />
+      </div></div>
+    </section>
+  
+    <section><div class="container flex"><div class="text editable"><p>「<strong>Free</strong>」（無料）プランが選択されていることをご確認の上「<strong>Continue</strong>」（次へ）をクリックしてください。</p>
+</div><div class="image ">
+        <img src="/images/documentation/signup-with-github/github-plan-page.jpg" alt="GitHubの無料プランを選択" class="editable framed-image responsive-image" />
+      </div></div>
+    </section>
+  
+    <section><div class="container flex"><div class="text editable"><p>質問を無視してページの下にある「<strong>skip this step</strong>」（このステップを省略する）をクリックしてください。</p>
+</div><div class="image ">
+        <img src="/images/documentation/signup-with-github/github-tailor-experience-page.jpg" alt="GitHubをカスタマイズするステップを省略" class="editable framed-image responsive-image" />
+      </div></div>
+    </section>
+  
+    <section><div class="container flex"><div class="text editable"><p>GitHubはあなたのアドレスまでメールを送信します。メール本文ににある「<strong>Verify email address</strong>」というリンクをクリックしてください。</p>
+
+<p>GitHubであなたのメールアドレスを確認した段階で、あなたのお名前とGitHubでのユーザーネーム（@ユーザーネーム）をメールで下記のアドレスまでお知らせください。</p>
+
+<p><a href="mailto:info@challengehub.app?subject=ChallengeHub%E3%81%B8%E7%99%BB%E9%8C%B2%3A%20GitHub%E3%83%A6%E3%83%BC%E3%82%B6%E3%83%BC%E3%83%8D%E3%83%BC%E3%83%A0">info@challengehub.app</a></p>
+
+<p>あなたのGitHubアカウントをChallengeHubと連携させます。ほとんどの場合は迅速に対応できますが、最長で２４時間かかることがあります。</p>
+</div><div class="image ">
+        <img src="/images/documentation/signup-with-github/github-email-verification.jpg" alt="GitHubからの確認メールのリンクをクリック" class="editable framed-image responsive-image" />
+      </div></div>
+    </section>
+  
+    <section><div class="container flex"><div class="text editable"><p>連携が完了すると、GitHubから「@chablis-pilot」に参加する招待のメールが届きます。</p>
+
+<p>そのメールの中の「<strong>Join @chablis-pilot</strong>」（@chablis-pilotに参加する）というボタンをクリックしてください。もしそのボタンが見当たらなかった場合、直接「<a href="https://github.com/orgs/chablis-pilot/invitation?via_email=1" target="_blank">https://github.com/orgs/chablis-pilot/invitation?via_email=1</a>」を開いてください。</p>
+</div><div class="image ">
+        <img src="/images/documentation/signup-with-github/github-chablis-pilot-invitation.jpg" alt="" class="editable framed-image responsive-image" />
+      </div></div>
+    </section>
+  
+    <section><div class="container flex"><div class="text editable"><p>このページでは「<strong>Join chablis-pilot</strong>」（chablis-pilotに参加する）というボタンをクリックして、招待を承諾することができます。</p>
+</div><div class="image ">
+        <img src="/images/documentation/signup-with-github/github-join-decline-chablis-pilot.jpg" alt="" class="editable framed-image responsive-image" />
+      </div></div>
+    </section>
+  
+    <section><div class="container flex"><div class="text editable"><p>最後に「<a href="https://github.com/orgs/chablis-pilot/people" target="_blank">https://github.com/orgs/chablis-pilot/people</a>」であなたのユーザーネームを見つけてからあなたの参加を「<strong>Private</strong>」（非公開）から「<strong>Public</strong>」（公開）に変更してください。</p>
+</div><div class="image "><img src="/images/documentation/signup-with-github/github-group-setting-private.jpg" alt="" class="editable framed-image responsive-image" /><img src="/images/documentation/signup-with-github/github-group-setting-public.jpg" alt="" class="editable framed-image responsive-image" /></div></div>
+    </section>
+  
+    <section><div class="container flex"><div class="text editable"><p>ここまでできたら、ChallengeHubをご利用いただけます。まずは「<a href="https://dash.challengehub.app" target="_blank">dash.challengehub.app</a>」で「<strong>Sign in</strong>」（サインイン）をクリックしてください。</p>
+</div><div class="image ">
+        <img src="/images/documentation/signup-with-github/ch-sign-in.jpg" alt="" class="editable framed-image responsive-image" />
+      </div></div>
+    </section>
+  
+    <section><div class="container flex"><div class="text editable"><p>改めてGitHubにログインする必要があるかもしれません。そうしましたら、ChallengeHubへのログインを認可する画面が現れます。「<strong>Authorize chablis-pilot</strong>」（chablis-pilotを認可）をクリックしてください。</p>
+</div><div class="image ">
+        <img src="/images/documentation/signup-with-github/ch-login-github-authorisation.jpg" alt="" class="editable framed-image responsive-image" />
+      </div></div>
+    </section>
+  
+    <section><div class="container flex"><div class="text editable"><p>初めてChallengeHubにログインされる時に、所属をお伺いします。全ての項目が必須になっていますのでご注意ください。</p>
+
+<p>ChallengeHubをお使いいただく準備がこれで終わりです。</p>
+</div><div class="image ">
+        <img src="/images/documentation/signup-with-github/ch-add-affiliation.jpg" alt="所属の追加" class="editable framed-image responsive-image" />
+      </div></div>
+    </section>
+  
+</div>
+
+    <footer>
+      <div class="container">
+        <p class="editor-link"><a href="cloudcannon:collections/_data/footer.yml" class="btn"><strong>&#9998;</strong> Edit footer</a></p>
+        <div class="footer-columns">
+          
+          <ul class="footer-links">
+            
+              <li><a  href="/en/" >
+                
+                English</a></li>
+            
+              <li><a  href="/ja/" >
+                
+                日本語</a></li>
+            
+              <li><a  href="/es/" >
+                
+                Español</a></li>
+            
+              <li><a  href="/ca/" >
+                
+                Català</a></li>
+            
+          </ul>
+          
+          <ul class="footer-links">
+            
+              <li><a  href="/ja/active-learning/" >
+                
+                アクティブラーニング</a></li>
+            
+              <li><a  href="/ja/student-interaction/" >
+                
+                学生としての使い方</a></li>
+            
+              <li><a  href="/ja/our-story/" >
+                
+                これまでの経緯</a></li>
+            
+              <li><a  href="/ja/features/" >
+                
+                特色・機能</a></li>
+            
+              <li><a  href="/ja/blog/" >
+                
+                ブログ</a></li>
+            
+          </ul>
+          
+          <ul class="footer-links">
+            
+              <li><a  href="/ja/#お申し込みお問い合わせ" >
+                
+                お問い合わせ</a></li>
+            
+              <li><a  href="/ja/about/" >
+                
+                ChallengeHubについて</a></li>
+            
+              <li><a target="_blank" href="https://www.facebook.com/challengehubapp/" class="Facebook-icon">
+                
+                  
+    <svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M19,4V7H17A1,1 0 0,0 16,8V10H19V13H16V20H13V13H11V10H13V7.5C13,5.56 14.57,4 16.5,4M20,2H4A2,2 0 0,0 2,4V20A2,2 0 0,0 4,22H20A2,2 0 0,0 22,20V4C22,2.89 21.1,2 20,2Z" /></svg>
+  
+
+                
+                Facebook</a></li>
+            
+              <li><a target="_blank" href="https://twitter.com/challenge_hub/" class="Twitter-icon">
+                
+                  
+    <svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M22.46,6C21.69,6.35 20.86,6.58 20,6.69C20.88,6.16 21.56,5.32 21.88,4.31C21.05,4.81 20.13,5.16 19.16,5.36C18.37,4.5 17.26,4 16,4C13.65,4 11.73,5.92 11.73,8.29C11.73,8.63 11.77,8.96 11.84,9.27C8.28,9.09 5.11,7.38 3,4.79C2.63,5.42 2.42,6.16 2.42,6.94C2.42,8.43 3.17,9.75 4.33,10.5C3.62,10.5 2.96,10.3 2.38,10C2.38,10 2.38,10 2.38,10.03C2.38,12.11 3.86,13.85 5.82,14.24C5.46,14.34 5.08,14.39 4.69,14.39C4.42,14.39 4.15,14.36 3.89,14.31C4.43,16 6,17.26 7.89,17.29C6.43,18.45 4.58,19.13 2.56,19.13C2.22,19.13 1.88,19.11 1.54,19.07C3.44,20.29 5.7,21 8.12,21C16,21 20.33,14.46 20.33,8.79C20.33,8.6 20.33,8.42 20.32,8.23C21.16,7.63 21.88,6.87 22.46,6Z" /></svg>
+  
+
+                
+                Twitter</a></li>
+            
+              <li><a target="_blank" href="https://www.linkedin.com/company/challengehub/" class="LinkedIn-icon">
+                
+                  
+    <svg fill="#000000" height="24" viewBox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg"><path d="M19,19H16V13.7A1.5,1.5 0 0,0 14.5,12.2A1.5,1.5 0 0,0 13,13.7V19H10V10H13V11.2C13.5,10.36 14.59,9.8 15.5,9.8A3.5,3.5 0 0,1 19,13.3M6.5,8.31C5.5,8.31 4.69,7.5 4.69,6.5A1.81,1.81 0 0,1 6.5,4.69C7.5,4.69 8.31,5.5 8.31,6.5A1.81,1.81 0 0,1 6.5,8.31M8,19H5V10H8M20,2H4C2.89,2 2,2.89 2,4V20A2,2 0 0,0 4,22H20A2,2 0 0,0 22,20V4C22,2.89 21.1,2 20,2Z" /></svg>
+  
+
+                
+                LinkedIn</a></li>
+            
+          </ul>
+          
+        </div>
+        <p class="copyright">&copy; 2022 Djinn Mentor KK • <a href="/en/privacy">Privacy Policy</a></p>
+      </div>
+    </footer>
+    <script>
+      document.getElementById("open-nav").onclick = function () {
+        document.body.classList.toggle("nav-open");
+        return false;
+      };
+    </script>
+  </body>
+</html>

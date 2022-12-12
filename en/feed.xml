@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.2">Jekyll</generator><link href="https://challengehub.app/en/feed.xml" rel="self" type="application/atom+xml" /><link href="https://challengehub.app/en/" rel="alternate" type="text/html" /><updated>2022-12-12T12:59:49+09:00</updated><id>https://challengehub.app/feed.xml</id><title type="html">ChallengeHub</title><subtitle>Teaching well shouldn’t be so hard. More effective learning. More efficient teaching. Active learning for everyone.</subtitle><author><name>ChallengeHub</name><email>info@challengehub.app</email></author><entry xml:lang="en"><title type="html">ChallengeHub and Social Learning</title><link href="https://challengehub.app/en/2020/11/11/challengehub-and-social-learning/" rel="alternate" type="text/html" title="ChallengeHub and Social Learning" /><published>2020-11-11T00:00:00+09:00</published><updated>2022-12-12T12:58:52+09:00</updated><id>https://challengehub.app/2020/11/11/challengehub-and-social-learning</id><content type="html" xml:base="https://challengehub.app/2020/11/11/challengehub-and-social-learning/">&lt;p&gt;Social learning is one of the most important dimensions of the learning experience that universities can offer.
+But what is social learning?
+Why is it valuable, and how does ChallengeHub enable teachers and their institutions to enhance social learning in their classrooms?&lt;/p&gt;
+
+&lt;h2 id=&quot;the-best-way-to-learn-something-is-to-teach-it&quot;&gt;The best way to learn something is to teach it&lt;/h2&gt;
+
+&lt;p&gt;As every teacher surely knows, the best way to learn something is to teach it to others.
+For example, in my differential equations class I found that understanding increased more when students could help each other with problems.
+Say Alice and Bob are two students in my class.
+Alice has just learned how to obtain exact solutions to differential equations, but Bob is having difficulty.
+By Alice helping Bob to overcome the difficulty he’s having, Alice is able to identify hidden gaps in her own understanding.
+Alice also has a better appreciation for the difficulties that Bob is having in learning the concept, compared to a teacher like myself who may have learned the concept many years ago.&lt;/p&gt;
+
+&lt;p&gt;With Bob also able to ask direct questions, he is effectively getting personalised tutoring.
+Of course, I am always on hand to support students if extra help is required or a bigger-picture explanation is desired.&lt;/p&gt;
+
+&lt;p&gt;This experience is a key example of social learning, and is something that universities are uniquely positioned to provide.
+In the case where both “teacher” and “student” are students, this is often referred to as “peer instruction”.
+What ChallengeHub does is optimise this peer instruction, and furthermore makes it easy to implement on any scale.&lt;/p&gt;
+
+&lt;h2 id=&quot;challengehub-enhances-social-learning&quot;&gt;ChallengeHub enhances social learning&lt;/h2&gt;
+
+&lt;p&gt;ChallengeHub takes social learning to a new level by ensuring that the ability of students to help each other is not left to chance.&lt;/p&gt;
+
+&lt;p&gt;Imagine that, as a student, you know that by attending class (whether online or offline) you are guaranteed to get an effective, personalised explanation for the problem that you personally have, even if there are 100 other students present.&lt;/p&gt;
+
+&lt;p&gt;ChallengeHub achieves this by keeping track of student interaction with ChallengeBot: correct or incorrect answers, the perceived difficulty of those challenges, and so on.
+When &lt;a href=&quot;/2020/04/10/announcing-study-teams/&quot;&gt;grouping in class&lt;/a&gt; is enabled, a proprietary algorithm uses this information to group students for maximum pedagogical effect.
+Students are automatically assigned to a group containing another student who can provide the help they need.
+Often ChallengeBot is able to construct the groups such that every student in the group can be a “teacher”; every student gets to experience deep learning by teaching others.
+This style of social learning scales naturally and effectively even for very large class sizes.&lt;/p&gt;
+
+&lt;h2 id=&quot;creating-an-engaging-learning-environment&quot;&gt;Creating an engaging learning environment&lt;/h2&gt;
+
+&lt;p&gt;Now that there are many “teachers” in the class, the (professional) teacher has time to focus on what really counts, which reduces stress and makes the class a more pleasant and enjoyable experience.
+Students also find this form of social learning more fun than studying alone: our surveys show that 80% of students not only find ChallengeHub classes more effective and useful, but also more enjoyable too.&lt;/p&gt;
+
+&lt;p&gt;Finally, in a world of growing alternatives to university education and increasing pressures due to the pandemic, the increased effectiveness and enjoyment raises the value of attending university in a scalable and cost effective manner.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;At ChallengeHub we strongly believe that effective social learning should be the norm rather than the exception.
+When this is done on a large scale, higher education institutions become more effective and in so doing add more value to society.
+ChallengeHub can make this possible, and we look forward to working with more and more institutions to make this vision a reality.&lt;/p&gt;</content><author><name>ChallengeHub</name><email>info@challengehub.app</email></author><category term="ChallengeHub" /><summary type="html">Social learning is one of the most important dimensions of the learning experience that universities can offer. But what is social learning? Why is it valuable, and how does ChallengeHub enable teachers and their institutions to enhance social learning in their classrooms?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://challengehub.app/images/front/challenge-hub-header-illustration.jpg" /><media:content medium="image" url="https://challengehub.app/images/front/challenge-hub-header-illustration.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Launch your courses into the Course Universe</title><link href="https://challengehub.app/en/2020/09/24/announcing-course-universe/" rel="alternate" type="text/html" title="Launch your courses into the Course Universe" /><published>2020-09-24T00:00:00+09:00</published><updated>2022-12-12T12:58:52+09:00</updated><id>https://challengehub.app/2020/09/24/announcing-course-universe</id><content type="html" xml:base="https://challengehub.app/2020/09/24/announcing-course-universe/">&lt;p&gt;At ChallengeHub, one of our key focusses is reducing the teaching burden.&lt;/p&gt;
+
+&lt;p&gt;We have sought to address this right from the start. For example, the careful design of our Challenge Dashboard simplifies creating, editing and updating &lt;a href=&quot;//2020/03/12/what-makes-a-good-challenge/&quot;&gt;challenges&lt;/a&gt;, and makes it easy to organize them into the courses to be taught to students.&lt;/p&gt;
+
+&lt;p&gt;However, by far the most important dimension of the teaching burden is duplication of effort.  At most universities, it is common for the course materials for a particular subject to be recreated continuously time after time by different teachers.  The reason this happens is simple.  There is &lt;em&gt;no&lt;/em&gt; infrastructure in place to allow the sharing of work between teachers.&lt;/p&gt;
+
+&lt;p&gt;Globally, this duplication soaks up a large proportion of teaching time and is one of the key reasons higher education teaching is inefficient.  If we can remove this unnecessary duplication, we can reduce the global teaching burden and continuously raise quality to improve teaching outcomes.&lt;/p&gt;
+
+&lt;p&gt;This is where ChallengeHub is poised to make a huge difference.&lt;/p&gt;
+
+&lt;p&gt;We started with the launch of &lt;a href=&quot;/2020/07/13/announcing-challenge-universe/&quot;&gt;Challenge Universe&lt;/a&gt;.  Challenge Universe allows teachers to share challenges that they created, and to find and use challenges that have been created by other teachers.  This tackles duplication of effort by allowing teachers to compile courses by using existing challenges instead of having to create them from scratch.&lt;/p&gt;
+
+&lt;p&gt;We are pleased to follow up on that with an exciting new feature we call ‘Course Universe’.  Course Universe supercharges teachers’ ability to share by allowing the sharing of &lt;em&gt;entire courses&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;The benefit is obvious — a teacher due to deliver a course can import a similar one shared by another ChallengeHub user, modify it as necessary by adding or removing challenges, and then use it to teach.  Preparation that would usually take a few weeks can be achieved in hours.&lt;/p&gt;
+
+&lt;p&gt;Importing a course also imports all its challenges, so this is a big improvement in the efficiency gains introduced by Challenge Universe.   Teachers were able to share challenges one at a time, but Course Universe speeds this up — in effect challenges can be imported in their tens and potentially in their hundreds.&lt;/p&gt;
+
+&lt;p&gt;But sharing a course shares more than just the course’s challenges.  The grouping and scheduling of challenges is also shared, i.e., the entire &lt;a href=&quot;/active-learning/&quot;&gt;active learning&lt;/a&gt; strategy for teaching the course is shared.  We’re effectively enabling teachers to share their &lt;a href=&quot;/2019/08/12/first-two-classes/&quot;&gt;course planning&lt;/a&gt;!  We have high hopes that this feature will make a significant dent in the teaching burden, and spur the growth of active learning as the baseline for education.&lt;/p&gt;
+
+&lt;p&gt;As ChallengeHub grows, getting courses ready for teaching will become easier and easier.  If you know any teachers, please tell them about us today!  They can &lt;a href=&quot;/en/#contact-us&quot;&gt;get an account now&lt;/a&gt;, make a course, share it, and join the growing movement of teachers making high-quality education material available to everyone.&lt;/p&gt;</content><author><name>ChallengeHub</name><email>info@challengehub.app</email></author><category term="ChallengeHub" /><summary type="html">At ChallengeHub, one of our key focusses is reducing the teaching burden.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://challengehub.app/images/front/challenge-hub-header-illustration.jpg" /><media:content medium="image" url="https://challengehub.app/images/front/challenge-hub-header-illustration.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">ChallengeBot is Now Available on Telegram</title><link href="https://challengehub.app/en/2020/08/07/challenge-bot-is-now-available-on-telegram/" rel="alternate" type="text/html" title="ChallengeBot is Now Available on Telegram" /><published>2020-08-07T00:00:00+09:00</published><updated>2022-12-12T12:58:52+09:00</updated><id>https://challengehub.app/2020/08/07/challenge-bot-is-now-available-on-telegram</id><content type="html" xml:base="https://challengehub.app/2020/08/07/challenge-bot-is-now-available-on-telegram/">&lt;p&gt;From today, students can use &lt;a href=&quot;https://telegram.org&quot;&gt;Telegram&lt;/a&gt; to engage with course challenges on ChallengeHub.
+This means that as well as ChallengeBot being available via email and &lt;a href=&quot;https://line.me/en/&quot;&gt;LINE&lt;/a&gt;, you can now access it via Telegram too.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://telegram.org&quot;&gt;&lt;img src=&quot;/images/blog/2020-08-07-telegram.svg&quot; alt=&quot;Telegram&quot; class=&quot;retina-50width-image centered&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;As usual, students can submit their answers to ChallengeBot in order to receive immediate feedback, increasing the efficiency of their study and raising motivation, as well as enabling teacher monitoring and &lt;a href=&quot;/2020/04/10/announcing-study-teams/&quot;&gt;optimised peer-instruction grouping in class&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We are pleased to have more options available so students will be able to interact with ChallengeBot on the platform they are most comfortable with.
+We hope this will help more students make a smooth transition to challenge-based active learning with ChallengeHub.&lt;/p&gt;</content><author><name>ChallengeHub</name><email>info@challengehub.app</email></author><category term="ChallengeHub" /><summary type="html">From today, students can use Telegram to engage with course challenges on ChallengeHub. This means that as well as ChallengeBot being available via email and LINE, you can now access it via Telegram too.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://challengehub.app/images/blog/2020-08-07-telegram.svg" /><media:content medium="image" url="https://challengehub.app/images/blog/2020-08-07-telegram.svg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Announcing Challenge Universe</title><link href="https://challengehub.app/en/2020/07/13/announcing-challenge-universe/" rel="alternate" type="text/html" title="Announcing Challenge Universe" /><published>2020-07-13T00:00:00+09:00</published><updated>2022-12-12T12:58:52+09:00</updated><id>https://challengehub.app/2020/07/13/announcing-challenge-universe</id><content type="html" xml:base="https://challengehub.app/2020/07/13/announcing-challenge-universe/">&lt;p&gt;Starting today, ChallengeHub users can search through challenges published by all teachers using the new Challenge Universe feature in the teacher dashboard.
+Find a challenge you like?
+You can easily import it into your library and be ready to use it in a course,
+or amend the contents to customise it for your needs.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/2020-07-13-announcing-challenge-universe-en.jpg&quot; alt=&quot;Challenge Universe&quot; class=&quot;framed-image retina-70width-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a big step in ChallengeHub’s effort to fix the long-standing inefficiencies in teaching.
+How many other teachers around the world are teaching the same course as you?
+Even for many specialist subjects, it’s unlikely that your course is unique.
+Despite this, collaboration between teachers is still very limited.&lt;/p&gt;
+
+&lt;p&gt;Challenge Universe starts to change this for both new and experienced teachers alike.&lt;/p&gt;
+
+&lt;p&gt;As a new teacher, 
+you can gain confidence by looking at a number of readily available challenges
+and basing your course on those challenges.
+This gives you more time to focus on your teaching and less on content generation,
+promoting high-quality education even in that ever-stressful first year of teaching a course.&lt;/p&gt;
+
+&lt;p&gt;As an experienced teacher you might find an interesting challenge that can improve your existing course.
+Moreover, by enabling other teachers to benefit from what you build,
+you can have an impact beyond the walls of your classroom.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, when handing a course to a fellow teacher,
+you can easily share the challenges from your course,
+making handover that much easier.&lt;/p&gt;
+
+&lt;p&gt;Creating challenges and building courses is now easier than ever on ChallengeHub.
+&lt;a href=&quot;/en/#contact-us&quot;&gt;Get an account now&lt;/a&gt; to be able to look through the available challenges,
+contribute your own,
+and join a growing movement of teachers making high-quality education material available to everyone.&lt;/p&gt;</content><author><name>ChallengeHub</name><email>info@challengehub.app</email></author><category term="ChallengeHub" /><summary type="html">Starting today, ChallengeHub users can search through challenges published by all teachers using the new Challenge Universe feature in the teacher dashboard. Find a challenge you like? You can easily import it into your library and be ready to use it in a course, or amend the contents to customise it for your needs.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://challengehub.app/images/blog/2020-07-13-announcing-challenge-universe-en.jpg" /><media:content medium="image" url="https://challengehub.app/images/blog/2020-07-13-announcing-challenge-universe-en.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Why Start Active Learning with Challengehub?</title><link href="https://challengehub.app/en/2020/06/12/why-start-active-learning-with-challengehub/" rel="alternate" type="text/html" title="Why Start Active Learning with Challengehub?" /><published>2020-06-12T00:00:00+09:00</published><updated>2022-12-12T12:58:52+09:00</updated><id>https://challengehub.app/2020/06/12/why-start-active-learning-with-challengehub</id><content type="html" xml:base="https://challengehub.app/2020/06/12/why-start-active-learning-with-challengehub/">&lt;p&gt;Active learning typically involves a two-way interactive experience for students and the teacher,
+and while this is known to be more effective and motivating for the students,
+it has traditionally added complexity and been stressful for the teacher.
+But it doesn’t need to be this way.&lt;/p&gt;
+
+&lt;p&gt;Our aim at ChallengeHub is to make it easier to teach better,
+achieving the benefit of active learning while removing complexity:
+truly active learning for &lt;em&gt;everyone&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;traditional-active-learning-introduces-uncertainty&quot;&gt;Traditional active learning introduces uncertainty&lt;/h3&gt;
+
+&lt;p&gt;Teachers using traditional active learning methods are often stressed by factors
+out of their control and the uncertainty about what is going to happen in class:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;How much material do I need to prepare for the class?&lt;/li&gt;
+  &lt;li&gt;Did students do the assigned pre-class study?&lt;/li&gt;
+  &lt;li&gt;What will I need to explain in depth about?&lt;/li&gt;
+  &lt;li&gt;If some students finish earlier than others, what should I ask them to do?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Such uncertainty induces a ‘plan for all scenarios’ response,
+raising teacher stress levels and making it harder to teach well.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-challengehub-helps&quot;&gt;How ChallengeHub helps&lt;/h3&gt;
+
+&lt;p&gt;ChallengeHub addresses such stress through three primary methods:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Making it clear to the teacher ahead of class what preparation is and is not required&lt;/li&gt;
+  &lt;li&gt;Promoting high-quality interaction between students in class&lt;/li&gt;
+  &lt;li&gt;Developing a free flowing yet structured classroom schedule&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;As students submit answers through ChallengeBot,
+the teacher has advance view through the dashboard about any difficulties
+and can anticipate what questions will come up.
+Students can also leave feedback about individual challenges,
+further aiding preparation.
+This not only reduces stress but enables more efficient class preparation too.&lt;/p&gt;
+
+&lt;p&gt;In the classroom, ChallengeBot can optimally group students into teams
+to ensure that most questions can be handled through peer-instruction,
+and the required interaction with the teacher is kept to manageable levels
+even with large class sizes.&lt;/p&gt;
+
+&lt;p&gt;Even in traditional lectures timing can be an issue,
+but ChallengeHub enables such uncertainty to become a thing of the past.
+A typical approach is to follow any short class-wide explanation with team discussion
+until the end of class,
+removing the need for an exact timetable of activities.
+Students will of course progress at different paces through challenges,
+but this difference can be made level through completion of remaining challenges as homework.&lt;/p&gt;
+
+&lt;p&gt;Finally, the rate of challenge completion gives a clear indication
+as to the appropriate amount of material for each class or week of study,
+making it easier to get a sense if the course is moving too fast or too slow.&lt;/p&gt;
+
+&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
+
+&lt;p&gt;Our vision at ChallengeHub is for active learning to be the norm rather than the exception,
+and to achieve that we know that making class easier for the teacher is key.&lt;/p&gt;
+
+&lt;p&gt;With advance knowledge of student difficulties and optimised in-class peer instruction,
+ChallengeHub offers a platform for realising such a vision,
+reducing the complexity of teaching while simultaneously increasing
+the usefulness of the class for students.&lt;/p&gt;
+
+&lt;p&gt;We welcome teachers to work with us to continue
+innovating for a better education solution that addresses
+the needs of both students and teachers alike.&lt;/p&gt;</content><author><name>ChallengeHub</name><email>info@challengehub.app</email></author><category term="ChallengeHub" /><category term="Active learning" /><summary type="html">Active learning typically involves a two-way interactive experience for students and the teacher, and while this is known to be more effective and motivating for the students, it has traditionally added complexity and been stressful for the teacher. But it doesn’t need to be this way.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://challengehub.app/images/front/challenge-hub-header-illustration.jpg" /><media:content medium="image" url="https://challengehub.app/images/front/challenge-hub-header-illustration.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Starting Small with Challenge-based Active Learning</title><link href="https://challengehub.app/en/2020/05/11/starting-small-with-challenge-based-active-learning/" rel="alternate" type="text/html" title="Starting Small with Challenge-based Active Learning" /><published>2020-05-11T00:00:00+09:00</published><updated>2022-12-12T12:58:52+09:00</updated><id>https://challengehub.app/2020/05/11/starting-small-with-challenge-based-active-learning</id><content type="html" xml:base="https://challengehub.app/2020/05/11/starting-small-with-challenge-based-active-learning/">&lt;p&gt;Traditional lectures typically involve the teacher standing at the front of the class talking to the students.
+Starting small with challenge-based active learning generally means utilising ChallengeHub to gradually reduce the time spent standing at the front of the class, focusing on what is most important for the students and making the whole experience more efficient for everyone.&lt;/p&gt;
+
+&lt;h3 id=&quot;making-classes-more-efficient&quot;&gt;Making classes more efficient&lt;/h3&gt;
+
+&lt;p&gt;A key point to remember is that ChallengeHub exists to make classes more efficient, and is not simply an alternative form of homework.
+A typical first approach is to replace part of the lecture with challenges, with students looking up information themselves in the designated resources listed in each challenge.
+As usual, the resources in the challenge should cover what you would have lectured about, and the question in the challenge should reflect the expected learning, usually covering a specific concept.&lt;/p&gt;
+
+&lt;p&gt;Points are not usually assigned for completing challenges by weekly deadlines, and this is for good reason.
+A key element of making classes useful is to have students be grouped into &lt;a href=&quot;/2020/04/10/announcing-study-teams/&quot;&gt;teams&lt;/a&gt; that can help each other, and for this to work well a positive learning environment where students come to the class with questions should be encouraged.
+This does not prevent a broad requirement about having most challenges completed by the end of the course, for example, but short-term fluctuations in progress is a healthy part of learning, promoting &lt;a href=&quot;/2019/08/10/two-key-elements-for-effective-cbal/&quot;&gt;internal motivation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;challenges-and-homework&quot;&gt;Challenges and homework&lt;/h3&gt;
+
+&lt;p&gt;In cases where homework has traditionally been part of the course, it is important to make clear to students the distinction between homework and challenges.
+Teachers typically gradually phase out homework in favour of formative challenges, but they can be run alongside each other as long as the distinction is maintained.
+Having students hand homework in at the beginning of class can ensure the discussion time is used as intended.&lt;/p&gt;
+
+&lt;h3 id=&quot;adapting-according-to-student-response&quot;&gt;Adapting according to student response&lt;/h3&gt;
+
+&lt;p&gt;With students discussing and working on challenges, the required lecture time is reduced.
+In addition, real-time monitoring of student progress makes lecture preparation more efficient and the class time genuinely useful to the students.
+The time not spent giving class-wide explanations can be spent walking round the classroom interacting with students as they discuss difficulties with challenges in their teams.&lt;/p&gt;
+
+&lt;p&gt;After students have got used to the initial changes of the class format, it can be enlightening to run a survey asking the students if they would prefer to return to the lecture style or prefer the challenge and discussion style of ChallengeHub.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-final-state&quot;&gt;The final state&lt;/h3&gt;
+
+&lt;p&gt;Finally, it is worth keeping in mind that challenge-based active learning does not aim to completely change class time to discussion time, but rather aims to replace the lecture with targeted explanations that cover common student issues, or else inspire students to study further.
+The optimum ratio of explanation time to discussion time depends on the teacher, the subject and the nature of any difficulties students have, but it is typical for teachers to end up with more discussion time than explanation time.&lt;/p&gt;</content><author><name>ChallengeHub</name><email>info@challengehub.app</email></author><category term="ChallengeHub" /><summary type="html">Traditional lectures typically involve the teacher standing at the front of the class talking to the students. Starting small with challenge-based active learning generally means utilising ChallengeHub to gradually reduce the time spent standing at the front of the class, focusing on what is most important for the students and making the whole experience more efficient for everyone.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://challengehub.app/images/our-story/challenge-hub-building-the-idea.jpg" /><media:content medium="image" url="https://challengehub.app/images/our-story/challenge-hub-building-the-idea.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">Announcing Study Teams</title><link href="https://challengehub.app/en/2020/04/10/announcing-study-teams/" rel="alternate" type="text/html" title="Announcing Study Teams" /><published>2020-04-10T00:00:00+09:00</published><updated>2022-12-12T12:58:52+09:00</updated><id>https://challengehub.app/2020/04/10/announcing-study-teams</id><content type="html" xml:base="https://challengehub.app/2020/04/10/announcing-study-teams/">&lt;p&gt;Starting today, ChallengeHub can automatically group students for optimal peer instruction in class. Whether there are 10 students or 100, desks are forward-facing or islands: ChallengeHub maximises class value by ensuring students get the most out of discussion with their peers.&lt;/p&gt;
+
+&lt;p&gt;Why is this important? It realises scalable 1-to-1 teaching. More students get personalised help with the questions they have; something impossible in a traditional setting. Students are more motivated to attend class since they know that they will get help with their specific problem. And by helping others, students gain a far deeper understanding of the concepts involved.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, the teacher has the benefit of being free to engage in targeted interventions with specific students in class while there is the satisfaction of hearing the low background murmur of learning.&lt;/p&gt;
+
+&lt;p&gt;ChallengeHub is able to do this by utilising data about student progress through challenges to predict optimal study teams in a way that would be impossible for the teacher to do manually.&lt;/p&gt;
+
+&lt;p&gt;You can now choose for your class stint to use study teams:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/2020-04-10-stint-ui-en.png&quot; alt=&quot;Teacher UI for study teams&quot; class=&quot;framed-image retina-70width-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Students are assigned locations, and students with a shared location form a team. That location could be a desk in a row, a section of a lecture theatre, or any other form of location designation provided by the teacher. Students are assigned locations specified by row and desk coordinates.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-flow-from-the-student-perspective&quot;&gt;The flow from the student perspective&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;ChallengeBot automatically informs students of an upcoming stint with study teams and asks about intention to attend (no teacher interaction required)&lt;/li&gt;
+  &lt;li&gt;Students reply stating whether they will be attending or absent (non-replies are assumed to be absent)&lt;/li&gt;
+  &lt;li&gt;Before the stint begins, students are assigned fixed desk designations that they can check via the student interface&lt;/li&gt;
+  &lt;li&gt;Upon entering the classroom, students locate their desk and are seated with the their team member(s)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/2020-04-10-attending-en.jpg&quot; alt=&quot;Study teams attendance UI&quot; class=&quot;framed-image&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;creating-a-coordinate-system&quot;&gt;Creating a coordinate system&lt;/h2&gt;
+
+&lt;p&gt;One idea to create a coordinate system for your classroom is to have students count from the first row and desk (column) in the classroom. The room plan can be projected at the front of the class. For example, row 1 is at the front of the classroom and desk 1 is on the left, closest to the door. Some teachers choose to print the plan and have it attached to the entrance of the classroom. Note that this only needs to be prepared once per classroom used.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/2020-04-10-classroom-plan-en.png&quot; alt=&quot;Example of a classroom coordinate system&quot; class=&quot;framed-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Another typical system is to print row and desk labels and have them attached to the appropriate positions prior to the class. For island desks without a grid, choose “1 row” when setting the stint and then label each desk by number.&lt;/p&gt;
+
+&lt;h2 id=&quot;in-summary&quot;&gt;In summary&lt;/h2&gt;
+
+&lt;p&gt;ChallengeHub is continuing to innovate together with teachers to upgrade the in-class experience. Study teams helps to optimise the usefulness of classes for every student while easing the burden on the teacher too.&lt;/p&gt;</content><author><name>ChallengeHub</name><email>info@challengehub.app</email></author><category term="ChallengeHub" /><summary type="html">Starting today, ChallengeHub can automatically group students for optimal peer instruction in class. Whether there are 10 students or 100, desks are forward-facing or islands: ChallengeHub maximises class value by ensuring students get the most out of discussion with their peers.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://challengehub.app/images/front/challenge-hub-header-illustration.jpg" /><media:content medium="image" url="https://challengehub.app/images/front/challenge-hub-header-illustration.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">What Makes a Good Challenge?</title><link href="https://challengehub.app/en/2020/03/12/what-makes-a-good-challenge/" rel="alternate" type="text/html" title="What Makes a Good Challenge?" /><published>2020-03-12T00:00:00+09:00</published><updated>2022-12-12T12:58:52+09:00</updated><id>https://challengehub.app/2020/03/12/what-makes-a-good-challenge</id><content type="html" xml:base="https://challengehub.app/2020/03/12/what-makes-a-good-challenge/">&lt;p&gt;A powerful feature of ChallengeHub is the ability of students to check their answers in real time.
+Number and text-based solutions are supported which enable a variety of challenge styles.&lt;/p&gt;
+
+&lt;p&gt;Students check their answer by sending it to ChallengeBot, which responds by informing the student if it is correct.
+Being unable to see the solution before getting it correct ensures it cannot be derived in reverse.&lt;/p&gt;
+
+&lt;p&gt;This post outlines examples of what does — and does not — make a good challenge.&lt;/p&gt;
+
+&lt;h2 id=&quot;numerical-solutions--good&quot;&gt;Numerical solutions — good!&lt;/h2&gt;
+&lt;p&gt;A unique ability of ChallengeHub is for numerical solutions to be specified with a given tolerance.
+For example, consider the challenge:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Calculate the derivative of &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;f(x) = x² + 3.5x + 4&lt;/code&gt;.&lt;br /&gt;
+To check your answer, substitute &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;x=2&lt;/code&gt; into your final answer.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In this case, the solution is &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;f&apos;(x) = 2x + 3.5&lt;/code&gt;, and so the student would substitute &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;x=2&lt;/code&gt; to obtain &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;7.5&lt;/code&gt;.
+A tolerance on the solution can also be specified, such as &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;7.5±1%&lt;/code&gt; or &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;7.5±0.1&lt;/code&gt;.
+This is particularly useful for complex challenges involving many steps where rounding errors may accumulate.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/blog/2020-03-12-tolerance.png&quot; alt=&quot;Tolerance UI&quot; class=&quot;framed-image retina-70width-image&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There are some cases where a unique check is difficult but a strong indication of the correctness can be achieved.
+For example, in cases where the final solution is a matrix, the instruction could be:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Your final answer will be a 2x2 matrix.&lt;br /&gt;
+To check your answer, add all the numbers in the matrix.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Another example with complex numbers could be:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Your final answer will be a complex number of the form &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;a+bi&lt;/code&gt;.&lt;br /&gt;
+To check your answer, calculate a+10b.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;or perhaps:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Your final answer will be a complex number of the form &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;a+bi&lt;/code&gt;.&lt;br /&gt;
+To check your answer, enter the magnitude of the complex number.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Although this does not generate a unique check, it provides a good immediate indication about correctness for both teacher and student, and can keep students in the flow if their answer is clearly wrong.
+If desired, the teacher can still review a few &lt;a href=&quot;/2019/08/11/the-challenge-log/&quot;&gt;challenge logs&lt;/a&gt; in the class to ensure correct calculation.&lt;/p&gt;
+
+&lt;h2 id=&quot;multiple-choice--avoid&quot;&gt;Multiple choice — avoid!&lt;/h2&gt;
+
+&lt;p&gt;The ideal challenge promotes deep thinking and discussion in the classroom.
+It discourages random guessing.&lt;/p&gt;
+
+&lt;p&gt;A common reflex however is for teachers to ask students multiple-choice questions.
+For example:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;img src=&quot;/images/blog/2020-03-12-pendulum-phase.png&quot; alt=&quot;Pendulum phase&quot; /&gt;
+Considering the above figure, if the initial angle of the pendulum is π and the initial angular velocity is 0 rad/s, what happens to the pendulum?&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;a) The pendulum is stationary&lt;/li&gt;
+    &lt;li&gt;b) The pendulum swings back and forth&lt;/li&gt;
+    &lt;li&gt;c) The pendulum spins round in one complete loop&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In this case, there is a strong temptation for students to randomly enter “a”, “b” or “c” until they get the answer correct, and then perhaps work backwards to figure out why that answer is correct.
+Other students may even then move on to the next challenge, giving the teacher the false impression that the student understands the concept and is keeping up with the course.&lt;/p&gt;
+
+&lt;h2 id=&quot;truefalse-binary-addition--good&quot;&gt;True/False binary addition — good!&lt;/h2&gt;
+&lt;p&gt;An alternative to multiple choice is a &lt;strong&gt;True/False binary addition&lt;/strong&gt; problem.
+Considering the same figure, the challenge could instead be:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Add the points of the following true statements:&lt;/p&gt;
+
+  &lt;ul&gt;
+    &lt;li&gt;&lt;strong&gt;1 point&lt;/strong&gt; An initial angular velocity of 1 unit results in whirring circular motion irrespective of the starting angle.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;2 points&lt;/strong&gt; An initial angular velocity of -2.5 units results in whirring circular motion irrespective of the starting angle.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;4 points&lt;/strong&gt; An initial angle of π/2 combined with an angular velocity of 1 unit results in periodic swinging motion.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;8 points&lt;/strong&gt; An initial angle of π/2 combined with an angular velocity of 1 unit results in circular whirring motion.&lt;/li&gt;
+    &lt;li&gt;&lt;strong&gt;16 points&lt;/strong&gt; An initial angle of 0 combined with an angular velocity of 0 units results in periodic swinging motion.&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;Enter your final answer as an integer.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Each statement is a true/false statement, and adding different statements results in a unique sum.
+The chance of randomly guessing the solution has gone from 1/3 to 1/(2⁵), and can be made even smaller if further options are added.&lt;/p&gt;
+
+&lt;h2 id=&quot;word-selection--avoid&quot;&gt;Word selection — avoid!&lt;/h2&gt;
+&lt;p&gt;Consider the following challenge:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Convection is a form of thermal transport. Name the other two.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The solution here is “conduction and radiation”.
+ChallengeBot matches the exact text, so writing in reverse order (“radiation and conduction”) or using alternative forms such as “&amp;amp;” rather than “and”, would not be recognised as correct.
+Furthermore, this also encourages guessing, with the same problems as described earlier.&lt;/p&gt;
+
+&lt;h2 id=&quot;order-placement-challenges--good&quot;&gt;Order placement challenges — good!&lt;/h2&gt;
+
+&lt;p&gt;A way to make use of text without requiring ambiguous word selection is to enable pattern matching.
+For example:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The following 5 graphs (a,b,c,d,e) correspond to the following 5 equations.
+Place the graphs in the same order as the equations below.&lt;br /&gt;
+Submit your answer in the form abcde.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Here, it is clear how the text should be entered, and with just a 1/120 chance of randomly guessing the solution, learning is encouraged.&lt;/p&gt;
+
+&lt;h2 id=&quot;rating-only&quot;&gt;Rating only&lt;/h2&gt;
+&lt;p&gt;In some cases, perhaps where an essay or written paragraph is required, the above options are not appropriate. For such cases, the teacher has the option to ask for a difficulty rating upon attempt of the challenge to gauge progress by students.&lt;/p&gt;
+
+&lt;h2 id=&quot;last-word&quot;&gt;Last word&lt;/h2&gt;
+&lt;p&gt;From a teacher’s time-management perspective, it’s also good to keep in mind a healthy ratio between the time it takes to create a challenge and the time it takes for a student to read relevant resources and complete a challenge, so that both learning &lt;em&gt;and&lt;/em&gt; teaching efficiency is high.&lt;/p&gt;
+
+&lt;p&gt;Overall, ChallengeHub enables some unique challenge styles that encourage deep learning among students.
+Furthermore, we always welcome feedback and innovations from the teachers we empower, so that a growing range of pedagogical styles can be supported.&lt;/p&gt;</content><author><name>ChallengeHub</name><email>info@challengehub.app</email></author><category term="ChallengeHub" /><summary type="html">A powerful feature of ChallengeHub is the ability of students to check their answers in real time. Number and text-based solutions are supported which enable a variety of challenge styles.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://challengehub.app/images/blog/2020-03-12-what-makes-a-good-challenge-en.png" /><media:content medium="image" url="https://challengehub.app/images/blog/2020-03-12-what-makes-a-good-challenge-en.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">The First Two Classes of Your Challenge-based Active Learning Course</title><link href="https://challengehub.app/en/2019/08/12/first-two-classes/" rel="alternate" type="text/html" title="The First Two Classes of Your Challenge-based Active Learning Course" /><published>2019-08-12T00:00:00+09:00</published><updated>2022-12-12T12:58:52+09:00</updated><id>https://challengehub.app/2019/08/12/first-two-classes</id><content type="html" xml:base="https://challengehub.app/2019/08/12/first-two-classes/">&lt;p&gt;In this post, we review the first two classes of a model course that uses ChallengeHub to facilitate challenge-based active learning.&lt;/p&gt;
+
+&lt;h3 id=&quot;course-preparation&quot;&gt;Course preparation&lt;/h3&gt;
+
+&lt;p&gt;In ChallengeHub, each group of challenges is called a &lt;em&gt;stint&lt;/em&gt; and typically one stint is released (made visible to students) each class.
+There are usually 6 to 10 challenges per stint.
+The first stint will contain fewer challenges than later stints because there is less time for discussion in the first class.&lt;/p&gt;
+
+&lt;p&gt;Prior to the start of the course a teacher prepares stints for the first two classes, with each timed to be released (made visible to the students) at the beginning of each class.
+The first stint will simply contain challenges but second stint will typically also include deliberate pairing of students. This “pairing” facilitates &lt;em&gt;peer instruction&lt;/em&gt;, whereby students are placed in small teams of two or three and learn by teaching each other.&lt;/p&gt;
+
+&lt;h3 id=&quot;class-1&quot;&gt;Class 1&lt;/h3&gt;
+
+&lt;p&gt;The first class of the semester is special for any course, and the aim of this class is to explain the use of ChallengeHub and the nature of challenge-based active learning to the students.&lt;/p&gt;
+
+&lt;p&gt;In this model, the teacher outlines the following to the students:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Why challenge-based active learning is more effective and fun for the students than the traditional lecture style they are used to. After all, if students understand why they’re doing something, they’re more likely to engage with it.&lt;/li&gt;
+  &lt;li&gt;Information about how to register for the course.&lt;/li&gt;
+  &lt;li&gt;Highlight the &lt;a href=&quot;/en/2019/08/11/the-challenge-log/&quot;&gt;challenge log&lt;/a&gt; as an integral part of student participation.&lt;/li&gt;
+  &lt;li&gt;Stress that challenges are different from homework. It’s &lt;em&gt;ok&lt;/em&gt; to get things wrong and not complete all the challenges every week.&lt;/li&gt;
+  &lt;li&gt;But, there will be a final exam and that this cannot be moved. The best way to prepare for the exam is to complete all the challenges and so in order to achieve a high grade the students are going to need to keep pace with the course.&lt;/li&gt;
+  &lt;li&gt;Emphasise that the most efficient way to study is to try doing as many challenges as possible during the week, and then coming to class with questions.&lt;/li&gt;
+  &lt;li&gt;Motivation for the course. Why is the course content interesting and useful? Giving students clear cause to study is a major motivator.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Then, if there is time and students have smartphones or computers with them in class already, students may start to work on challenges. At the very least, for those who can, practising interaction with ChallengeHub can be useful. Otherwise, an overview highlighting important issues for the challenges that are released this week may be performed.&lt;/p&gt;
+
+&lt;h3 id=&quot;preparation-for-class-2&quot;&gt;Preparation for class 2&lt;/h3&gt;
+
+&lt;p&gt;Before this and every subsequent class, the teacher will review student progress through the challenges.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;What challenges did students find particularly difficult? Is a short explanation about a particular challenge required?&lt;/li&gt;
+  &lt;li&gt;What do I &lt;em&gt;not&lt;/em&gt; need to talk about?&lt;/li&gt;
+  &lt;li&gt;What questions are likely to come up?&lt;/li&gt;
+  &lt;li&gt;How much progress has been made? Is the planned number of challenges for the following week appropriate?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In addition, class 2 is important because it is the first week that students have been using ChallengeHub, so it will become apparent if any students had any difficulties with it.&lt;/p&gt;
+
+&lt;h3 id=&quot;class-2&quot;&gt;Class 2&lt;/h3&gt;
+
+&lt;p&gt;From the 2nd class, the teacher typically chooses to make use of pairing so that students are in a position to help each other during discussion through a process known as &lt;em&gt;peer instruction&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Although not required, one useful tip is to distribute blank paper and have students fold it into thirds then write their name on one side so that the teacher can quickly identify those with whom one-to-one discussion is desired, or can cross-reference a name with a real-time view of that student’s progress during the class.&lt;/p&gt;
+
+&lt;p&gt;After students are seated, if the teacher desires, they can now perform a short targeted explanation, covering any challenges that the students had difficulty with, or perhaps to motivate the next topic.
+This also serves to “start” the class and focus the students’ minds on the subject.
+The class then turns to discussion time.&lt;/p&gt;
+
+&lt;p&gt;During discussion time, students discuss difficulties and help each other.
+Since students may not be used to this, they may be reticent to start.
+A typical “ice-breaker” is to give students 2 minutes to write down the one thing that their partner found most difficult about the past week’s challenges.&lt;/p&gt;
+
+&lt;p&gt;Students then discuss difficulties with each other, while the teacher circulates around class. This is an opportunity for the teacher to listen in on the conversations that are taking place, talk with individual students and answer any questions.&lt;/p&gt;
+
+&lt;p&gt;The teacher typically releases new challenges at the beginning of the class, so that any students that have completed all the challenges and have nothing further to discuss may start working on new challenges.
+Any challenges that are not completed by the end of the class remain as homework.
+The most able students may finish most challenges by the end of the class.&lt;/p&gt;
+
+&lt;h3 id=&quot;class-n&quot;&gt;Class N&lt;/h3&gt;
+
+&lt;p&gt;Finally, remember that there will inevitably be bumps along the way, as the teacher finds what works best for him or her personally.
+This is the nature of innovation.
+Keep learning from your experience and iterate over time to achieve a better experience for students and teacher alike.
+Always keep in mind the &lt;a href=&quot;/en/2019/08/10/two-key-elements-for-effective-cbal/&quot;&gt;key elements for effective challenge-based active learning&lt;/a&gt;: Are students more internally motivated?
+Is students’ study more efficient?
+If the answer to these questions is yes, then you’re on the right path.&lt;/p&gt;</content><author><name>ChallengeHub</name><email>info@challengehub.app</email></author><category term="ChallengeHub" /><summary type="html">In this post, we review the first two classes of a model course that uses ChallengeHub to facilitate challenge-based active learning.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://challengehub.app/images/front/challenge-hub-header-illustration.jpg" /><media:content medium="image" url="https://challengehub.app/images/front/challenge-hub-header-illustration.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry xml:lang="en"><title type="html">The Challenge Log</title><link href="https://challengehub.app/en/2019/08/11/the-challenge-log/" rel="alternate" type="text/html" title="The Challenge Log" /><published>2019-08-11T00:00:00+09:00</published><updated>2022-12-12T12:58:52+09:00</updated><id>https://challengehub.app/2019/08/11/the-challenge-log</id><content type="html" xml:base="https://challengehub.app/2019/08/11/the-challenge-log/">&lt;p&gt;In challenge-based active learning, the concept of “homework” is quite different to a traditional lecture-style course.
+Instead, students maintain a &lt;em&gt;challenge log&lt;/em&gt; which contains all the work that the students do to complete each challenge.&lt;/p&gt;
+
+&lt;h3 id=&quot;assessment&quot;&gt;Assessment&lt;/h3&gt;
+&lt;p&gt;As with traditional courses, exams form the basis for assessment for a challenge-based active learning course.
+In addition, students are typically required to submit their challenge log as they enter the room for the final exam.&lt;/p&gt;
+
+&lt;p&gt;Since the exams are typically closely related to the contents of the challenges, students will be at a disadvantage if they do not complete the challenges.
+As a result, teachers may wish to assign some points for the challenge log being in a satisfactory state in order to highlight the importance of completing the challenges.&lt;/p&gt;
+
+&lt;p&gt;The definition of “satisfactory” will depend on the teacher, but criteria may include:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The student has had a reasonable attempt at most challenges, without skipping many.&lt;/li&gt;
+  &lt;li&gt;The student has successfully completed a reasonable number of the challenges.&lt;/li&gt;
+  &lt;li&gt;The student shows the thought process for each challenge (especially if it involves some sort of calculation).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Thus a log simply listing all the challenges and final answers would not be considered satisfactory, while one showing the thought process in detail would.
+Note however that the challenge log is not a formal report: It does not need to be pretty!
+It is a record of work done.
+The teacher does not usually have time to go through all the challenge logs in detail, but a short glance through a log is typically enough to assess its quality.&lt;/p&gt;
+
+&lt;p&gt;After review, all the challenge logs are returned to the students.
+Since the students may be without the logs for some time, it is important that students to not mix the challenge log with notes required for other courses (which might be required for other exams).
+Subsequently, it is good practice to highlight at the beginning of the course that the challenge log should be kept separate from notes for other courses.&lt;/p&gt;
+
+&lt;h3 id=&quot;benefits&quot;&gt;Benefits&lt;/h3&gt;
+&lt;p&gt;In addition to assessment and motivation purposes, review of challenge logs at the end of the semester also forms a basis for understanding how students have approached challenges, and can help provide information about how to improve challenges or the course as a whole for the following year.
+Keeping a copy of a well-written challenge log can be useful for future reference.&lt;/p&gt;
+
+&lt;p&gt;Finally, having the students keep a challenge log serves to highlight that simply entering feedback into the system does not make a challenge “complete”.
+Along with the fact that no points are assigned for correct completion of a given challenge, this helps stress that the aim is to learn, and not simply tick boxes, leading to greater internal motivation of the student.&lt;/p&gt;</content><author><name>ChallengeHub</name><email>info@challengehub.app</email></author><category term="Motivation" /><category term="Assessment" /><summary type="html">In challenge-based active learning, the concept of “homework” is quite different to a traditional lecture-style course. Instead, students maintain a challenge log which contains all the work that the students do to complete each challenge.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://challengehub.app/images/blog/2019-08-11-the-challenge-log.jpg" /><media:content medium="image" url="https://challengehub.app/images/blog/2019-08-11-the-challenge-log.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
